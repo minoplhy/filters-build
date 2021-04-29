@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-04-29T00:28:49.338Z
+; Last modified: 2021-04-29T06:07:16.738Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -3227,7 +3227,6 @@ mine.torrent.pw CNAME .
 1298bab69bbc4.com CNAME .
 12cdee5830.com CNAME .
 12dc71b7cb820f2a.com CNAME .
-12e7cb8b7d2.com CNAME .
 12fb602fb307.com CNAME .
 12place.com CNAME .
 12xlwin6a.net CNAME .
@@ -3540,7 +3539,6 @@ mine.torrent.pw CNAME .
 660a755deb8829fe.com CNAME .
 66ce98158e4f402.com CNAME .
 67frzna9e9.com CNAME .
-6862832e517.com CNAME .
 6868bbe42af8e518.com CNAME .
 688de7b3822de.com CNAME .
 68d0d5e26bb0ae.com CNAME .
@@ -3778,7 +3776,6 @@ aaaaaco.com CNAME .
 aabmxezph.com CNAME .
 aadajnnn133.xyz CNAME .
 aafdcq.com CNAME .
-aagmbroxruno.com CNAME .
 aamejtdlmk.com CNAME .
 aamhrnptzw.com CNAME .
 aaqiycetqwx.com CNAME .
@@ -3939,7 +3936,6 @@ advancellsclo.site CNAME .
 advantscivile.club CNAME .
 adventory.com CNAME .
 adverdirect.com CNAME .
-adversolutions.com CNAME .
 advertisingsex.com CNAME .
 advertom.com CNAME .
 advertrtb.com CNAME .
@@ -6872,7 +6868,6 @@ fcfhjuyanmlvgb.com CNAME .
 fcvwuevewdzpm.com CNAME .
 fd7qz88ckd.com CNAME .
 fd9523b31ff93b5c.com CNAME .
-fdb17c49d4.com CNAME .
 fdmtoyfpjk.com CNAME .
 fdnfnqgmfykg.com CNAME .
 fdrgtt9edmej010.com CNAME .
@@ -7759,7 +7754,6 @@ hjhbhddren.com CNAME .
 hk56947pjjq5.com CNAME .
 hkhotpewfxr.com CNAME .
 hkoxlirf.com CNAME .
-hkswktixvcot.com CNAME .
 hkv06j2p7pof.com CNAME .
 hlwlizloq.com CNAME .
 hmecfqhj.com CNAME .
@@ -9011,7 +9005,6 @@ meetsourhig.biz CNAME .
 meeturlove.com CNAME .
 mega-fla.com CNAME .
 megaad.nz CNAME .
-megacpm.com CNAME .
 megapopads.com CNAME .
 megaudent.xyz CNAME .
 megmeallab.com CNAME .
@@ -9795,7 +9788,6 @@ nyutkikha.info CNAME .
 nyxvhfwfbmh.com CNAME .
 nzbnjdukgaco.com CNAME .
 nzhfk.com CNAME .
-nzkumtaiw.com CNAME .
 nzopgzncs.com CNAME .
 nzopiswswp.com CNAME .
 nztrimhg5fd1.com CNAME .
@@ -9963,7 +9955,6 @@ optvx.com CNAME .
 opzdbhjvd.com CNAME .
 oqbxbautpu.com CNAME .
 oqrjbnriumr.com CNAME .
-oqxyzvkwso.com CNAME .
 orarbeatrem.club CNAME .
 orcjagpox.com CNAME .
 ordealgraveyard.com CNAME .
@@ -10694,7 +10685,6 @@ pz7zrn0xxgyg.com CNAME .
 pzpvvmcnq.com CNAME .
 pzwsredntjhcwy.com CNAME .
 q6idnawboy7g.com CNAME .
-qaggfomwjko.com CNAME .
 qatcmlbgiaqde.com CNAME .
 qaxgycvxm.com CNAME .
 qbcpicrtdje.com CNAME .
@@ -11321,7 +11311,6 @@ saventireri.top CNAME .
 sayessedb.club CNAME .
 sbc7wfnaakau.com CNAME .
 sbfsdvc.com CNAME .
-sbietlbug.com CNAME .
 sbiotiatingf.club CNAME .
 sblcjzjp.com CNAME .
 sbroughhig.info CNAME .
@@ -11475,7 +11464,6 @@ sheltenham.site CNAME .
 shenouth.com CNAME .
 shepeekr.net CNAME .
 shfutnjqshzw.com CNAME .
-shiiuojjccp.com CNAME .
 shikroux.net CNAME .
 shinasi.info CNAME .
 shinebliss.com CNAME .
@@ -12894,7 +12882,6 @@ wclkmumbolsmqd.com CNAME .
 wcmcs.net CNAME .
 wcpkhkyuzp.com CNAME .
 wcyrjlszoo.com CNAME .
-wdbqsuukggoyg.com CNAME .
 wdeliv.net CNAME .
 wdlnoecwykpon.com CNAME .
 wdvamhckdjr.com CNAME .
@@ -13575,7 +13562,6 @@ zvkytbjimbhk.com CNAME .
 zvmldjxh.com CNAME .
 zwmunz.com CNAME .
 zwnxzckwihg.com CNAME .
-zwwbvpwd.com CNAME .
 zwzfujusmwsbun.com CNAME .
 zxa4kxw2nvox.com CNAME .
 zxavxgjcjmkh.com CNAME .
@@ -32050,6 +32036,7 @@ sebar.idblognetwork.com CNAME .
 see-work.info CNAME .
 sentrapromosi.com CNAME .
 serbapromo.com CNAME .
+shiiuojjccp.com CNAME .
 shiokambing2.com CNAME .
 sitti.co.id CNAME .
 situsiklanbaris.com CNAME .
