@@ -26,9 +26,8 @@ This Github Repository is for Filters building
 [1host wildcards PRO](https://minoplhy.github.io/filters-build/1host/wildcards-pro.rpz) ([S3CDN](https://noblt.sos-ch-dk-2.exoscale-cdn.com/1host/wildcards-pro.rpz))
 
 ### Bromite filters
-[
 
-[filters.dat](https://minoplhy.github.io/filters-build/bromite-filters/filters.dat) ([S3CDN](https://noblt.sos-ch-dk-2.exoscale-cdn.com/bromite-filters/filters.dat)
+[filters.dat](https://minoplhy.github.io/filters-build/bromite-filters/filters.dat) ([S3CDN](https://noblt.sos-ch-dk-2.exoscale-cdn.com/bromite-filters/filters.dat))
 
 #### Note :
 _S3CDN might have some cache_
