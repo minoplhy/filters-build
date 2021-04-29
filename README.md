@@ -13,7 +13,7 @@ This Github Repository is for Filters building
 ## Filters list
 ### Adguard - RPZ
 
-[Adguard CNAME Tracker](https://filters.kylz.nl/adguard/cname-tracker.rpz) ([S3 CDN](https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/cname-tracker.rpz))
+[Adguard CNAME Tracker](https://filters.kylz.nl/adguard/cname-tracker.rpz) ([S3CDN](https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/cname-tracker.rpz))
 
 [Adguard CNAME Original](https://filters.kylz.nl/adguard/cname-original.rpz) ([S3CDN](https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/cname-original.rpz))
 
