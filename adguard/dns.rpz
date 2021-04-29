@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-04-28T12:12:22.825Z
+; Last modified: 2021-04-29T00:28:49.338Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,15 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+fdrptpyxchzjk.com CNAME .
+membershorny.com CNAME .
+news-easy.org CNAME .
+premiumbros.com CNAME .
+f8205a529477e1.com CNAME .
+mjlpqbklxgt.com CNAME .
+filterexchangecage.com CNAME .
+reluctanceleatheroptional.com CNAME .
+lzdtetwgfyt.com CNAME .
 copyrightmournfulsalon.com CNAME .
 digitalpimpnetwork.com CNAME .
 clerrrep.com CNAME .
@@ -32,6 +41,7 @@ bftrlhesrlfjp.com CNAME .
 lavageethion.com CNAME .
 lebilui.ru CNAME .
 momijoy.ru CNAME .
+perigshfnon.com CNAME .
 orbsclawand.com CNAME .
 clothingsphere.com CNAME .
 piuradelivery.com CNAME .
@@ -176,7 +186,6 @@ malinesmanses.com CNAME .
 allegianceenableselfish.com CNAME .
 disparagethence.com CNAME .
 streakattempt.com CNAME .
-stuffedprofessional.com CNAME .
 confidethirstyfrightful.com CNAME .
 aspirinsuicide.com CNAME .
 fangsjames.com CNAME .
@@ -200,7 +209,6 @@ gompoozu.net CNAME .
 taigrooh.net CNAME .
 inspectorstrongerpill.com CNAME .
 boasstylijoked.com CNAME .
-emotersjervina.com CNAME .
 kbyfbw6aaada.com CNAME .
 zxclan.com CNAME .
 vadspremium.com CNAME .
@@ -4943,6 +4951,7 @@ calculatorconceivenonetheless.com CNAME .
 calfsbreedstax.com CNAME .
 callburdenblizzard.com CNAME .
 calorieintimidating.com CNAME .
+calvali.com CNAME .
 camads.net CNAME .
 camakaroda.com CNAME .
 cambrianter.club CNAME .
@@ -6472,6 +6481,7 @@ emjjmnrvlldj.com CNAME .
 emkarto.fun CNAME .
 emlifok.info CNAME .
 emolapnay.com CNAME .
+emotersjervina.com CNAME .
 emotificc.top CNAME .
 emotionalballotneedlework.com CNAME .
 emotionpiousconformity.com CNAME .
@@ -7513,6 +7523,7 @@ gruponn.com CNAME .
 grupticaje.pro CNAME .
 grursusy.com CNAME .
 grutopsathu.pro CNAME .
+grygrothapi.pro CNAME .
 gscarcinoh.club CNAME .
 gseyriwpozfxf.com CNAME .
 gsfillegesga.club CNAME .
@@ -7985,6 +7996,7 @@ incapabledroppingachievement.com CNAME .
 incapablepublicityvolatile.com CNAME .
 incarcererez.xyz CNAME .
 inclinationwitchcraftafresh.com CNAME .
+includepurple.com CNAME .
 incommandary.club CNAME .
 incompatiblemisterfarmer.com CNAME .
 incompetentsummitseparation.com CNAME .
@@ -10477,6 +10489,7 @@ preyjustly.com CNAME .
 prfctmney.com CNAME .
 pricestern.top CNAME .
 prieseerunbe.info CNAME .
+prime-vpnet.com CNAME .
 primroseconstellationrapidly.com CNAME .
 princided.club CNAME .
 prioritybeforehand.com CNAME .
@@ -11828,6 +11841,7 @@ strongholdtommycouncilman.com CNAME .
 stroublederaa.club CNAME .
 stroublederel.club CNAME .
 stsunfulnoth.top CNAME .
+stuffedprofessional.com CNAME .
 stumbledabetsuburb.com CNAME .
 sturdyinvaluable.com CNAME .
 sturgeonlibel.com CNAME .
@@ -11838,6 +11852,7 @@ submarinebarbecueemigrant.com CNAME .
 submarineundergonedebark.com CNAME .
 subscriberpursuehum.com CNAME .
 substandferex.site CNAME .
+suburbdiscernbreeder.com CNAME .
 suburbglaze.com CNAME .
 subwayjelly.com CNAME .
 successageq.site CNAME .
@@ -12486,6 +12501,7 @@ unkingdiabeth.club CNAME .
 unknowlejir.club CNAME .
 unlikebenignityeyeshadow.com CNAME .
 unlimitate.club CNAME .
+unlimited-media.co CNAME .
 unlomblam.pro CNAME .
 unmortalloose.com CNAME .
 unoblotto.net CNAME .
@@ -16813,6 +16829,7 @@ d23guct4biwna6.cloudfront.net CNAME .
 d25dfknw9ghxs6.cloudfront.net CNAME .
 d25xkbr68qqtcn.cloudfront.net CNAME .
 d26c6kzavi5zwd.cloudfront.net CNAME .
+d28s7kbgrs6h2f.cloudfront.net CNAME .
 d29dbajta0the9.cloudfront.net CNAME .
 d29i6o40xcgdai.cloudfront.net CNAME .
 d2c4ylitp1qu24.cloudfront.net CNAME .
@@ -31102,6 +31119,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+recommend-pc-bto.sakura.ne.jp CNAME .
 150601.fc2rs.com CNAME .
 ad.eloan.co.jp CNAME .
 divscripty.net CNAME .
@@ -31812,6 +31830,7 @@ epeex.io CNAME .
 evolutionadv.it CNAME .
 firebanner.com CNAME .
 gbucket.ch CNAME .
+guarda4k.online CNAME .
 hbagency.it CNAME .
 hubaffiliations.net CNAME .
 inaffiliago.it CNAME .
@@ -31845,6 +31864,7 @@ preludeadv.it CNAME .
 pronostici.app CNAME .
 prontocampaign.com CNAME .
 publy.net CNAME .
+raddoppia-bitcoin.pro CNAME .
 radxcomm.com CNAME .
 rcsadv.it CNAME .
 reachadv.it CNAME .
@@ -32063,9 +32083,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 22 Apr 2021 15:44 UTC+7
-; OriginalVersion: 2104221544
-; Blocked: 851 rules
+; Last modified: 28 Apr 2021 21:23 UTC+7
+; OriginalVersion: 2104282123
+; Blocked: 856 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32206,6 +32226,7 @@ surfcountor.com CNAME .
 t.sieu-viet.com CNAME .
 takataka.coccoc.com CNAME .
 testcentre.vn CNAME .
+tpmedia.online CNAME .
 track.accesstrade.vn CNAME .
 tracking.api.media.zapps.vn CNAME .
 tracking.banner.g6.zing.vn CNAME .
@@ -32570,6 +32591,7 @@ myharavan.com CNAME .
 mysapo.net CNAME .
 newlog.daidoanket.vn CNAME .
 nstat.headlines.pw CNAME .
+production-tracking.riviu.co CNAME .
 report.vnay.vn CNAME .
 rsyslog.24h.com.vn CNAME .
 s.baomoi.xdn.vn CNAME .
@@ -32608,6 +32630,7 @@ track-srv.vietnamnet.vn CNAME .
 track.icheck.com.vn CNAME .
 track.kyna.vn CNAME .
 track.lapa.pub CNAME .
+track.pnj.com.vn CNAME .
 track.pregmomvietnam.com CNAME .
 track.sendo.vn CNAME .
 track.vio.edu.vn CNAME .
@@ -32854,9 +32877,11 @@ zbet.win CNAME .
 zo.club CNAME .
 zo.game CNAME .
 zowinvn.vip CNAME .
+atspace.tv CNAME .
 bloodleian.club CNAME .
 bluvenie.com CNAME .
 byonlym.com CNAME .
+campxanh.info CNAME .
 celerantatters.com CNAME .
 cettiarl.com CNAME .
 drakeesh.com CNAME .
@@ -32979,6 +33004,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 3qsys.com CNAME .
 3ygww.com CNAME .
 4006825178.com CNAME .
+40fenzhong.com CNAME .
 4480dy.net CNAME .
 47api.cn CNAME .
 4kyu.cn CNAME .
@@ -34339,7 +34365,6 @@ ys2000.cdn.bcebos.com CNAME .
 ysgsq.cn CNAME .
 ysjkbk.com CNAME .
 ysjwj.com CNAME .
-yskanba.com CNAME .
 ysyjg.com CNAME .
 ytop8.com CNAME .
 yuanmengbi.com CNAME .
@@ -35463,10 +35488,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-8bnwuz.cn CNAME .
-huonvd.cn CNAME .
-4htixb.cn CNAME .
-cqdjhj.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -35529,6 +35550,7 @@ cqdjhj.cn CNAME .
 4ekx.cn CNAME .
 4excel.cn CNAME .
 4ggame8.com CNAME .
+4htixb.cn CNAME .
 4kfv18.cn CNAME .
 4nzrqw.cn CNAME .
 4z5o27.cn CNAME .
@@ -35577,6 +35599,7 @@ cqdjhj.cn CNAME .
 7m307.cn CNAME .
 85wa.cn CNAME .
 88eg.cn CNAME .
+8bnwuz.cn CNAME .
 8byu.cn CNAME .
 8hpay.cn CNAME .
 8mlb.cn CNAME .
@@ -35850,6 +35873,7 @@ couas.com CNAME .
 coyvzui.cn CNAME .
 cpcc.xyz CNAME .
 cqbaitong.cn CNAME .
+cqdjhj.cn CNAME .
 cqerbihou.com CNAME .
 cqgya.com CNAME .
 cqshaseng.com CNAME .
@@ -36195,6 +36219,7 @@ huijiamei.cn CNAME .
 huitiankuaiji.com CNAME .
 huixingcheng.cn CNAME .
 huodiyun.cn CNAME .
+huonvd.cn CNAME .
 huosuniao.com CNAME .
 hvie6u.cn CNAME .
 hxiak.com CNAME .
