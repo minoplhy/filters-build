@@ -4,11 +4,11 @@ This Github Repository is for Filters building
 [Github Repo](https://github.com/minoplhy/filters-build)
 ## Build Schedule
 ```
-01.00 am CDT - Build and upload to S3 Bucket
-01.02 am CDT - Commit and push to github
+12.00 am CDT - Build and upload to S3 Bucket
+12.06 am CDT - Commit and push to github
 - - -
-01.00 pm CDT - Build and upload to S3 Bucket
-01.02 pm CDT - Commit and push to github
+12.00 pm CDT - Build and upload to S3 Bucket
+12.06 pm CDT - Commit and push to github
 ```
 ## Filters list
 ### Adguard - RPZ
