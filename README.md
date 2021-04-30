@@ -1,7 +1,5 @@
 # filters-build
 This Github Repository is for Filters building
-
-[Github Repo](https://github.com/minoplhy/filters-build)
 ## Build Schedule
 ```
 12.00 am CDT - Build and upload to S3 Bucket
