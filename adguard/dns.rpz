@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-04-30T00:17:49.983Z
+; Last modified: 2021-04-30T13:57:31.944Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,10 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+sorryfearknockout.com CNAME .
+starvationpatio.com CNAME .
+poetryhonourable.com CNAME .
+aragontrack.com CNAME .
 beliefindefinite.com CNAME .
 luglestowha.pro CNAME .
 devozuyu.xyz CNAME .
@@ -112,7 +116,6 @@ bitads.io CNAME .
 riotousgrit.com CNAME .
 dqjazjbqrmrnhb.com CNAME .
 giwzywnxnk.com CNAME .
-greenplasticdua.com CNAME .
 qppdqcid.com CNAME .
 dmxftmoqz.com CNAME .
 thispositionw.biz CNAME .
@@ -866,7 +869,7 @@ evadavdsp.pro CNAME .
 fixsirrod.site CNAME .
 kudzuphloemgunk.tech CNAME .
 madplypie.club CNAME .
-adjarabet.com CNAME .
+bms*.adjarabet.com CNAME .
 tqddgnqsrya.com CNAME .
 thefastpush.com CNAME .
 sauwoaptain.com CNAME .
@@ -4673,6 +4676,7 @@ bid.glass CNAME .
 bidiology.com CNAME .
 bidverdrd.com CNAME .
 bigbootymania.com CNAME .
+bigprizesonline.com CNAME .
 bihamcurchef.cam CNAME .
 bihyteqy.xyz CNAME .
 bikesseafoodchewing.com CNAME .
@@ -6124,6 +6128,7 @@ doshaido.com CNAME .
 dosveggietotem.casa CNAME .
 dotandad.com CNAME .
 dotandads.com CNAME .
+dothbognib.com CNAME .
 dotnxdomain.net CNAME .
 dotrkme.com CNAME .
 double.net CNAME .
@@ -7494,6 +7499,7 @@ greatvideos.xyz CNAME .
 greedrum.net CNAME .
 greedysafely.com CNAME .
 greemeek.net CNAME .
+greenplasticdua.com CNAME .
 greeptax.com CNAME .
 greetingscompassbough.com CNAME .
 greetpanda.org CNAME .
@@ -10514,6 +10520,7 @@ profilesterility.com CNAME .
 profitablecpmnetwork.com CNAME .
 profitabledisplaycontent.com CNAME .
 profitabletrustednetwork.com CNAME .
+programminghonourable.com CNAME .
 prograph.club CNAME .
 prographiciko.site CNAME .
 projectagoralibs.com CNAME .
@@ -11378,6 +11385,7 @@ secrecycommotionaspirin.com CNAME .
 secretate.club CNAME .
 secretexts.club CNAME .
 secure-12.com CNAME .
+secureclickers.com CNAME .
 securecloud-dt.com CNAME .
 securecloud-smart.com CNAME .
 securecontentssl.com CNAME .
@@ -12104,6 +12112,7 @@ thimoaph.net CNAME .
 thinnerlessenfounded.com CNAME .
 third-tracking.com CNAME .
 thirgoad.top CNAME .
+thisisyourprize.site CNAME .
 thismetric.com CNAME .
 thoaltie.net CNAME .
 thoartuw.com CNAME .
@@ -12303,6 +12312,7 @@ trippealbirthda.info CNAME .
 tripsbooth.com CNAME .
 trireacteurs.xyz CNAME .
 triumphalslide.com CNAME .
+triumphantplace.com CNAME .
 trkinator.com CNAME .
 trkunited.com CNAME .
 trlf8mmpbfz1.com CNAME .
@@ -12700,6 +12710,7 @@ viibug.com CNAME .
 viighj.com CNAME .
 viihot.com CNAME .
 viirad.com CNAME .
+villageeatable.com CNAME .
 villandopingcon.site CNAME .
 vimjarawl.com CNAME .
 vimmenced.club CNAME .
@@ -17898,6 +17909,8 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+analytics.omniscientai.com CNAME .
+omnitag.omniscientai.com CNAME .
 backend.turtlemobile.com.tw CNAME .
 batmobile.com.tw CNAME .
 analytik.xyz CNAME .
@@ -24822,6 +24835,7 @@ distributiontomatoes.com CNAME .
 disturbedquiet.com CNAME .
 dogcollarfavourbluff.com CNAME .
 enormousearth.com CNAME .
+fallaciousfifth.com CNAME .
 glisteningguide.com CNAME .
 impulsejewel.com CNAME .
 lameletters.com CNAME .
@@ -26175,10 +26189,12 @@ bnr.alza.cz CNAME .
 counter.cnw.cz CNAME .
 fimg-resp.seznam.cz CNAME .
 h.imedia.cz CNAME .
+h.seznam.cz CNAME .
 hit.skrz.cz CNAME .
 i.imedia.cz CNAME .
 log.idnes.cz CNAME .
 pixel.cpex.cz CNAME .
+ssp.seznam.cz CNAME .
 stat.cncenter.cz CNAME .
 stat.ringier.cz CNAME .
 t.leady.com CNAME .
@@ -26506,6 +26522,9 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+hedseted.ru CNAME .
+skopzijkari.mobi CNAME .
+fcwuye.com CNAME .
 jqk2me2mzf.ru CNAME .
 22pornz.site CNAME .
 xuthid.com CNAME .
@@ -31342,6 +31361,10 @@ bauernative.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+angryme.cn CNAME .
+gzhying1.cn CNAME .
+kebi1.top CNAME .
+ddgjjj.com CNAME .
 bdcanef.cn CNAME .
 sofseo.cn CNAME .
 fo.iphonevip.cn CNAME .
@@ -31356,7 +31379,6 @@ efyt6.com CNAME .
 p.eikuaitao.com CNAME .
 p.gmkykj.com CNAME .
 fuoo1.top CNAME .
-kebi1.top CNAME .
 tonghao.ltd CNAME .
 adserve.work CNAME .
 acgshenshicha.cn CNAME .
@@ -32898,6 +32920,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+363lm.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34780,6 +34803,8 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+js.98158.com CNAME .
+image66.top2099.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35486,6 +35511,9 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+maosengss.cn CNAME .
+qwddcwmwqiqwd20.cn CNAME .
+liaoningo.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -37400,8 +37428,6 @@ tags.crwdcntrl.net CNAME rpz-passthru.
 official.paymaya.com CNAME rpz-passthru.
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/381
 gs.statcounter.com CNAME rpz-passthru.
-; Fixing NordVPN mobile app launching
-launches.appsflyer.com CNAME rpz-passthru.
 ; Blocked by exacttarget.com alias
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/333
 click.virt.s*.exacttarget.com CNAME rpz-passthru.
