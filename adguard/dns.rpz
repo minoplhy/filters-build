@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-04-29T12:08:17.537Z
+; Last modified: 2021-04-30T00:17:49.983Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,12 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+beliefindefinite.com CNAME .
+luglestowha.pro CNAME .
+devozuyu.xyz CNAME .
+dzupi9b81okew.cloudfront.net CNAME .
+magicianoptimisticbeard.com CNAME .
+stagepopkek.com CNAME .
 monthlyindirectelsewhere.com CNAME .
 guvivqlbh.com CNAME .
 abhorboring.com CNAME .
@@ -48,7 +54,6 @@ perigshfnon.com CNAME .
 orbsclawand.com CNAME .
 clothingsphere.com CNAME .
 piuradelivery.com CNAME .
-stagepopkek.com CNAME .
 a.dirtyasmr.com CNAME .
 papaneecorche.com CNAME .
 youngoutmatchthousand.com CNAME .
@@ -21889,6 +21894,7 @@ a-reporting.nytimes.com CNAME .
 metrika.lookmovie.io CNAME .
 s.deepl.com CNAME .
 clicks.wawlabs.com CNAME .
+collector.wawlabs.com CNAME .
 stat.5-tv.ru CNAME .
 log.zingnews.vn CNAME .
 logcol.kyobobook.co.kr CNAME .
@@ -31878,6 +31884,7 @@ tgadv.it CNAME .
 tgadvcdn.it CNAME .
 tipster.space CNAME .
 tjekscores.dk CNAME .
+topbanner.it CNAME .
 upstory.it CNAME .
 viralbeat.com CNAME .
 wailay.com CNAME .
@@ -32891,7 +32898,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-dameyuan.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33315,6 +33321,7 @@ dagonghuzhu.com CNAME .
 dahanedu.com CNAME .
 daikuanfanli.com CNAME .
 dalianhengtai.com CNAME .
+dameyuan.com CNAME .
 dami66.cn CNAME .
 damumu.xyz CNAME .
 dashaowu.com CNAME .
@@ -35479,8 +35486,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-qwddcwmwqiqwd19.cn CNAME .
-huangyeqing.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -35805,6 +35810,7 @@ ceyiuy.com CNAME .
 cf89.gold CNAME .
 cfdanet.com CNAME .
 cfhijdsb.cn CNAME .
+chaluoyi.cn CNAME .
 chang555.cn CNAME .
 changhehengqi.com CNAME .
 chayibu.com CNAME .
@@ -36201,6 +36207,7 @@ hp0hnj.cn CNAME .
 hsbkr.com CNAME .
 htfmbt.com CNAME .
 htjsk.com CNAME .
+huangyeqing.cn CNAME .
 huayange.com CNAME .
 huayangli.cn CNAME .
 huayi65.com CNAME .
@@ -36668,6 +36675,7 @@ quanjiapp.cn CNAME .
 quipin.cn CNAME .
 quxiandu.com CNAME .
 qwddcwmwqiqwd18.cn CNAME .
+qwddcwmwqiqwd19.cn CNAME .
 qxyu.top CNAME .
 qyhwqie.cn CNAME .
 qysyyg.com CNAME .
