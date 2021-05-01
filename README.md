@@ -4,9 +4,15 @@ This Github Repository is for Filters building
 ```
 12.00 am CDT - Build and upload to S3 Bucket
 12.06 am CDT - Commit and push to github
+
+06.00 am CDT - Build and upload to S3 Bucket
+06.06 am CDT - Commit and push to github
 - - -
 12.00 pm CDT - Build and upload to S3 Bucket
 12.06 pm CDT - Commit and push to github
+
+06.00 pm CDT - Build and upload to S3 Bucket
+06.06 pm CDT - Commit and push to github
 ```
 ## Filters list
 ### Adguard - RPZ
