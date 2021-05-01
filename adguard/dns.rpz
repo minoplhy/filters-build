@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-01T00:19:15.472Z
+; Last modified: 2021-05-01T06:06:29.399Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+farcdnf.com CNAME .
+ohpdsplu.com CNAME .
 sorryfearknockout.com CNAME .
 starvationpatio.com CNAME .
 poetryhonourable.com CNAME .
@@ -6350,6 +6352,7 @@ edgyconnaterag.com CNAME .
 edhappearer.info CNAME .
 edhindexest.space CNAME .
 edimpleteexce.club CNAME .
+edioca.com CNAME .
 edjokerned.space CNAME .
 edmarketts.fun CNAME .
 edmodernia.top CNAME .
@@ -12546,7 +12549,6 @@ ureticrelingse.top CNAME .
 urgeousimp.club CNAME .
 urimteku.com CNAME .
 urineyieldedwasted.com CNAME .
-url.rw CNAME .
 urmilan.info CNAME .
 urnkawsxxh.com CNAME .
 urokcwwzno.com CNAME .
@@ -32085,6 +32087,7 @@ trendlope.com CNAME .
 uadexchange.com CNAME .
 uoarbhxfyygn.com CNAME .
 useads.com CNAME .
+utopia.ad-loupe.com CNAME .
 vrewpywootyu.com CNAME .
 wbaogaqvrukprx.com CNAME .
 webiklan.com CNAME .
@@ -32920,7 +32923,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-363lm.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33011,6 +33013,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 338336.com CNAME .
 3400.org CNAME .
 35clouds.com.cn CNAME .
+363lm.com CNAME .
 365339.top CNAME .
 365che.cc CNAME .
 36pn.com CNAME .
@@ -34803,8 +34806,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-js.98158.com CNAME .
-image66.top2099.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35215,6 +35216,7 @@ hy.huangye88.net CNAME .
 idgdmgroup.com.cn CNAME .
 ii1.chajiaotong.com CNAME .
 iia1.pikacn.com CNAME .
+image66.top2099.com CNAME .
 images8.gaotie.cn CNAME .
 img.263y.com CNAME .
 img.ferlie.net CNAME .
@@ -35251,6 +35253,7 @@ jiyan.net CNAME .
 jke1.jianke.com CNAME .
 js.23yy.com CNAME .
 js.9136.com CNAME .
+js.98158.com CNAME .
 js.jianbihuadq.com CNAME .
 js.kt250.com CNAME .
 js.mscto.com CNAME .
@@ -35511,10 +35514,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-maosengss.cn CNAME .
-pingyuanshenghuo.cn CNAME .
-qwddcwmwqiqwd20.cn CNAME .
-liaoningo.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -36449,6 +36448,7 @@ lglady.cn CNAME .
 lhcqbim.cn CNAME .
 lianfuhuang.cn CNAME .
 lianyicq.cn CNAME .
+liaoningo.cn CNAME .
 liaotian4.com CNAME .
 lifuguan.cn CNAME .
 lijie1010.top CNAME .
@@ -36500,6 +36500,7 @@ maicaoren.cn CNAME .
 maimaias.cn CNAME .
 mao1.jsnovel.com CNAME .
 maobujie.com CNAME .
+maosengss.cn CNAME .
 maoyumao.net CNAME .
 maro30.com CNAME .
 mavuz.com CNAME .
@@ -36646,6 +36647,7 @@ pieaa.com CNAME .
 pincidao.cn CNAME .
 pingeds.cn CNAME .
 pingseli.com CNAME .
+pingyuanshenghuo.cn CNAME .
 pinkmore.cn CNAME .
 pjbjzf.com CNAME .
 pkbook.com.cn CNAME .
@@ -36705,6 +36707,7 @@ quipin.cn CNAME .
 quxiandu.com CNAME .
 qwddcwmwqiqwd18.cn CNAME .
 qwddcwmwqiqwd19.cn CNAME .
+qwddcwmwqiqwd20.cn CNAME .
 qxyu.top CNAME .
 qyhwqie.cn CNAME .
 qysyyg.com CNAME .
