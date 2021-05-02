@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-02T06:06:21.966Z
+; Last modified: 2021-05-02T12:07:47.688Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -24988,6 +24988,7 @@ beacon.squixa.net CNAME .
 beacon.statful.com CNAME .
 beacon.thred.woven.com CNAME .
 beacon.viewlift.com CNAME .
+beam.mjhlifesciences.com CNAME .
 bento.agoda.com CNAME .
 bitdash-reporting.appspot.com CNAME .
 bmrg.reflected.net CNAME .
@@ -32925,6 +32926,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+cz09.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
