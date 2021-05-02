@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-01T18:15:05.993Z
+; Last modified: 2021-05-02T00:21:59.068Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32923,12 +32923,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-bjzsyx.cn CNAME .
-ktdlsb.com CNAME .
-whzxpm.cn CNAME .
-idy666.com CNAME .
-gzwxdq.cn CNAME .
-bibilm.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33231,12 +33225,14 @@ bejzz.top CNAME .
 bfgg365.com CNAME .
 biandaosheng.com CNAME .
 biaoshipai.net CNAME .
+bibilm.com CNAME .
 bihaipack.com CNAME .
 billionfocus.com CNAME .
 bingyinq.com CNAME .
 biohailijie.cn CNAME .
 bj-bytsk.com CNAME .
 bjgtsh.com CNAME .
+bjzsyx.cn CNAME .
 bla01.com CNAME .
 blogdaka.cc CNAME .
 bmbaike.cn CNAME .
@@ -33529,6 +33525,7 @@ gxgzyny.com CNAME .
 gydag.com CNAME .
 gzktpf.com CNAME .
 gzqudou.com CNAME .
+gzwxdq.cn CNAME .
 gzxxty168.com CNAME .
 h41s.com CNAME .
 hahazl.com CNAME .
@@ -33630,6 +33627,7 @@ idasai.com CNAME .
 idcqi.com CNAME .
 idianfang.com CNAME .
 idoc58.com CNAME .
+idy666.com CNAME .
 iewad.net CNAME .
 ifufen.com CNAME .
 il8r.com CNAME .
@@ -33758,6 +33756,7 @@ kolinay.com CNAME .
 koukou7.com CNAME .
 ksxcxb.cn CNAME .
 kt220.com CNAME .
+ktdlsb.com CNAME .
 ktunions.com CNAME .
 ku9377.com CNAME .
 kuwoyy.com CNAME .
@@ -34227,6 +34226,7 @@ whhxnz.com CNAME .
 whpxy.com CNAME .
 whshangsha.com CNAME .
 whytoss.com CNAME .
+whzxpm.cn CNAME .
 wikigifth.com CNAME .
 winde.cc CNAME .
 windowsxi.com CNAME .
@@ -35520,9 +35520,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-zhinengcd.cn CNAME .
-pengmingx.cn CNAME .
-jinyinggroup.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -36338,6 +36335,7 @@ jinrianshan.com CNAME .
 jinrichaoyang.com CNAME .
 jinrungroup.cn CNAME .
 jinshzx.com CNAME .
+jinyinggroup.cn CNAME .
 jioder3e.cn CNAME .
 jioeg.com CNAME .
 jisufeifei.com CNAME .
@@ -36646,6 +36644,7 @@ pd3a.cn CNAME .
 pdfmxsh.cn CNAME .
 pdkuai.com CNAME .
 peiliao-china.com CNAME .
+pengmingx.cn CNAME .
 pentaxaws.cn CNAME .
 petsfairy.com CNAME .
 petsheying.com CNAME .
@@ -37224,6 +37223,7 @@ zhanlan5.cn CNAME .
 zhekoudajie.com CNAME .
 zhengzhoupengbo.com CNAME .
 zhide-edu.cn CNAME .
+zhinengcd.cn CNAME .
 zhipinbook.cn CNAME .
 zhivalley.cn CNAME .
 zhixd.cn CNAME .
