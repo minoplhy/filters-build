@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-03T00:20:38.992Z
+; Last modified: 2021-05-03T06:07:20.501Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -16126,6 +16126,7 @@ seecontentdelivery.info CNAME .
 seekads.net CNAME .
 seethisinaction.com CNAME .
 seiya.work CNAME .
+sekindo.com CNAME .
 selectablemedia.com CNAME .
 selectad.com CNAME .
 selfpua.com CNAME .
@@ -17795,7 +17796,6 @@ rtbimp-loadbalancer-*.amazonaws.com CNAME .
 sas816.ujikdd041o.cn CNAME .
 sdk.native123.com CNAME .
 sdk.starbolt.io CNAME .
-sekindo.com CNAME .
 servebom.com CNAME .
 serving-sys.com CNAME .
 sessionm.com CNAME .
@@ -17923,7 +17923,6 @@ visilabs.net CNAME .
 ;
 analytics.omniscientai.com CNAME .
 omnitag.omniscientai.com CNAME .
-backend.turtlemobile.com.tw CNAME .
 batmobile.com.tw CNAME .
 analytik.xyz CNAME .
 df.pmweb.com.br CNAME .
@@ -25806,6 +25805,7 @@ tagmanager.cn CNAME .
 tenmax.io CNAME .
 tomonline-inc.com CNAME .
 topsem.com CNAME .
+turtlemobile.com.tw CNAME .
 twcouponcenter.com CNAME .
 vamaker.com CNAME .
 webdissector.com CNAME .
