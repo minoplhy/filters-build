@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-03T06:07:20.501Z
+; Last modified: 2021-05-03T12:07:54.068Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -10482,6 +10482,7 @@ pregnancydiscreditbee.com CNAME .
 pregnancyintuition.com CNAME .
 premium-members.com CNAME .
 premium4kflix.club CNAME .
+premium4kflix.top CNAME .
 premiumvertising.com CNAME .
 prepairoo.club CNAME .
 preparecanyonpendulous.com CNAME .
@@ -12226,6 +12227,7 @@ tommyperseverance.com CNAME .
 tonexcitiessa.club CNAME .
 toodlepork.com CNAME .
 top-performance.best CNAME .
+top-performance.club CNAME .
 topbetfast.com CNAME .
 topcpmnetwork.com CNAME .
 topdisplaycontent.com CNAME .
@@ -35532,6 +35534,7 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+2gmbbl.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
