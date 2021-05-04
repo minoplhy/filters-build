@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-04T06:03:28.002Z
+; Last modified: 2021-05-04T12:03:58.447Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+nkyouvery.fun CNAME .
+tecuil.com CNAME .
+appendixwarmingauthors.com CNAME .
 tefumiji.xyz CNAME .
 uhdokoq5ocmk.com CNAME .
 farcdnf.com CNAME .
@@ -189,7 +192,6 @@ temporarilybrancheshideous.com CNAME .
 d1cykymlllue3h.cloudfront.net CNAME .
 st-n.pc5ads.com CNAME .
 b0f1d2.com CNAME .
-arguerepetition.com CNAME .
 zaphakesleigh.com CNAME .
 lotsnippier.cam CNAME .
 getadfinity.com CNAME .
@@ -349,7 +351,6 @@ goofsyoudell.com CNAME .
 goosecontradiction.com CNAME .
 hadsans.com CNAME .
 hazardguiltconsulting.com CNAME .
-itineraryupper.com CNAME .
 jennyunfit.com CNAME .
 juvenilebind.com CNAME .
 magicianboundary.com CNAME .
@@ -865,7 +866,6 @@ armaimapt.club CNAME .
 aspaskaim.club CNAME .
 lyehemarm.club CNAME .
 t0p0ff3rs.com CNAME .
-adxpub.com CNAME .
 rubird.ru CNAME .
 viebitgreasy.email CNAME .
 armashair.site CNAME .
@@ -2809,7 +2809,6 @@ dash.tmearn.com CNAME .
 d1uanozc5el74n.cloudfront.net CNAME .
 djz9es32qen64.cloudfront.net CNAME .
 drrcckbju3nd0.cloudfront.net CNAME .
-dkm6b5q0h53z4.cloudfront.net CNAME .
 ad-arata.s3.amazonaws.com CNAME .
 ads.linkedin.com CNAME .
 banner.vatanclick.ir CNAME .
@@ -4261,6 +4260,7 @@ areasonsimon.club CNAME .
 arefusedfollo.club CNAME .
 arentpremi.space CNAME .
 argetreceden.club CNAME .
+arguerepetition.com CNAME .
 argumentmanufacture.com CNAME .
 aribcosw.com CNAME .
 arisoning.club CNAME .
@@ -8083,6 +8083,7 @@ itcfnfi.com CNAME .
 itchingadore.com CNAME .
 itdise.info CNAME .
 itinerarymonarchy.com CNAME .
+itineraryupper.com CNAME .
 itllnww6x277.com CNAME .
 itnuzleafan.com CNAME .
 ittorchicer.com CNAME .
@@ -14098,6 +14099,7 @@ adxpremium.com CNAME .
 adxpremium.services CNAME .
 adxprts.com CNAME .
 adxprtz.com CNAME .
+adxpub.com CNAME .
 adxscope.com CNAME .
 adxxx.me CNAME .
 adxxx.org CNAME .
@@ -17060,6 +17062,7 @@ ddvbjehruuj5y.cloudfront.net CNAME .
 dita6jhhqwoiz.cloudfront.net CNAME .
 djm080u34wfc5.cloudfront.net CNAME .
 djv99sxoqpv11.cloudfront.net CNAME .
+dkm6b5q0h53z4.cloudfront.net CNAME .
 dkus30wj6f84p.cloudfront.net CNAME .
 dkyp75kj7ldlr.cloudfront.net CNAME .
 dlne6myudrxi1.cloudfront.net CNAME .
@@ -21775,6 +21778,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+dsb.yahoo.co.jp CNAME .
 pac.thetimes.co.uk CNAME .
 a-stat.appmifile.com CNAME .
 log.g-enews.com CNAME .
@@ -34718,6 +34722,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+er.5ykj.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35426,6 +35431,7 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+zzchuy.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
