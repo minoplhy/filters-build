@@ -1,5 +1,9 @@
 # filters-build
-This Github Repository is for Filters building
+This Github Repository is for Filters building from all my adblock project
+
+1host / adguard > RPZ [minoplhy/dnsblocklist](https://github.com/minoplhy/dnsblocklist)
+
+bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minoplhy/bromite-custom-adblock)
 ## Build Schedule
 ```
 12.00 am CDT - Build and upload to S3 Bucket
