@@ -71,7 +71,7 @@ https://noblt.sos-ch-dk-2.exoscale-cdn.com/1host/wildcards-pro_rpz.txt
 
 * #### filters.dat
 
-https://filters.kylz.nl/bromite-filters/filters.dat)
+https://filters.kylz.nl/bromite-filters/filters.dat
 
 https://cf-filters.kylz.nl/bromite-filters/filters.dat
 
