@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-04T12:03:58.447Z
+; Last modified: 2021-05-04T18:07:06.197Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -20,7 +20,6 @@
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
 nkyouvery.fun CNAME .
-tecuil.com CNAME .
 appendixwarmingauthors.com CNAME .
 tefumiji.xyz CNAME .
 uhdokoq5ocmk.com CNAME .
@@ -11925,6 +11924,7 @@ tebo0o2xw4.com CNAME .
 tebyj99zkdyb.com CNAME .
 tec-tec-boom.com CNAME .
 technicallylunaticgarbage.com CNAME .
+tecuil.com CNAME .
 tedathedo.club CNAME .
 teddeparati.top CNAME .
 tedruptcyfal.info CNAME .
@@ -13832,6 +13832,7 @@ adoperator.com CNAME .
 adoptim.com CNAME .
 adorika.com CNAME .
 adorika.net CNAME .
+adorion.net CNAME .
 adosia.com CNAME .
 adotic.com CNAME .
 adotmob.com CNAME .
@@ -13948,6 +13949,7 @@ adslingers.com CNAME .
 adslivecorp.com CNAME .
 adsloom.com CNAME .
 adslot.com CNAME .
+adsluna.com CNAME .
 adslvr.com CNAME .
 adsmarket.com CNAME .
 adsmoon.com CNAME .
@@ -15258,6 +15260,7 @@ markethealth.com CNAME .
 marketleverage.com CNAME .
 marsads.com CNAME .
 mcontigo.com CNAME .
+mdgzg.com CNAME .
 mdialog.com CNAME .
 meadigital.com CNAME .
 media.net CNAME .
@@ -16628,6 +16631,7 @@ omaris.pw CNAME .
 ; Source name: EasyList ad servers third-party
 ; Source: https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 ;
+1080872514.rsc.cdn77.org CNAME .
 a.livesportmedia.eu CNAME .
 a.ucoz.net CNAME .
 ad.about.co.kr CNAME .
@@ -17204,6 +17208,9 @@ c3.myapkcdn.in CNAME .
 plugin.mobopay.baidu.com CNAME .
 mo.freeindoapp.com CNAME .
 ;
+cads.scalemonk.com CNAME .
+adspot.tfgapps.com CNAME .
+analytics.scalemonk.com CNAME .
 vrizead.com CNAME .
 iad-*.braze.com CNAME .
 adpopcorn.com CNAME .
