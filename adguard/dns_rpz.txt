@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-05T06:03:23.389Z
+; Last modified: 2021-05-05T12:03:37.069Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -12704,6 +12704,7 @@ voxfind.com CNAME .
 vpagzcjp.com CNAME .
 vpfcvagfrmy.com CNAME .
 vpico.com CNAME .
+vpnlist.to CNAME .
 vptggenzv.com CNAME .
 vpwlynobnnqg.com CNAME .
 vqr3jeu1qi41.com CNAME .
@@ -15143,6 +15144,7 @@ kovla.com CNAME .
 kr3vinsx.com CNAME .
 kumpulblogger.com CNAME .
 kwnq4hg2n9.com CNAME .
+l3g3media.com CNAME .
 lacerta.space CNAME .
 ladbrokesaffiliates.com.au CNAME .
 lailivob.net CNAME .
@@ -18004,7 +18006,6 @@ wh.giftd.tech CNAME .
 privatelands.biz CNAME .
 click.vgnett.no CNAME .
 api.rubic.com.tr CNAME .
-tag.wknd.ai CNAME .
 track-mixer.ru CNAME .
 dmpprof.com CNAME .
 pwrlkyotm.com CNAME .
@@ -23700,6 +23701,7 @@ mors22.com CNAME .
 nxakpj4ac8gkd53.info CNAME .
 sbgsodufuosmmvsdf.info CNAME .
 truffle.bid CNAME .
+wknd.ai CNAME .
 z0uolej1qnxzub1.info CNAME .
 ; Third-party
 123stat.com CNAME .
@@ -24838,6 +24840,7 @@ analytics.pinterest.com CNAME .
 analytics.pointdrive.linkedin.com CNAME .
 analytics.prezly.com CNAME .
 analytics.prod.aws.ecnext.net CNAME .
+analytics.qualityunit.com CNAME .
 analytics.radiatemedia.com CNAME .
 analytics.reyrey.net CNAME .
 analytics.rogersmedia.com CNAME .
@@ -25206,6 +25209,7 @@ p.delivery.net CNAME .
 p.eyebuydirect-cmr.net CNAME .
 pagesense-collect.zoho.com CNAME .
 pagesocket.glam.com CNAME .
+pap.qualityunit.com CNAME .
 partner.cynapse.com CNAME .
 pegasus.unifygroup.com CNAME .
 perf.dugout.com CNAME .
