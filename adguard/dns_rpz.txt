@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-04T18:07:06.197Z
+; Last modified: 2021-05-05T00:07:18.297Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,10 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+obeysatman.com CNAME .
+bvnjgjfh.com CNAME .
+onsideratio.fun CNAME .
+eoemyywmjx.com CNAME .
 nkyouvery.fun CNAME .
 appendixwarmingauthors.com CNAME .
 tefumiji.xyz CNAME .
@@ -381,7 +385,6 @@ thultoll.com CNAME .
 endoilip.com CNAME .
 gecontentasap.com CNAME .
 b3stcond1tions.com CNAME .
-assets.netizen.co CNAME .
 bestcontenttrade.top CNAME .
 cpmnetworkcontent.com CNAME .
 qrirufliyj.com CNAME .
@@ -15331,6 +15334,7 @@ net-ad-vantage.com CNAME .
 net3media.com CNAME .
 netavenir.com CNAME .
 netinsight.co.kr CNAME .
+netizen.co CNAME .
 netliker.com CNAME .
 netloader.cc CNAME .
 netseer.com CNAME .
@@ -21785,6 +21789,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+log.ajunews.com CNAME .
 dsb.yahoo.co.jp CNAME .
 pac.thetimes.co.uk CNAME .
 a-stat.appmifile.com CNAME .
@@ -26436,6 +26441,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+ad.vidver.to CNAME .
 hedseted.ru CNAME .
 skopzijkari.mobi CNAME .
 fcwuye.com CNAME .
@@ -34729,7 +34735,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-er.5ykj.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35086,6 +35091,7 @@ enennsa.gushiwen.cn CNAME .
 ent1.12584.cn CNAME .
 ent1.qunchua.cn CNAME .
 ent1.qunchua.com CNAME .
+er.5ykj.com CNAME .
 f1.06ps.com CNAME .
 f1.ichong123.com CNAME .
 f1.pig66.com CNAME .
@@ -35438,7 +35444,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-zzchuy.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -37196,6 +37201,7 @@ zyqtc.cn CNAME .
 zywhjd.com CNAME .
 zyxwpj.com CNAME .
 zzcgw.cn CNAME .
+zzchuy.cn CNAME .
 zzhszj.com CNAME .
 zzmmkj.com CNAME .
 zzqqhb.com CNAME .
