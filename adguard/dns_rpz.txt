@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-05T00:07:18.297Z
+; Last modified: 2021-05-05T06:03:23.389Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -357,7 +357,6 @@ hazardguiltconsulting.com CNAME .
 jennyunfit.com CNAME .
 juvenilebind.com CNAME .
 magicianboundary.com CNAME .
-murderassuredness.com CNAME .
 oldeststrickenambulance.com CNAME .
 p64gk2yhba0p.com CNAME .
 popsmoatsilt.com CNAME .
@@ -9330,6 +9329,7 @@ munitedoploko.site CNAME .
 mupteekr.net CNAME .
 muqson0kgr.com CNAME .
 murdenedo.club CNAME .
+murderassuredness.com CNAME .
 murkymouse.online CNAME .
 musclespuffyextraordinary.com CNAME .
 mushroomresolved.com CNAME .
@@ -17815,6 +17815,7 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+socketviking.net CNAME .
 analytics.omniscientai.com CNAME .
 omnitag.omniscientai.com CNAME .
 batmobile.com.tw CNAME .
@@ -24271,7 +24272,6 @@ smtrk.net CNAME .
 snapdeal.biz CNAME .
 sni-dat.com CNAME .
 social-sb.com CNAME .
-socketviking.net CNAME .
 socsi.in CNAME .
 soflopxl.com CNAME .
 soft-com.biz CNAME .
