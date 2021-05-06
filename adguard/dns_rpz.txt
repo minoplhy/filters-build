@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-05T18:11:03.738Z
+; Last modified: 2021-05-06T00:08:10.336Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -10118,6 +10118,7 @@ pednorthe.top CNAME .
 peedtzaregg.casa CNAME .
 peekdedicatecylinder.com CNAME .
 peekscrane.com CNAME .
+peepholecarrying.com CNAME .
 peethobo.com CNAME .
 peeticadd.com CNAME .
 pendaccomot.club CNAME .
@@ -17847,6 +17848,7 @@ shotarget.co.uk CNAME .
 shopback.net CNAME .
 shopconvert.com.br CNAME .
 neemu.com CNAME .
+ping.staticmoly.me CNAME .
 prod-sb-appanalytics-us1.servicebus.windows.net CNAME .
 mci1.co.kr CNAME .
 analytics.sitewit.com CNAME .
@@ -25196,7 +25198,6 @@ phoenix.untd.com CNAME .
 pi.ispot.tv CNAME .
 ping-dot-acp-magento.appspot.com CNAME .
 ping.dozuki.com CNAME .
-ping.staticmoly.me CNAME .
 pings.vidpulse.com CNAME .
 pipe-collect.ebu.io CNAME .
 pix.revjet.com CNAME .
@@ -35429,8 +35430,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-wangmingsort.cn CNAME .
-l570mb.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -36344,6 +36343,7 @@ kyxnz.cn CNAME .
 l07m8gu.cn CNAME .
 l29qi.xyz CNAME .
 l4elb.cn CNAME .
+l570mb.cn CNAME .
 laiye315.top CNAME .
 lalaaal.cn CNAME .
 lalaxit.cn CNAME .
@@ -36885,6 +36885,7 @@ wangdaguanli.com CNAME .
 wangjulm.com CNAME .
 wangkeduo.cn CNAME .
 wangliqin.top CNAME .
+wangmingsort.cn CNAME .
 wangqing7.top CNAME .
 wannuochongkong.com CNAME .
 wantezy.cn CNAME .
