@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-06T00:08:10.336Z
+; Last modified: 2021-05-06T06:03:22.497Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -3720,6 +3720,7 @@ mine.torrent.pw CNAME .
 93aihbjs7bv4.com CNAME .
 93c8c9a28e1db445.com CNAME .
 944e66f8683ac43c.com CNAME .
+951e8b9cd72.com CNAME .
 956b2fb847d.com CNAME .
 967rett6fzaf.com CNAME .
 96y9sqlihv3d.com CNAME .
@@ -4511,6 +4512,7 @@ bainushe.com CNAME .
 baipagid.com CNAME .
 baitbrdwk.com CNAME .
 baiweluy.com CNAME .
+bakteso.ru CNAME .
 balancedingrent.com CNAME .
 balanderramed.site CNAME .
 balcekonspn.com CNAME .
@@ -4640,7 +4642,6 @@ bestcpmnetwork.com CNAME .
 bestdisplaycontent.com CNAME .
 bestdisplayformats.com CNAME .
 bestialearnbuds.com CNAME .
-bestmoneysites.com CNAME .
 bestregarsv.fun CNAME .
 bestrevenuenetwork.com CNAME .
 bestssn.com CNAME .
@@ -5729,6 +5730,7 @@ d71e6dd31a026d45.com CNAME .
 d72gb9oukw3j.com CNAME .
 d77685035ab.com CNAME .
 d869381a42af33b.com CNAME .
+d86ac31f6a.com CNAME .
 d99sure.xyz CNAME .
 d9kvn70l4ogn.com CNAME .
 da-ads.com CNAME .
@@ -7493,6 +7495,7 @@ grursusy.com CNAME .
 grutopsathu.pro CNAME .
 grygrothapi.pro CNAME .
 gscarcinoh.club CNAME .
+gscggckvmd.com CNAME .
 gseyriwpozfxf.com CNAME .
 gsfillegesga.club CNAME .
 gsincentlyse.club CNAME .
@@ -8610,6 +8613,7 @@ lingovernmen.fun CNAME .
 linkeinvitable.site CNAME .
 linkev.com CNAME .
 linkonclick.com CNAME .
+linkslot.ru CNAME .
 linstanintedter.site CNAME .
 liofypwnko.com CNAME .
 lioningepit.fun CNAME .
@@ -9458,6 +9462,7 @@ neitherentrailsrim.com CNAME .
 neitherspreta.site CNAME .
 nellads.com CNAME .
 neltoole.net CNAME .
+neoamwhdg.com CNAME .
 nepobedimiy2kot11jf.com CNAME .
 nerbulsterme.club CNAME .
 neshedfrie.club CNAME .
@@ -9781,6 +9786,7 @@ offerimage.com CNAME .
 offickiekizashi.site CNAME .
 officultpolicit.pro CNAME .
 offoonguser.com CNAME .
+offshoreanglehost.com CNAME .
 offshorecockpit.com CNAME .
 offshoretolerantbenignity.com CNAME .
 ofgogoatan.com CNAME .
@@ -10064,6 +10070,7 @@ parchlusciousepoch.com CNAME .
 parchmentwhale.com CNAME .
 parentful.club CNAME .
 paripartners.ru CNAME .
+parkinggrumpy.com CNAME .
 parkurl.com CNAME .
 particlesmanuscript.com CNAME .
 particularmadam.com CNAME .
@@ -10111,6 +10118,7 @@ pealdudley.com CNAME .
 peanuttolerate.com CNAME .
 pearerinven.fun CNAME .
 pebadu.com CNAME .
+pebidigra.pro CNAME .
 peckshadowlousy.com CNAME .
 pedestalturner.com CNAME .
 pedestrianneighbourly.com CNAME .
@@ -10460,6 +10468,7 @@ prospergenerosityperformance.com CNAME .
 prosperitypartying.com CNAME .
 prosperousevictcrucial.com CNAME .
 prosumsit.com CNAME .
+protagcdn.com CNAME .
 protectdedication.com CNAME .
 protection-booster.club CNAME .
 protovid.com CNAME .
@@ -10945,6 +10954,7 @@ retcyy.com CNAME .
 retextsmar.club CNAME .
 retingsyphilo.site CNAME .
 retirementlash.com CNAME .
+retyphuho.pro CNAME .
 reundcwkqvctq.com CNAME .
 reurbanisant.xyz CNAME .
 revampcdn.com CNAME .
@@ -11858,6 +11868,7 @@ tablebehav.club CNAME .
 tablesper.top CNAME .
 tacklesuggestindoors.com CNAME .
 tadsitblimp.com CNAME .
+tagbom.com CNAME .
 taghaugh.com CNAME .
 taifouwo.com CNAME .
 takeslobsgel.com CNAME .
@@ -13000,6 +13011,7 @@ wqgdajjozr.com CNAME .
 wqpoqalozlciw.com CNAME .
 wrdbknbczcf.com CNAME .
 wredmtmvkjbg.com CNAME .
+wretchauraflirt.com CNAME .
 wretchedchapterdozen.com CNAME .
 wrierville.com CNAME .
 writerredolasy.club CNAME .
@@ -14594,6 +14606,7 @@ cryptoads.space CNAME .
 ctenetwork.com CNAME .
 ctrhub.com CNAME .
 ctrmanager.com CNAME .
+ctxtfl.com CNAME .
 cuelinks.com CNAME .
 currentlyobsessed.me CNAME .
 cybmas.com CNAME .
@@ -23690,9 +23703,7 @@ z0uolej1qnxzub1.info CNAME .
 2smt6mfgo.de CNAME .
 3enm.com CNAME .
 404tracker.com CNAME .
-44-trk-srv.com CNAME .
 720-trail.co.uk CNAME .
-88infra-strat.com CNAME .
 a4b-tracking.com CNAME .
 aapsis.com CNAME .
 aaxdetect.com CNAME .
@@ -23888,7 +23899,6 @@ eolcdn.com CNAME .
 ep4p.com CNAME .
 escalated.io CNAME .
 etp-prod.com CNAME .
-eventcapture03.com CNAME .
 excited.me CNAME .
 extole.io CNAME .
 extreme-ip-lookup.com CNAME .
@@ -24342,7 +24352,6 @@ tz284.com CNAME .
 u5c93.com CNAME .
 ub-analytics.com CNAME .
 uciservice.com CNAME .
-uhygtf1.com CNAME .
 unblockia.com CNAME .
 united-infos.net CNAME .
 upapi.net CNAME .
@@ -24920,6 +24929,7 @@ clicktracker.iscan.nl CNAME .
 client.tahono.com CNAME .
 clouderrorreporting.googleapis.com CNAME .
 cloudfront-labs.amazonaws.com CNAME .
+cltgtstor001.blob.core.windows.net CNAME .
 cnt.3dmy.net CNAME .
 cnt.mastorage.net CNAME .
 cod.bitrec.com CNAME .
@@ -25156,7 +25166,6 @@ mcs.delvenetworks.com CNAME .
 measure.refinery89.com CNAME .
 mediametrics.mpsa.com CNAME .
 metering.pagesuite.com CNAME .
-metric.nwsource.com CNAME .
 metrics.api.drift.com CNAME .
 metrics.ctvdigital.net CNAME .
 metrics.getvitals.io CNAME .
@@ -27688,7 +27697,6 @@ b81x63nc.ws.md CNAME .
 ba2b687.se CNAME .
 bablogon.net CNAME .
 backromy.com CNAME .
-bakteso.ru CNAME .
 balks.pro CNAME .
 ban.mirorgazma.ru CNAME .
 ban.xxxvid.ru CNAME .
@@ -28766,7 +28774,6 @@ linkfeed.ru CNAME .
 linkmyc.com CNAME .
 linkpeoples.com CNAME .
 links-wm.ru CNAME .
-linkslot.ru CNAME .
 linktraff.ru CNAME .
 linkunder.ru CNAME .
 linkwall.ru CNAME .
@@ -32010,8 +32017,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 03 May 2021 21:42 UTC+7
-; OriginalVersion: 2105032142
+; Last modified: 06 May 2021 09:11 UTC+7
+; OriginalVersion: 2105060911
 ; Blocked: 859 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -32126,6 +32133,7 @@ pushdi.com CNAME .
 pushdy.com CNAME .
 pushdy.vn CNAME .
 pushtimize.com CNAME .
+px.za.zalo.me CNAME .
 qc-static.coccoc.com CNAME .
 qc.coccoc.com CNAME .
 qc.coccoc.vn CNAME .
@@ -32172,7 +32180,6 @@ wg.zaloapp.com CNAME .
 yeah1media.vn CNAME .
 yeah1publishing.com CNAME .
 younetmedia.com CNAME .
-za.zalo.me CNAME .
 zalo-ads-240-td.zadn.vn CNAME .
 zalo-ads-240.zadn.vn CNAME .
 zalo-ads-480-td.zadn.vn CNAME .
@@ -35430,6 +35437,7 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+dfjbgfldsjdsnldksjalld1235.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
