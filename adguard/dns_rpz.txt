@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-06T12:03:37.718Z
+; Last modified: 2021-05-06T18:10:56.679Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+ttyvdilxsuorg.com CNAME .
 rehearsaltoxicmishandle.com CNAME .
 obeysatman.com CNAME .
 bvnjgjfh.com CNAME .
@@ -17808,6 +17809,7 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+newrrb.bid CNAME .
 plavxml.com CNAME .
 socketviking.net CNAME .
 analytics.omniscientai.com CNAME .
@@ -24109,7 +24111,6 @@ nerfherdersolo.com CNAME .
 nero.live CNAME .
 netcore.co.in CNAME .
 netcoresmartech.com CNAME .
-newrrb.bid CNAME .
 ninjacat.io CNAME .
 nitropay.com CNAME .
 nmrodam.com CNAME .
@@ -26434,6 +26435,10 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+ybej5ohp0x.ru CNAME .
+gritspera.mobi CNAME .
+78yvreh.site CNAME .
+ads-lot.ru CNAME .
 handred.ru CNAME .
 quqizo.com CNAME .
 ad.vidver.to CNAME .
@@ -35441,6 +35446,9 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+1ug8jn.cn CNAME .
+ccuyuna.cn CNAME .
+yaokuan01.cn CNAME .
 lordtao.cn CNAME .
 chaxiaoyin.cn CNAME .
 wxbdwj.cn CNAME .
