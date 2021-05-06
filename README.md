@@ -29,6 +29,8 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/cname-tracker_rpz.txt
 
+* * https://sos-ch-dk-2.exo.io/noblt/adguard/cname-tracker_rpz.txt
+
 
 * #### Adguard CNAME Original
 
@@ -38,6 +40,7 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/cname-original_rpz.txt
 
+* * https://sos-ch-dk-2.exo.io/noblt/adguard/cname-original_rpz.txt
 
 * #### Adguard DNS
 
@@ -47,6 +50,7 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/dns_rpz.txt
 
+* * https://sos-ch-dk-2.exo.io/noblt/adguard/dns_rpz.txt
 
 ### 1host - RPZ
 
@@ -58,6 +62,7 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1host/domains-pro_rpz.txt
 
+* * https://sos-ch-dk-2.exo.io/noblt/1host/domains-pro_rpz.txt
 
 * #### 1host wildcards PRO
 
@@ -66,6 +71,8 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 * * https://cf-filters.kylz.nl/1host/wildcards-pro_rpz.txt
 
 * * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1host/wildcards-pro_rpz.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/1host/wildcards-pro_rpz.txt
 
 ### Bromite filters
 
@@ -77,6 +84,7 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://noblt.sos-ch-dk-2.exoscale-cdn.com/bromite-filters/filters.dat
 
+* * https://sos-ch-dk-2.exo.io/noblt/bromite-filters/filters.dat
 
 #### Note :
 _S3CDN might have some cache_
