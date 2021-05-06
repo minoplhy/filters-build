@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-06T06:03:22.497Z
+; Last modified: 2021-05-06T12:03:37.718Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+rehearsaltoxicmishandle.com CNAME .
 obeysatman.com CNAME .
 bvnjgjfh.com CNAME .
 onsideratio.fun CNAME .
@@ -26433,6 +26434,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+handred.ru CNAME .
 quqizo.com CNAME .
 ad.vidver.to CNAME .
 hedseted.ru CNAME .
@@ -34728,6 +34730,8 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+j.98158.com CNAME .
+j.9136.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35437,7 +35441,12 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+lordtao.cn CNAME .
+chaxiaoyin.cn CNAME .
+wxbdwj.cn CNAME .
+pbbgfsm.cn CNAME .
 dfjbgfldsjdsnldksjalld1235.cn CNAME .
+rqjhhg.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
