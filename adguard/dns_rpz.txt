@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-06T18:10:56.679Z
+; Last modified: 2021-05-07T00:07:11.634Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -26117,7 +26117,6 @@ counter.nope.dk CNAME .
 statistics.jfmedier.dk CNAME .
 trckr.nordiskemedier.dk CNAME .
 ubt.berlingskemedia.net CNAME .
-; Dutch
 analytics.belgacom.be CNAME .
 cookies.reedbusiness.nl CNAME .
 hottraffic.nl CNAME .
@@ -34735,8 +34734,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-j.98158.com CNAME .
-j.9136.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35166,6 +35163,8 @@ inone517.com CNAME .
 ios.426g.com CNAME .
 ishuoshuo.com CNAME .
 isu.weidianyuedu.com CNAME .
+j.9136.com CNAME .
+j.98158.com CNAME .
 j.baminw.cn CNAME .
 j.diangon.com CNAME .
 j.imdb.cn CNAME .
@@ -35446,15 +35445,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-1ug8jn.cn CNAME .
-ccuyuna.cn CNAME .
-yaokuan01.cn CNAME .
-lordtao.cn CNAME .
-chaxiaoyin.cn CNAME .
-wxbdwj.cn CNAME .
-pbbgfsm.cn CNAME .
-dfjbgfldsjdsnldksjalld1235.cn CNAME .
-rqjhhg.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -35491,6 +35481,7 @@ rqjhhg.cn CNAME .
 17ys.top CNAME .
 199zw.com CNAME .
 1pzskg.cn CNAME .
+1ug8jn.cn CNAME .
 1x26q3.cn CNAME .
 200ps.com CNAME .
 215to.cn CNAME .
@@ -35768,6 +35759,7 @@ cbyckdf.cn CNAME .
 cchfjz.com CNAME .
 ccjxybj.cn CNAME .
 ccmdgg.com CNAME .
+ccuyuna.cn CNAME .
 cdgxq.com CNAME .
 cdiah.com CNAME .
 cdjkngs.cn CNAME .
@@ -35783,6 +35775,7 @@ cfhijdsb.cn CNAME .
 chaluoyi.cn CNAME .
 chang555.cn CNAME .
 changhehengqi.com CNAME .
+chaxiaoyin.cn CNAME .
 chayibu.com CNAME .
 chekeshi.com CNAME .
 chendjiangxing.cn CNAME .
@@ -35890,6 +35883,7 @@ dedayuntong.com CNAME .
 dehuaguanyin.com CNAME .
 deskt.cn CNAME .
 deyidesign.com CNAME .
+dfjbgfldsjdsnldksjalld1235.cn CNAME .
 dfseafood.com CNAME .
 dgaoz.com CNAME .
 dglscm.cn CNAME .
@@ -36417,6 +36411,7 @@ lnalttc.com CNAME .
 lobmuc.cn CNAME .
 lolvsdota.cn CNAME .
 longkoupeanut.cn CNAME .
+lordtao.cn CNAME .
 louisan.cn CNAME .
 lousivency.com.cn CNAME .
 lovepets70.com CNAME .
@@ -36576,6 +36571,7 @@ oycslib.xyz CNAME .
 oycslic.xyz CNAME .
 p0pm5z.cn CNAME .
 panwenjun.top CNAME .
+pbbgfsm.cn CNAME .
 pbtxt.win CNAME .
 pd3a.cn CNAME .
 pdfmxsh.cn CNAME .
@@ -36684,6 +36680,7 @@ romgv.com CNAME .
 rongdingkeji.cn CNAME .
 rongnews.com CNAME .
 root85.com CNAME .
+rqjhhg.cn CNAME .
 ruyidk.com CNAME .
 ruyiqufu.com CNAME .
 rvsosm.cn CNAME .
@@ -36960,6 +36957,7 @@ wtztkpy.cn CNAME .
 wuyuande.com CNAME .
 wvcdn.cn CNAME .
 wvfgiio.cn CNAME .
+wxbdwj.cn CNAME .
 wxebgpj.cn CNAME .
 wxhdwy.com CNAME .
 wywna.cn CNAME .
@@ -37052,6 +37050,7 @@ yanjunbo.com CNAME .
 yantairuide.com CNAME .
 yanyanbiji.com CNAME .
 yaodianzhineng.cn CNAME .
+yaokuan01.cn CNAME .
 yaoquanshumeiyu.com CNAME .
 ybhypt.com CNAME .
 ybrex.cn CNAME .
