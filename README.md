@@ -1,7 +1,7 @@
 # filters-build
 This Github Repository is for Filters building from all my adblock project
 
-1host / adguard > RPZ [minoplhy/dnsblocklist](https://github.com/minoplhy/dnsblocklist)
+1Hosts / adguard > RPZ [minoplhy/dnsblocklist](https://github.com/minoplhy/dnsblocklist)
 
 bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minoplhy/bromite-custom-adblock)
 ## Build Schedule
@@ -52,27 +52,27 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://sos-ch-dk-2.exo.io/noblt/adguard/dns_rpz.txt
 
-### 1host - RPZ
+### 1Hosts - RPZ
 
-* #### 1host domains PRO
+* #### 1Hosts domains PRO
 
-* * https://filters.kylz.nl/1host/domains-pro_rpz.txt
+* * https://filters.kylz.nl/1Hosts/domains-pro_rpz.txt
 
-* * https://cf-filters.kylz.nl/1host/domains-pro_rpz.txt
+* * https://cf-filters.kylz.nl/1Hosts/domains-pro_rpz.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1host/domains-pro_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1Hosts/domains-pro_rpz.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/1host/domains-pro_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/1Hosts/domains-pro_rpz.txt
 
-* #### 1host wildcards PRO
+* #### 1Hosts wildcards PRO
 
-* * https://filters.kylz.nl/1host/wildcards-pro_rpz.txt
+* * https://filters.kylz.nl/1Hosts/wildcards-pro_rpz.txt
 
-* * https://cf-filters.kylz.nl/1host/wildcards-pro_rpz.txt
+* * https://cf-filters.kylz.nl/1Hosts/wildcards-pro_rpz.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1host/wildcards-pro_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1Hosts/wildcards-pro_rpz.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/1host/wildcards-pro_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/1Hosts/wildcards-pro_rpz.txt
 
 ### Stevenblack - RPZ
 
