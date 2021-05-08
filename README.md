@@ -74,6 +74,18 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://sos-ch-dk-2.exo.io/noblt/1host/wildcards-pro_rpz.txt
 
+### Stevenblack - RPZ
+
+* #### Fakenews + Social
+
+* * https://filters.kylz.nl/stevenblack/f-s_rpz.txt
+
+* * https://cf-filters.kylz.nl/stevenblack/f-s_rpz.txt
+
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/stevenblack/f-s_rpz.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/stevenblack/f-s_rpz.txt
+
 ### Bromite filters
 
 * #### filters.dat
