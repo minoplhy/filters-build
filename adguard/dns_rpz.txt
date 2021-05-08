@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-08T10:15:30.426Z
+; Last modified: 2021-05-08T12:03:49.666Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -23817,6 +23817,7 @@ feathr.co CNAME .
 flaghit.com CNAME .
 flexlinkspro.com CNAME .
 flocktory.com CNAME .
+flyspy.co CNAME .
 fn-pz.com CNAME .
 fouanalytics.com CNAME .
 fpjs.io CNAME .
@@ -31528,6 +31529,7 @@ myad24.de CNAME .
 native-commerce.com CNAME .
 nativendo.de CNAME .
 neqty.net CNAME .
+netpoint-media.de CNAME .
 netwayer.de CNAME .
 network-marketing24.com CNAME .
 network-media.info CNAME .
