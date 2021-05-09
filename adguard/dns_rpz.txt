@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-09T06:03:21.748Z
+; Last modified: 2021-05-09T18:09:27.939Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,12 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+c43a3cd8f99413891.com CNAME .
+ecjkroklyxvod.com CNAME .
+tluumnjyrc.com CNAME .
+thingrealtape.com CNAME .
+all-ti-cod.com CNAME .
+misguidedstork.com CNAME .
 knittedcourthouse.com CNAME .
 ursegreatm.fun CNAME .
 qwtomdpb.com CNAME .
@@ -175,7 +181,6 @@ faglollstwo.com CNAME .
 dayanygold.com CNAME .
 pqtiqpfyeeayjk.com CNAME .
 overyfamiliar.biz CNAME .
-snagbaudhulas.com CNAME .
 whagrolt.com CNAME .
 worersie.com CNAME .
 wapsisod.net CNAME .
@@ -268,7 +273,6 @@ web-redirecting.com CNAME .
 awardpodstab.com CNAME .
 pertersacstyli.com CNAME .
 shrillbighearted.com CNAME .
-cpm.media CNAME .
 ad.chandrabindu.net CNAME .
 wolaufie.com CNAME .
 adxxx.com CNAME .
@@ -4228,6 +4232,7 @@ apiecelee.com CNAME .
 apologisehistoriancrackle.com CNAME .
 apologixopyr.site CNAME .
 apopgo.com CNAME .
+aporasal.net CNAME .
 apostlelinger.com CNAME .
 apostropheemailcompetence.com CNAME .
 appads.com CNAME .
@@ -9499,6 +9504,7 @@ nichools.com CNAME .
 nickeeha.net CNAME .
 nicksstevmark.com CNAME .
 nicmitosasm.top CNAME .
+nicmoomp.net CNAME .
 nicveteroge.club CNAME .
 nificincreasi.club CNAME .
 nightening.club CNAME .
@@ -11464,6 +11470,7 @@ smrtgs.com CNAME .
 smsimprisee.club CNAME .
 smucpfadqgtkld.com CNAME .
 smvocdnxusp.com CNAME .
+snagbaudhulas.com CNAME .
 snaglighter.com CNAME .
 snammar-jumntal.com CNAME .
 snapsed.club CNAME .
@@ -14502,6 +14509,7 @@ cpagrip.com CNAME .
 cpalead.com CNAME .
 cpalock.com CNAME .
 cpfclassifieds.com CNAME .
+cpm.media CNAME .
 cpmleader.com CNAME .
 crakmedia.com CNAME .
 crispads.com CNAME .
@@ -31929,9 +31937,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 06 May 2021 09:11 UTC+7
-; OriginalVersion: 2105060911
-; Blocked: 859 rules
+; Last modified: 09 May 2021 13:37 UTC+7
+; OriginalVersion: 2105091337
+; Blocked: 863 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32001,9 +32009,6 @@ itim.vn CNAME .
 jslog.zapps.vn CNAME .
 kabbmedia.com CNAME .
 klick.vn CNAME .
-ladipage.net CNAME .
-ladipage.vn CNAME .
-ladisales.com CNAME .
 lavanetwork.net CNAME .
 log.mp3.zing.vn CNAME .
 log.news.zing.vn CNAME .
@@ -32252,6 +32257,7 @@ fptad.com CNAME .
 genmonet.com CNAME .
 ghimc.vn CNAME .
 go.vnecdn.com CNAME .
+hexapinow.xyz CNAME .
 imgcdnbet.com CNAME .
 interactive.tinnhanhchungkhoan.vn CNAME .
 landingpagelagi.vn CNAME .
@@ -32408,6 +32414,7 @@ log.tieudungthoinay.vn CNAME .
 log.tinnhac.com CNAME .
 log.tinnhanhchungkhoan.vn CNAME .
 log.tinxe.vn CNAME .
+log.toss.vn CNAME .
 log.trithuctructuyen.com.vn CNAME .
 log.trithuctructuyen.vn CNAME .
 log.vietnamdaily.net.vn CNAME .
@@ -32476,6 +32483,7 @@ track-srv.vietnamnet.vn CNAME .
 track.icheck.com.vn CNAME .
 track.kyna.vn CNAME .
 track.lapa.pub CNAME .
+track.lemonnovel.com CNAME .
 track.pnj.com.vn CNAME .
 track.pregmomvietnam.com CNAME .
 track.sendo.vn CNAME .
@@ -32491,6 +32499,7 @@ tracking.appwifi.com CNAME .
 tracking.dantri.com.vn CNAME .
 tracking.fado.vn CNAME .
 tracking.fff.com.vn CNAME .
+tracking.gapone.vn CNAME .
 tracking.hongtinnhanh.com CNAME .
 tracking.meta.vn CNAME .
 tracking.phunuadong.vn CNAME .
@@ -32643,6 +32652,8 @@ one88.me CNAME .
 one88.us CNAME .
 one88.vn CNAME .
 oneday88.com CNAME .
+playgamefa88.live CNAME .
+playgo88.asia CNAME .
 playv8.com CNAME .
 qq8788viet.com CNAME .
 r88.vn CNAME .
@@ -32694,6 +32705,7 @@ vn88.com CNAME .
 vnloto.com CNAME .
 vua1004.club CNAME .
 vua1005.club CNAME .
+vuabai9.com CNAME .
 vuaclub1008.club CNAME .
 vw220.com CNAME .
 vwinnow.com CNAME .
@@ -32750,6 +32762,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+abc88866.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35358,6 +35371,7 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+ahzhongzhan.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
