@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-08T18:09:15.193Z
+; Last modified: 2021-05-09T00:09:01.152Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -35358,12 +35358,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-riccol.cn CNAME .
-jxaucs1802.cn CNAME .
-mrjfsc.cn CNAME .
-yvrpeky.cn CNAME .
-51df7z.cn CNAME .
-qwddcwmwqiqwd21.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -35434,6 +35428,7 @@ qwddcwmwqiqwd21.cn CNAME .
 4z5o27.cn CNAME .
 517kp.com CNAME .
 519397.com CNAME .
+51df7z.cn CNAME .
 51dianji.cn CNAME .
 51elandt.com CNAME .
 51fishplace.com CNAME .
@@ -36231,6 +36226,7 @@ juxuyun.com CNAME .
 juyour8.org CNAME .
 jvyigg.biqugeq.com CNAME .
 jvyigg.zbzw.la CNAME .
+jxaucs1802.cn CNAME .
 jxbtl.com CNAME .
 jxdzoy.cn CNAME .
 jxhcyc.com CNAME .
@@ -36398,6 +36394,7 @@ mouaa.com CNAME .
 movii-loft.cn CNAME .
 moxiaoyang.top CNAME .
 mozqca.cn CNAME .
+mrjfsc.cn CNAME .
 msccabin.com CNAME .
 mtcat.cn CNAME .
 mudezs.com CNAME .
@@ -36570,6 +36567,7 @@ quxiandu.com CNAME .
 qwddcwmwqiqwd18.cn CNAME .
 qwddcwmwqiqwd19.cn CNAME .
 qwddcwmwqiqwd20.cn CNAME .
+qwddcwmwqiqwd21.cn CNAME .
 qxyu.top CNAME .
 qyhwqie.cn CNAME .
 qysyyg.com CNAME .
@@ -36594,6 +36592,7 @@ represented.cn CNAME .
 requested.cn CNAME .
 rfese.com CNAME .
 rfjckj.cn CNAME .
+riccol.cn CNAME .
 ricqo.com CNAME .
 rishenglaw.cn CNAME .
 rmwdn.com CNAME .
@@ -37044,6 +37043,7 @@ yunnanpulasi.com CNAME .
 yushengyuancaishui.com CNAME .
 yuxiny.com CNAME .
 yuyanhe.com CNAME .
+yvrpeky.cn CNAME .
 ywbwsm.com CNAME .
 ywqpgy.com CNAME .
 ywqum.cn CNAME .
