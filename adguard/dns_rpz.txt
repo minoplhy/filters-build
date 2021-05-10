@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-10T12:03:34.640Z
+; Last modified: 2021-05-10T18:15:22.134Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+gropsyruty.com CNAME .
+hootersavour.com CNAME .
 adsterra.org CNAME .
 apexwantstar.com CNAME .
 c43a3cd8f99413891.com CNAME .
@@ -474,7 +476,6 @@ promos.camsoda.com CNAME .
 talazywho.pro CNAME .
 sporedfryhum.com CNAME .
 toperw.com CNAME .
-hotideiasnetwork.ml CNAME .
 s.bigbolz.com CNAME .
 7kjfbgkjbfgb.club CNAME .
 tearpilotzoo.com CNAME .
@@ -5782,6 +5783,7 @@ darkenedshrine.com CNAME .
 dartsirhose.icu CNAME .
 darwarvid.com CNAME .
 dasfelynsaterr.webcam CNAME .
+dasfelynsaterr.win CNAME .
 dashbida.com CNAME .
 dashboardad.net CNAME .
 dashcreakyock.com CNAME .
@@ -17120,6 +17122,7 @@ c3.myapkcdn.in CNAME .
 plugin.mobopay.baidu.com CNAME .
 mo.freeindoapp.com CNAME .
 ;
+ad-channel.wikawika.xyz CNAME .
 media-router-flurry*.yahoo.com CNAME .
 cads.scalemonk.com CNAME .
 adspot.tfgapps.com CNAME .
@@ -31950,9 +31953,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 09 May 2021 13:37 UTC+7
-; OriginalVersion: 2105091337
-; Blocked: 863 rules
+; Last modified: 10 May 2021 22:02 UTC+7
+; OriginalVersion: 2105102202
+; Blocked: 864 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32570,6 +32573,7 @@ ae888.com CNAME .
 aw8vn2.com CNAME .
 b29qc.win CNAME .
 b52.win CNAME .
+bet365.com CNAME .
 betvietnam.info CNAME .
 betvisa.com CNAME .
 big88.one CNAME .
@@ -35386,6 +35390,7 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+vhh.23txt.com CNAME .
 tirongtech.cn CNAME .
 lxanimation.cn CNAME .
 027whht.com CNAME .
