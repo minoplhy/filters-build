@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-09T18:09:27.939Z
+; Last modified: 2021-05-10T00:08:02.371Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32762,7 +32762,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-abc88866.com CNAME .
+wwwlongjiekejijishu.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -32982,6 +32982,7 @@ a0usa.top CNAME .
 a907907.com CNAME .
 a9377j.com CNAME .
 aasyy.com CNAME .
+abc88866.com CNAME .
 abcdlm.com CNAME .
 abie14.top CNAME .
 acasys88.cn CNAME .
@@ -34638,6 +34639,7 @@ yybx.oss-cn-hangzhou.aliyuncs.com CNAME .
 z.nowscore.com CNAME .
 zt2088.com CNAME .
 ztyumn.ifeng.com CNAME .
+tc.18moe.net CNAME .
 ad.10010.com CNAME rpz-passthru.
 ad.abchina.com CNAME rpz-passthru.
 ad.kazakinfo.com CNAME rpz-passthru.
@@ -35371,7 +35373,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-ahzhongzhan.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -35543,6 +35544,7 @@ ah808.com CNAME .
 ahidna.cn CNAME .
 ahuac.com CNAME .
 ahwczn.cn CNAME .
+ahzhongzhan.cn CNAME .
 aibangzs.com CNAME .
 aikan6.com CNAME .
 ailezhai.cn CNAME .
