@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-10T06:03:12.139Z
+; Last modified: 2021-05-10T12:03:34.640Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+adsterra.org CNAME .
+apexwantstar.com CNAME .
 c43a3cd8f99413891.com CNAME .
 ecjkroklyxvod.com CNAME .
 tluumnjyrc.com CNAME .
@@ -86,7 +88,6 @@ stagepopkek.com CNAME .
 a.dirtyasmr.com CNAME .
 papaneecorche.com CNAME .
 youngoutmatchthousand.com CNAME .
-eabids.com CNAME .
 kdkgwhntslalwj.com CNAME .
 outblowtewhit.com CNAME .
 creamssicsite.com CNAME .
@@ -6253,6 +6254,7 @@ e9c1khhwn4uf.com CNAME .
 ea1abaf867.com CNAME .
 ea6353e47e0ab3f78.com CNAME .
 ea978ca12bb65.com CNAME .
+eabids.com CNAME .
 eabyvnmt.com CNAME .
 eac0823ca94e3c07.com CNAME .
 eacdn.com CNAME .
@@ -30971,6 +30973,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+ad.rarure.com CNAME .
 sda.seesaa.jp CNAME .
 affiliate-script-pr.firebaseapp.com CNAME .
 asia-northeast1-affiliate-pr.cloudfunctions.net CNAME .
@@ -31587,6 +31590,7 @@ sparkads.ws CNAME .
 sparkassen-partner.de CNAME .
 special-sponsor.de CNAME .
 sponsortown.de CNAME .
+spoods.io CNAME .
 stilanzeigen.net CNAME .
 sunnysales.biz CNAME .
 superclix.de CNAME .
@@ -35382,6 +35386,8 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+tirongtech.cn CNAME .
+lxanimation.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
