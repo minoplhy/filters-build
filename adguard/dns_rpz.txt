@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-11T00:07:25.160Z
+; Last modified: 2021-05-11T06:03:26.535Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -15736,6 +15736,7 @@ qrlsx.com CNAME .
 qservz.com CNAME .
 qualitypageviews.com CNAME .
 quanta-wave.com CNAME .
+quanta.la CNAME .
 quantum-advertising.com CNAME .
 quantumads.com CNAME .
 quensillo.com CNAME .
@@ -16638,6 +16639,7 @@ d1qggq1at2gusn.cloudfront.net CNAME .
 d1r90st78epsag.cloudfront.net CNAME .
 d1rguclfwp7nc8.cloudfront.net CNAME .
 d1rkf0bq85yx06.cloudfront.net CNAME .
+d1upt0rqzff34l.cloudfront.net CNAME .
 d1v99qnc7usc0g.cloudfront.net CNAME .
 d1zgderxoe1a.cloudfront.net CNAME .
 d20903hof2l33q.cloudfront.net CNAME .
@@ -23655,6 +23657,7 @@ adregain.com CNAME .
 adregain.ru CNAME .
 adrizer.com CNAME .
 adscore.com CNAME .
+adtector.com CNAME .
 adtrackers.net CNAME .
 adunity.com CNAME .
 advalo.com CNAME .
@@ -24731,6 +24734,7 @@ analytics.dev.htmedia.in CNAME .
 analytics.dev.springboardvideo.com CNAME .
 analytics.developer.riotgames.com CNAME .
 analytics.dvidshub.net CNAME .
+analytics.eggoffer.com CNAME .
 analytics.erepublic.com CNAME .
 analytics.facebook.com CNAME .
 analytics.favcy.com CNAME .
@@ -24753,6 +24757,7 @@ analytics.optilead.co.uk CNAME .
 analytics.orenshmu.com CNAME .
 analytics.ostr.io CNAME .
 analytics.paddle.com CNAME .
+analytics.pagefly.io CNAME .
 analytics.performable.com CNAME .
 analytics.piksel.com CNAME .
 analytics.pinterest.com CNAME .
@@ -35701,7 +35706,6 @@ caiwanhui.top CNAME .
 calculated.cn CNAME .
 caofta.cn CNAME .
 cathaycentury.com CNAME .
-cbvjddh.23txt.com CNAME .
 cbxe1r.cn CNAME .
 cbyckdf.cn CNAME .
 cchfjz.com CNAME .
@@ -36719,7 +36723,6 @@ subshall.cn CNAME .
 sugarpuff.net CNAME .
 suhusushi.com CNAME .
 suitmatters.cn CNAME .
-suolaka.23txt.com CNAME .
 suoooi.cn CNAME .
 sv7oqa.cn CNAME .
 svfwer.top CNAME .
@@ -36851,7 +36854,6 @@ vasb.cn CNAME .
 vbanm.com CNAME .
 vchim.com CNAME .
 vf5yb4.cn CNAME .
-vhh.23txt.com CNAME .
 vinuxhome.com CNAME .
 vivi87.cn CNAME .
 vjptye.cn CNAME .
