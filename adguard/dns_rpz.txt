@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-10T18:15:22.134Z
+; Last modified: 2021-05-11T00:07:25.160Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -23522,7 +23522,8 @@ clktrk.display.io CNAME .
 collector.brandify.com CNAME .
 counter.kingsoft.com CNAME .
 crasheye.cn CNAME .
-data.mistat.*.xiaomi.com CNAME .
+data.mistat.india.xiaomi.com CNAME .
+data.mistat.rus.xiaomi.com CNAME .
 data.sec.miui.com CNAME .
 ep.xone.com CNAME .
 etl.xlmc.sandai.net CNAME .
@@ -32779,7 +32780,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-wwwlongjiekejijishu.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34112,6 +34112,7 @@ wuwaii.com CNAME .
 wuwho.cn CNAME .
 wwlolbs.com CNAME .
 www-sina-cn-com.com CNAME .
+wwwlongjiekejijishu.com CNAME .
 wxiansen.cn CNAME .
 wxs666.cn CNAME .
 wxxfqc.com CNAME .
@@ -34626,6 +34627,7 @@ sub.powerapple.com CNAME .
 super.cat898.com CNAME .
 super.kdnet.net CNAME .
 synacast.com CNAME .
+tc.18moe.net CNAME .
 teslaamg.obs.cn-east-3.myhuaweicloud.com CNAME .
 tf.360.cn CNAME .
 theta.sogoucdn.com CNAME .
@@ -34656,7 +34658,6 @@ yybx.oss-cn-hangzhou.aliyuncs.com CNAME .
 z.nowscore.com CNAME .
 zt2088.com CNAME .
 ztyumn.ifeng.com CNAME .
-tc.18moe.net CNAME .
 ad.10010.com CNAME rpz-passthru.
 ad.abchina.com CNAME rpz-passthru.
 ad.kazakinfo.com CNAME rpz-passthru.
@@ -35390,9 +35391,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-vhh.23txt.com CNAME .
-tirongtech.cn CNAME .
-lxanimation.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -36379,6 +36377,7 @@ luyouxi.cn CNAME .
 lvkuaizi.com CNAME .
 lvsechufang.com CNAME .
 lwlscy.com CNAME .
+lxanimation.cn CNAME .
 lxhjaq.cn CNAME .
 ly2si17.cn CNAME .
 ly5200.cn CNAME .
@@ -36780,6 +36779,7 @@ tiaoweiyou.cn CNAME .
 tieqifeng.com CNAME .
 tingfengyu.top CNAME .
 tiojk.com CNAME .
+tirongtech.cn CNAME .
 tiwom.com CNAME .
 tjiaa.com CNAME .
 tjlms.cn CNAME .
@@ -36851,6 +36851,7 @@ vasb.cn CNAME .
 vbanm.com CNAME .
 vchim.com CNAME .
 vf5yb4.cn CNAME .
+vhh.23txt.com CNAME .
 vinuxhome.com CNAME .
 vivi87.cn CNAME .
 vjptye.cn CNAME .
