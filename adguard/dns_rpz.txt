@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-11T18:15:32.979Z
+; Last modified: 2021-05-12T00:08:24.599Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32860,7 +32860,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-ttzhongbao.com CNAME .
+pcshuju.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34094,6 +34094,7 @@ tpe163.com CNAME .
 trourted.pro CNAME .
 tsdlp.com CNAME .
 ttbc.cc CNAME .
+ttzhongbao.com CNAME .
 tukeai.com CNAME .
 tvbyb04.cn CNAME .
 twitterzs.com CNAME .
@@ -34759,6 +34760,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+wenwen120.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35472,7 +35474,6 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-jzdianlan.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -36353,6 +36354,7 @@ jxyufa.com CNAME .
 jyjhkz.com CNAME .
 jysbj.cn CNAME .
 jytjw.com CNAME .
+jzdianlan.cn CNAME .
 jzn360.cn CNAME .
 jzrzpump.com CNAME .
 k22x6.cn CNAME .
