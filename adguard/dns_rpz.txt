@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-15T12:06:46.818Z
+; Last modified: 2021-05-15T18:18:18.935Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+cuckooretire.com CNAME .
+beticithy.com CNAME .
 tags.catapultx.com CNAME .
 z.cdn.adpool.bet CNAME .
 ccdnqxu.com CNAME .
@@ -24056,6 +24058,7 @@ murdoog.com CNAME .
 musthird.com CNAME .
 mutinyhq.io CNAME .
 myfidevs.io CNAME .
+mygtmn.com CNAME .
 mynsystems.com CNAME .
 mytrack.pro CNAME .
 n74s9.com CNAME .
@@ -31008,6 +31011,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+mincure-ad.com CNAME .
 ad.woman.mynavi.jp CNAME .
 ad.rarure.com CNAME .
 affiliate-script-pr.firebaseapp.com CNAME .
