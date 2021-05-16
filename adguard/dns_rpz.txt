@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-16T00:20:41.185Z
+; Last modified: 2021-05-16T06:05:31.421Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -31989,9 +31989,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 13 May 2021 14:53 UTC+7
-; OriginalVersion: 2105131453
-; Blocked: 863 rules
+; Last modified: 16 May 2021 12:22 UTC+7
+; OriginalVersion: 2105161222
+; Blocked: 864 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32717,6 +32717,7 @@ rik.win CNAME .
 rio66qc.club CNAME .
 sbc31.com CNAME .
 sieubomtan.com CNAME .
+sin88.com CNAME .
 sky88.com CNAME .
 socvip.com CNAME .
 socvip9.club CNAME .
@@ -35144,7 +35145,6 @@ img50.pingguolv.com CNAME .
 inone517.com CNAME .
 ios.426g.com CNAME .
 ishuoshuo.com CNAME .
-isu.weidianyuedu.com CNAME .
 j.9136.com CNAME .
 j.98158.com CNAME .
 j.baminw.cn CNAME .
@@ -35328,7 +35328,6 @@ w18.9939.com CNAME .
 w3c.5txs.com CNAME .
 wap001.bytravel.cn CNAME .
 wap1.laogu.wang CNAME .
-wdfhl.weidianyuedu.com CNAME .
 wenhua.jiaoshou.com CNAME .
 wenwen120.com CNAME .
 whfpbc.99.com.cn CNAME .
@@ -35431,6 +35430,12 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+shenhuachuwei.cn CNAME .
+lzhyhy.cn CNAME .
+binkens.cn CNAME .
+szhdhbz.com CNAME .
+rjtpos.cn CNAME .
+fintechpi.com CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
