@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-16T06:05:31.421Z
+; Last modified: 2021-05-16T18:20:19.583Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,12 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+hardyconflict.com CNAME .
+wherabygry.com CNAME .
+diningprefixmyself.com CNAME .
+roilsnadirink.com CNAME .
+thousandfixedlyyawn.com CNAME .
+harlsmums.com CNAME .
 cuckooretire.com CNAME .
 beticithy.com CNAME .
 tags.catapultx.com CNAME .
@@ -261,7 +267,6 @@ harmlesstacticalhonorable.com CNAME .
 air2s.com CNAME .
 ioadserve.com CNAME .
 samplerpouch.com CNAME .
-sketchinferiorunits.com CNAME .
 go.loadingnow.me CNAME .
 wishjus.com CNAME .
 jutyledu.pro CNAME .
@@ -11470,6 +11475,7 @@ sixtuxfixer.com CNAME .
 sjeffrontagr.top CNAME .
 sjgcswrvltrx.com CNAME .
 sjscxhknxeek.com CNAME .
+sketchinferiorunits.com CNAME .
 skilyake.net CNAME .
 skinnyfinnishhi.com CNAME .
 sknkwpvrkz.com CNAME .
@@ -31011,6 +31017,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+roselip-fetish.com CNAME .
 mincure-ad.com CNAME .
 ad.woman.mynavi.jp CNAME .
 ad.rarure.com CNAME .
@@ -32815,6 +32822,10 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+xn--2ssq0ktxigkq.com CNAME .
+ahwangtao.com CNAME .
+bjytdqwx.com CNAME .
+czgjhotel.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35430,6 +35441,7 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+51toubu.com CNAME .
 shenhuachuwei.cn CNAME .
 lzhyhy.cn CNAME .
 binkens.cn CNAME .
