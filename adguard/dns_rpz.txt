@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-17T12:07:54.842Z
+; Last modified: 2021-05-17T18:20:53.138Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+ad.utop.ir CNAME .
+bmfads.com CNAME .
 degryrubi.com CNAME .
 fertilizermessyshortcut.com CNAME .
 minoritish.online CNAME .
@@ -2790,6 +2792,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+spyglass.octanime.net CNAME .
 a.teenspirithentai.com CNAME .
 d1ac2du043ydir.cloudfront.net CNAME .
 tontent.pouvideo.cc CNAME .
@@ -3569,6 +3572,7 @@ mine.torrent.pw CNAME .
 5e01f27136.com CNAME .
 5f6dmzflgqso.com CNAME .
 5gsb4ospxp.monster CNAME .
+5i8xkqjmqubv.top CNAME .
 5nt1gx7o57.com CNAME .
 5pr1sfzsl9.com CNAME .
 5qg9ibt1a6.com CNAME .
@@ -4942,6 +4946,7 @@ bxaddbia.com CNAME .
 bxczchdxynw.com CNAME .
 bxgjpocfz1g1jiwb.pro CNAME .
 bxmfuxxiqmw.com CNAME .
+bycixeba.com CNAME .
 byfgrwrpqjdkj.com CNAME .
 byronevaca.fun CNAME .
 bystfied.pro CNAME .
@@ -8136,6 +8141,7 @@ j7rzxe098g5m.com CNAME .
 jackao.net CNAME .
 jackettrain.com CNAME .
 jacketzerobelieved.com CNAME .
+jafosachi.pro CNAME .
 jaftouja.net CNAME .
 jamcdn.pro CNAME .
 jamdomn.pro CNAME .
@@ -8426,6 +8432,7 @@ kshzzbmgbmoqad.com CNAME .
 ksjrehefupsrkz.com CNAME .
 kt5850pjz0.com CNAME .
 ktbhboeaqw.com CNAME .
+ktkjmp.com CNAME .
 ktyawzg.com CNAME .
 kueimatyr.com CNAME .
 kumanaun.net CNAME .
@@ -8842,6 +8849,7 @@ manslaughteradministrationalarm.com CNAME .
 manycham.top CNAME .
 mapcrayonmiss.com CNAME .
 marapcana.online CNAME .
+marateathe.cam CNAME .
 marbil24.co.za CNAME .
 marchedcredulity.com CNAME .
 marchites.club CNAME .
@@ -8878,6 +8886,7 @@ matchuph.com CNAME .
 matekernes.fun CNAME .
 materialisticinformal.com CNAME .
 mathads.com CNAME .
+mathafuda.pro CNAME .
 mation.xyz CNAME .
 mationen.club CNAME .
 matiro.com CNAME .
@@ -11685,6 +11694,7 @@ start3dd0wnload.com CNAME .
 startappexchange.com CNAME .
 startsmajesty.com CNAME .
 starveornamentgeneralization.com CNAME .
+statuewas.com CNAME .
 statutecompatibility.com CNAME .
 stawhoph.com CNAME .
 stdirection.com CNAME .
@@ -13157,6 +13167,7 @@ yabuka.com CNAME .
 yaccidedap.top CNAME .
 yachtpreceding.com CNAME .
 yajeaumd.com CNAME .
+yamspunkdew.com CNAME .
 yanderthundr.fun CNAME .
 yankevaxf.com CNAME .
 yankszapfop.com CNAME .
@@ -14096,6 +14107,7 @@ affiliatelounge.com CNAME .
 affiliatemembership.com CNAME .
 affiliatenetwork.co.za CNAME .
 affiliatesensor.com CNAME .
+affiliatesrebels.com CNAME .
 affiliation-france.com CNAME .
 affiliationcash.com CNAME .
 affiliationworld.com CNAME .
@@ -17766,6 +17778,7 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+docomo-analytics.com CNAME .
 stats.fomo.com CNAME .
 aghtag.tech CNAME .
 monitor.azure.com CNAME .
@@ -26404,6 +26417,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+zzxjlr.com CNAME .
 zargutivisor.info CNAME .
 nfztms.com CNAME .
 rhhmaq.com CNAME .
