@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-16T18:20:19.583Z
+; Last modified: 2021-05-17T00:18:49.558Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32822,10 +32822,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-xn--2ssq0ktxigkq.com CNAME .
-ahwangtao.com CNAME .
-bjytdqwx.com CNAME .
-czgjhotel.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33071,6 +33067,7 @@ ahjzys.com CNAME .
 ahlxxx.com CNAME .
 ahrefa.com CNAME .
 ahszgog.com CNAME .
+ahwangtao.com CNAME .
 ahyau.com CNAME .
 ahyuns.com CNAME .
 aijielang.cn CNAME .
@@ -33138,6 +33135,7 @@ bingyinq.com CNAME .
 biohailijie.cn CNAME .
 bj-bytsk.com CNAME .
 bjgtsh.com CNAME .
+bjytdqwx.com CNAME .
 bjzsyx.cn CNAME .
 bla01.com CNAME .
 blogdaka.cc CNAME .
@@ -33246,6 +33244,7 @@ cyacc.com CNAME .
 cytcm.com CNAME .
 cz09.com CNAME .
 cz9k8b.top CNAME .
+czgjhotel.com CNAME .
 czpush.com CNAME .
 czpwm.com CNAME .
 cztanchao.com CNAME .
@@ -34215,6 +34214,7 @@ xn--2qu92fhtx4ff.icu CNAME .
 xn--2qu96gouvko1a.com CNAME .
 xn--2qux23c9ziyrq.video CNAME .
 xn--2quz8f01ak10c.shop CNAME .
+xn--2ssq0ktxigkq.com CNAME .
 xn--3bs795g.chat CNAME .
 xn--3bs795g.pub CNAME .
 xn--3bs795g.zone CNAME .
@@ -35441,13 +35441,7 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-51toubu.com CNAME .
-shenhuachuwei.cn CNAME .
-lzhyhy.cn CNAME .
-binkens.cn CNAME .
-szhdhbz.com CNAME .
-rjtpos.cn CNAME .
-fintechpi.com CNAME .
+mkjunc.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -35525,6 +35519,7 @@ fintechpi.com CNAME .
 51foodsafe.cn CNAME .
 51gpt.com CNAME .
 51showmy.com CNAME .
+51toubu.com CNAME .
 51wxyx.cn CNAME .
 52homie.cn CNAME .
 52tushuo.com CNAME .
@@ -35712,6 +35707,7 @@ bigcooc.xyz CNAME .
 bigcood.xyz CNAME .
 bigcook.xyz CNAME .
 bigcoon.xyz CNAME .
+binkens.cn CNAME .
 bio-lifehealth.com CNAME .
 birthcaker.cn CNAME .
 bishufang.cn CNAME .
@@ -35983,6 +35979,7 @@ ffupiiv.cn CNAME .
 ffyyfy.top CNAME .
 fhixhde.cn CNAME .
 findx2.info CNAME .
+fintechpi.com CNAME .
 fj95560.com CNAME .
 fjhanmei.com CNAME .
 fjmrxys.com CNAME .
@@ -36448,6 +36445,7 @@ ly5200.cn CNAME .
 lyczhb.com CNAME .
 lyjz001.com CNAME .
 lylifa.com CNAME .
+lzhyhy.cn CNAME .
 m06nev.com CNAME .
 mababa.info CNAME .
 maicaoren.cn CNAME .
@@ -36695,6 +36693,7 @@ rfjckj.cn CNAME .
 riccol.cn CNAME .
 ricqo.com CNAME .
 rishenglaw.cn CNAME .
+rjtpos.cn CNAME .
 rmwdn.com CNAME .
 rockcoke.cn CNAME .
 romgv.com CNAME .
@@ -36741,6 +36740,7 @@ shaquevip.oss-cn-zhangjiakou.aliyuncs.com CNAME .
 shengchaopiao.cn CNAME .
 shengdaoyiliao.com CNAME .
 shenhao258.top CNAME .
+shenhuachuwei.cn CNAME .
 shenyunkeji.com CNAME .
 shffcy.cn CNAME .
 shidaikejivip.cn CNAME .
@@ -36813,6 +36813,7 @@ sysal.cn CNAME .
 sysycloud.com CNAME .
 sytsr.com CNAME .
 syxchj.cn CNAME .
+szhdhbz.com CNAME .
 szhgmd.com CNAME .
 szmxwjm.com CNAME .
 szpengliye.com CNAME .
