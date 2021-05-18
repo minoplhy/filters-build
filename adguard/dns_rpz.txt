@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-18T06:05:24.665Z
+; Last modified: 2021-05-18T12:07:53.059Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+fogsham.com CNAME .
 bollroaches.com CNAME .
 ad.utop.ir CNAME .
 bmfads.com CNAME .
@@ -19950,6 +19951,7 @@ predicta.net CNAME .
 predictivedna.com CNAME .
 predictiveresponse.net CNAME .
 prfct.co CNAME .
+privacycounter.com CNAME .
 prnetwork.de CNAME .
 prnx.net CNAME .
 proclivitysystems.com CNAME .
@@ -32847,6 +32849,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+ahuano.com CNAME .
 shunlidl.online CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
@@ -34733,6 +34736,7 @@ yybx.oss-cn-hangzhou.aliyuncs.com CNAME .
 z.nowscore.com CNAME .
 zt2088.com CNAME .
 ztyumn.ifeng.com CNAME .
+ad.gmw.cn CNAME .
 ad.10010.com CNAME rpz-passthru.
 ad.abchina.com CNAME rpz-passthru.
 ad.kazakinfo.com CNAME rpz-passthru.
@@ -34753,6 +34757,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+z1.pclady.com.cn CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35467,6 +35472,9 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+biquter.xyz CNAME .
+osqoglv.cn CNAME .
+hkosgxn.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
