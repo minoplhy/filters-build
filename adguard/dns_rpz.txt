@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-18T00:20:42.947Z
+; Last modified: 2021-05-18T06:05:24.665Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -24309,6 +24309,7 @@ tp88trk.com CNAME .
 traceless.me CNAME .
 track-re01.com CNAME .
 track-server-100.com CNAME .
+trackadm.com CNAME .
 trackcb.com CNAME .
 trackertest.org CNAME .
 trackingpro.pro CNAME .
@@ -24767,6 +24768,7 @@ alexandria.marfeelcdn.com CNAME .
 amplify.outbrain.com CNAME .
 an.yandex.ru CNAME .
 analyse.bcovery.com CNAME .
+analytic.rollout.io CNAME .
 analytic.xingcloud.com CNAME .
 analyticcdn.globalmailer.com CNAME .
 analytics-beacon-*.amazonaws.com CNAME .
@@ -25222,6 +25224,7 @@ powersearch.us.com CNAME .
 pr.blogflux.com CNAME .
 prd-collector-auth.playbuzz.com CNAME .
 prd-collector-platform.ex.co CNAME .
+privacy.outdoorsg.com CNAME .
 processor.asccommunications.com CNAME .
 production.mcs.delve.cust.lldns.net CNAME .
 projop.dnsalias.com CNAME .
@@ -32844,6 +32847,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+shunlidl.online CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
