@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-17T18:20:53.138Z
+; Last modified: 2021-05-18T00:20:42.947Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+bollroaches.com CNAME .
 ad.utop.ir CNAME .
 bmfads.com CNAME .
 degryrubi.com CNAME .
@@ -20730,6 +20731,7 @@ functionalclam.com CNAME .
 ; Admiral domains
 ; These domains are used for tracking purposes according to the data that is being sent there.
 ; More info: https://getadmiral.com/products/measure
+hystericalcloth.com CNAME .
 caringcast.com CNAME .
 selfishsnake.com CNAME .
 soretrain.com CNAME .
@@ -21825,6 +21827,7 @@ event.chitai-gorod.ru CNAME .
 counter.nv.ua CNAME .
 metrika.myseldon.com CNAME .
 t.lidyana.com CNAME .
+analytics.faceitanalytics.com CNAME .
 stats.muasamcong.gov.vn CNAME .
 beacon.watch.impress.co.jp CNAME .
 metrics-broker.prod.p.tf1.fr CNAME .
@@ -35461,11 +35464,6 @@ runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
 01tn.cn CNAME .
-fwnetrb.cn CNAME .
-tdbwgrm.cn CNAME .
-ealcrrm.cn CNAME .
-mzcs65562.cn CNAME .
-mkjunc.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
 0323wqpioutyuencsamxsd.xyz CNAME .
@@ -35950,6 +35948,7 @@ dyuadask.com CNAME .
 dzooo.cn CNAME .
 dzrenju2.cn CNAME .
 e9emh.cn CNAME .
+ealcrrm.cn CNAME .
 ebuysolar.com CNAME .
 echuanglm1.com CNAME .
 ecuwa.cn CNAME .
@@ -36033,6 +36032,7 @@ fuligrs.cn CNAME .
 futengbao.com.cn CNAME .
 fuxin-tech.com CNAME .
 fw.zhuaji.org CNAME .
+fwnetrb.cn CNAME .
 fwyang.com CNAME .
 fxfhjs.com CNAME .
 fxfvttu.cn CNAME .
@@ -36501,6 +36501,7 @@ mitjg.xyz CNAME .
 miyaluorenliziuan.cn CNAME .
 mjita.cn CNAME .
 mjtowot.cn CNAME .
+mkjunc.cn CNAME .
 ml44.cn CNAME .
 mlion.cn CNAME .
 mlre.com.cn CNAME .
@@ -36527,6 +36528,7 @@ myams.cn CNAME .
 mydownba.com CNAME .
 mysty.com.cn CNAME .
 mzbb8872.cn CNAME .
+mzcs65562.cn CNAME .
 mzirmall.com CNAME .
 n18uji.xyz CNAME .
 nabeghlavi.com.cn CNAME .
@@ -36857,6 +36859,7 @@ tbaia.com CNAME .
 tchep.com CNAME .
 tcnmf.com CNAME .
 tdain.com CNAME .
+tdbwgrm.cn CNAME .
 tfg8.com CNAME .
 tgbrfv.cn CNAME .
 tglzqw.cn CNAME .
