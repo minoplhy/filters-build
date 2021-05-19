@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-19T06:06:29.964Z
+; Last modified: 2021-05-19T12:27:48.434Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+geo.ads.audio.thisisdax.com CNAME .
+snodlycaccias.com CNAME .
+adc.streamspread.com CNAME .
 aftjohnanodes.com CNAME .
 melinaeability.casa CNAME .
 hgzuqrtzt.com CNAME .
@@ -5475,6 +5478,7 @@ commissed.club CNAME .
 commission-junction.com CNAME .
 commissionkings.ag CNAME .
 commissionlounge.com CNAME .
+commonvivacious.com CNAME .
 communited.club CNAME .
 communits.club CNAME .
 compartmentnutsnovember.com CNAME .
@@ -7315,6 +7319,7 @@ geras-con.com CNAME .
 germinatedisgustokay.com CNAME .
 gerskatimi.club CNAME .
 geruksom.net CNAME .
+getawayspectaclejumped.com CNAME .
 getbonusnow3.com CNAME .
 getdonspeg.work CNAME .
 getherehap.fun CNAME .
@@ -9422,6 +9427,7 @@ nappybedcandid.com CNAME .
 narkalignevil.com CNAME .
 narrowperennialaffable.com CNAME .
 natesbiscussi.club CNAME .
+nationaldeliquencydeliquency.com CNAME .
 nationsflushedoccasionally.com CNAME .
 nativeserv.com CNAME .
 natorpression.fun CNAME .
@@ -10656,6 +10662,7 @@ qggypucwewn.com CNAME .
 qgnadfdluev.com CNAME .
 qgnlbjkxrzb.com CNAME .
 qgnqsebea.com CNAME .
+qgogogox.com CNAME .
 qhdanxdyeuzdio.com CNAME .
 qhkhchjqawst.com CNAME .
 qhmrasvwzbwjpz.com CNAME .
@@ -11823,6 +11830,7 @@ surkiffee.xyz CNAME .
 surmountguardianbosom.com CNAME .
 surprisecub.com CNAME .
 surprivilegiez.xyz CNAME .
+surrendersonnygram.com CNAME .
 surveyingaltitude.com CNAME .
 susandsoc.top CNAME .
 susistorsde.club CNAME .
@@ -12473,6 +12481,7 @@ usenet-nl.top CNAME .
 usenetbombastic.cyou CNAME .
 usercherishwheelchair.com CNAME .
 userhenceforwardculture.com CNAME .
+usherprayer.com CNAME .
 ushoofop.com CNAME .
 ushooque.net CNAME .
 usingirritatecordial.com CNAME .
@@ -12542,6 +12551,7 @@ varylioness.com CNAME .
 vasgenerete.site CNAME .
 vashoaft.net CNAME .
 vasstycom.com CNAME .
+vastshmast.com CNAME .
 vatlodesim.com CNAME .
 vatname.info CNAME .
 vatskaylittl.club CNAME .
@@ -17792,6 +17802,11 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+eventsapi.grocerkey.com CNAME .
+dc-tag.jp CNAME .
+kitchen.juicer.cc CNAME .
+t.beop.io CNAME .
+contents-tracking.beop.io CNAME .
 docomo-analytics.com CNAME .
 stats.fomo.com CNAME .
 aghtag.tech CNAME .
@@ -23333,6 +23348,10 @@ adeventtracker.spotify.com CNAME .
 do-not-tracker.org CNAME .
 eviltracker.net CNAME .
 trackersimulator.org CNAME .
+;
+; For apps
+track.*.roku.com CNAME .
+traces.sr.roku.com CNAME .
 analytics.kidoz.net CNAME .
 track.tenjin.com CNAME .
 tracker.mtrtb.com CNAME .
@@ -23377,6 +23396,9 @@ analytics.qoqa.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+log-collector.shopee. CNAME .
+seller-log-collector.shopee. CNAME .
+telemetry.voxeet.com CNAME .
 usertrack.appcpi.net CNAME .
 api*.amplitude.com CNAME .
 collect.serious.li CNAME .
@@ -24951,7 +24973,6 @@ collector.automote.co.nz CNAME .
 collector.clareity.net CNAME .
 collector.sspinc.io CNAME .
 confiant-integrations.global.ssl.fastly.net CNAME .
-contents-tracking.beop.io CNAME .
 control.cityofcairns.com CNAME .
 conversions.genieventures.co.uk CNAME .
 cookies.livepartners.com CNAME .
@@ -25342,7 +25363,6 @@ systemmonitoring.badgeville.com CNAME .
 t-staging.powerreviews.com CNAME .
 t.a3cloud.net CNAME .
 t.auditedmedia.org.au CNAME .
-t.beop.io CNAME .
 t.beopinion.com CNAME .
 t.bimvid.com CNAME .
 t.brand-server.com CNAME .
@@ -26182,7 +26202,6 @@ counter2.blog.livedoor.com CNAME .
 delivery.satr.jp CNAME .
 imgstat.ameba.jp CNAME .
 ip2c.landscape.co.jp CNAME .
-kitchen.juicer.cc CNAME .
 lcs.livedoor.net CNAME .
 log.codemarketing.cloud CNAME .
 log.f-tra.com CNAME .
@@ -30712,6 +30731,7 @@ toprustory.ru CNAME .
 ; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 ;
 ;
+inegolreklam.net CNAME .
 reklam8.net CNAME .
 api.adnsafe.org CNAME .
 tarpitbar.com CNAME .
@@ -32862,6 +32882,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+kagdf.com CNAME .
+xmzwdgm.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35484,6 +35506,8 @@ yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+ylppppp.cn CNAME .
+mjvmypr.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -37409,6 +37433,8 @@ novunu.football-plyus.net CNAME .
 ; `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 ;
 ;
+; https://github.com/AdguardTeam/AdguardFilters/issues/81770
+tag.partner.mairdumont.com CNAME rpz-passthru.
 ; https://github.com/AdguardTeam/AdguardFilters/issues/81939
 support-beacon.nakanohito.jp CNAME rpz-passthru.
 support-widget.nakanohito.jp CNAME rpz-passthru.
