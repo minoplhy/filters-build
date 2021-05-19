@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-19T12:27:48.434Z
+; Last modified: 2021-05-19T18:21:52.459Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,10 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+dolphinanthill.com CNAME .
+gasijosti.com CNAME .
+ilyf4amifh.com CNAME .
+kneeansweras.com CNAME .
 geo.ads.audio.thisisdax.com CNAME .
 snodlycaccias.com CNAME .
 adc.streamspread.com CNAME .
@@ -4672,6 +4676,7 @@ bemobtrcks.com CNAME .
 bemobtrk.com CNAME .
 bemusic.xyz CNAME .
 beneathdangerously.com CNAME .
+benignrescuemistletoe.com CNAME .
 beonixom.com CNAME .
 bernationa.club CNAME .
 berningbegi.club CNAME .
@@ -6082,6 +6087,7 @@ disposecompere.com CNAME .
 dissimilarambient.com CNAME .
 dissimilartongueoatmeal.com CNAME .
 dissonbegant.info CNAME .
+distemshu.biz CNAME .
 disticked.club CNAME .
 distilled.ie CNAME .
 distinctcoherentmean.com CNAME .
@@ -7111,6 +7117,7 @@ forrestersurveys.com CNAME .
 fortsexpres.club CNAME .
 fortunitystar.club CNAME .
 forwrdnow.com CNAME .
+forzubatr.com CNAME .
 fosterpeacesadly.com CNAME .
 fosterstrawberry.com CNAME .
 fotsaulr.net CNAME .
@@ -7348,6 +7355,7 @@ gimpybedderump.com CNAME .
 gingoblindri.club CNAME .
 girlend.com CNAME .
 giscoeswork.space CNAME .
+gitechiphy.pro CNAME .
 gitoku.com CNAME .
 givenfrontierruth.com CNAME .
 givestment.club CNAME .
@@ -11272,6 +11280,7 @@ sauwonie.com CNAME .
 saveddrummermover.com CNAME .
 saventireri.top CNAME .
 sayessedb.club CNAME .
+sbanesere.biz CNAME .
 sbc7wfnaakau.com CNAME .
 sbfsdvc.com CNAME .
 sbiotiatingf.club CNAME .
@@ -12366,6 +12375,7 @@ uinoringho.fun CNAME .
 uisingreactic.top CNAME .
 uistspregna.club CNAME .
 uitabletublis.info CNAME .
+uiteligularly.fun CNAME .
 uiwaqbvvhz.com CNAME .
 uixsuffkzkhbj.com CNAME .
 ujccccb.com CNAME .
@@ -17802,6 +17812,7 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+pv.kuaizhan.com CNAME .
 eventsapi.grocerkey.com CNAME .
 dc-tag.jp CNAME .
 kitchen.juicer.cc CNAME .
@@ -21791,6 +21802,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+analytics.atlassian.com CNAME .
 trackdb.go3.tv CNAME .
 collector.rn.de CNAME .
 l.da-te.jp CNAME .
@@ -37433,8 +37445,6 @@ novunu.football-plyus.net CNAME .
 ; `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 ;
 ;
-; https://github.com/AdguardTeam/AdguardFilters/issues/81770
-tag.partner.mairdumont.com CNAME rpz-passthru.
 ; https://github.com/AdguardTeam/AdguardFilters/issues/81939
 support-beacon.nakanohito.jp CNAME rpz-passthru.
 support-widget.nakanohito.jp CNAME rpz-passthru.
