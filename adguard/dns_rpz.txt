@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-19T18:21:52.459Z
+; Last modified: 2021-05-20T00:18:43.678Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -8088,6 +8088,7 @@ interloquent.xyz CNAME .
 intermediaryinvoluntaryflippant.com CNAME .
 internewsweb.com CNAME .
 interst12.com CNAME .
+intervalssuggested.com CNAME .
 intimidatewearisomespecialist.com CNAME .
 intimidatingclinchwily.com CNAME .
 intimidatinggodlessketchup.com CNAME .
@@ -10291,6 +10292,7 @@ plantinscription.com CNAME .
 plashcashierbleach.com CNAME .
 plasminori.club CNAME .
 platinumarrangements.com CNAME .
+platitudefivesnack.com CNAME .
 platitudewildest.com CNAME .
 plausiblebyeshear.com CNAME .
 playerseo.club CNAME .
@@ -10304,6 +10306,7 @@ pleatglossary.com CNAME .
 plehimselves.info CNAME .
 plenituderingaccelerate.com CNAME .
 pletiondem.club CNAME .
+plierprival.biz CNAME .
 plightmoanshock.com CNAME .
 pluggednow.com CNAME .
 plumbscalpelprestigious.com CNAME .
@@ -14141,7 +14144,6 @@ affiliatelounge.com CNAME .
 affiliatemembership.com CNAME .
 affiliatenetwork.co.za CNAME .
 affiliatesensor.com CNAME .
-affiliatesrebels.com CNAME .
 affiliation-france.com CNAME .
 affiliationcash.com CNAME .
 affiliationworld.com CNAME .
@@ -23957,8 +23959,10 @@ fouanalytics.com CNAME .
 fpjs.io CNAME .
 fqsecure.com CNAME .
 fraudjs.io CNAME .
+free-hit-counters.net CNAME .
 freecounter.ovh CNAME .
 freegeoip.app CNAME .
+freevisitorcounters.com CNAME .
 fsd2.digital CNAME .
 fstats.xyz CNAME .
 fstrk.net CNAME .
@@ -24269,6 +24273,7 @@ salesviewer.com CNAME .
 salesviewer.org CNAME .
 san-spr-01.net CNAME .
 sbbanalytics.com CNAME .
+searchenginegenie.com CNAME .
 securitytrfx.com CNAME .
 seeip.org CNAME .
 seevolution.com CNAME .
@@ -32894,8 +32899,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-kagdf.com CNAME .
-xmzwdgm.com CNAME .
+lpsgc.cn CNAME .
+yi71.com.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33702,6 +33707,7 @@ jystea.com CNAME .
 k1815.com CNAME .
 k9dzax.cn CNAME .
 ka12138.top CNAME .
+kagdf.com CNAME .
 kan5.xyz CNAME .
 kan8.xyz CNAME .
 kanfaxing.com CNAME .
@@ -34286,6 +34292,7 @@ xmrepair.com CNAME .
 xmrzw.cn CNAME .
 xmtsyg.com CNAME .
 xmxxwl.com CNAME .
+xmzwdgm.com CNAME .
 xn--2qu92fhtx4ff.icu CNAME .
 xn--2qu96gouvko1a.com CNAME .
 xn--2qux23c9ziyrq.video CNAME .
@@ -35513,13 +35520,9 @@ yttz113.com CNAME .
 yuxiangrc.com CNAME .
 yzjlsb.com CNAME .
 ggtg8.com CNAME .
-lpsgc.cn CNAME .
-yi71.com.cn CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-ylppppp.cn CNAME .
-mjvmypr.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36560,6 +36563,7 @@ mitjg.xyz CNAME .
 miyaluorenliziuan.cn CNAME .
 mjita.cn CNAME .
 mjtowot.cn CNAME .
+mjvmypr.cn CNAME .
 mkjunc.cn CNAME .
 ml44.cn CNAME .
 mlion.cn CNAME .
@@ -37201,6 +37205,7 @@ yjiaj.com CNAME .
 yjxqy.com CNAME .
 ykanx.com CNAME .
 ykpbgqc.top CNAME .
+ylppppp.cn CNAME .
 ylykd.cn CNAME .
 ymxlm.cc CNAME .
 ynbzxh.com CNAME .
