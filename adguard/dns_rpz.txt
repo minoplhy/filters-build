@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-20T12:07:51.086Z
+; Last modified: 2021-05-20T18:23:08.512Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+ekufogow.xyz CNAME .
 dolphinanthill.com CNAME .
 gasijosti.com CNAME .
 ilyf4amifh.com CNAME .
@@ -3909,6 +3910,7 @@ acestrange.club CNAME .
 achaithe.com CNAME .
 achcdn.com CNAME .
 achedgodroad.com CNAME .
+achievablecpmrevenue.com CNAME .
 achilles-ena.com CNAME .
 achinahdh.club CNAME .
 acidlikenessdejected.com CNAME .
@@ -4178,6 +4180,7 @@ allyopenetic.info CNAME .
 almetasteyu.info CNAME .
 aloeparssabres.com CNAME .
 aloguerequi.space CNAME .
+aloha-news.net CNAME .
 aloissentence.pro CNAME .
 alonghelper.com CNAME .
 alruqbfjg.com CNAME .
@@ -4670,6 +4673,7 @@ beshtienhr2hd8j09.com CNAME .
 besiasmere.site CNAME .
 best5ex.com CNAME .
 bestaryua.com CNAME .
+bestcontentaccess.top CNAME .
 bestcontentfee.top CNAME .
 bestcontentfund.top CNAME .
 bestcontenthost.com CNAME .
@@ -5602,6 +5606,7 @@ courtroomprobe.com CNAME .
 coversaved.club CNAME .
 coversestri.club CNAME .
 covetoussyndrome.com CNAME .
+cowardlymissinggranulated.com CNAME .
 cowbumply.com CNAME .
 cowerhireimps.com CNAME .
 coyseyirely.club CNAME .
@@ -5907,6 +5912,7 @@ deliverymodo.com CNAME .
 deloplen.com CNAME .
 deludesobbingdeliberately.com CNAME .
 delvechoir.com CNAME .
+delveharassment.com CNAME .
 demand.supply CNAME .
 demandlateralpoke.com CNAME .
 demanfon.club CNAME .
@@ -8028,6 +8034,7 @@ intelligenceadx.com CNAME .
 intendalinetang.com CNAME .
 intentanalysis.com CNAME .
 interceptstephen.com CNAME .
+interclics.com CNAME .
 interdfp.com CNAME .
 interfacewarrefrain.com CNAME .
 interferingchauffeurorbit.com CNAME .
@@ -9054,6 +9061,7 @@ millagesert.info CNAME .
 millennialmedia.com CNAME .
 millraffle.com CNAME .
 miltauru.net CNAME .
+mimicbeeralb.com CNAME .
 mimilcnf.pro CNAME .
 mimpiphy.net CNAME .
 minaconfli.top CNAME .
@@ -9571,6 +9579,7 @@ nogburger.site CNAME .
 nogerefron.info CNAME .
 noglolra.com CNAME .
 noiselesscatching.com CNAME .
+noisysortcasualty.com CNAME .
 nomadpertexcess.com CNAME .
 nomicidenti.top CNAME .
 nonerr.com CNAME .
@@ -9995,6 +10004,7 @@ padspms.com CNAME .
 padspmz.com CNAME .
 padsreds.com CNAME .
 paginw.com CNAME .
+pagne4cham4hrobl.com CNAME .
 pagnookr.net CNAME .
 paht.tech CNAME .
 painfullyneattide.com CNAME .
@@ -13120,6 +13130,7 @@ yashi.com CNAME .
 yasmwesikz.com CNAME .
 yassociallya.club CNAME .
 yauhbgfc.com CNAME .
+yawcoynag.com CNAME .
 yb0t.com CNAME .
 yb7a1bb6k1.com CNAME .
 ybytexer.xyz CNAME .
@@ -16830,6 +16841,7 @@ sndkorea.nowcdn.co.kr CNAME .
 sportsbetaffiliates.com.au CNAME .
 squarespace.evyy.net CNAME .
 squirrels.getsquirrel.co CNAME .
+srv.dynamicyield.com CNAME .
 static.tradetracker.net CNAME .
 stats.sitesuite.org CNAME .
 streaming.rtbiddingplatform.com CNAME .
@@ -17712,6 +17724,8 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+rum.conde.io CNAME .
+ana.mediable.info CNAME .
 pv.kuaizhan.com CNAME .
 eventsapi.grocerkey.com CNAME .
 dc-tag.jp CNAME .
@@ -22059,6 +22073,7 @@ t.karte.io CNAME .
 beacon.tws.toyota.jp CNAME .
 tr.marsflag.com CNAME .
 p.gazeta.pl CNAME .
+st.dynamicyield.com CNAME .
 log.outbrainimg.com CNAME .
 analytics-udg.netdna-ssl.com CNAME .
 stats.otempo.com.br CNAME .
@@ -22749,6 +22764,7 @@ om.dowjoneson.com CNAME .
 oimg.nbcuni.com CNAME .
 analytics.ovh.com CNAME .
 qos.video.yimg.com CNAME .
+px.dynamicyield.com CNAME .
 production-eqbc.lvp.llnw.net CNAME .
 production-mcs.lvp.llnw.net CNAME .
 pp-serve.newsinc.com CNAME .
@@ -23260,8 +23276,6 @@ adeventtracker.spotify.com CNAME .
 do-not-tracker.org CNAME .
 eviltracker.net CNAME .
 trackersimulator.org CNAME .
-;
-; For apps
 track.*.roku.com CNAME .
 traces.sr.roku.com CNAME .
 analytics.kidoz.net CNAME .
@@ -23823,7 +23837,6 @@ dotjs.com CNAME .
 doubleclick.net CNAME .
 driv-analytics.com CNAME .
 dtxngr.com CNAME .
-dynamicyield.com CNAME .
 dynatracesaas.com CNAME .
 eacla.com CNAME .
 easy-hit-counter.com CNAME .
@@ -25204,7 +25217,6 @@ rss.tmgrup.com.tr CNAME .
 rtg-endpoint.global.ssl.fastly.net CNAME .
 rum.azion.com CNAME .
 rum.azioncdn.net CNAME .
-rum.conde.io CNAME .
 rum.minutemediaservices.com CNAME .
 rum.nccgroup-webperf.com CNAME .
 rum.perfops.net CNAME .
@@ -31226,6 +31238,12 @@ bauernative.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+qnipkk.xyz CNAME .
+luolitang.com CNAME .
+hlstlyy.com CNAME .
+qtd95fj.online CNAME .
+cnzz.991yue.com CNAME .
+hf.soulplp.com CNAME .
 angryme.cn CNAME .
 gzhying1.cn CNAME .
 kebi1.top CNAME .
@@ -36142,7 +36160,6 @@ hldwmly.com CNAME .
 hlgglm.com CNAME .
 hlhulu.com CNAME .
 hljhufengling.cn CNAME .
-hlstlyy.com CNAME .
 hmfcyy.com CNAME .
 hmttoly.com CNAME .
 hmyangshengji.com CNAME .
