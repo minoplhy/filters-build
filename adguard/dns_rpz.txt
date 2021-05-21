@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-21T06:06:09.838Z
+; Last modified: 2021-05-21T12:07:57.569Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+otlffresod.com CNAME .
+jkgrczjllhq.com CNAME .
 ekufogow.xyz CNAME .
 dolphinanthill.com CNAME .
 gasijosti.com CNAME .
@@ -2807,6 +2809,8 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+x2sfa.javgg.eu CNAME .
+xd3r.javgg.eu CNAME .
 spyglass.octanime.net CNAME .
 a.teenspirithentai.com CNAME .
 d1ac2du043ydir.cloudfront.net CNAME .
@@ -25834,6 +25838,7 @@ sambaads.com CNAME .
 trugaze.io CNAME .
 ; Romanian
 2parale.ro CNAME .
+agorahtag.tech CNAME .
 pahtag.tech CNAME .
 profitshare.ro CNAME .
 retargeting.biz CNAME .
@@ -26411,6 +26416,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+refpahrwzjlv.top CNAME .
 zzxjlr.com CNAME .
 zargutivisor.info CNAME .
 nfztms.com CNAME .
@@ -30435,6 +30441,7 @@ zfvklk.ru CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+vast.bazonserver.site CNAME .
 ads.interfax.ru CNAME .
 banner.profile.ru CNAME .
 yad.pandafilms.best CNAME .
@@ -31264,6 +31271,10 @@ bauernative.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+mg.listc.cn CNAME .
+mimg.hicooer.cn CNAME .
+mscs.svaeuzh.cn CNAME .
+mc.mmkkhhnn.cn CNAME .
 qnipkk.xyz CNAME .
 luolitang.com CNAME .
 hlstlyy.com CNAME .
