@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-21T18:25:16.097Z
+; Last modified: 2021-05-22T00:19:46.907Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32877,8 +32877,10 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-listc.cn CNAME .
-soulplp.com CNAME .
+xujingch.com CNAME .
+govchongqing.cn CNAME .
+yinmofun.com CNAME .
+sawadeca.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33760,6 +33762,7 @@ linkpage.cn CNAME .
 lintyone.top CNAME .
 lisaiservice.top CNAME .
 lishuanghao.com CNAME .
+listc.cn CNAME .
 liuwenyan.xyz CNAME .
 livehapp.com CNAME .
 lixiaodie.com CNAME .
@@ -34037,6 +34040,7 @@ smucdn.com CNAME .
 smxsg.com CNAME .
 snnnyy.com CNAME .
 so9l.com CNAME .
+soulplp.com CNAME .
 spcode.baidu.com CNAME .
 spectram.pro CNAME .
 spxnet.com CNAME .
@@ -34792,7 +34796,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-js.263y.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35241,6 +35244,7 @@ jintonghua.com CNAME .
 jiyan.net CNAME .
 jke1.jianke.com CNAME .
 js.23yy.com CNAME .
+js.263y.com CNAME .
 js.9136.com CNAME .
 js.98158.com CNAME .
 js.jianbihuadq.com CNAME .
@@ -35505,8 +35509,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-watchhouse.cn CNAME .
-lzjsjw.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36515,6 +36517,7 @@ lyczhb.com CNAME .
 lyjz001.com CNAME .
 lylifa.com CNAME .
 lzhyhy.cn CNAME .
+lzjsjw.cn CNAME .
 m06nev.com CNAME .
 mababa.info CNAME .
 maicaoren.cn CNAME .
@@ -37014,6 +37017,7 @@ wangmingsort.cn CNAME .
 wangqing7.top CNAME .
 wannuochongkong.com CNAME .
 wantezy.cn CNAME .
+watchhouse.cn CNAME .
 waterincloud.cn CNAME .
 wbiev.com CNAME .
 wechatpu.com CNAME .
