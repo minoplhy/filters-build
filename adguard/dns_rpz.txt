@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-22T12:07:03.561Z
+; Last modified: 2021-05-22T18:22:59.435Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+psazamajy.pro CNAME .
 puzzlementevolve.com CNAME .
 ferociousvirtual.com CNAME .
 sizeilksohs.com CNAME .
@@ -32878,6 +32879,10 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+ynyyx168.com CNAME .
+51toubu.com CNAME .
+rcyl-uni.com CNAME .
+wysmq.cn CNAME .
 xujingch.com CNAME .
 govchongqing.cn CNAME .
 yinmofun.com CNAME .
@@ -35510,6 +35515,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+bostonceltics.com.cn CNAME .
 xmyejun.cn CNAME .
 infobbs.xyz CNAME .
 aixuyoupin.cn CNAME .
@@ -35591,7 +35597,6 @@ aixuyoupin.cn CNAME .
 51foodsafe.cn CNAME .
 51gpt.com CNAME .
 51showmy.com CNAME .
-51toubu.com CNAME .
 51wxyx.cn CNAME .
 52homie.cn CNAME .
 52tushuo.com CNAME .
