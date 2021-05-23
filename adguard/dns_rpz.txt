@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-23T12:07:07.972Z
+; Last modified: 2021-05-23T18:21:13.555Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,11 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+declinedisobey.com CNAME .
+farmcrapsubsist.com CNAME .
+linkedgraceless.com CNAME .
+mewyrytu.com CNAME .
+plqbxvnjxq92.com CNAME .
 psazamajy.pro CNAME .
 puzzlementevolve.com CNAME .
 ferociousvirtual.com CNAME .
@@ -8720,6 +8725,7 @@ loddawqst.com CNAME .
 lodder6.biz CNAME .
 loftygreater.com CNAME .
 logsobtainedprediction.com CNAME .
+logworknomism.com CNAME .
 loktrk.com CNAME .
 lologhfd.com CNAME .
 lolsefti.com CNAME .
@@ -8869,6 +8875,7 @@ manconsider.com CNAME .
 mandearersi.club CNAME .
 mandistreet.top CNAME .
 mangelobsolden.cam CNAME .
+manholecrate.com CNAME .
 mannequinent.site CNAME .
 mannernotchnewly.com CNAME .
 manrotbaa.com CNAME .
@@ -9443,6 +9450,7 @@ natorpression.fun CNAME .
 naucaish.net CNAME .
 naughtybuddyswoop.com CNAME .
 naustoch.net CNAME .
+navaltophes.com CNAME .
 naveretoolmes.com CNAME .
 navigabledisorganized.com CNAME .
 nawpush.com CNAME .
@@ -31091,6 +31099,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+seogreat.net CNAME .
 roselip-fetish.com CNAME .
 mincure-ad.com CNAME .
 ad.woman.mynavi.jp CNAME .
