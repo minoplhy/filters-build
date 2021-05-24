@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-24T06:09:07.230Z
+; Last modified: 2021-05-24T12:17:00.742Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -26,6 +26,9 @@ mewyrytu.com CNAME .
 plqbxvnjxq92.com CNAME .
 psazamajy.pro CNAME .
 puzzlementevolve.com CNAME .
+parkcircularpearl.com CNAME .
+logworknomism.com CNAME .
+divaduolite.com CNAME .
 ferociousvirtual.com CNAME .
 sizeilksohs.com CNAME .
 otlffresod.com CNAME .
@@ -8712,7 +8715,6 @@ loddawqst.com CNAME .
 lodder6.biz CNAME .
 loftygreater.com CNAME .
 logsobtainedprediction.com CNAME .
-logworknomism.com CNAME .
 loktrk.com CNAME .
 lologhfd.com CNAME .
 lolsefti.com CNAME .
@@ -17787,8 +17789,14 @@ log.snssdk.com CNAME .
 visilabs.com CNAME .
 visilabs.net CNAME .
 ;
+promostats.ru CNAME .
+growingio.com CNAME .
+datayi.cn CNAME .
+giocdn.com CNAME .
 rum.conde.io CNAME .
 ana.mediable.info CNAME .
+campaigns-collector.albacross.com CNAME .
+new-collect.albacross.com CNAME .
 pv.kuaizhan.com CNAME .
 eventsapi.grocerkey.com CNAME .
 dc-tag.jp CNAME .
@@ -22973,6 +22981,7 @@ d2j3te7y7s8xxp.cloudfront.net CNAME .
 logql.yahoo.co.jp CNAME .
 ybx.yahoo.co.jp CNAME .
 stats.vidyome.com CNAME .
+collect.albacross.com CNAME .
 telemetry.allrecipes.com CNAME .
 pixel.roymorgan.com CNAME .
 bdg-analytics.appspot.com CNAME .
@@ -23751,7 +23760,6 @@ afftrack.pro CNAME .
 agentanalytics.com CNAME .
 agrvt.com CNAME .
 airserve.net CNAME .
-albacross.com CNAME .
 alpixtrack.com CNAME .
 amnet.tw CNAME .
 amplitude.com CNAME .
@@ -24261,6 +24269,7 @@ semantic-finder.com CNAME .
 serv-ac.com CNAME .
 sessions.exchange CNAME .
 sessionstack.com CNAME .
+sharedid.org CNAME .
 shoelace.com CNAME .
 shoptimally.com CNAME .
 showheroes.com CNAME .
@@ -24284,6 +24293,7 @@ smrk.io CNAME .
 smtrk.net CNAME .
 snapdeal.biz CNAME .
 sni-dat.com CNAME .
+snitcher.com CNAME .
 social-sb.com CNAME .
 socsi.in CNAME .
 soflopxl.com CNAME .
@@ -25702,14 +25712,11 @@ cctvgb.com.cn CNAME .
 cdnmaster.cn CNAME .
 cr-nielsen.com CNAME .
 ctags.cn CNAME .
-datayi.cn CNAME .
 elevenmedia.cn CNAME .
 emarbox.com CNAME .
 ggxt.net CNAME .
-giocdn.com CNAME .
 gostats.cn CNAME .
 gridsumdissector.com CNAME .
-growingio.com CNAME .
 gtags.net CNAME .
 he2d.com CNAME .
 hubpd.com CNAME .
@@ -31018,6 +31025,8 @@ savoy.cubecdn.net CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+ukslphcgs.com CNAME .
+rozivpxtl.com CNAME .
 habrox.xyz CNAME .
 mystighty.info CNAME .
 sohjah-thahka.info CNAME .
@@ -32896,6 +32905,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+eoncreativity.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -37469,6 +37479,8 @@ novunu.football-plyus.net CNAME .
 ; `*-dnsotls-ds.metric.gstatic.com` (for instance, `a5a6380f-dnsotls-ds.metric.gstatic.com`).
 ;
 ;
+; https://github.com/AdguardTeam/AdguardFilters/issues/83329
+riotgames.sng.link CNAME rpz-passthru.
 ; https://github.com/AdguardTeam/AdguardFilters/issues/81939
 support-beacon.nakanohito.jp CNAME rpz-passthru.
 support-widget.nakanohito.jp CNAME rpz-passthru.
