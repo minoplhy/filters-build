@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-25T12:08:13.178Z
+; Last modified: 2021-05-25T18:23:11.209Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+combatmootcrucial.com CNAME .
 declinedisobey.com CNAME .
 farmcrapsubsist.com CNAME .
 linkedgraceless.com CNAME .
@@ -76,6 +77,7 @@ ccdnqxu.com CNAME .
 harmoniousstrandbulk.com CNAME .
 vidyceky.com CNAME .
 delivery.contextads.live CNAME .
+gjqhufkamcoc.com CNAME .
 vhlduhrldc.com CNAME .
 frshueaxf.com CNAME .
 jumotic.com CNAME .
@@ -1076,7 +1078,6 @@ publish.iptvz.net CNAME .
 start.parimatch.com CNAME .
 abskursin.com CNAME .
 kymirasite.pro CNAME .
-impactserving.com CNAME .
 nakedreel.com CNAME .
 caligula.pro CNAME .
 doublepimpads.com CNAME .
@@ -7391,7 +7392,6 @@ givenfrontierruth.com CNAME .
 givestment.club CNAME .
 givingsol.com CNAME .
 giwefepy.xyz CNAME .
-gjqhufkamcoc.com CNAME .
 gjrswtzjn.com CNAME .
 gjslebmbiawh.com CNAME .
 gjw5qbyn93b8.com CNAME .
@@ -9962,6 +9962,7 @@ optnumbhigh.com CNAME .
 optnx.com CNAME .
 optraising.com CNAME .
 optvx.com CNAME .
+opvanillishan.com CNAME .
 opzdbhjvd.com CNAME .
 oqrjbnriumr.com CNAME .
 orarbeatrem.club CNAME .
@@ -14993,6 +14994,7 @@ imonomy.com CNAME .
 imp*.tradedoubler.com CNAME .
 impactradius-go.com CNAME .
 impactradius.com CNAME .
+impactserving.com CNAME .
 impeacknow.xyz CNAME .
 implix.com CNAME .
 impore.com CNAME .
@@ -21857,6 +21859,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+datalytics.utair.io CNAME .
 appsanalytics.appideas.it CNAME .
 api-adservices.apple.com CNAME .
 analytics.atlassian.com CNAME .
@@ -24053,7 +24056,6 @@ googleoptimize.com CNAME .
 gostats.org CNAME .
 gotrk.net CNAME .
 granify.com CNAME .
-group-ib.ru CNAME .
 grumrt.com CNAME .
 gweini.com CNAME .
 gwmtracking.com CNAME .
@@ -31167,6 +31169,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+cdn.lodeo.io CNAME .
 seogreat.net CNAME .
 roselip-fetish.com CNAME .
 mincure-ad.com CNAME .
@@ -31657,6 +31660,7 @@ allads4you.de CNAME .
 anzeigen-vor-ort.de CNAME .
 anzeigenlieferant.de CNAME .
 arcor-partner.de CNAME .
+arminius.io CNAME .
 asnetworks.de CNAME .
 auxmoney-partnerprogramm.de CNAME .
 ay.delivery CNAME .
@@ -31790,6 +31794,7 @@ quarterserver.de CNAME .
 rapidads.de CNAME .
 revresrennab.de CNAME .
 rgadvert.com CNAME .
+securecnd.com CNAME .
 seitenaufruf.com CNAME .
 server4ads.com CNAME .
 servertraffic.de CNAME .
@@ -31811,6 +31816,7 @@ szene-traffic.com CNAME .
 textklicks.de CNAME .
 tfppp.com CNAME .
 tip-ads.de CNAME .
+tneca.com CNAME .
 topiaserv.net CNAME .
 trabro.com CNAME .
 tracknet.twyn.com CNAME .
@@ -32989,6 +32995,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+poasotha.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35627,6 +35634,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+huiqingvip.cn CNAME .
 habyc.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
