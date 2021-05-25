@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-25T06:17:48.255Z
+; Last modified: 2021-05-25T12:08:13.178Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -5510,6 +5510,7 @@ commissionlounge.com CNAME .
 commonvivacious.com CNAME .
 communited.club CNAME .
 communits.club CNAME .
+companycouncilbreeze.com CNAME .
 compartmentnutsnovember.com CNAME .
 compensess.club CNAME .
 compensions.pro CNAME .
@@ -7015,6 +7016,7 @@ fifoyegflivpk.com CNAME .
 fifteenprefixselfemployed.com CNAME .
 fifteenthfeeding.com CNAME .
 fifteenthprohibition.com CNAME .
+fiftyunderstood.com CNAME .
 filamentrectificationsetback.com CNAME .
 filetarget.com CNAME .
 filetarget.net CNAME .
@@ -8461,6 +8463,7 @@ kmovuj.com CNAME .
 kmqkdhqaqt.com CNAME .
 kmuvaerfumy.com CNAME .
 kneadbewitch.com CNAME .
+kneestep.com CNAME .
 kneetournament.com CNAME .
 kniferasatte.info CNAME .
 knivestuitionconsequence.com CNAME .
@@ -9702,6 +9705,7 @@ notify6.com CNAME .
 notifypicture.info CNAME .
 notifysrv.com CNAME .
 notionnalisent.xyz CNAME .
+notorietycheerypositively.com CNAME .
 notorietyharvest.com CNAME .
 noughttrustthreshold.com CNAME .
 nounstrenuous.com CNAME .
@@ -30816,6 +30820,7 @@ toprustory.ru CNAME .
 ; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 ;
 ;
+youtubex.top CNAME .
 inegolreklam.net CNAME .
 reklam8.net CNAME .
 api.adnsafe.org CNAME .
