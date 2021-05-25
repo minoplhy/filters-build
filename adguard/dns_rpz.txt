@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-24T18:27:23.333Z
+; Last modified: 2021-05-25T00:20:40.234Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -45,7 +45,6 @@ refpamjeql.top CNAME .
 1xsultan.com CNAME .
 ilyf4amifh.com CNAME .
 kneeansweras.com CNAME .
-geo.ads.audio.thisisdax.com CNAME .
 snodlycaccias.com CNAME .
 adc.streamspread.com CNAME .
 aftjohnanodes.com CNAME .
@@ -3399,6 +3398,7 @@ mine.torrent.pw CNAME .
 2137dc12f9d8.com CNAME .
 21a3dd8ea39c0.com CNAME .
 21c9a53484951.com CNAME .
+21e4d2f6cae8ec.com CNAME .
 21sexturycash.com CNAME .
 220efda3143.com CNAME .
 225c34aba07.com CNAME .
@@ -3538,6 +3538,7 @@ mine.torrent.pw CNAME .
 4b05ca5688bff79.com CNAME .
 4b6994dfa47cee4.com CNAME .
 4bb6jls06l.com CNAME .
+4becef1fe953.com CNAME .
 4c13cac4bb.com CNAME .
 4c935d6a244f.com CNAME .
 4cr447ewncl4.com CNAME .
@@ -3757,6 +3758,7 @@ mine.torrent.pw CNAME .
 88d7b6aa44fb8eb.com CNAME .
 88hb7evabd.com CNAME .
 89tmolir.top CNAME .
+8a8b5511efbcc.com CNAME .
 8b0b17dc1f9f8010.com CNAME .
 8baf7ae42000024.com CNAME .
 8bef5bb6b351ca5e.com CNAME .
@@ -4079,6 +4081,7 @@ afssdmin.com CNAME .
 afzcqqdhkn.com CNAME .
 agedissance.club CNAME .
 agenoming.club CNAME .
+aggressivefrequentneckquirky.com CNAME .
 aggressiveracketscout.com CNAME .
 aghchnfzt.com CNAME .
 agicalleanor.club CNAME .
@@ -4216,6 +4219,7 @@ amerallyluke.club CNAME .
 amgtomdcxvm.com CNAME .
 amhpbhyxfgvd.com CNAME .
 ammankeyan.com CNAME .
+amorphysp.fun CNAME .
 amountant.club CNAME .
 ampdaisbras.com CNAME .
 ampleteexis.info CNAME .
@@ -4517,6 +4521,7 @@ b1f6fe5e3f0c3c8ba6.com CNAME .
 b1fb813dc806b7d.com CNAME .
 b1fe8a95ae27823.com CNAME .
 b1g1w7wic0.com CNAME .
+b2408e4e788280e.com CNAME .
 b29f325f9383.com CNAME .
 b2e92952aa6.com CNAME .
 b3ff2cfeb6f49e.com CNAME .
@@ -4985,6 +4990,7 @@ c50021876c67fd14.com CNAME .
 c5b39ff13b3259df.com CNAME .
 c61ec7314ee.com CNAME .
 c63d72a4022.com CNAME .
+c709040c91.com CNAME .
 c7d470df880b1d0.com CNAME .
 c7e4d34b2afc3.com CNAME .
 c92a198b4e0a.com CNAME .
@@ -5829,6 +5835,7 @@ dagolor.pw CNAME .
 dailyinterventioncongestion.com CNAME .
 dainaith.net CNAME .
 daintyecstasyspleen.com CNAME .
+dalecta.com CNAME .
 dallavel.com CNAME .
 daltauth.net CNAME .
 damsoloist.com CNAME .
@@ -5948,6 +5955,7 @@ demeanourokshelter.com CNAME .
 demoney.club CNAME .
 demotesusceptible.com CNAME .
 denaviatived.space CNAME .
+dendrito.name CNAME .
 denetsuk.com CNAME .
 denis-pj0823031-491201b.com CNAME .
 denmaccatory.club CNAME .
@@ -6204,6 +6212,7 @@ doveprovidingyear.com CNAME .
 down1oads.com CNAME .
 downloadboutique.com CNAME .
 downloadgot.com CNAME .
+dozubatan.com CNAME .
 dp25.kr CNAME .
 dpallyihgtgu.com CNAME .
 dplastingt.biz CNAME .
@@ -6303,6 +6312,7 @@ e21b1642db801b2a.com CNAME .
 e2ertt.com CNAME .
 e2wysbacctt1.com CNAME .
 e331ff4e674c083.com CNAME .
+e33ad94c801.com CNAME .
 e347bb14dc71778.com CNAME .
 e350570881272e.com CNAME .
 e376ef28103177cc.com CNAME .
@@ -6354,6 +6364,7 @@ easyflirt-partners.biz CNAME .
 easygoinghomesickimprobable.com CNAME .
 easygoingtouchybribe.com CNAME .
 easylist-to.xyz CNAME .
+easystopadblock.com CNAME .
 eatmenticha.top CNAME .
 eatsidebicep.com CNAME .
 eatyfailiffacc.club CNAME .
@@ -6630,6 +6641,7 @@ eredunass.club CNAME .
 ereintroductc.fun CNAME .
 erendri.com CNAME .
 erevtljvo.com CNAME .
+ergadx.com CNAME .
 ericalmessar.club CNAME .
 eriesfrequen.club CNAME .
 erihj.com CNAME .
@@ -6720,6 +6732,7 @@ europecolorfulfancy.com CNAME .
 europertsticke.site CNAME .
 euros4click.de CNAME .
 eutdrjvsrmav.com CNAME .
+eutehj.com CNAME .
 euz.net CNAME .
 evantage.club CNAME .
 evaporatedisturbedbarrier.com CNAME .
@@ -7101,6 +7114,7 @@ footnote.com CNAME .
 foowafoa.com CNAME .
 forced-lose.de CNAME .
 forcefuldirect.com CNAME .
+fordpeculiarity.com CNAME .
 foreignsec.club CNAME .
 foremaneasierperiods.com CNAME .
 foremangreek.com CNAME .
@@ -7850,6 +7864,7 @@ houghtdespe.fun CNAME .
 hounicuy.com CNAME .
 hoursesinc.club CNAME .
 housandq.club CNAME .
+housejomadkc.com CNAME .
 housopsi.net CNAME .
 houtrelen.top CNAME .
 hovermountedsulphur.com CNAME .
@@ -8120,6 +8135,7 @@ iquyclpvbx.com CNAME .
 iraithiz.com CNAME .
 iredirect.net CNAME .
 ironicfolks.com CNAME .
+ironypestilenthelp.com CNAME .
 irqtkzvyhmmtyw.com CNAME .
 irritatebeing.com CNAME .
 irritatecheaplyintrigue.com CNAME .
@@ -9856,6 +9872,7 @@ olouphoo.com CNAME .
 olthlikechgq.com CNAME .
 omatri.info CNAME .
 omchanseyr.com CNAME .
+omedcam.biz CNAME .
 omfortsex.club CNAME .
 omisingcur.fun CNAME .
 omitbailey.com CNAME .
@@ -11120,6 +11137,7 @@ rovenancyde.top CNAME .
 rovuditho.pro CNAME .
 rowfeedire.casa CNAME .
 rowframemailer.com CNAME .
+rozivpxtl.com CNAME .
 rpjzlykhkdc.com CNAME .
 rpqknedxr.com CNAME .
 rprygapywrk.com CNAME .
@@ -11758,6 +11776,7 @@ storiespace.com CNAME .
 stospubede.xyz CNAME .
 stoutlionslick.com CNAME .
 stoutoffering.com CNAME .
+stovoori.net CNAME .
 stpd.cloud CNAME .
 strainemergency.com CNAME .
 straitreedanimated.com CNAME .
@@ -12381,6 +12400,7 @@ ujxogbsw.com CNAME .
 ukcomparends.pro CNAME .
 ukfpgaeihxamg.com CNAME .
 ukgkugxpzqvqk.com CNAME .
+ukslphcgs.com CNAME .
 ukvjkqhmkowc.com CNAME .
 ukyyjicbqdx.com CNAME .
 ul8seok7w5al.com CNAME .
@@ -12569,6 +12589,7 @@ vcwrigdrnh.com CNAME .
 vebadu.com CNAME .
 vedcouragin.info CNAME .
 vedefendin.club CNAME .
+veesboost.com CNAME .
 veewakim.net CNAME .
 vehemenceclung.com CNAME .
 veilsrichae.club CNAME .
@@ -16626,6 +16647,7 @@ adingo.jp.eimg.jp CNAME .
 adlandpro.com CNAME .
 adn.ebay.com CNAME .
 ads-sg.tiktok.com CNAME .
+ads.audio.thisisdax.com CNAME .
 ads.sportradar.com CNAME .
 adserving.unibet.com CNAME .
 adzmoney.linkyqueen.ga CNAME .
@@ -17673,7 +17695,11 @@ serving-sys.com CNAME .
 sessionm.com CNAME .
 show.niqiu99.org CNAME .
 silvermob.com CNAME .
-singular.net CNAME .
+i.singular.net CNAME .
+sdk-api-v1.singular.net CNAME .
+t.singular.net CNAME .
+skadnetwork.singular.net CNAME .
+view-prod.ad.singular.net CNAME .
 sitescout.com CNAME .
 slb.gedawang.com CNAME .
 smartadserver.com CNAME .
@@ -25069,6 +25095,7 @@ d3sbxpiag177w8.cloudfront.net CNAME .
 d3tglifpd8whs6.cloudfront.net CNAME .
 d3uvwl4wtkgzo1.cloudfront.net CNAME .
 data.alexa.com CNAME .
+data.beop.io CNAME .
 data.circulate.com CNAME .
 data.imakenews.com CNAME .
 data.minute.ly CNAME .
@@ -25316,6 +25343,7 @@ rum.nccgroup-webperf.com CNAME .
 rum.perfops.net CNAME .
 rum.uptime.com CNAME .
 rum.vhwrz.net CNAME .
+s.beop.io CNAME .
 s.clickability.com CNAME .
 s.clickiocdn.com CNAME .
 s3-tracking.synthasite.net.s3.amazonaws.com CNAME .
@@ -31041,8 +31069,6 @@ savoy.cubecdn.net CNAME .
 ;
 ; Section contains list of advertising networks
 ;
-ukslphcgs.com CNAME .
-rozivpxtl.com CNAME .
 habrox.xyz CNAME .
 mystighty.info CNAME .
 sohjah-thahka.info CNAME .
@@ -32929,7 +32955,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-eoncreativity.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33438,6 +33463,7 @@ egjq.com.cn CNAME .
 einsuran.com.cn CNAME .
 eiv.baidu.com CNAME .
 enohb.com CNAME .
+eoncreativity.com CNAME .
 erdsyzb.com CNAME .
 ertongjiaju360.com CNAME .
 expo123.net CNAME .
@@ -35362,6 +35388,7 @@ mg.32r.com CNAME .
 mg.glwxw.net CNAME .
 milk.yesky.com.cn CNAME .
 mm.jbzj.com CNAME .
+mnwor.xuanlishi.com CNAME .
 mo-tuo.com CNAME .
 mountain.zhidao.baidu.com CNAME .
 mpb1.iteye.com CNAME .
@@ -35566,7 +35593,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-xmcs99885.cn CNAME .
+habyc.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -37175,6 +37202,7 @@ xjsytoy.com CNAME .
 xkqpco.com CNAME .
 xl4z7.cn CNAME .
 xlhwzx.cn CNAME .
+xmcs99885.cn CNAME .
 xmcxz.com CNAME .
 xmljx.cn CNAME .
 xmseaside.com CNAME .
