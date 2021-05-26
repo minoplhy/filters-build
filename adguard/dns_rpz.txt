@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-25T18:23:11.209Z
+; Last modified: 2021-05-26T00:26:30.929Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -17244,6 +17244,11 @@ c3.myapkcdn.in CNAME .
 plugin.mobopay.baidu.com CNAME .
 mo.freeindoapp.com CNAME .
 ;
+; com.kakao.talk
+adcr.naver.com CNAME .
+.ad.kakaocorp.com$important CNAME .
+.ad.kakao.com$important CNAME .
+;
 ad-channel.wikawika.xyz CNAME .
 media-router-flurry*.yahoo.com CNAME .
 cads.scalemonk.com CNAME .
@@ -23469,6 +23474,10 @@ analytics.qoqa.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+umengcloud.com.gds.alibabadns.com CNAME .
+umeng.com.gds.alibabadns.com CNAME .
+umengjmacs.m.taobao.com CNAME .
+umengacs.m.taobao.com CNAME .
 analytics-api.liveapp.com CNAME .
 log-collector.shopee. CNAME .
 seller-log-collector.shopee. CNAME .
@@ -24244,7 +24253,6 @@ pagesense.io CNAME .
 parametre.online CNAME .
 pbgrd.com CNAME .
 pdbu.net CNAME .
-pdst.fm CNAME .
 pendo.io CNAME .
 perf-serving.com CNAME .
 perfops.io CNAME .
@@ -25381,7 +25389,6 @@ rum.uptime.com CNAME .
 rum.vhwrz.net CNAME .
 s.beop.io CNAME .
 s.clickability.com CNAME .
-s.clickiocdn.com CNAME .
 s3-tracking.synthasite.net.s3.amazonaws.com CNAME .
 sadv.dadapro.com CNAME .
 scripts.psyma.com CNAME .
@@ -26541,6 +26548,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+clickiocdn.com CNAME .
 degjciidgieiaeigecb.ru CNAME .
 jqdnvg.com CNAME .
 mjnxku.com CNAME .
