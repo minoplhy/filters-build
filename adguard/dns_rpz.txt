@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-26T06:25:05.853Z
+; Last modified: 2021-05-26T12:10:45.320Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+lovelybingo.com CNAME .
+adoptum.net CNAME .
 combatmootcrucial.com CNAME .
 declinedisobey.com CNAME .
 farmcrapsubsist.com CNAME .
@@ -17929,6 +17931,7 @@ x-storage-a1.cir.io CNAME .
 didna.io CNAME .
 solutionshindsight.net CNAME .
 d.wi-fi.ru CNAME .
+simpleanalyticscdn.com CNAME .
 instapagemetrics.com CNAME .
 mas.protecmedia.com CNAME .
 t.rainide.com CNAME .
@@ -24381,7 +24384,6 @@ showheroes.com CNAME .
 sift.com CNAME .
 signifyd.com CNAME .
 simpleanalytics.io CNAME .
-simpleanalyticscdn.com CNAME .
 simpleheatmaps.com CNAME .
 siteanaliz.org CNAME .
 sitedataprocessing.com CNAME .
@@ -26569,6 +26571,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+mhjcpn.com CNAME .
 clickiocdn.com CNAME .
 degjciidgieiaeigecb.ru CNAME .
 jqdnvg.com CNAME .
