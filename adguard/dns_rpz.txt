@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-26T12:10:45.320Z
+; Last modified: 2021-05-27T00:28:22.248Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+prod.entry.video-ads.a2z.com CNAME .
 lovelybingo.com CNAME .
 adoptum.net CNAME .
 combatmootcrucial.com CNAME .
@@ -26571,6 +26572,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+bfafhm.com CNAME .
 mhjcpn.com CNAME .
 clickiocdn.com CNAME .
 degjciidgieiaeigecb.ru CNAME .
@@ -35666,8 +35668,8 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-bjsjyg.cn CNAME .
-zhiboiot.cn CNAME .
+1001lab.top CNAME .
+jsshuiyuan.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -35950,6 +35952,7 @@ bjhuhangjy.com CNAME .
 bjmxcy.cn CNAME .
 bjpengyouhui.com CNAME .
 bjqftcty.com CNAME .
+bjsjyg.cn CNAME .
 bjtengda.cn CNAME .
 bjygfd.com CNAME .
 bjzcbx.com CNAME .
@@ -36981,6 +36984,7 @@ shaque.vip CNAME .
 shaquevip.oss-cn-zhangjiakou.aliyuncs.com CNAME .
 shengchaopiao.cn CNAME .
 shengdaoyiliao.com CNAME .
+shengshipump.cn CNAME .
 shenhao258.top CNAME .
 shenhuachuwei.cn CNAME .
 shenyunkeji.com CNAME .
@@ -37431,10 +37435,12 @@ zgnieka.cn CNAME .
 zgsxhx.com CNAME .
 zhangdujia.com CNAME .
 zhangshiyuan.com CNAME .
+zhangyiqian.top CNAME .
 zhanjiangletian.com CNAME .
 zhanlan5.cn CNAME .
 zhekoudajie.com CNAME .
 zhengzhoupengbo.com CNAME .
+zhiboiot.cn CNAME .
 zhide-edu.cn CNAME .
 zhinengcd.cn CNAME .
 zhipinbook.cn CNAME .
