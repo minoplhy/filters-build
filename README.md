@@ -23,56 +23,64 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * #### Adguard CNAME Tracker
 
-* * https://filters.kylz.nl/adguard/cname-tracker_rpz.txt
+* * https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/cname-tracker_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-tracker.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/adguard/cname-tracker_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-tracker.txt
 
 
 * #### Adguard CNAME Original
 
-* * https://filters.kylz.nl/adguard/cname-original_rpz.txt
+* * https://filters.kylz.nl/RPZ/adguard/cname-original.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/cname-original_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-original.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/adguard/cname-original_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-original.txt
 
 * #### Adguard DNS
 
-* * https://filters.kylz.nl/adguard/dns_rpz.txt
+* * https://filters.kylz.nl/RPZ/adguard/dns.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/adguard/dns_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/dns.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/adguard/dns_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/dns.txt
+
+* #### Adguard exceptions
+
+* * https://filters.kylz.nl/RPZ/adguard/exceptions.txt
+
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/exceptions.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/exceptions.txt
 
 ### 1Hosts - RPZ
 
 * #### 1Hosts domains PRO
 
-* * https://filters.kylz.nl/1Hosts/domains-pro_rpz.txt
+* * https://filters.kylz.nl/RPZ/1Hosts/domains-pro.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1Hosts/domains-pro_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-pro.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/1Hosts/domains-pro_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-pro.txt
 
 * #### 1Hosts wildcards PRO
 
-* * https://filters.kylz.nl/1Hosts/wildcards-pro_rpz.txt
+* * https://filters.kylz.nl/RPZ/1Hosts/wildcards-pro.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/1Hosts/wildcards-pro_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-pro.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/1Hosts/wildcards-pro_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-pro.txt
 
 ### Stevenblack - RPZ
 
 * #### Fakenews + Social
 
-* * https://filters.kylz.nl/stevenblack/f-s_rpz.txt
+* * https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/stevenblack/f-s_rpz.txt
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/f-s.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/stevenblack/f-s_rpz.txt
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/f-s.txt
 
 ### Bromite filters
 
