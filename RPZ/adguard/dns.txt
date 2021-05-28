@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-28T06:52:37.520Z
+; Last modified: 2021-05-28T12:29:06.215Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,11 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+poasotha.com CNAME .
+insolencemanipulative.com CNAME .
+praiserevision.com CNAME .
+sippansy.com CNAME .
+tooasthmaloose.com CNAME .
 xoflgafl.com CNAME .
 s2strk.info CNAME .
 gp.trcked.me CNAME .
@@ -57,7 +62,6 @@ refpamjeql.top CNAME .
 1-xredbet93636.top CNAME .
 1xsultan.com CNAME .
 ilyf4amifh.com CNAME .
-kneeansweras.com CNAME .
 snodlycaccias.com CNAME .
 adc.streamspread.com CNAME .
 aftjohnanodes.com CNAME .
@@ -5485,6 +5489,7 @@ coltagainst.pro CNAME .
 colupoqy.xyz CNAME .
 com-wkejf32ljd23409system.net CNAME .
 comacheerlesslump.com CNAME .
+comasoiling.casa CNAME .
 combatprofanitycandidate.com CNAME .
 combia-tellector.com CNAME .
 combinationappend.com CNAME .
@@ -8462,6 +8467,7 @@ kmovuj.com CNAME .
 kmqkdhqaqt.com CNAME .
 kmuvaerfumy.com CNAME .
 kneadbewitch.com CNAME .
+kneeansweras.com CNAME .
 kneestep.com CNAME .
 kneetournament.com CNAME .
 kniferasatte.info CNAME .
@@ -14625,7 +14631,6 @@ clickpoint.com CNAME .
 clicksor.com CNAME .
 clicktripz.com CNAME .
 clixco.in CNAME .
-clixgalore.com CNAME .
 clixtrac.com CNAME .
 cogocast.net CNAME .
 coguan.com CNAME .
@@ -16580,7 +16585,6 @@ vitalads.net CNAME .
 voodoo.com CNAME .
 vungle.com CNAME .
 vupulse.com CNAME .
-vuukle.com CNAME .
 w00tmedia.net CNAME .
 waytogrow.eu CNAME .
 webads.co.nz CNAME .
@@ -17851,6 +17855,7 @@ weboohost.com CNAME .
 ; admob-app-id-*.firebaseio.com
 ; events.split.io
 ; apptrace.com
+; opentelemetry.io
 ;
 ;
 ; ensighten.com$third-party - not a tracker
@@ -23950,6 +23955,7 @@ clicksgate.com CNAME .
 clicktrkservices.com CNAME .
 clickx.io CNAME .
 clientgear.com CNAME .
+clixgalore.com CNAME .
 cloud-iq.com CNAME .
 cobaltgroup.com CNAME .
 coefficy.com CNAME .
@@ -24505,6 +24511,7 @@ visto1.net CNAME .
 visx.net CNAME .
 volantix.com CNAME .
 vprza.com CNAME .
+vuukle.com CNAME .
 walmeric.com CNAME .
 wbdx.fr CNAME .
 wdfl.co CNAME .
@@ -25033,6 +25040,7 @@ bs.yandex.ru CNAME .
 btn.clickability.com CNAME .
 btrace.video.qq.com CNAME .
 business.sharedcount.com CNAME .
+c.cloudwp.io CNAME .
 c.live.com CNAME .
 c.wen.ru CNAME .
 c3metrics.medifast1.com CNAME .
@@ -31238,6 +31246,7 @@ bn.dxlive.com CNAME .
 mobee2.jp CNAME .
 mttag.com CNAME .
 preaf.jp CNAME .
+cdn.relaido.jp CNAME .
 widget.cybershop-affiliate.jp CNAME .
 ad-arrow.com CNAME .
 img-c.net CNAME .
@@ -32192,9 +32201,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 25 May 2021 10:41 UTC+7
-; OriginalVersion: 2105251041
-; Blocked: 864 rules
+; Last modified: 28 May 2021 16:01 UTC+7
+; OriginalVersion: 2105281601
+; Blocked: 865 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32864,6 +32873,7 @@ interwinvn.com CNAME .
 jbo064.com CNAME .
 jboviet.com CNAME .
 jbovn.com CNAME .
+k8dl08.cc CNAME .
 k8vina17.com CNAME .
 k8vn03.com CNAME .
 keotot.net CNAME .
@@ -33018,6 +33028,18 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+gzduoqicai.cn CNAME .
+bbttkk.com CNAME .
+bufamy.com CNAME .
+sqyueda.com CNAME .
+sxrgd.com CNAME .
+ycgy8888.com CNAME .
+szwyyl.com CNAME .
+hjsled.com CNAME .
+ahjinhuayi.com CNAME .
+ajwssds.com CNAME .
+szblcad.com CNAME .
+wnlyjhb.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34043,7 +34065,6 @@ pjtymy.cn CNAME .
 pk965.com CNAME .
 pmvlwjy.cn CNAME .
 pnxs.com CNAME .
-poasotha.com CNAME .
 pofang.com CNAME .
 poke88.com CNAME .
 polkoa.com CNAME .
@@ -35657,6 +35678,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+qiguoguo.net CNAME .
+linana.top CNAME .
+7times.top CNAME .
+toshi.top CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
