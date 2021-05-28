@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-28T00:32:10.383Z
+; Last modified: 2021-05-28T06:52:37.520Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -6886,6 +6886,7 @@ fadspms.com CNAME .
 fadvindictive.com CNAME .
 fagaxesea.com CNAME .
 faggrim.com CNAME .
+fagywalu.pro CNAME .
 fahimpace.pro CNAME .
 faidoud.com CNAME .
 faigroas.net CNAME .
@@ -10059,6 +10060,7 @@ owlsoralscola.icu CNAME .
 owlsyumducal.com CNAME .
 owncutone.com CNAME .
 owsvolksk.space CNAME .
+oxharmonysample.com CNAME .
 oxqxopomikpqk.com CNAME .
 oxrywhblvy.com CNAME .
 oxtowerbus.club CNAME .
@@ -16578,6 +16580,7 @@ vitalads.net CNAME .
 voodoo.com CNAME .
 vungle.com CNAME .
 vupulse.com CNAME .
+vuukle.com CNAME .
 w00tmedia.net CNAME .
 waytogrow.eu CNAME .
 webads.co.nz CNAME .
@@ -35654,10 +35657,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-taishijian.com CNAME .
-yufuyan.cn CNAME .
-1001lab.top CNAME .
-jsshuiyuan.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -35684,6 +35683,7 @@ jsshuiyuan.com CNAME .
 0921vch.xyz CNAME .
 0928vld.xyz CNAME .
 0ij3tm.com CNAME .
+1001lab.top CNAME .
 1005fdh.xyz CNAME .
 104610.com CNAME .
 114com.cc CNAME .
@@ -36525,6 +36525,7 @@ jqhevyf.cn CNAME .
 jskang.cn CNAME .
 jsku.cc CNAME .
 jsku.info CNAME .
+jsshuiyuan.com CNAME .
 jssumei.cn CNAME .
 jsszxx.com CNAME .
 jstdjq.com CNAME .
@@ -37060,6 +37061,7 @@ szyuke.cn CNAME .
 t3s9j.xyz CNAME .
 tabyee.cn CNAME .
 taikangshenyuan.com CNAME .
+taishijian.com CNAME .
 tajxgs.com CNAME .
 taobaocoupon.cn CNAME .
 taomochou.cn CNAME .
@@ -37378,6 +37380,7 @@ yuandongoffice.com CNAME .
 yuanqitu.com CNAME .
 yueduyy.com CNAME .
 yueyuelao.cn CNAME .
+yufuyan.cn CNAME .
 yuhuanjiuye.com CNAME .
 yun-pdm2000.cn CNAME .
 yun-pdm5000.cn CNAME .
