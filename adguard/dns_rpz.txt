@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-27T12:20:26.272Z
+; Last modified: 2021-05-27T18:51:23.911Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,10 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+xoflgafl.com CNAME .
+s2strk.info CNAME .
+gp.trcked.me CNAME .
+ggjqcdnmnno.com CNAME .
 dwomentt.biz CNAME .
 tillatingmer.fun CNAME .
 colorfulads.com CNAME .
@@ -4718,6 +4722,7 @@ bestrevenuenetwork.com CNAME .
 bestssn.com CNAME .
 betahit.click CNAME .
 betemolgar.com CNAME .
+betgorebysson.club CNAME .
 betjeyxf.com CNAME .
 betrayedgeoffrey.com CNAME .
 betrayedregretdeadline.com CNAME .
@@ -26261,6 +26266,7 @@ encoderfarmstatsnew.servicebus.windows.net CNAME .
 evnt.iol.it CNAME .
 fcstats.altervista.org CNAME .
 instore.pagomeno.it CNAME .
+limone.iltrovatore.it CNAME .
 livestats.matrix.it CNAME .
 log.superweb.ws CNAME .
 logger.kataweb.it CNAME .
@@ -26549,6 +26555,7 @@ yestorrents.org CNAME .
 ; `window.adswellBaseDomain`
 ; https://damskiy.xyz/vendor/lib/oY.js
 ;
+r0wa9z6t8t.ru CNAME .
 afp.ai CNAME .
 bro1.biz CNAME .
 bfafhm.com CNAME .
@@ -31182,6 +31189,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+ads.museum.or.jp CNAME .
 cdn.lodeo.io CNAME .
 seogreat.net CNAME .
 roselip-fetish.com CNAME .
@@ -35646,6 +35654,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+taishijian.com CNAME .
 yufuyan.cn CNAME .
 1001lab.top CNAME .
 jsshuiyuan.com CNAME .
