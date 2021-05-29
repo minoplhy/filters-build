@@ -72,6 +72,22 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 * * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-pro.txt
 
+* #### 1Hosts domains Xtra
+
+* * https://filters.kylz.nl/RPZ/1Hosts/domains-xtra.txt
+
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-xtra.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-xtra.txt
+
+* #### 1Hosts wildcards Xtra
+
+* * https://filters.kylz.nl/RPZ/1Hosts/wildcards-xtra.txt
+
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-xtra.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-xtra.txt
+
 ### Stevenblack - RPZ
 
 * #### Fakenews + Social
