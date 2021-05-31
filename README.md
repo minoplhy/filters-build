@@ -90,6 +90,14 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 ### Stevenblack - RPZ
 
+* #### Unified
+
+* * https://filters.kylz.nl/RPZ/stevenblack/Unified.txt
+
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/Unified.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/Unified.txt
+
 * #### Fakenews + Social
 
 * * https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
