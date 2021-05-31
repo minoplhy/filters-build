@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-30T12:28:37.411Z
+; Last modified: 2021-05-30T19:05:57.012Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,12 +19,18 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+correspondencecellularstudious.com CNAME .
+departgross.com CNAME .
+inheritedgeneralrailroad.com CNAME .
+jawholeminable.com CNAME .
+picturesquebutcompassionate.com CNAME .
+sodamash.com CNAME .
+adscok.com CNAME .
 vliplatform.com CNAME .
 bankingconcede.com CNAME .
 leanerbivouac.cam CNAME .
 wagedsoutane.com CNAME .
 cherishdraggedinspired.com CNAME .
-poasotha.com CNAME .
 insolencemanipulative.com CNAME .
 praiserevision.com CNAME .
 sippansy.com CNAME .
@@ -71,7 +77,6 @@ snodlycaccias.com CNAME .
 adc.streamspread.com CNAME .
 aftjohnanodes.com CNAME .
 melinaeability.casa CNAME .
-hgzuqrtzt.com CNAME .
 jonasahalockup.com CNAME .
 fopushegi.com CNAME .
 fogsham.com CNAME .
@@ -158,7 +163,6 @@ aragontrack.com CNAME .
 beliefindefinite.com CNAME .
 luglestowha.pro CNAME .
 devozuyu.xyz CNAME .
-dzupi9b81okew.cloudfront.net CNAME .
 magicianoptimisticbeard.com CNAME .
 monthlyindirectelsewhere.com CNAME .
 guvivqlbh.com CNAME .
@@ -924,7 +928,6 @@ hanacbclbrdjon.com CNAME .
 zyxzzz.xyz CNAME .
 pvrnqpgvbucif.com CNAME .
 bitsads.xyz CNAME .
-fixchidie.com CNAME .
 ewerhodub.com CNAME .
 asewlfjqwlflkew.com CNAME .
 repruggob.com CNAME .
@@ -1990,7 +1993,6 @@ pushno.com CNAME .
 bitvertise.io CNAME .
 coinverti.com CNAME .
 parlaka.com CNAME .
-bullads.net CNAME .
 attenhance.com CNAME .
 langtzet.info CNAME .
 fm6dz864.top CNAME .
@@ -2850,6 +2852,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+d1a3jb5hjny5s4.cloudfront.net CNAME .
 centent.streanplay.cc CNAME .
 x2sfa.javgg.eu CNAME .
 xd3r.javgg.eu CNAME .
@@ -4958,6 +4961,7 @@ buipovexhav.com CNAME .
 bukash2jf8jfpw09.com CNAME .
 bulbsanctify.com CNAME .
 bulgingfranklyphrase.com CNAME .
+bullads.net CNAME .
 bulldogdemocracy.com CNAME .
 bulletfeedspy.com CNAME .
 bulletindualpartial.com CNAME .
@@ -7062,6 +7066,7 @@ firstadsolution.com CNAME .
 firstlightera.com CNAME .
 fistcartyped.casa CNAME .
 fitfulrigorous.com CNAME .
+fixchidie.com CNAME .
 fixedlyuncoveradjoin.com CNAME .
 fixpass.net CNAME .
 fixproteinnotch.com CNAME .
@@ -7772,6 +7777,7 @@ hgglguotkgfo.com CNAME .
 hghit.com CNAME .
 hghm4u7b61.com CNAME .
 hgyvbfmffvmho.com CNAME .
+hgzuqrtzt.com CNAME .
 hhit.xyz CNAME .
 hhunvu.com CNAME .
 hiasor.com CNAME .
@@ -10387,6 +10393,7 @@ pnhtmagmhbu.com CNAME .
 pnmoclqxtcsbw.com CNAME .
 pnrblholty.com CNAME .
 poacawhe.net CNAME .
+poasotha.com CNAME .
 pobliba.info CNAME .
 pockhopatone.com CNAME .
 pocrowpush.com CNAME .
@@ -16900,6 +16907,7 @@ dv7t7qyvgyrt5.cloudfront.net CNAME .
 dvc8653ec6uyk.cloudfront.net CNAME .
 dvt4pepo9om3r.cloudfront.net CNAME .
 dynamicserving.com CNAME .
+dzupi9b81okew.cloudfront.net CNAME .
 eblastengine.upickem.net CNAME .
 engine.eroge.com CNAME .
 entitlements.jwplayer.com CNAME .
@@ -33074,6 +33082,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+lvylv.cn CNAME .
+liulanliang.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35724,6 +35734,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+pjlcrab.top CNAME .
 jingzekeji.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
