@@ -56,7 +56,23 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 ### 1Hosts - RPZ
 
-* #### 1Hosts domains PRO
+* #### 1Hosts domains Lite
+
+* * https://filters.kylz.nl/RPZ/1Hosts/domains-lite.txt
+
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-lite.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-lite.txt
+
+* #### 1Hosts wildcards Lite
+
+* * https://filters.kylz.nl/RPZ/1Hosts/wildcards-lite.txt
+
+* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-lite.txt
+
+* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-lite.txt
+
+* #### 1Hosts domains Pro
 
 * * https://filters.kylz.nl/RPZ/1Hosts/domains-pro.txt
 
