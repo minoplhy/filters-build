@@ -21,116 +21,122 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 ## Filters list
 ### Adguard - RPZ
 
-* #### Adguard CNAME Tracker
+#### Adguard CNAME Tracker
 
-* * https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
+  * https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-tracker.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-tracker.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-tracker.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-tracker.txt
 
 
-* #### Adguard CNAME Original
+#### Adguard CNAME Original
 
-* * https://filters.kylz.nl/RPZ/adguard/cname-original.txt
+  * https://filters.kylz.nl/RPZ/adguard/cname-original.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-original.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-original.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-original.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-original.txt
 
-* #### Adguard DNS
+#### Adguard DNS
 
-* * https://filters.kylz.nl/RPZ/adguard/dns.txt
+  * https://filters.kylz.nl/RPZ/adguard/dns.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/dns.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/dns.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/dns.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/dns.txt
 
-* #### Adguard exceptions
+#### Adguard exceptions
 
-* * https://filters.kylz.nl/RPZ/adguard/exceptions.txt
+  * https://filters.kylz.nl/RPZ/adguard/exceptions.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/exceptions.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/exceptions.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/exceptions.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/exceptions.txt
 
 ### 1Hosts - RPZ
 
-* #### 1Hosts domains Lite
-
-* * https://filters.kylz.nl/RPZ/1Hosts/domains-lite.txt
-
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-lite.txt
-
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-lite.txt
+#### Lite
 
 * #### 1Hosts wildcards Lite
 
-* * https://filters.kylz.nl/RPZ/1Hosts/wildcards-lite.txt
+  * https://filters.kylz.nl/RPZ/1Hosts/domains-lite.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-lite.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-lite.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-lite.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-lite.txt
+
+* #### 1Hosts wildcards Lite
+
+  * https://filters.kylz.nl/RPZ/1Hosts/wildcards-lite.txt
+
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-lite.txt
+
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-lite.txt
+
+#### Pro 
 
 * #### 1Hosts domains Pro
 
-* * https://filters.kylz.nl/RPZ/1Hosts/domains-pro.txt
+  * https://filters.kylz.nl/RPZ/1Hosts/domains-pro.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-pro.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-pro.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-pro.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-pro.txt
 
 * #### 1Hosts wildcards PRO
 
-* * https://filters.kylz.nl/RPZ/1Hosts/wildcards-pro.txt
+  * https://filters.kylz.nl/RPZ/1Hosts/wildcards-pro.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-pro.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-pro.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-pro.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-pro.txt
+
+#### Xtra 
 
 * #### 1Hosts domains Xtra
 
-* * https://filters.kylz.nl/RPZ/1Hosts/domains-xtra.txt
+  * https://filters.kylz.nl/RPZ/1Hosts/domains-xtra.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-xtra.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-xtra.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-xtra.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-xtra.txt
 
 * #### 1Hosts wildcards Xtra
 
-* * https://filters.kylz.nl/RPZ/1Hosts/wildcards-xtra.txt
+  * https://filters.kylz.nl/RPZ/1Hosts/wildcards-xtra.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-xtra.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-xtra.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-xtra.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-xtra.txt
 
 ### Stevenblack - RPZ
 
-* #### Unified
+#### Unified
 
-* * https://filters.kylz.nl/RPZ/stevenblack/Unified.txt
+  * https://filters.kylz.nl/RPZ/stevenblack/Unified.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/Unified.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/Unified.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/Unified.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/Unified.txt
 
-* #### Fakenews + Social
+#### Fakenews + Social
 
-* * https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
+  * https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/f-s.txt
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/f-s.txt
 
-* * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/f-s.txt
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/f-s.txt
 
 ### Bromite filters
 
-* #### filters.dat
+#### filters.dat
 
-* * https://filters.kylz.nl/bromite-filters/filters.dat
+  * https://filters.kylz.nl/bromite-filters/filters.dat
 
-* * https://noblt.sos-ch-dk-2.exoscale-cdn.com/bromite-filters/filters.dat
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/bromite-filters/filters.dat
 
-* * https://sos-ch-dk-2.exo.io/noblt/bromite-filters/filters.dat
+  * https://sos-ch-dk-2.exo.io/noblt/bromite-filters/filters.dat
 
 #### Note :
 _S3CDN might have some cache_
