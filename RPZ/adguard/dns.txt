@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-05-31T19:27:09.012Z
+; Last modified: 2021-06-01T01:04:54.206Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -17042,6 +17042,7 @@ partner.e-conomic.com CNAME .
 partner.premiumdomains.com CNAME .
 partners.autotrader.co.uk CNAME .
 partners.betus.com CNAME .
+partners.hostgator.com CNAME .
 partners.rochen.com CNAME .
 partners.wrike.com CNAME .
 partners.xpertmarket.com CNAME .
@@ -25924,6 +25925,7 @@ ywywjrlbsuv.com CNAME .
 ; Belarusian
 call-tracking.by CNAME .
 ; Bulgarian
+365dmp.com CNAME .
 ad7.com CNAME .
 adop.cc CNAME .
 adskom.com CNAME .
@@ -33152,7 +33154,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-ylfgybn.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34655,6 +34656,7 @@ yiran686.cn CNAME .
 yisd.press CNAME .
 yishuifa.org CNAME .
 yixui.com CNAME .
+ylfgybn.cn CNAME .
 ylflwbj.cn CNAME .
 ymcqb.com CNAME .
 ynbojie.com CNAME .
@@ -35806,8 +35808,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-aitehao.top CNAME .
-t1g2.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -35992,6 +35992,7 @@ ailiby.cn CNAME .
 aimiyz.com CNAME .
 aimto.cn CNAME .
 aishake.cn CNAME .
+aitehao.top CNAME .
 aixuyoupin.cn CNAME .
 aiyyu.com CNAME .
 ajiez.com CNAME .
@@ -37218,6 +37219,7 @@ szqifu.com CNAME .
 szqipin.cn CNAME .
 szwzjk.cn CNAME .
 szyuke.cn CNAME .
+t1g2.cn CNAME .
 t3s9j.xyz CNAME .
 tabyee.cn CNAME .
 taikangshenyuan.com CNAME .
