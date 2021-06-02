@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-01T12:41:00.803Z
+; Last modified: 2021-06-01T20:14:01.337Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+lionquerychord.com CNAME .
 jawsfixture.com CNAME .
 tronglyre.club CNAME .
 cryptotraffic.xyz CNAME .
@@ -4673,6 +4674,7 @@ bcuuipewdz.com CNAME .
 bcvutcks.com CNAME .
 bd1617dbbc28f.com CNAME .
 bd202457b.com CNAME .
+bd44.fun CNAME .
 bdtwxreri.com CNAME .
 bdyjxghwfbyups.com CNAME .
 beachrule.com CNAME .
@@ -4954,6 +4956,7 @@ brunettebow.com CNAME .
 bruvwmrxudd.com CNAME .
 bsdaban.com CNAME .
 bsjjtpkc.com CNAME .
+bst-offers.com CNAME .
 btagmedia.com CNAME .
 btblsyvqaxkkx.com CNAME .
 btdciuqcsvjjt.com CNAME .
@@ -5929,6 +5932,7 @@ dauntlessomelette.com CNAME .
 dauphinelles.xyz CNAME .
 daurmonb.com CNAME .
 daysaristocracy.com CNAME .
+daytrading.solutions CNAME .
 dazhantai.com CNAME .
 db03f3c62eb.com CNAME .
 db52cc91beabf7e8.com CNAME .
@@ -7034,6 +7038,7 @@ festivalwalletmuggy.com CNAME .
 fesurvivial.club CNAME .
 fetchinstalmenttraffic.com CNAME .
 feverhappyjack.com CNAME .
+fewrfie.com CNAME .
 ff5bd8d9f8df.com CNAME .
 ffhwzaenzoue.com CNAME .
 ffkdxymyji.com CNAME .
@@ -8749,6 +8754,7 @@ likelycatchunhappy.com CNAME .
 lilacdefencelessroyal.com CNAME .
 liliy9aydje10.com CNAME .
 limbloyal.com CNAME .
+limelightcopper.com CNAME .
 limetreenearly.com CNAME .
 limitagesdidjet.site CNAME .
 limitaterer.club CNAME .
@@ -12191,6 +12197,7 @@ third-tracking.com CNAME .
 thirgoad.top CNAME .
 thisisyourprize.site CNAME .
 thismetric.com CNAME .
+thistracknet.com CNAME .
 thliptruhzaed.com CNAME .
 thoaltie.net CNAME .
 thoartuw.com CNAME .
@@ -13327,6 +13334,7 @@ xqbervetkiq.com CNAME .
 xqgzvsjmnmgv.com CNAME .
 xqheb9yszyrd.com CNAME .
 xqiaqb.com CNAME .
+xr117.xyz CNAME .
 xrbmomiow.com CNAME .
 xrhobrrgwhtlu.com CNAME .
 xroynaxvqvouy.com CNAME .
@@ -23609,6 +23617,7 @@ analytics.qoqa.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+api-analytics.prod.birdapp.com CNAME .
 umengcloud.com.gds.alibabadns.com CNAME .
 umeng.com.gds.alibabadns.com CNAME .
 umengjmacs.m.taobao.com CNAME .
@@ -26694,6 +26703,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+www-orbit-promo.ru CNAME .
 qntihf.com CNAME .
 mlgrtn.com CNAME .
 big6q4y2oy.ru CNAME .
@@ -30934,6 +30944,7 @@ vw.onlinia.net CNAME .
 ;
 ; Новостные тизерки
 ;
+smi24.kz CNAME .
 virtonnews.com CNAME .
 top-js-metrics.top.my.ua CNAME .
 novosti-online.gq CNAME .
@@ -31345,7 +31356,7 @@ ad.rarure.com CNAME .
 affiliate-script-pr.firebaseapp.com CNAME .
 asia-northeast1-affiliate-pr.cloudfunctions.net CNAME .
 recommend-pc-bto.sakura.ne.jp CNAME .
-150601.fc2rs.com CNAME .
+aztool.org CNAME .
 ad.eloan.co.jp CNAME .
 divscripty.net CNAME .
 zxcvbnmasdfghjklqwertyuiop.work CNAME .
@@ -31573,12 +31584,7 @@ bauernative.com CNAME .
 ;
 youqunjx.com CNAME .
 koudaiyundong.com CNAME .
-muxingkj.com CNAME .
-yeyemo4.com CNAME .
-3336637.com CNAME .
-3332899.com CNAME .
 tu2.taohuaimg.com CNAME .
-tinychinacdnweb.qiniu.com.w.kunlunno.com CNAME .
 mimg.hicooer.cn CNAME .
 mscs.svaeuzh.cn CNAME .
 mc.mmkkhhnn.cn CNAME .
