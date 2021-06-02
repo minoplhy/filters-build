@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-01T20:14:01.337Z
+; Last modified: 2021-06-02T01:09:33.914Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -23617,6 +23617,9 @@ analytics.qoqa.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+logupdate.avlyun.sec.miui.com CNAME .
+log.avlyun.sec.intl.miui.com CNAME .
+log.avlyun.com CNAME .
 api-analytics.prod.birdapp.com CNAME .
 umengcloud.com.gds.alibabadns.com CNAME .
 umeng.com.gds.alibabadns.com CNAME .
@@ -23860,7 +23863,6 @@ lhzbdvm.com CNAME .
 log.droid4x.cn CNAME .
 log.umsns.com CNAME .
 logger.ntracecloud.com CNAME .
-logupdate.avlyun.sec.miui.com CNAME .
 metrics.bestbuy.com CNAME .
 metrics.macys.net CNAME .
 metrics.sdkbox.com CNAME .
@@ -33169,7 +33171,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-sharonyean.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34301,6 +34302,7 @@ shackapple.com CNAME .
 shama5.com CNAME .
 shannon-porject.com CNAME .
 sharedaddomain.com CNAME .
+sharonyean.com CNAME .
 sharrysweb.com CNAME .
 shcy3.com CNAME .
 shengyaxd.com CNAME .
@@ -35109,6 +35111,8 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+by.dyq.cn CNAME .
+da.daji.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35824,9 +35828,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-imgxb.top CNAME .
-652696.com CNAME .
-nnsbbd.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -35930,6 +35931,7 @@ nnsbbd.com CNAME .
 627sf.cn CNAME .
 62wm.com CNAME .
 64si.com CNAME .
+652696.com CNAME .
 66993.top CNAME .
 66cn.com CNAME .
 6789.run CNAME .
@@ -36612,6 +36614,7 @@ ihear123.com CNAME .
 ihhii.xyz CNAME .
 iibahmd.cn CNAME .
 iigushi.com CNAME .
+imgxb.top CNAME .
 imiek.com CNAME .
 increased.cn CNAME .
 indiebuff.cn CNAME .
@@ -36952,6 +36955,7 @@ nlyjs2015.com CNAME .
 nmlhkj.com CNAME .
 nmqdnykj.com CNAME .
 nmtouzi.com CNAME .
+nnsbbd.com CNAME .
 nongfumg.com CNAME .
 nosensor.cn CNAME .
 nouzhu.cn CNAME .
