@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-02T01:09:33.914Z
+; Last modified: 2021-06-02T12:42:21.425Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -9777,7 +9777,6 @@ notify6.com CNAME .
 notifypicture.info CNAME .
 notifysrv.com CNAME .
 notionnalisent.xyz CNAME .
-notix.io CNAME .
 notorietycheerypositively.com CNAME .
 notorietyharvest.com CNAME .
 noughttrustthreshold.com CNAME .
@@ -11647,6 +11646,7 @@ sitefeytout.com CNAME .
 sitetoway.com CNAME .
 sitirkbit.com CNAME .
 sivedeciseim.club CNAME .
+sixft-apart.com CNAME .
 sixteenabsorptionbreed.com CNAME .
 sixtuxfixer.com CNAME .
 sjeffrontagr.top CNAME .
@@ -16514,6 +16514,7 @@ trackvoluum.com CNAME .
 trackword.net CNAME .
 trackyourlinks.com CNAME .
 tradeexpert.net CNAME .
+tradplusad.com CNAME .
 traffboost.net CNAME .
 traffic-media.co.uk CNAME .
 traffic-media.co CNAME .
@@ -17344,6 +17345,7 @@ criteo.com CNAME .
 criteo.net CNAME .
 ;
 appodeal.com CNAME .
+a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com CNAME .
 a.76674bdad304297eda3d325f449f6f49.com CNAME .
 ;
 banner.hpmdnetwork.ru CNAME .
@@ -17373,10 +17375,11 @@ mo.freeindoapp.com CNAME .
 ;
 ; com.kakao.talk
 adcr.naver.com CNAME .
-.ad.kakaocorp.com$important CNAME .
-.ad.kakao.com$important CNAME .
+.ad.kakaocorp.com CNAME .
+.ad.kakao.com CNAME .
 ;
-tradplusad.com CNAME .
+tapjoy.com CNAME .
+tapjoy.net CNAME .
 ad-channel.wikawika.xyz CNAME .
 media-router-flurry*.yahoo.com CNAME .
 cads.scalemonk.com CNAME .
@@ -18097,8 +18100,6 @@ tm.msgs.jp CNAME .
 randiul.com CNAME .
 px.za.zaloapp.com CNAME .
 jg.wensixuetang.com CNAME .
-tapjoy.com CNAME .
-tapjoy.net CNAME .
 logger.eigene.io CNAME .
 receiver.eigene.io CNAME .
 c-rings.net CNAME .
@@ -18133,8 +18134,6 @@ adsmetadata.mobileadexchange.net CNAME .
 adsmetadata.startappk8s.com CNAME .
 counter.yandro.ru CNAME .
 track-aws.notsy.io CNAME .
-cdn.notsy.io CNAME .
-cdn-b.notsy.io CNAME .
 track.notsy.io CNAME .
 log.ca.gov.vn CNAME .
 tracking.gpm-rtv.ru CNAME .
@@ -35258,7 +35257,7 @@ a1.firefoxchina.cn CNAME .
 a1.gexing.me CNAME .
 a1.lshou.com CNAME .
 a1.q6u.com CNAME .
-a1.qqjay.com CNAME .
+b1.qqjay.com CNAME .
 a1.qqtn.com CNAME .
 a1.shusanqi.com CNAME .
 a1.sumiaowang.com CNAME .
@@ -35828,6 +35827,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+nanofine.cn CNAME .
+888lianmeng.com CNAME .
+wetips.cn CNAME .
+xmcs99888.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
