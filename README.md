@@ -128,6 +128,14 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
   * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/f-s.txt
 
+### someonewhocares
+
+  * https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt
+
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/someonewhocares/rpz.txt
+
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/someonewhocares/rpz.txt
+
 ### Bromite filters
 
 #### filters.dat
