@@ -130,6 +130,8 @@ bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minop
 
 ### someonewhocares
 
+#### rpz.txt
+
   * https://filters.kylz.nl/RPZ/someonewhocares/rpz.txt
 
   * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/someonewhocares/rpz.txt
