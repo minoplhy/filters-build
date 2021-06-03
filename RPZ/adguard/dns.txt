@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-02T12:42:21.425Z
+; Last modified: 2021-06-02T20:11:33.690Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+arecunamacaw.com CNAME .
+ancienslogoi.com CNAME .
 lionquerychord.com CNAME .
 jawsfixture.com CNAME .
 tronglyre.club CNAME .
@@ -313,7 +315,6 @@ rgverkqcpahaqcqtmpksxicmtno.com CNAME .
 praterswhally.com CNAME .
 ashtraysophomore.com CNAME .
 bypathaivr.com CNAME .
-remusclerait.xyz CNAME .
 haradeiu.rocks CNAME .
 ledslevier.com CNAME .
 cupmidnithe.com CNAME .
@@ -11057,6 +11058,7 @@ rementalava.club CNAME .
 remiumert.club CNAME .
 remoteeloise.com CNAME .
 remultiesbee.fun CNAME .
+remusclerait.xyz CNAME .
 renaissanceregretfulpupil.com CNAME .
 renceriskie.fun CNAME .
 renormaliseras.xyz CNAME .
@@ -17987,6 +17989,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+reingod.com CNAME .
 pbjs.sskzlabs.com CNAME .
 mediarithmics.com CNAME .
 ivitrack.com CNAME .
@@ -26704,6 +26707,8 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+uvpzll.com CNAME .
+ghjnpy.com CNAME .
 www-orbit-promo.ru CNAME .
 qntihf.com CNAME .
 mlgrtn.com CNAME .
@@ -31345,6 +31350,8 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+sokmil-ad.com CNAME .
+ads-connect.com CNAME .
 affiliate.sonicsense.jp CNAME .
 daotag.com CNAME .
 ads.museum.or.jp CNAME .
@@ -31435,7 +31442,6 @@ advert.punyu.com CNAME .
 js.blozoo.info CNAME .
 xxxxxxxx.jp CNAME .
 act1-1.info CNAME .
-ads-connect.com CNAME .
 blogroll.livedoor.net CNAME .
 dis.hogei.info CNAME .
 tokyo-tube-ad.com CNAME .
@@ -33170,6 +33176,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+yqgjq.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35831,6 +35838,7 @@ nanofine.cn CNAME .
 888lianmeng.com CNAME .
 wetips.cn CNAME .
 xmcs99888.cn CNAME .
+sydswxx.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
