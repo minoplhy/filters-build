@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-03T12:28:54.087Z
+; Last modified: 2021-06-03T19:37:34.018Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,11 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+adxplay.com CNAME .
+top-performance.top CNAME .
+pallorvain.com CNAME .
+cryplangeneral.live CNAME .
+byloudwalk.live CNAME .
 sorrowfulchemical.com CNAME .
 nonestolesantes.com CNAME .
 joyhaftsyears.com CNAME .
@@ -4173,6 +4178,7 @@ airportedede.club CNAME .
 airpush.com CNAME .
 aissoksu.net CNAME .
 aiwhamti.com CNAME .
+aixcdn.com CNAME .
 aj1052.online CNAME .
 aj1090.online CNAME .
 aj1432.online CNAME .
@@ -4501,6 +4507,7 @@ aution.pro CNAME .
 automoc.net CNAME .
 autoremerciez.xyz CNAME .
 auxml.com CNAME .
+av20trk.com CNAME .
 avbpaaypbe.com CNAME .
 avenuehuminterpretation.com CNAME .
 averaladmi.info CNAME .
@@ -4538,6 +4545,7 @@ awptjmp.com CNAME .
 awsatstb.com CNAME .
 awtvnrgwxletd.com CNAME .
 axazusys.xyz CNAME .
+ay.delivery CNAME .
 ayswrotesre.club CNAME .
 azasdf.be CNAME .
 aznapoz.info CNAME .
@@ -8866,6 +8874,7 @@ lplesacciner.top CNAME .
 lqeevjgkjjwi.com CNAME .
 lqpkjasgqjve.com CNAME .
 lsailington.club CNAME .
+lsjne.com CNAME .
 lsxdcdnrrco.com CNAME .
 ltdome.com CNAME .
 lubedlegionpea.com CNAME .
@@ -10580,6 +10589,7 @@ presentationsportsman.com CNAME .
 presentlyarch.com CNAME .
 presentsh.club CNAME .
 pressingfastenedphantom.com CNAME .
+pressingmiscellaneoustry.com CNAME .
 pressshredpreach.com CNAME .
 presticikju.club CNAME .
 presumablyclaimedlatest.com CNAME .
@@ -11031,6 +11041,7 @@ refban.com CNAME .
 refbanners.com CNAME .
 refbanners.website CNAME .
 referactsgrey.com CNAME .
+reflatepsoai.casa CNAME .
 reflectionsforeground.com CNAME .
 refnippod.com CNAME .
 reformtomb.com CNAME .
@@ -22018,6 +22029,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+logs.51cto.com CNAME .
 fly.ohmymag.com CNAME .
 fly.gentside.com CNAME .
 tr.namu.wiki CNAME .
@@ -27887,7 +27899,6 @@ aiadvi.com CNAME .
 aimgd.com CNAME .
 ainterme.com CNAME .
 airlead.ru CNAME .
-aixcdn.com CNAME .
 ajaxbig.ru CNAME .
 ajpxs.xyz CNAME .
 ajx130.online CNAME .
@@ -31362,6 +31373,8 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+deliver.ads2.iid.jp CNAME .
+dsp-socialgameinfo.com CNAME .
 sokmil-ad.com CNAME .
 ads-connect.com CNAME .
 affiliate.sonicsense.jp CNAME .
@@ -31855,7 +31868,6 @@ arcor-partner.de CNAME .
 arminius.io CNAME .
 asnetworks.de CNAME .
 auxmoney-partnerprogramm.de CNAME .
-ay.delivery CNAME .
 ba-content.de CNAME .
 bacontent.de CNAME .
 bannerchange.net CNAME .
@@ -33189,6 +33201,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+onenews.vip CNAME .
 yuailairuci.com CNAME .
 yqgjq.com CNAME .
 00-gov.cn CNAME .
@@ -35848,6 +35861,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+kangxifan.com CNAME .
+dnjszp.cn CNAME .
+htdzwy.com CNAME .
 nanofine.cn CNAME .
 888lianmeng.com CNAME .
 wetips.cn CNAME .
