@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-03T19:37:34.018Z
+; Last modified: 2021-06-04T00:58:32.604Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33201,9 +33201,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-onenews.vip CNAME .
-yuailairuci.com CNAME .
-yqgjq.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34210,6 +34207,7 @@ nydql.com CNAME .
 nzezn.com CNAME .
 oceanbot-steam.com CNAME .
 okm918.com CNAME .
+onenews.vip CNAME .
 oneyearonechange.com CNAME .
 onsnv.com CNAME .
 oo5548q.top CNAME .
@@ -34718,6 +34716,7 @@ youhehuixiangxinxi.top CNAME .
 yousee.com CNAME .
 youyoumw.com CNAME .
 ypmob.com CNAME .
+yqgjq.com CNAME .
 yqhlty.com CNAME .
 yqw88.com CNAME .
 ys2000.cdn.bcebos.com CNAME .
@@ -34726,6 +34725,7 @@ ysjkbk.com CNAME .
 ysjwj.com CNAME .
 ysyjg.com CNAME .
 ytop8.com CNAME .
+yuailairuci.com CNAME .
 yuanmengbi.com CNAME .
 yuanyanglw.com CNAME .
 yuggcd.com CNAME .
@@ -35144,8 +35144,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-by.dyq.cn CNAME .
-da.daji.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35291,7 +35289,6 @@ a1.firefoxchina.cn CNAME .
 a1.gexing.me CNAME .
 a1.lshou.com CNAME .
 a1.q6u.com CNAME .
-b1.qqjay.com CNAME .
 a1.qqtn.com CNAME .
 a1.shusanqi.com CNAME .
 a1.sumiaowang.com CNAME .
@@ -35337,6 +35334,7 @@ b1.b2b168.com CNAME .
 b1.b2b168.net CNAME .
 b1.baomihua.com CNAME .
 b1.c1km4.com CNAME .
+b1.qqjay.com CNAME .
 b1.xiao84.com CNAME .
 b17.8794.cn CNAME .
 b7sw62.pingshu8.xyz CNAME .
@@ -35405,6 +35403,7 @@ bhaoea.cn CNAME .
 bjs.faxingzhan.com CNAME .
 bt1.patexplorer.com CNAME .
 bu1.vvvdj.com CNAME .
+by.dyq.cn CNAME .
 c.28rv.com CNAME .
 c.caijing123.com CNAME .
 c.jjkk.org CNAME .
@@ -35450,6 +35449,7 @@ d1.5h.com CNAME .
 d1.handdiy.com CNAME .
 d1.zhuangxiu6.com CNAME .
 d6.mobaders.com CNAME .
+da.daji.com CNAME .
 dai.siyuetian.net CNAME .
 dai18.mumu01.com CNAME .
 dai18.shangc.net CNAME .
@@ -35861,14 +35861,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-kangxifan.com CNAME .
-dnjszp.cn CNAME .
-htdzwy.com CNAME .
-nanofine.cn CNAME .
-888lianmeng.com CNAME .
-wetips.cn CNAME .
-xmcs99888.cn CNAME .
-sydswxx.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -35987,6 +35979,7 @@ sydswxx.com CNAME .
 7m307.cn CNAME .
 7times.top CNAME .
 85wa.cn CNAME .
+888lianmeng.com CNAME .
 88eg.cn CNAME .
 8bnwuz.cn CNAME .
 8byu.cn CNAME .
@@ -36337,6 +36330,7 @@ dlsdkw.cn CNAME .
 dlyukun.cn CNAME .
 dmpsj.cn CNAME .
 dnfkong.com CNAME .
+dnjszp.cn CNAME .
 dodolive.cn CNAME .
 dodomo.info CNAME .
 dofkfhv.cn CNAME .
@@ -36613,6 +36607,7 @@ houfang8.com CNAME .
 hougonw.com CNAME .
 hp0hnj.cn CNAME .
 hsbkr.com CNAME .
+htdzwy.com CNAME .
 htfmbt.com CNAME .
 htjsk.com CNAME .
 huangyeqing.cn CNAME .
@@ -36783,6 +36778,7 @@ kaihutai.cn CNAME .
 kaiyiluye.com CNAME .
 kakam.info CNAME .
 kangerlu.com CNAME .
+kangxifan.com CNAME .
 kanjiaqun.cn CNAME .
 kantv.pub CNAME .
 kanvideo.top CNAME .
@@ -36961,6 +36957,7 @@ nabeghlavi.com.cn CNAME .
 nainaimi.top CNAME .
 najingyi.cn CNAME .
 nancyface.com CNAME .
+nanofine.cn CNAME .
 nanyangqiaoxiang.cn CNAME .
 naolifanghealth.com CNAME .
 nashlin.top CNAME .
@@ -37266,6 +37263,7 @@ sxying.top CNAME .
 sxzcrq.com CNAME .
 sxzzhj.com CNAME .
 sycbbs.com CNAME .
+sydswxx.com CNAME .
 symad.cn CNAME .
 symag.cn CNAME .
 syooys.com CNAME .
@@ -37418,6 +37416,7 @@ wenbangsh.com.cn CNAME .
 wenqixiefu.cn CNAME .
 wenzhougy.cn CNAME .
 wervp.com CNAME .
+wetips.cn CNAME .
 wfaffwshop.xyz CNAME .
 wfslj.cn CNAME .
 wfyqc.com CNAME .
@@ -37500,6 +37499,7 @@ xl4z7.cn CNAME .
 xlhwzx.cn CNAME .
 xmcs99885.cn CNAME .
 xmcs99886.cn CNAME .
+xmcs99888.cn CNAME .
 xmcxz.com CNAME .
 xmljx.cn CNAME .
 xmseaside.com CNAME .
