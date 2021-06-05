@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-04T19:24:50.462Z
+; Last modified: 2021-06-05T00:39:37.053Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -20921,7 +20921,6 @@ xtremline.com CNAME .
 xxxcounter.com CNAME .
 xyztraffic.com CNAME .
 x.clearbit.com CNAME .
-x.clearbitjs.com CNAME .
 y-track.com CNAME .
 yadro.ru CNAME .
 yamanoha.com CNAME .
@@ -24081,6 +24080,7 @@ cformanalytics.com CNAME .
 chickensaladandads.com CNAME .
 cintnetworks.com CNAME .
 clarity.ms CNAME .
+clearbitjs.com CNAME .
 clickbrainiacs.com CNAME .
 clickferret.com CNAME .
 clickguard.com CNAME .
@@ -24265,6 +24265,7 @@ iplist.cc CNAME .
 ippen.space CNAME .
 iproanalytics.com CNAME .
 iprotrk.com CNAME .
+iptrack.io CNAME .
 iqdata.ai CNAME .
 ironbeast.io CNAME .
 ithinkthereforeiam.net CNAME .
@@ -33177,14 +33178,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-hqae.cn CNAME .
-knja123.top CNAME .
-ojbknb.com CNAME .
-michael31lin.com CNAME .
-liuchengming.com CNAME .
-aifu-pay.com CNAME .
-zhimengweike.com CNAME .
-nnsbbd.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33436,6 +33429,7 @@ ahuano.com CNAME .
 ahwangtao.com CNAME .
 ahyau.com CNAME .
 ahyuns.com CNAME .
+aifu-pay.com CNAME .
 aijielang.cn CNAME .
 aishangcan.com CNAME .
 ajaxcdn.org CNAME .
@@ -33864,6 +33858,7 @@ hongdianshijue.com CNAME .
 hongtefm.com CNAME .
 hot-eam.com CNAME .
 hpyx365.cn CNAME .
+hqae.cn CNAME .
 hqwlm.com CNAME .
 hqygz.com CNAME .
 hr44.com CNAME .
@@ -34031,6 +34026,7 @@ kldmm.com CNAME .
 klmc88.cn CNAME .
 klsdmr.com CNAME .
 kmwqxqh.com CNAME .
+knja123.top CNAME .
 kojwex.top CNAME .
 kokofits.com CNAME .
 kolinay.com CNAME .
@@ -34076,6 +34072,7 @@ lintyone.top CNAME .
 lisaiservice.top CNAME .
 lishuanghao.com CNAME .
 listc.cn CNAME .
+liuchengming.com CNAME .
 liulanliang.cn CNAME .
 liuwenyan.xyz CNAME .
 livehapp.com CNAME .
@@ -34130,6 +34127,7 @@ metmt.com CNAME .
 metro114.com CNAME .
 mgtv-bbqn.oss-cn-beijing.aliyuncs.com CNAME .
 miaolejieshui.cn CNAME .
+michael31lin.com CNAME .
 mieyisi.com CNAME .
 mindopu.com CNAME .
 minwear.com.cn CNAME .
@@ -34176,6 +34174,7 @@ nkscdn.com CNAME .
 nktcw.cn CNAME .
 nmpcdn.com CNAME .
 nmqbg.com CNAME .
+nnsbbd.com CNAME .
 nongsalei.com CNAME .
 notice.uchome.manyou.com CNAME .
 nr1234.com CNAME .
@@ -34190,6 +34189,7 @@ nxrhs.com CNAME .
 nydql.com CNAME .
 nzezn.com CNAME .
 oceanbot-steam.com CNAME .
+ojbknb.com CNAME .
 okm918.com CNAME .
 onenews.vip CNAME .
 oneyearonechange.com CNAME .
@@ -34761,6 +34761,7 @@ zhengyahong.cn CNAME .
 zhengyejixie.com CNAME .
 zhichi08.com CNAME .
 zhihei.com CNAME .
+zhimengweike.com CNAME .
 zhinengap.com CNAME .
 zhiong.net CNAME .
 zhixiuchang.com CNAME .
@@ -35845,10 +35846,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-xcho.top CNAME .
-sleepzn.com CNAME .
-lscckgm.cn CNAME .
-355262.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -35905,6 +35902,7 @@ lscckgm.cn CNAME .
 2shol4.cn CNAME .
 2zm4.cn CNAME .
 333bj.cloud CNAME .
+355262.com CNAME .
 35kds.com CNAME .
 365syt.cn CNAME .
 377zt.cn CNAME .
@@ -36861,6 +36859,7 @@ lownguw.top CNAME .
 lq0s3c.cn CNAME .
 lq1.abcxs.com CNAME .
 lr96.top CNAME .
+lscckgm.cn CNAME .
 lshmjz.com CNAME .
 ltaome.cn CNAME .
 lusrg.cn CNAME .
@@ -37205,6 +37204,7 @@ sixpcgame.com CNAME .
 sjaidu.com CNAME .
 sjljz.cn CNAME .
 sjmltjmgw.com CNAME .
+sleepzn.com CNAME .
 slivercommander.cn CNAME .
 slshiye.cn CNAME .
 smvip8.cn CNAME .
@@ -37452,6 +37452,7 @@ xb011x.cn CNAME .
 xbzpppr.cn CNAME .
 xccpro.vip CNAME .
 xcdzsw.com CNAME .
+xcho.top CNAME .
 xcmz999.com CNAME .
 xdrzdh.cn CNAME .
 xdyszx.com CNAME .
