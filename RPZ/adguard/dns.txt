@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-04T12:45:55.312Z
+; Last modified: 2021-06-04T19:24:50.462Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -17981,6 +17981,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+n-analytics.io CNAME .
+b97.yahoo.co.jp CNAME .
 count.webstatistik-bw.de CNAME .
 log.ma-jin.jp CNAME .
 reingod.com CNAME .
@@ -22000,6 +22002,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+analytics.maileon.com CNAME .
 logs.51cto.com CNAME .
 fly.ohmymag.com CNAME .
 fly.gentside.com CNAME .
@@ -31344,6 +31347,8 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+admeme.net CNAME .
+taggyad.jp CNAME .
 deliver.ads2.iid.jp CNAME .
 dsp-socialgameinfo.com CNAME .
 sokmil-ad.com CNAME .
@@ -33172,6 +33177,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+hqae.cn CNAME .
 knja123.top CNAME .
 ojbknb.com CNAME .
 michael31lin.com CNAME .
@@ -35839,6 +35845,8 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+xcho.top CNAME .
+sleepzn.com CNAME .
 lscckgm.cn CNAME .
 355262.com CNAME .
 01tn.cn CNAME .
