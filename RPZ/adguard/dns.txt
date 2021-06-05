@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-05T00:39:37.053Z
+; Last modified: 2021-06-05T12:26:36.178Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,10 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+accompanimentcouldsurprisingly.com CNAME .
+inedibleproductiveunbelievable.com CNAME .
+actsrelent.com CNAME .
+detailextentprevail.com CNAME .
 adroitreclineinquisitive.com CNAME .
 adxplay.com CNAME .
 top-performance.top CNAME .
@@ -137,7 +141,6 @@ di7stero.com CNAME .
 dedicatedfraudulent.com CNAME .
 nyjixoco.com CNAME .
 behalfplead.com CNAME .
-trodpigbays.com CNAME .
 g0b2rzzyu87s.com CNAME .
 gapsavyfo.com CNAME .
 kirnscraps.com CNAME .
@@ -322,7 +325,6 @@ zauglomo.net CNAME .
 jakseque.com CNAME .
 rgverkqcpahaqcqtmpksxicmtno.com CNAME .
 praterswhally.com CNAME .
-ashtraysophomore.com CNAME .
 bypathaivr.com CNAME .
 haradeiu.rocks CNAME .
 ledslevier.com CNAME .
@@ -780,7 +782,6 @@ chicaudo.com CNAME .
 litourge.com CNAME .
 ignitiontigercamera.com CNAME .
 andarmair.club CNAME .
-moontuftboy.com CNAME .
 p.tanx.com CNAME .
 ptaughar.com CNAME .
 yetseefad.com CNAME .
@@ -1935,7 +1936,6 @@ glorinlost.rocks CNAME .
 retiremely.com CNAME .
 kidnepishlient.pro CNAME .
 ekostreams.gq CNAME .
-videoplayerhub.com CNAME .
 specialgift.top CNAME .
 im2ss2ss.top CNAME .
 xqkzsifxgv.com CNAME .
@@ -4418,6 +4418,7 @@ asgclickkl.com CNAME .
 asgclickpop.com CNAME .
 asgclickpp.com CNAME .
 ashingcontro.top CNAME .
+ashtraysophomore.com CNAME .
 asiangfsex.com CNAME .
 asilslmkcanfm.com CNAME .
 asingsprxxebsx.com CNAME .
@@ -9368,6 +9369,7 @@ moodretrieval.com CNAME .
 mookie1.com CNAME .
 moonicorn.network CNAME .
 moonlightingapi-ads.com CNAME .
+moontuftboy.com CNAME .
 mootermedia.com CNAME .
 mooxar.com CNAME .
 mopnixhem.com CNAME .
@@ -12409,6 +12411,7 @@ triumphantplace.com CNAME .
 trkinator.com CNAME .
 trkunited.com CNAME .
 trlf8mmpbfz1.com CNAME .
+trodpigbays.com CNAME .
 trompaillames.xyz CNAME .
 troublescompared.com CNAME .
 trroawdnmt.com CNAME .
@@ -16839,6 +16842,7 @@ bliss-systems-api.co.uk CNAME .
 bluhostedbanners.blucigs.com CNAME .
 btr.domywife.com CNAME .
 burnside.dtcn.com CNAME .
+c.bannerflow.net CNAME .
 c.netu.tv CNAME .
 cache.sellwild.com CNAME .
 cas.clickability.com CNAME .
@@ -18068,7 +18072,6 @@ res.rbl.ms CNAME .
 hubble.netease.com CNAME .
 im.cbsileads.com CNAME .
 heymatic.com CNAME .
-pix.impdesk.com CNAME .
 pensebig.com.br CNAME .
 analytics.ratopanda.com CNAME .
 suite*.linximpulse.net CNAME .
@@ -22151,7 +22154,6 @@ metrics.news.com.au CNAME .
 clientlog.midomi.com CNAME .
 t.webjavaskript.net CNAME .
 track.nifty.com CNAME .
-analysis.shinobi.jp CNAME .
 asumi.shinobi.jp CNAME .
 tracking.epicgames.com CNAME .
 t*.zcvh.net CNAME .
@@ -24640,6 +24642,7 @@ v1sts.me CNAME .
 va-endpoint.com CNAME .
 veille-referencement.com CNAME .
 vercel-analytics.com CNAME .
+videoplayerhub.com CNAME .
 vilynx.com CNAME .
 viraltrackings.com CNAME .
 virgul.com CNAME .
@@ -25489,6 +25492,7 @@ ping-dot-acp-magento.appspot.com CNAME .
 ping.dozuki.com CNAME .
 pings.vidpulse.com CNAME .
 pipe-collect.ebu.io CNAME .
+pix.impdesk.com CNAME .
 pix.revjet.com CNAME .
 pix.speedbit.com CNAME .
 pixel-a.basis.net CNAME .
@@ -26446,6 +26450,7 @@ tracking.trovaprezzi.it CNAME .
 tracks.arubamediamarketing.it CNAME .
 vppst.iltrovatore.it CNAME .
 ad-beacon-v01.uliza.jp CNAME .
+analysis.shinobi.jp CNAME .
 analytics.liveact.cri-mw.jp CNAME .
 analyzer51.fc2.com CNAME .
 bvr.ast.snva.jp CNAME .
@@ -31348,6 +31353,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+ad.kodansha.pub CNAME .
 admeme.net CNAME .
 taggyad.jp CNAME .
 deliver.ads2.iid.jp CNAME .
@@ -35109,6 +35115,7 @@ yybx.oss-cn-hangzhou.aliyuncs.com CNAME .
 z.nowscore.com CNAME .
 zt2088.com CNAME .
 ztyumn.ifeng.com CNAME .
+css.huvmi.com CNAME .
 ad.10010.com CNAME rpz-passthru.
 ad.abchina.com CNAME rpz-passthru.
 ad.kazakinfo.com CNAME rpz-passthru.
@@ -35846,6 +35853,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+nmrlx.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
