@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-05T18:50:05.831Z
+; Last modified: 2021-06-06T00:32:14.322Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -34942,6 +34942,7 @@ client.88tours.com CNAME .
 cmm.xmfish.com CNAME .
 cp2.eastmoney.com CNAME .
 cpm.cm.kankan.com CNAME .
+css.huvmi.com CNAME .
 d-test.39.net CNAME .
 d0.xcar.com.cn CNAME .
 d1.3158.cn CNAME .
@@ -35118,7 +35119,6 @@ yybx.oss-cn-hangzhou.aliyuncs.com CNAME .
 z.nowscore.com CNAME .
 zt2088.com CNAME .
 ztyumn.ifeng.com CNAME .
-css.huvmi.com CNAME .
 ad.10010.com CNAME rpz-passthru.
 ad.abchina.com CNAME rpz-passthru.
 ad.kazakinfo.com CNAME rpz-passthru.
@@ -35856,7 +35856,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-nmrlx.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36990,6 +36989,7 @@ nlqnmkn.cn CNAME .
 nlyjs2015.com CNAME .
 nmlhkj.com CNAME .
 nmqdnykj.com CNAME .
+nmrlx.cn CNAME .
 nmtouzi.com CNAME .
 nongfumg.com CNAME .
 nosensor.cn CNAME .
