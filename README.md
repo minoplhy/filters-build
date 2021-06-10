@@ -6,17 +6,8 @@ This Github Repository is for Filters building from all my adblock project
 bromite-filters > dat [minoplhy/bromite-custom-adblock](https://github.com/minoplhy/bromite-custom-adblock)([Gitea](https://git.kylz.nl/GitHub/bromite-custom-adblock))
 ## Build Schedule
 ```
-12.00 am PDT - Build and upload to S3 Bucket
-12.06 am PDT - Commit and push to github
-
-06.00 am PDT - Build and upload to S3 Bucket
-06.06 am PDT - Commit and push to github
-- - -
-12.00 pm PDT - Build and upload to S3 Bucket
-12.06 pm PDT - Commit and push to github
-
-06.00 pm PDT - Build and upload to S3 Bucket
-06.06 pm PDT - Commit and push to github
+Build time : every 12 hours
+timezone   : PDT
 ```
 ## Filters list
 ### Adguard - RPZ
