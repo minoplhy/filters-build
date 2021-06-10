@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 05 Jun 2021 21:49 UTC+7
+; Updated: 10 Jun 2021 15:14 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -1871,7 +1871,6 @@
  banners.itunes.apple.com CNAME .
  books-analytics-events.apple.com CNAME .
  notes-analytics-events.apple.com CNAME .
- securemetrics.apple.com CNAME .
  stocks-analytics-events.apple.com CNAME .
  weather-analytics-events.apple.com CNAME .
 ;[iadsdk.apple.com]
@@ -2084,16 +2083,9 @@
  fp.advertising.microsoft.com CNAME .
  sts.advertising.microsoft.com CNAME .
  sts.si.advertising.microsoft.com CNAME .
-;[microsoft]
- c.microsoft.com CNAME .
- statsfe2.ws.microsoft.com CNAME .
 ;[live.com]
  analytics.live.com CNAME .
- c.live.com CNAME .
  rad.live.com CNAME .
-;[officeapps.live.com]
- nexus.officeapps.live.com CNAME .
- nexusrules.officeapps.live.com CNAME .
 ;[measure.office.com]
  config.fp.measure.office.com CNAME .
  fp.measure.office.com CNAME .
@@ -2350,6 +2342,7 @@
  nol.yahoo.com CNAME .
  partnerads.ysm.yahoo.com CNAME .
  pr-bh.ybp.yahoo.com CNAME .
+ pr.comet.yahoo.com CNAME .
  visit.webhosting.yahoo.com CNAME .
 ;[ads.*.yahoo.com]
  ads.auctions.yahoo.com CNAME .
@@ -2409,12 +2402,8 @@
  pclick.yahoo.com CNAME .
  rtb.pclick.yahoo.com CNAME .
  real.pclick.yahoo.com CNAME .
-;[comet.yahoo.com]
- comet.yahoo.com CNAME .
- pr.comet.yahoo.com CNAME .
-;[yap.yahoo.com]
+;[ads.yap.yahoo.com]
  ads.yap.yahoo.com CNAME .
- m.yap.yahoo.com CNAME .
  us.ads.yap.yahoo.com CNAME .
 ;[yahoo.co.jp]
  adserver.yahoo.co.jp CNAME .
@@ -4008,15 +3997,11 @@
  worker3.advertnative.com CNAME .
  worker4.advertnative.com CNAME .
 ;[toast.com]
- ace-sync.toast.com CNAME .
+ ad-exchange.toast.com CNAME .
  adlc-exchange.toast.com CNAME .
  adx-exchange.toast.com CNAME .
- analytics.toast.com CNAME .
- api-campaign-analytics.cloud.toast.com CNAME .
  api-log-analytics.cloud.toast.com CNAME .
- api-webrp-analytics.cloud.toast.com CNAME .
  cm-exchange.toast.com CNAME .
- redirect-analytics.toast.com CNAME .
 ;[tagmanager.toast.com]
  tagmanager.toast.com CNAME .
  static.tagmanager.toast.com CNAME .
@@ -4860,15 +4845,6 @@
  script.ioam.de CNAME .
  www.ioam.de CNAME .
  xml.ioam.de CNAME .
-;[twitch]
- client-event-reporter.twitch.tv CNAME .
- countess.twitch.tv CNAME .
- deviceidshare.twitch.tv CNAME .
- fan.twitch.tv CNAME .
- mp.twitch.tv CNAME .
- pubster.twitch.tv CNAME .
- spade.twitch.tv CNAME .
- trowel.twitch.tv CNAME .
 ;[deployads.com]
  assets.deployads.com CNAME .
  c.deployads.com CNAME .
@@ -5462,7 +5438,6 @@
 ;[optimizely.com]
  api.optimizely.com CNAME .
  app.optimizely.com CNAME .
- cdn-s-optional.optimizely.com CNAME .
  cdn.optimizely.com CNAME .
  cdn3.optimizely.com CNAME .
  client.optimizely.com CNAME .
@@ -5474,7 +5449,6 @@
  optimizely.com CNAME .
  rum.optimizely.com CNAME .
  tapi.optimizely.com CNAME .
- teams.optimizely.com CNAME .
  vis.optimizely.com CNAME .
  www.optimizely.com CNAME .
 ;[urbanairship]
@@ -6785,25 +6759,16 @@
 ;[urekamedia.com]
  academy.urekamedia.com CNAME .
  adserving.urekamedia.com CNAME .
- adsnews.urekamedia.com CNAME .
  adsservices.urekamedia.com CNAME .
  adv.urekamedia.com CNAME .
  bd.urekamedia.com CNAME .
  cdn.urekamedia.com CNAME .
  clickmeter.urekamedia.com CNAME .
- cookie.urekamedia.com CNAME .
  crp.urekamedia.com CNAME .
  chatbox.urekamedia.com CNAME .
  dco.urekamedia.com CNAME .
- demo.urekamedia.com CNAME .
- demodsp.urekamedia.com CNAME .
- devdmp.urekamedia.com CNAME .
  dmp.urekamedia.com CNAME .
- dmpdemo.urekamedia.com CNAME .
- dmpsv46.urekamedia.com CNAME .
- dmpvsa.urekamedia.com CNAME .
  dsp.urekamedia.com CNAME .
- emearaude.urekamedia.com CNAME .
  file.urekamedia.com CNAME .
  huy.urekamedia.com CNAME .
  hwp.urekamedia.com CNAME .
@@ -6813,10 +6778,7 @@
  log.urekamedia.com CNAME .
  optimize.urekamedia.com CNAME .
  optmize.urekamedia.com CNAME .
- performance-workshop.urekamedia.com CNAME .
- pnkid.urekamedia.com CNAME .
  quangcao.urekamedia.com CNAME .
- redmine.urekamedia.com CNAME .
  ssp.urekamedia.com CNAME .
  static.urekamedia.com CNAME .
  static3.urekamedia.com CNAME .
@@ -7095,13 +7057,8 @@
  www.contextweb.com CNAME .
 ;[cnn.com]
  ads.cnn.com CNAME .
- cl.cnn.com CNAME .
- cnn.dyn.cnn.com CNAME .
  customad.cnn.com CNAME .
- data.cnn.com CNAME .
- gdyn.cnn.com CNAME .
  metrics.cnn.com CNAME .
- mms.cnn.com CNAME .
  smetrics.cnn.com CNAME .
 ;[postrelease.com]
  a.postrelease.com CNAME .
@@ -11950,7 +11907,6 @@
  count.taobao.com CNAME .
  ip.taobao.com CNAME .
  pcookie.taobao.com CNAME .
- s.click.taobao.com CNAME .
 ;[m.taobao.com]
  acs.m.taobao.com CNAME .
  adash.m.taobao.com CNAME .
@@ -15868,7 +15824,6 @@
  cdn-ads.thesaigontimes.vn CNAME .
  cdn-bongdadem-net.cdn.ampproject.org CNAME .
  cdn.bongdadem.net CNAME .
- cdn2.cache.vn CNAME .
  cdnasset.dantri.com.vn CNAME .
  chiasephim.xyz CNAME .
  click-ads.saoteen.net CNAME .
@@ -15896,6 +15851,7 @@
  hexapinow.xyz CNAME .
  imgcdnbet.com CNAME .
  interactive.tinnhanhchungkhoan.vn CNAME .
+ ketquaxosotoancau.org CNAME .
  landingpagelagi.vn CNAME .
  lottery.headlines.pw CNAME .
  lottery.vntoday.news CNAME .
@@ -15963,6 +15919,7 @@
  www.chiasephim.xyz CNAME .
  www.delecpuzz.com CNAME .
  www.hexapinow.xyz CNAME .
+ www.ketquaxosotoancau.org CNAME .
  www.landingpagelagi.vn CNAME .
  www.microad.vn CNAME .
  www.realclick.vn CNAME .
@@ -17521,7 +17478,6 @@
  ccmcroads.com CNAME .
  cdn-server.top CNAME .
  cdn.concert.io CNAME .
- cdn.consentmanager.mgr.consensu.org CNAME .
  cdn.digitru.st CNAME .
  cdn.freefarcy.com CNAME .
  cdn4ads.com CNAME .
@@ -17582,8 +17538,6 @@
  clickadu.com CNAME .
  clickadz.com CNAME .
  clickagents.com CNAME .
- clickbank.com CNAME .
- clickbank.net CNAME .
  clickbooth.com CNAME .
  clickboothlnk.com CNAME .
  clickbrokers.com CNAME .
@@ -17662,7 +17616,6 @@
  connextra.com CNAME .
  consciouschairs.com CNAME .
  consent.cmp.oath.com CNAME .
- consentmanager.mgr.consensu.org CNAME .
  constintptr.com CNAME .
  constrongyfe.site CNAME .
  consumer.exacttargetapis.com CNAME .
@@ -18161,8 +18114,6 @@
  himizoli.pro CNAME .
  historicalrequest.com CNAME .
  hit-parade.com CNAME .
- hit.bg CNAME .
- hit.ua CNAME .
  hitbox.com CNAME .
  hitcents.com CNAME .
  hitcounters.miarroba.com CNAME .
@@ -19175,7 +19126,6 @@
  rusenov.com CNAME .
  ruthlessrobin.com CNAME .
  ruwertur.com CNAME .
- s.click.aliexpress.com CNAME .
  s2d6.com CNAME .
  sageanalyst.net CNAME .
  sailif.com CNAME .
@@ -19707,7 +19657,6 @@
  velocecdn.com CNAME .
  velocitycdn.com CNAME .
  velti.com CNAME .
- vendorlist.consensu.org CNAME .
  ventivmedia.com CNAME .
  venuegirtjive.com CNAME .
  verblife-3.co CNAME .
@@ -20101,7 +20050,6 @@
  asdkd.tutuapp.com CNAME .
  ati-host.net CNAME .
  axmtrack.com CNAME .
- az416426.vo.msecnd.net CNAME .
  bafuhotel.com CNAME .
  bango.net CNAME .
  batchlogging4.truecaller.com CNAME .
@@ -20114,7 +20062,6 @@
  bjdxhs.com CNAME .
  bjhmt.com CNAME .
  blueconic.net CNAME .
- browser.sentry-cdn.com CNAME .
  bugsense.com CNAME .
  burstly.com CNAME .
  c.riskified.com CNAME .
@@ -20193,7 +20140,6 @@
  ga.kvideo.io CNAME .
  geo.adobe.com CNAME .
  geoip.nekudo.com CNAME .
- geoip.tnt-ea.com CNAME .
  getexceptional.com CNAME .
  getsitecontrol.com CNAME .
  glanceguide.com CNAME .
