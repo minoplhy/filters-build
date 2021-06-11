@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-10T18:22:57.591Z
+; Last modified: 2021-06-11T06:04:23.855Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32585,8 +32585,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 10 Jun 2021 15:14 UTC+7
-; OriginalVersion: 2106101514
+; Last modified: 11 Jun 2021 11:02 UTC+7
+; OriginalVersion: 2106111102
 ; Blocked: 866 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -33413,8 +33413,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-pinyierp.com CNAME .
-fanwoyang.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33945,6 +33943,7 @@ faachen.cn CNAME .
 family-joy.com CNAME .
 fangniaowang.net CNAME .
 fanli.in CNAME .
+fanwoyang.com CNAME .
 farm-cn.plista.com CNAME .
 fastable.com CNAME .
 fd7c.com CNAME .
@@ -34458,6 +34457,7 @@ pg88cdn.com CNAME .
 pianjjiicdn.com CNAME .
 pingping888.com CNAME .
 pinwu123.com CNAME .
+pinyierp.com CNAME .
 pinyoux.com CNAME .
 pjtymy.cn CNAME .
 pk965.com CNAME .
@@ -35377,7 +35377,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-er.5ykj.cn CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35736,6 +35735,7 @@ enennsa.gushiwen.cn CNAME .
 ent1.12584.cn CNAME .
 ent1.qunchua.cn CNAME .
 ent1.qunchua.com CNAME .
+er.5ykj.cn CNAME .
 er.5ykj.com CNAME .
 f1.06ps.com CNAME .
 f1.ichong123.com CNAME .
@@ -36094,8 +36094,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-totoc.top CNAME .
-totoh.top CNAME .
+huojutt.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -37574,6 +37573,8 @@ tongjiwo.com CNAME .
 topazedu.com CNAME .
 topvcbank.com CNAME .
 toshi.top CNAME .
+totoc.top CNAME .
+totoh.top CNAME .
 toujing4.top CNAME .
 toujing5.top CNAME .
 toujing7.top CNAME .
