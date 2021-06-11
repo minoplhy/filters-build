@@ -13,7 +13,7 @@ timezone   : PDT
 
 ### Adguard - RPZ
 
-[Click](adguard.md]
+[Click](adguard.md)
 
 ### 1Hosts - RPZ
 
@@ -21,7 +21,7 @@ timezone   : PDT
 
 ### Stevenblack - RPZ
 
-[click](stevenblack.md]
+[click](stevenblack.md)
 
 ### hostsVN - RPZ
 
