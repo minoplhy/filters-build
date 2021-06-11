@@ -10,116 +10,28 @@ Build time : every 12 hours
 timezone   : PDT
 ```
 ## Filters list
+
 ### Adguard - RPZ
 
-#### Adguard CNAME Tracker
-
-  * https://filters.kylz.nl/RPZ/adguard/cname-tracker.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-tracker.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-tracker.txt
-
-
-#### Adguard CNAME Original
-
-  * https://filters.kylz.nl/RPZ/adguard/cname-original.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/cname-original.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/cname-original.txt
-
-#### Adguard DNS
-
-  * https://filters.kylz.nl/RPZ/adguard/dns.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/dns.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/dns.txt
-
-#### Adguard exceptions
-
-  * https://filters.kylz.nl/RPZ/adguard/exceptions.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/adguard/exceptions.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/adguard/exceptions.txt
+[Click](adguard.md]
 
 ### 1Hosts - RPZ
 
-#### Lite
-
-* #### 1Hosts wildcards Lite
-
-  * https://filters.kylz.nl/RPZ/1Hosts/domains-lite.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-lite.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-lite.txt
-
-* #### 1Hosts wildcards Lite
-
-  * https://filters.kylz.nl/RPZ/1Hosts/wildcards-lite.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-lite.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-lite.txt
-
-#### Pro 
-
-* #### 1Hosts domains Pro
-
-  * https://filters.kylz.nl/RPZ/1Hosts/domains-pro.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-pro.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-pro.txt
-
-* #### 1Hosts wildcards PRO
-
-  * https://filters.kylz.nl/RPZ/1Hosts/wildcards-pro.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-pro.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-pro.txt
-
-#### Xtra 
-
-* #### 1Hosts domains Xtra
-
-  * https://filters.kylz.nl/RPZ/1Hosts/domains-xtra.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/domains-xtra.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/domains-xtra.txt
-
-* #### 1Hosts wildcards Xtra
-
-  * https://filters.kylz.nl/RPZ/1Hosts/wildcards-xtra.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/1Hosts/wildcards-xtra.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/1Hosts/wildcards-xtra.txt
+[click](1Hosts.md)
 
 ### Stevenblack - RPZ
 
-#### Unified
+[click](stevenblack.md]
 
-  * https://filters.kylz.nl/RPZ/stevenblack/Unified.txt
+### hostsVN - RPZ
 
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/Unified.txt
+[click](hostsVN.md)
 
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/Unified.txt
+### Hosts-database
 
-#### Fakenews + Social
+[click](Hosts-database.md)
 
-  * https://filters.kylz.nl/RPZ/stevenblack/f-s.txt
-
-  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/stevenblack/f-s.txt
-
-  * https://sos-ch-dk-2.exo.io/noblt/RPZ/stevenblack/f-s.txt
-
-### someonewhocares
+### someonewhocares - RPZ
 
 #### rpz.txt
 
@@ -129,6 +41,16 @@ timezone   : PDT
 
   * https://sos-ch-dk-2.exo.io/noblt/RPZ/someonewhocares/rpz.txt
 
+### abpvn - RPZ
+
+#### rpz.txt
+
+  * https://filters.kylz.nl/RPZ/abpvn/rpz.txt
+
+  * https://noblt.sos-ch-dk-2.exoscale-cdn.com/RPZ/abpvn/rpz.txt
+
+  * https://sos-ch-dk-2.exo.io/noblt/RPZ/abpvn/rpz.txt
+  
 ### Bromite filters
 
 #### filters.dat
