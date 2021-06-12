@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-12T06:03:49.616Z
+; Last modified: 2021-06-12T18:03:26.816Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -78,7 +78,6 @@ prod.entry.video-ads.a2z.com CNAME .
 lovelybingo.com CNAME .
 adoptum.net CNAME .
 declinedisobey.com CNAME .
-farmcrapsubsist.com CNAME .
 linkedgraceless.com CNAME .
 mewyrytu.com CNAME .
 plqbxvnjxq92.com CNAME .
@@ -112,7 +111,6 @@ fopushegi.com CNAME .
 fogsham.com CNAME .
 ad.utop.ir CNAME .
 bmfads.com CNAME .
-fertilizermessyshortcut.com CNAME .
 minoritish.online CNAME .
 roewnand.biz CNAME .
 ethnictyrosky.com CNAME .
@@ -169,7 +167,6 @@ pierlinks.com CNAME .
 nkyouvery.fun CNAME .
 tefumiji.xyz CNAME .
 uhdokoq5ocmk.com CNAME .
-farcdnf.com CNAME .
 ohpdsplu.com CNAME .
 sorryfearknockout.com CNAME .
 starvationpatio.com CNAME .
@@ -186,7 +183,6 @@ fdrptpyxchzjk.com CNAME .
 membershorny.com CNAME .
 news-easy.org CNAME .
 premiumbros.com CNAME .
-f8205a529477e1.com CNAME .
 mjlpqbklxgt.com CNAME .
 filterexchangecage.com CNAME .
 reluctanceleatheroptional.com CNAME .
@@ -686,7 +682,6 @@ get.mypdf-search.com CNAME .
 adex.sato.my.id CNAME .
 makuzeko.xyz CNAME .
 joggingavenge.com CNAME .
-fdbtvavxtfvpbx.com CNAME .
 popupaval.com CNAME .
 348wd7etbann.com CNAME .
 zurilito.xyz CNAME .
@@ -791,7 +786,6 @@ doathair.com CNAME .
 ughhimtoy.com CNAME .
 vg4u8rvq65t6.com CNAME .
 ridferbad.com CNAME .
-flashtalking.com CNAME .
 pyjamaican.club CNAME .
 hadsokz.com CNAME .
 bestdealfor20.life CNAME .
@@ -852,7 +846,6 @@ wokfirsax.com CNAME .
 adpia.vn CNAME .
 passtechusa.com CNAME .
 ad.pornimg.xyz CNAME .
-exoprsdds.com CNAME .
 opencaded.online CNAME .
 apionloadmedia.com CNAME .
 nextclickadv.com CNAME .
@@ -1025,7 +1018,6 @@ pegloang.com CNAME .
 paripartner.com CNAME .
 fouralered.pro CNAME .
 ookris.oferty-kredytowe.pl CNAME .
-estafair.com CNAME .
 onestepproductions.online CNAME .
 albado.xyz CNAME .
 o3sndvzo25.com CNAME .
@@ -1049,7 +1041,6 @@ bigbangbon.online CNAME .
 beeashale.club CNAME .
 askaspalb.online CNAME .
 phukienthoitranggiare.com CNAME .
-exomonyf.com CNAME .
 sinsoftu.com CNAME .
 gracaiko.net CNAME .
 lessblog.pro CNAME .
@@ -1068,7 +1059,6 @@ pushmejs.com CNAME .
 ysnj74ed.com CNAME .
 yjnqrbfnocy.com CNAME .
 hiqubonenete.tk CNAME .
-exchancetaur.info CNAME .
 baaeobgdaxdvsa.com CNAME .
 ftigholm.site CNAME .
 publish.iptvz.net CNAME .
@@ -1138,13 +1128,11 @@ glokta.info CNAME .
 olineman.pro CNAME .
 bathouph.net CNAME .
 qlkms.ga CNAME .
-expertnifg.com CNAME .
 neon.today CNAME .
 remotefilez.info CNAME .
 cryaptall.club CNAME .
 onewastansepa.pro CNAME .
 oukruque.com CNAME .
-foazasis.com CNAME .
 grooksom.com CNAME .
 mnptinibfbv.com CNAME .
 refpa.top CNAME .
@@ -1231,7 +1219,6 @@ pvp-pro.space CNAME .
 vaipsona.com CNAME .
 thevpntrustzone.xyz CNAME .
 graivaik.com CNAME .
-fethungi.com CNAME .
 superonclick.com CNAME .
 serconmp.com CNAME .
 psoonsod.com CNAME .
@@ -2537,7 +2524,6 @@ eropayper.com CNAME .
 euym8eel.club CNAME .
 evolutionmedia.bbelements.com CNAME .
 exitintel.com CNAME .
-exoclick.com CNAME .
 exogripper.com CNAME .
 ext.movixhub.com CNAME .
 f.asdfzxcv1312.com CNAME .
@@ -6791,6 +6777,7 @@ essdistryord.club CNAME .
 essentalgro.club CNAME .
 esshortleda.info CNAME .
 essionprobl.space CNAME .
+estafair.com CNAME .
 esteemencyclopediagodmother.com CNAME .
 esteephy.net CNAME .
 estersparat.club CNAME .
@@ -6858,6 +6845,7 @@ excellenceads.com CNAME .
 excellerfger.club CNAME .
 exceptingfivesnake.com CNAME .
 exceptionimageknife.com CNAME .
+exchancetaur.info CNAME .
 exchangedaudacious.com CNAME .
 exchangepresumeethel.com CNAME .
 excludeneighbourlyattempting.com CNAME .
@@ -6872,12 +6860,15 @@ exjozegvbaresw.com CNAME .
 exobafrgdf.com CNAME .
 exoclsodaqs.com CNAME .
 exofrwe.com CNAME .
+exomonyf.com CNAME .
+exoprsdds.com CNAME .
 exosrv.com CNAME .
 expansionwrinkle.com CNAME .
 expansity.club CNAME .
 expedientlonesome.com CNAME .
 expenditurebaneopenly.com CNAME .
 expendituredefeated.com CNAME .
+expertnifg.com CNAME .
 explanettu.club CNAME .
 expmediadirect.com CNAME .
 expocrack.com CNAME .
@@ -6932,6 +6923,7 @@ f56e3ea35a4.com CNAME .
 f5v1x3kgv5.com CNAME .
 f6bd46bbc8a.com CNAME .
 f71bxwn500lj.com CNAME .
+f8205a529477e1.com CNAME .
 f8260adbf8558d6.com CNAME .
 f8316b45436f.com CNAME .
 f87b88d3649456.com CNAME .
@@ -6988,7 +6980,9 @@ fancyfourthvolcano.com CNAME .
 fandmo.com CNAME .
 faqrdrkwdhqgug.com CNAME .
 faracoon.com CNAME .
+farcdnf.com CNAME .
 farehitchlower.icu CNAME .
+farmcrapsubsist.com CNAME .
 faromen.online CNAME .
 farteniuson.com CNAME .
 fascinatedpartialwheeled.com CNAME .
@@ -7022,6 +7016,7 @@ fcdnmkc.com CNAME .
 fcfd5de4b3be3.com CNAME .
 fd5a6008c9.com CNAME .
 fd7qz88ckd.com CNAME .
+fdbtvavxtfvpbx.com CNAME .
 fdmtoyfpjk.com CNAME .
 fdnfnqgmfykg.com CNAME .
 fdrgtt9edmej010.com CNAME .
@@ -7067,11 +7062,13 @@ fernthumbjoin.com CNAME .
 ferritors.club CNAME .
 ferrpictak.com CNAME .
 fertilizeranaemiaupcoming.com CNAME .
+fertilizermessyshortcut.com CNAME .
 fessmegilscha.info CNAME .
 festivaleradicate.com CNAME .
 festivalwalletmuggy.com CNAME .
 fesurvivial.club CNAME .
 fetchinstalmenttraffic.com CNAME .
+fethungi.com CNAME .
 feverhappyjack.com CNAME .
 fewrfie.com CNAME .
 ff5bd8d9f8df.com CNAME .
@@ -7198,6 +7195,7 @@ fnrsqrfglixpnt.com CNAME .
 fnx2n3rqbuw7.com CNAME .
 foapsovi.net CNAME .
 foavistu.net CNAME .
+foazasis.com CNAME .
 focalex.com CNAME .
 fodlkf9d1p.com CNAME .
 fofipsie.net CNAME .
@@ -13820,6 +13818,7 @@ zzdb5p4upiug.com CNAME .
 zzoacwqfw.com CNAME .
 zzvvzfiwyfq.com CNAME .
 ; Pi hole
+exoclick.com CNAME .
 ; Third-party
 123date.me CNAME .
 152media.com CNAME .
@@ -15043,6 +15042,7 @@ first-rate.com CNAME .
 firstimpression.io CNAME .
 fisari.com CNAME .
 fixionmedia.com CNAME .
+flashtalking.com CNAME .
 flymyads.com CNAME .
 foremedia.net CNAME .
 forex-affiliate.com CNAME .
@@ -15405,7 +15405,6 @@ jivox.com CNAME .
 jiwire.com CNAME .
 jmp9.com CNAME .
 jobsyndicate.com CNAME .
-jobtarget.com CNAME .
 jodellvideos.pro CNAME .
 joorejou.net CNAME .
 jqueryserver.com CNAME .
@@ -33426,6 +33425,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+ceo8000.net CNAME .
 samanthyean.com CNAME .
 waiyuyou.com CNAME .
 shunshiwlkj.com CNAME .
@@ -35393,6 +35393,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+1.51dongshi.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
