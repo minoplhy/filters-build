@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 11 Jun 2021 11:02 UTC+7
+; Updated: 13 Jun 2021 21:04 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -10062,18 +10062,6 @@
  jgl.microad.net CNAME .
  microad.net CNAME .
  www.microad.net CNAME .
-;[ezoic.net]
- cdn.ezoic.net CNAME .
- com.cdn.ezoic.net CNAME .
- e.ezoic.net CNAME .
- eg.ezoic.net CNAME .
- ezoic.net CNAME .
- g.ezoic.net CNAME .
- go.ezoic.net CNAME .
- gi.ezoic.net CNAME .
- net.cdn.ezoic.net CNAME .
- outbrain.ezoic.net CNAME .
- www.ezoic.net CNAME .
 ;[adrta.com]
  adrta.com CNAME .
  api.adrta.com CNAME .
@@ -14768,6 +14756,10 @@
  adtima-media.zadn.vn CNAME .
  adtima-static-td.zadn.vn CNAME .
  adtima-static.zadn.vn CNAME .
+;[adtima*.zascdn.me]
+ adtima-media.zascdn.me CNAME .
+ adtima-static.zascdn.me CNAME .
+ adtima-video.zascdn.me CNAME .
 ;[sdk.zadn.vn]
  api.sdk.zadn.vn CNAME .
  log.sdk.zadn.vn CNAME .

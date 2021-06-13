@@ -1,8 +1,8 @@
 ; Title: hostsVN
 ; Description: Filter contains all ad networks and tracking frequently accessed.
-; Last modified: 11 Jun 2021 11:02 UTC+7
-; Version: 2106111102
-; Blocked: 6,367 rules
+; Last modified: 13 Jun 2021 21:04 UTC+7
+; Version: 2106132104
+; Blocked: 6,369 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -39,8 +39,11 @@ adstracking.apps.zing.vn CNAME .
 adtima-common.zadn.vn CNAME .
 adtima-media-td.zadn.vn CNAME .
 adtima-media.zadn.vn CNAME .
+adtima-media.zascdn.me CNAME .
 adtima-static-td.zadn.vn CNAME .
 adtima-static.zadn.vn CNAME .
+adtima-static.zascdn.me CNAME .
+adtima-video.zascdn.me CNAME .
 adtima.vn CNAME .
 adtimaserver.vn CNAME .
 adx.vn CNAME .
@@ -1458,7 +1461,6 @@ extend.tv CNAME .
 external-promo-metrics.yandex.net CNAME .
 eyeota.net CNAME .
 ezodn.com CNAME .
-ezoic.net CNAME .
 factual.com CNAME .
 fads*s.com CNAME .
 fads*z.com CNAME .
