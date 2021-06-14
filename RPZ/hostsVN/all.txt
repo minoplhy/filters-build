@@ -1,8 +1,8 @@
 ; Title: hostsVN
 ; Description: Filter contains all ad networks and tracking frequently accessed.
-; Last modified: 13 Jun 2021 21:04 UTC+7
-; Version: 2106132104
-; Blocked: 6,369 rules
+; Last modified: 14 Jun 2021 10:18 UTC+7
+; Version: 2106141018
+; Blocked: 6,372 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -998,6 +998,7 @@ ads-bidder-api.twitter.com CNAME .
 ads-fa.spotify.com CNAME .
 ads-privacy-api.prd.mz.internal.unity3d.com CNAME .
 ads-router-noneu.truecaller.com CNAME .
+ads-sg.tiktok.com CNAME .
 ads-twitter.com CNAME .
 ads.*.yahoo.com CNAME .
 ads.bing.com CNAME .
@@ -1135,6 +1136,7 @@ analy.qq.com CNAME .
 analysis.fi CNAME .
 analytiall.com CNAME .
 analyticacdn.com CNAME .
+analytics-sg.tiktok.com CNAME .
 analytics.autodesk.com CNAME .
 analytics.edgekey.net CNAME .
 analytics.go.com CNAME .
@@ -1204,6 +1206,7 @@ asianmedia.com CNAME .
 askingpoint.com CNAME .
 assoc-amazon.com CNAME .
 atdmt.com CNAME .
+ateam-ad.jp CNAME .
 atemda.com CNAME .
 atwola.com CNAME .
 authbe.sec.intl.miui.com CNAME .

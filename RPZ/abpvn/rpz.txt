@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 13 Jun 2021 21:04 UTC+7
+; Updated: 14 Jun 2021 10:18 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -13023,7 +13023,9 @@
  server.ethicalads.io CNAME .
  www.ethicalads.io CNAME .
 ;[tiktok.com]
+ ads-sg.tiktok.com CNAME .
  ads.tiktok.com CNAME .
+ analytics-sg.tiktok.com CNAME .
  analytics.tiktok.com CNAME .
 ;[mouseflow.com]
  a.mouseflow.com CNAME .
@@ -14227,6 +14229,15 @@
  recommendation.speakol.com CNAME .
  speakol.com CNAME .
  www.speakol.com CNAME .
+;[ateam-ad.jp]
+ ad.api.ateam-ad.jp CNAME .
+ api.ateam-ad.jp CNAME .
+ ateam-ad.jp CNAME .
+ banner.ateam-ad.jp CNAME .
+ campaign.ateam-ad.jp CNAME .
+ res.ateam-ad.jp CNAME .
+ staging.campaign.ateam-ad.jp CNAME .
+ www.ateam-ad.jp CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
  adtimaserver.vn CNAME .
