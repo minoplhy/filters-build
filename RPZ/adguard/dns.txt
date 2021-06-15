@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-15T06:04:05.443Z
+; Last modified: 2021-06-15T18:08:37.594Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+revoltprohibit.com CNAME .
+therapistpopulationcommentary.com CNAME .
+cdn.allsportsflix.best CNAME .
 vurobyde.xyz CNAME .
 adnxs-simple.com CNAME .
 main-ti-hub.com CNAME .
@@ -193,7 +196,6 @@ fhsmtrnsfnt.com CNAME .
 softenedimmortalityprocedure.com CNAME .
 mfk-cpm.com CNAME .
 jycdnjnz.com CNAME .
-xqzlgbbe.com CNAME .
 lavageethion.com CNAME .
 lebilui.ru CNAME .
 momijoy.ru CNAME .
@@ -10009,6 +10011,7 @@ oldmilram.com CNAME .
 oldqsuoemchpr.com CNAME .
 oldrummarim.club CNAME .
 olibenelading.xyz CNAME .
+olivedinflats.space CNAME .
 olkrzytv.com CNAME .
 ollectusdign.top CNAME .
 olmsoneenh.info CNAME .
@@ -13433,6 +13436,7 @@ xqbervetkiq.com CNAME .
 xqgzvsjmnmgv.com CNAME .
 xqheb9yszyrd.com CNAME .
 xqiaqb.com CNAME .
+xqzlgbbe.com CNAME .
 xr117.xyz CNAME .
 xrhobrrgwhtlu.com CNAME .
 xroynaxvqvouy.com CNAME .
@@ -23974,6 +23978,7 @@ api.analytics.omgpop.com CNAME .
 api.appsee.com CNAME .
 api.apptentive.com CNAME .
 api.branch.io CNAME .
+api2.branch.io CNAME .
 api.crittercism.com CNAME .
 api.gimbal.com CNAME .
 api.sec.miui.com CNAME .
@@ -31166,6 +31171,8 @@ toprustory.ru CNAME .
 ; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 ;
 ;
+kuzeyinyeri.site CNAME .
+supertotobet736.com CNAME .
 youtubex.top CNAME .
 inegolreklam.net CNAME .
 reklam8.net CNAME .
@@ -35948,7 +35955,6 @@ w3c.5txs.com CNAME .
 wap001.bytravel.cn CNAME .
 wap1.laogu.wang CNAME .
 wenhua.jiaoshou.com CNAME .
-wenwen120.com CNAME .
 whfpbc.99.com.cn CNAME .
 wj.jiancai365.cn CNAME .
 wm.mipcdn.com CNAME .
@@ -36047,6 +36053,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+nicelook.cn CNAME .
+22qzhao5.cn CNAME .
+kuaidube.cn CNAME .
+ahylong.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
