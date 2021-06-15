@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-14T18:05:27.883Z
+; Last modified: 2021-06-15T06:04:05.443Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32524,8 +32524,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 14 Jun 2021 10:18 UTC+7
-; OriginalVersion: 2106141018
+; Last modified: 15 Jun 2021 10:16 UTC+7
+; OriginalVersion: 2106151016
 ; Blocked: 869 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -33355,9 +33355,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-560378.com CNAME .
-hmaqz.top CNAME .
-liangxiaoru.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33491,6 +33488,7 @@ liangxiaoru.cn CNAME .
 5551825.com CNAME .
 5551933.com CNAME .
 55kk.tv CNAME .
+560378.com CNAME .
 5783.org CNAME .
 57union.com CNAME .
 58taopinhui.com CNAME .
@@ -34031,6 +34029,7 @@ hkfuy.com CNAME .
 hktv10.com CNAME .
 hlcnzz.com CNAME .
 hljyjm.cn CNAME .
+hmaqz.top CNAME .
 hmnjf.com CNAME .
 hnasd.com CNAME .
 hnctsm.com CNAME .
@@ -34251,6 +34250,7 @@ lhafy.com CNAME .
 lhengilin.com CNAME .
 lhusy.com CNAME .
 lhy1.xyz CNAME .
+liangxiaoru.cn CNAME .
 liangziweixg.com CNAME .
 liaoren85.com CNAME .
 lico-ys.com CNAME .
@@ -35327,7 +35327,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-js.ccmeng.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35785,6 +35784,7 @@ js.23yy.com CNAME .
 js.263y.com CNAME .
 js.9136.com CNAME .
 js.98158.com CNAME .
+js.ccmeng.com CNAME .
 js.jianbihuadq.com CNAME .
 js.kt250.com CNAME .
 js.mscto.com CNAME .
@@ -36047,7 +36047,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-tpcdn.top CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -37538,6 +37537,7 @@ toujing5.top CNAME .
 toujing7.top CNAME .
 toujing8.top CNAME .
 toujing9.top CNAME .
+tpcdn.top CNAME .
 travel-together.cn CNAME .
 trhccn.cn CNAME .
 trpsm.xyz CNAME .

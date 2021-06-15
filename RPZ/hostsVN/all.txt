@@ -1,8 +1,8 @@
 ; Title: hostsVN
 ; Description: Filter contains all ad networks and tracking frequently accessed.
-; Last modified: 14 Jun 2021 10:18 UTC+7
-; Version: 2106141018
-; Blocked: 6,372 rules
+; Last modified: 15 Jun 2021 10:16 UTC+7
+; Version: 2106151016
+; Blocked: 6,370 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -1651,7 +1651,6 @@ logoole.yahoo.co.jp CNAME .
 logql.yahoo.co.jp CNAME .
 logrocket.com CNAME .
 logrocket.io CNAME .
-logs.datadoghq.* CNAME .
 logsdk.qq.com CNAME .
 logupdate.avlyun.sec.miui.com CNAME .
 loopme.me CNAME .
@@ -5992,7 +5991,6 @@ d38fey2d93vryi.cloudfront.net CNAME .
 d4n.platformd.com CNAME .
 dap.digitalgov.gov CNAME .
 databerries.com CNAME .
-datadoghq-browser-agent.com CNAME .
 distillery.wistia.com CNAME .
 dlog.hiido.com CNAME .
 dm.bytedance.com CNAME .

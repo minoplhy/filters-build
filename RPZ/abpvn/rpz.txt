@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 14 Jun 2021 10:18 UTC+7
+; Updated: 15 Jun 2021 10:16 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -13489,12 +13489,6 @@
  m.cdn.intentmedia.net CNAME .
  m.intentmedia.net CNAME .
  performance.intentmedia.net CNAME .
-;[logs.datadoghq.*]
- browser-http-intake.logs.datadoghq.com CNAME .
- browser-http-intake.logs.datadoghq.eu CNAME .
- logs.datadoghq.com CNAME .
- rum-http-intake.logs.datadoghq.com CNAME .
- rum-http-intake.logs.datadoghq.eu CNAME .
 ;[r-ad.ne.jp]
  bk.r-ad.ne.jp CNAME .
  r-ad.ne.jp CNAME .
@@ -20108,7 +20102,6 @@
  d4n.platformd.com CNAME .
  dap.digitalgov.gov CNAME .
  databerries.com CNAME .
- datadoghq-browser-agent.com CNAME .
  distillery.wistia.com CNAME .
  dlog.hiido.com CNAME .
  dm.bytedance.com CNAME .
@@ -20452,7 +20445,6 @@
  widget.trustpilot.com CNAME .
  wieistmeineip.de CNAME .
  wt.soundestlink.com CNAME .
- www.datadoghq-browser-agent.com CNAME .
  www.ethtrader.de CNAME .
  www.everestjs.net CNAME .
  www.fastly-insights.com CNAME .
