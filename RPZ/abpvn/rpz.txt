@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 15 Jun 2021 10:16 UTC+7
+; Updated: 16 Jun 2021 10:23 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -15687,6 +15687,13 @@
  tricker.vn CNAME .
  vongquaymienphi.tricker.vn CNAME .
  www.tricker.vn CNAME .
+;[sapoapps.vn]
+ blogstatistics.sapoapps.vn CNAME .
+ bwstatistics.sapoapps.vn CNAME .
+ google-shopping.sapoapps.vn CNAME .
+ googleshopping.sapoapps.vn CNAME .
+ popup.sapoapps.vn CNAME .
+ promotionpopup.sapoapps.vn CNAME .
 ; --- Block adsVN ---
  5734a4f2d.vws.vegacdn.vn CNAME .
  73531862.vws.vegacdn.vn CNAME .
@@ -15863,7 +15870,6 @@
  offerwall.headlines.pw CNAME .
  ox1.vietstock.vn CNAME .
  phimmedia3.com CNAME .
- promotionpopup.sapoapps.vn CNAME .
  qc.5giay.vn CNAME .
  qc.designervn.net CNAME .
  qc.itsgroup.vn CNAME .
@@ -15962,10 +15968,8 @@
  apl.headlines.pw CNAME .
  app.hstatic.net CNAME .
  app.sbz.workers.dev CNAME .
- blogstatistics.sapoapps.vn CNAME .
  btrack.homedy.com CNAME .
  bwstatistics.bizwebapps.vn CNAME .
- bwstatistics.sapoapps.vn CNAME .
  cdn.doke.app CNAME .
  cdn.tekoapis.com CNAME .
  clicker.chiaki.vn CNAME .
@@ -15983,8 +15987,6 @@
  fbuser.ovp.vn CNAME .
  file-subiz.com CNAME .
  follow.vnay.vn CNAME .
- google-shopping.sapoapps.vn CNAME .
- googleshopping.sapoapps.vn CNAME .
  gtmjs.com CNAME .
  hit.123c.vn CNAME .
  invite.baomoi.com CNAME .
@@ -17180,6 +17182,7 @@
  asccdn.com CNAME .
  asdnn1331.xyz CNAME .
  ashcdn.com CNAME .
+ asiacpx.com CNAME .
  askaspalb.online CNAME .
  asp.animelab.com CNAME .
  aspboxant.club CNAME .
@@ -19804,6 +19807,7 @@
  www.anrdoezrs.net CNAME .
  www.antiadblocksystems.com CNAME .
  www.apprefaculty.pro CNAME .
+ www.asiacpx.com CNAME .
  www.avfgoatbyyerys.com CNAME .
  www.axdsz.pro CNAME .
  www.b91vip.com CNAME .

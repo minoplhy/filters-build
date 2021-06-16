@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-15T18:08:37.594Z
+; Last modified: 2021-06-16T06:04:42.849Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -24475,6 +24475,7 @@ luckyorange.net CNAME .
 lyngro.com CNAME .
 m-t.io CNAME .
 m0mentum.net CNAME .
+m365log.com CNAME .
 mabipa.com CNAME .
 macandcheeseandads.com CNAME .
 magnuum.com CNAME .
@@ -24803,6 +24804,7 @@ vilynx.com CNAME .
 viraltrackings.com CNAME .
 virgul.com CNAME .
 visionsage.com CNAME .
+visitorqueue.com CNAME .
 visto1.net CNAME .
 visx.net CNAME .
 volantix.com CNAME .
@@ -32531,9 +32533,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 15 Jun 2021 10:16 UTC+7
-; OriginalVersion: 2106151016
-; Blocked: 869 rules
+; Last modified: 16 Jun 2021 10:23 UTC+7
+; OriginalVersion: 2106161023
+; Blocked: 870 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32580,7 +32582,9 @@ atdnetwork.com CNAME .
 autoads.asia CNAME .
 banners-gallery.coccoc.com CNAME .
 bidgear-syndication.com CNAME .
+blogstatistics.sapoapps.vn CNAME .
 brand.zing.vn CNAME .
+bwstatistics.sapoapps.vn CNAME .
 cdn-qc.coccoc.com CNAME .
 cdn.comedia.coccoc.com CNAME .
 cdnstoremedia.com CNAME .
@@ -32597,6 +32601,8 @@ flygame.io CNAME .
 gafin.vn CNAME .
 gammaplatform.com CNAME .
 gammassp.com CNAME .
+google-shopping.sapoapps.vn CNAME .
+googleshopping.sapoapps.vn CNAME .
 haraads.com CNAME .
 harafunnel.com CNAME .
 haraloyalty.com CNAME .
@@ -32643,6 +32649,8 @@ photo-ads.zaloapp.com CNAME .
 piads.vn CNAME .
 pinetech.vn CNAME .
 piwik.*.vn CNAME .
+popup.sapoapps.vn CNAME .
+promotionpopup.sapoapps.vn CNAME .
 pushdi.com CNAME .
 pushdy.com CNAME .
 pushdy.vn CNAME .
@@ -32871,7 +32879,6 @@ ng-vn-notice.gameitop.com CNAME .
 offerwall.headlines.pw CNAME .
 ox1.vietstock.vn CNAME .
 phimmedia03.com CNAME .
-promotionpopup.sapoapps.vn CNAME .
 qc.5giay.vn CNAME .
 qc.designervn.net CNAME .
 qc.itsgroup.vn CNAME .
@@ -32949,10 +32956,8 @@ apiv2.tiin.vn CNAME .
 apl.headlines.pw CNAME .
 app.hstatic.net CNAME .
 app.sbz.workers.dev CNAME .
-blogstatistics.sapoapps.vn CNAME .
 btrack.homedy.com CNAME .
 bwstatistics.bizwebapps.vn CNAME .
-bwstatistics.sapoapps.vn CNAME .
 cdn.doke.app CNAME .
 cdn.tekoapis.com CNAME .
 clicker.chiaki.vn CNAME .
@@ -32970,8 +32975,6 @@ fa.fpt.shop CNAME .
 fbuser.ovp.vn CNAME .
 file-subiz.com CNAME .
 follow.vnay.vn CNAME .
-google-shopping.sapoapps.vn CNAME .
-googleshopping.sapoapps.vn CNAME .
 gtmjs.com CNAME .
 hit.123c.vn CNAME .
 invite.baomoi.com CNAME .
@@ -36053,10 +36056,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-nicelook.cn CNAME .
-22qzhao5.cn CNAME .
-kuaidube.cn CNAME .
-ahylong.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36101,6 +36100,7 @@ ahylong.cn CNAME .
 200ps.com CNAME .
 215to.cn CNAME .
 2227q.com CNAME .
+22qzhao5.cn CNAME .
 23uuw3.com CNAME .
 24haitao.net CNAME .
 256k.xyz CNAME .
@@ -36240,6 +36240,7 @@ ahidna.cn CNAME .
 ahmibai.cn CNAME .
 ahuac.com CNAME .
 ahwczn.cn CNAME .
+ahylong.cn CNAME .
 ahzhongzhan.cn CNAME .
 aibangzs.com CNAME .
 aikan6.com CNAME .
@@ -37016,6 +37017,7 @@ ks67.com CNAME .
 ktzte.cn CNAME .
 kuaidibiaoju.com CNAME .
 kuaidibox.cn CNAME .
+kuaidube.cn CNAME .
 kuaipaobiaoju.com CNAME .
 kunloveyu.cn CNAME .
 kuzexinxi.com CNAME .
@@ -37187,6 +37189,7 @@ nggwhyk.cn CNAME .
 ngmaul.cn CNAME .
 ngsaang.top CNAME .
 nhrlzy.com CNAME .
+nicelook.cn CNAME .
 niegg.com CNAME .
 nihao987654.top CNAME .
 ningbojipiao.com CNAME .

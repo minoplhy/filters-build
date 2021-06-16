@@ -1,8 +1,8 @@
 ; Title: hostsVN
 ; Description: Filter contains all ad networks and tracking frequently accessed.
-; Last modified: 15 Jun 2021 10:16 UTC+7
-; Version: 2106151016
-; Blocked: 6,370 rules
+; Last modified: 16 Jun 2021 10:23 UTC+7
+; Version: 2106161023
+; Blocked: 6,372 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -60,7 +60,9 @@ autoads.asia CNAME .
 banners-gallery.coccoc.com CNAME .
 bidgear-syndication.com CNAME .
 bidgear.com CNAME .
+blogstatistics.sapoapps.vn CNAME .
 brand.zing.vn CNAME .
+bwstatistics.sapoapps.vn CNAME .
 cdn-qc.coccoc.com CNAME .
 cdn.comedia.coccoc.com CNAME .
 cdnstoremedia.com CNAME .
@@ -83,6 +85,8 @@ fuseplatform.net CNAME .
 gafin.vn CNAME .
 gammaplatform.com CNAME .
 gammassp.com CNAME .
+google-shopping.sapoapps.vn CNAME .
+googleshopping.sapoapps.vn CNAME .
 gostats.vn CNAME .
 haraads.com CNAME .
 harafunnel.com CNAME .
@@ -133,7 +137,9 @@ piads.vn CNAME .
 pinetech.vn CNAME .
 piwik.*.vn CNAME .
 polyad.net CNAME .
+popup.sapoapps.vn CNAME .
 proadscdn.com CNAME .
+promotionpopup.sapoapps.vn CNAME .
 pushdi.com CNAME .
 pushdy.com CNAME .
 pushdy.vn CNAME .
@@ -380,7 +386,6 @@ nspapi.aiservice.vn CNAME .
 offerwall.headlines.pw CNAME .
 ox1.vietstock.vn CNAME .
 phimmedia03.com CNAME .
-promotionpopup.sapoapps.vn CNAME .
 qc.5giay.vn CNAME .
 qc.designervn.net CNAME .
 qc.itsgroup.vn CNAME .
@@ -460,10 +465,8 @@ apiv2.tiin.vn CNAME .
 apl.headlines.pw CNAME .
 app.hstatic.net CNAME .
 app.sbz.workers.dev CNAME .
-blogstatistics.sapoapps.vn CNAME .
 btrack.homedy.com CNAME .
 bwstatistics.bizwebapps.vn CNAME .
-bwstatistics.sapoapps.vn CNAME .
 cdn.doke.app CNAME .
 cdn.tekoapis.com CNAME .
 clicker.chiaki.vn CNAME .
@@ -481,8 +484,6 @@ fa.fpt.shop CNAME .
 fbuser.ovp.vn CNAME .
 file-subiz.com CNAME .
 follow.vnay.vn CNAME .
-google-shopping.sapoapps.vn CNAME .
-googleshopping.sapoapps.vn CNAME .
 gtmjs.com CNAME .
 hit.123c.vn CNAME .
 invite.baomoi.com CNAME .
@@ -3172,6 +3173,7 @@ asacdn.com CNAME .
 asccdn.com CNAME .
 asdnn1331.xyz CNAME .
 ashcdn.com CNAME .
+asiacpx.com CNAME .
 askaspalb.online CNAME .
 asp.animelab.com CNAME .
 aspboxant.club CNAME .
