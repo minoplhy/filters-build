@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-17T06:08:07.463Z
+; Last modified: 2021-06-17T18:07:12.484Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+vubihasdtbadiq.com CNAME .
 sitiveadditio.biz CNAME .
 bedbwgjjpxiuox.com CNAME .
 smjdkmvhar.com CNAME .
@@ -11810,6 +11811,7 @@ socialbars-web1.com CNAME .
 socialbars-web4.com CNAME .
 societyuga.club CNAME .
 socketboredomdigital.com CNAME .
+socksorient.com CNAME .
 softwarepastel.com CNAME .
 soggykaes.com CNAME .
 soholfit.com CNAME .
@@ -18135,6 +18137,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+mc-ya.ru CNAME .
 srmdata.com CNAME .
 eu.groupondata.com CNAME .
 beacon.digima.com CNAME .
@@ -26584,6 +26587,7 @@ videostat.index.hu CNAME .
 analytics.bhaskar.com CNAME .
 analytics.competitoor.com CNAME .
 analytics00.meride.tv CNAME .
+audit.shaa.it CNAME .
 click.kataweb.it CNAME .
 counter.ksm.it CNAME .
 counter2.condenast.it CNAME .
@@ -26883,6 +26887,8 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+ijvvsearfavi.mobi CNAME .
+eggyey.com CNAME .
 svedkan.com CNAME .
 ahtate.ru CNAME .
 fngurubob.com CNAME .
@@ -32351,6 +32357,7 @@ wbusiness.fr CNAME .
 widebanner.com CNAME .
 worldfilia.net CNAME .
 yobee.it CNAME .
+zariumhb.com CNAME .
 zodiakactive.com CNAME .
 ;
 ; Source name: ABPindo ad servers
@@ -33373,6 +33380,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+tuifish.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36068,6 +36076,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+vgimer.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
