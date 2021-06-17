@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 16 Jun 2021 15:21 UTC+7
+; Updated: 17 Jun 2021 11:00 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -12782,6 +12782,16 @@
  stats.vlitag.com CNAME .
  tag.vlitag.com CNAME .
  vlitag.com CNAME .
+;[vliplatform.com]
+ lg.vliplatform.com CNAME .
+ lgs.vliplatform.com CNAME .
+ pbc.vliplatform.com CNAME .
+ px.vliplatform.com CNAME .
+ s.vliplatform.com CNAME .
+ static.vliplatform.com CNAME .
+ stats.vliplatform.com CNAME .
+ vliplatform.com CNAME .
+ www.vliplatform.com CNAME .
 ;[bumlam.com]
  bumlam.com CNAME .
  c.bumlam.com CNAME .
