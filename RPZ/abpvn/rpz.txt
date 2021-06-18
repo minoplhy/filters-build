@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 17 Jun 2021 11:00 UTC+7
+; Updated: 18 Jun 2021 10:18 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -1998,7 +1998,6 @@
 ;[googletagmanager.com]
  googletagmanager.com CNAME .
  www.googletagmanager.com CNAME .
- www-googletagmanager.l.google.com CNAME .
 ;[googletagservices.com]
  googletagservices.com CNAME .
  www.googletagservices.com CNAME .
@@ -2030,38 +2029,46 @@
 ;[analytics.google.com]
  analytics.google.com CNAME .
  www.analytics.google.com CNAME .
+;[google-analytics.com]
  click.google-analytics.com CNAME .
  google-analytics.com CNAME .
  sandbox.google-analytics.com CNAME .
  ssl.google-analytics.com CNAME .
- ssl-google-analytics.l.google.com CNAME .
  www.google-analytics.com CNAME .
- www-google-analytics.l.google.com CNAME .
+;[googleanalytics.com]
+ alt2.googleanalytics.com CNAME .
+ alt4.googleanalytics.com CNAME .
+ click.googleanalytics.com CNAME .
+ googleanalytics.com CNAME .
+ sandbox.googleanalytics.com CNAME .
+ ssl.googleanalytics.com CNAME .
+ www.googleanalytics.com CNAME .
 ;[optimize.google.com]
  optimize.google.com CNAME .
  www.optimize.google.com CNAME .
  googleoptimize.com CNAME .
  www.googleoptimize.com CNAME .
 ;[googleapis.com]
- ad-creatives-public.commondatastorage.googleapis.com CNAME .
  clientmetrics-pa.googleapis.com CNAME .
  clouderrorreporting.googleapis.com CNAME .
  crashlyticsreports-pa.googleapis.com CNAME .
  firebaselogging-pa.googleapis.com CNAME .
  firebaselogging.googleapis.com CNAME .
-;[google]
- ads.google.com CNAME .
- mail-ads.google.com CNAME .
- www.ads.google.com CNAME .
+;[l.google.com]
  pagead-googlehosted.l.google.com CNAME .
  pagead-tpc.l.google.com CNAME .
  pagead.l.google.com CNAME .
  partnerad.l.google.com CNAME .
+ ssl-google-analytics.l.google.com CNAME .
  static-doubleclick-net.l.google.com CNAME .
- contributor.google.com CNAME .
- fundingchoices.google.com CNAME .
- ads.youtube.com CNAME .
+ www-google-analytics.l.google.com CNAME .
+ www-googletagmanager.l.google.com CNAME .
+;[google.com]
  ads.gmodules.com CNAME .
+ ads.google.com CNAME .
+ ads.youtube.com CNAME .
+ fundingchoices.google.com CNAME .
+ mail-ads.google.com CNAME .
 ;[telemetry.microsoft.com]
  oca.telemetry.microsoft.com CNAME .
  reports.wes.df.telemetry.microsoft.com CNAME .
@@ -3594,44 +3601,24 @@
  www.aatkit.com CNAME .
  reporting.aatkit.com CNAME .
  tracking.aatkit.com CNAME .
-;[adswizz]
- adserver.adswizz.com CNAME .
- adserver.devel.adswizz.com CNAME .
- adserver.hotfix.adswizz.com CNAME .
- adserver.staging.adswizz.com CNAME .
- adsradios.adswizz.com CNAME .
+;[adswizz.com]
  adswizz.com CNAME .
- alpha.adswizz.com CNAME .
- audiomax.adswizz.com CNAME .
- audiomax.devel.adswizz.com CNAME .
  cdn.adswizz.com CNAME .
- clearchannel.adswizz.com CNAME .
  delivery-cdn-cf.adswizz.com CNAME .
- deliveryengine.adswizz.com CNAME .
  delivery-s3.adswizz.com CNAME .
+ deliveryengine.adswizz.com CNAME .
  devel.adswizz.com CNAME .
- devops.adswizz.com CNAME .
- docker-registry.adswizz.com CNAME .
  exchange.adswizz.com CNAME .
- hotfix.adswizz.com CNAME .
- mailing.adswizz.com CNAME .
- mailingsmtp.adswizz.com CNAME .
  metrics.adswizz.com CNAME .
  nexus.adswizz.com CNAME .
- oldui.adswizz.com CNAME .
+ pixel.adswizz.com CNAME .
  pixelg.adswizz.com CNAME .
- randi.adswizz.com CNAME .
  sandbox.adswizz.com CNAME .
- secure.adswizz.com CNAME .
- slapd.devel.adswizz.com CNAME .
- soundcloud.adswizz.com CNAME .
+ sonar.adswizz.com CNAME .
  staging.adswizz.com CNAME .
  streaming.adswizz.com CNAME .
- streaming-dev.adswizz.com CNAME .
  synchrobox.adswizz.com CNAME .
  synchroscript.adswizz.com CNAME .
- tunein.adswizz.com CNAME .
- ui.adswizz.com CNAME .
  zc.adswizz.com CNAME .
 ;[appboy.com]
  api.iad.appboy.com CNAME .
@@ -4434,122 +4421,28 @@
  mx.iesnare.com CNAME .
  snare.iesnare.com CNAME .
  www.iesnare.com CNAME .
-;[fyber]
- account.fyber.com CNAME .
- acp.fyber.com CNAME .
- adcount.fyber.com CNAME .
- adproxy.fyber.com CNAME .
- adproxy-eu-west.fyber.com CNAME .
- adproxy-us-east.fyber.com CNAME .
- adproxy-us-west.fyber.com CNAME .
- adserver-reporting.fyber.com CNAME .
- advertiser.fyber.com CNAME .
- air.fyber.com CNAME .
- ams.fyber.com CNAME .
- ams-aws-stg.fyber.com CNAME .
- android.fyber.com CNAME .
- api.fyber.com CNAME .
+;[fyber.com]
  api-rewarded-video.fyber.com CNAME .
- appengage-fyber.fyber.com CNAME .
- appengage-video.fyber.com CNAME .
- appengage-video.staging.fyber.com CNAME .
- appengage-video-staging.fyber.com CNAME .
- asset1.fyber.com CNAME .
- asset2.fyber.com CNAME .
- asset3.fyber.com CNAME .
- asset4.fyber.com CNAME .
- atlassian.fyber.com CNAME .
- atlassian2.fyber.com CNAME .
- aws.banner-server.fyber.com CNAME .
+ api.fyber.com CNAME .
  aws.interstitial-broker.fyber.com CNAME .
- aws-production-banner-server-eu-west-1.banner-server.fyber.com CNAME .
- aws-production-banner-server-us-west-2.banner-server.fyber.com CNAME .
- aws-staging-banner-eu-west-1.staging-banner.fyber.com CNAME .
  banner.fyber.com CNAME .
- banner-server.fyber.com CNAME .
- be.fyber.com CNAME .
- bre.fyber.com CNAME .
- broker.staging-video-v2.fyber.com CNAME .
- broker.video-v2.fyber.com CNAME .
- broker-builder.staging-video-v2.fyber.com CNAME .
- bs-creatives.fyber.com CNAME .
- bs-creatives-fix.fyber.com CNAME .
- cdn.fyber.com CNAME .
- cdn.fyber.com CNAME .
- cdn1.fyber.com CNAME .
- cdn2.fyber.com CNAME .
- cdn3.fyber.com CNAME .
- cdn4.fyber.com CNAME .
- crowd.fyber.com CNAME .
- dataroom.fyber.com CNAME .
- developer.fyber.com CNAME .
- developer-staging.fyber.com CNAME .
+ dau.fyber.com CNAME .
  engine.fyber.com CNAME .
- engine-dsa.fyber.com CNAME .
- exchange.staging-video-v2.fyber.com CNAME .
- exchange.video-v2.fyber.com CNAME .
+ fev.fyber.com CNAME .
  fyber.com CNAME .
- fyber-marketplace.fyber.com CNAME .
- grafana.prd.fyber.com CNAME .
- iframe.fyber.com CNAME .
- iframe-dsa.fyber.com CNAME .
  interstitial.fyber.com CNAME .
- interstitial-broker.fyber.com CNAME .
- intra.fyber.com CNAME .
- investors.fyber.com CNAME .
- ios.fyber.com CNAME .
- kibana.prd.fyber.com CNAME .
- kibana.tracker.fyber.com CNAME .
- lbservices2.fyber.com CNAME .
- marathon.prd.fyber.com CNAME .
  mbe-cdn.fyber.com CNAME .
- mbe-cdn-rtb.fyber.com CNAME .
- mbe-cdn-rtb-staging.fyber.com CNAME .
- mbe-cdn-staging.fyber.com CNAME .
- mbe-monitoring.fyber.com CNAME .
  mediation.fyber.com CNAME .
- observium.prd.fyber.com CNAME .
  offer.fyber.com CNAME .
  ofw-client-cdn.fyber.com CNAME .
- otrs.fyber.com CNAME .
- pixie.fyber.com CNAME .
- pmm.prd-aws.fyber.com CNAME .
- pmm.stg-aws.fyber.com CNAME .
- production-bidding-agent.fyber.com CNAME .
- publisher-reporting-api.fyber.com CNAME .
- reference.fyber.com CNAME .
+ postimp-ofw.fyber.com CNAME .
  rewarded-video.fyber.com CNAME .
- rtbcc.fyber.com CNAME .
- rundeck.bi.fyber.com CNAME .
- san.fyber.com CNAME .
+ s.update.postimp-ofw.fyber.com CNAME .
  sdk-config.fyber.com CNAME .
  service.fyber.com CNAME .
- service.stg-aws.fyber.com CNAME .
- shadow.cloud.fyber.com CNAME .
- staging-appengage-video.fyber.com CNAME .
- staging-banner.fyber.com CNAME .
- staging-banner-server.fyber.com CNAME .
- staging-bidding-agent.fyber.com CNAME .
- staging-bs-creatives.fyber.com CNAME .
- staging-engine.fyber.com CNAME .
- staging-interstitial-broker.fyber.com CNAME .
- staging-mediation.fyber.com CNAME .
- staging-ofw-client-cdn.fyber.com CNAME .
- staging-tracker.fyber.com CNAME .
- staging-video.fyber.com CNAME .
- staging-video-broker.fyber.com CNAME .
- stg.fyber.com CNAME .
- tickets.fyber.com CNAME .
- track.fyber.com CNAME .
  tracker.fyber.com CNAME .
- tracking.fyber.com CNAME .
- unity.fyber.com CNAME .
+ update.postimp-ofw.fyber.com CNAME .
  video.fyber.com CNAME .
- video-aws-staging.fyber.com CNAME .
- video-aws-stg.fyber.com CNAME .
- video-dsa.fyber.com CNAME .
- video-interstitial-assets-cdn.fyber.com CNAME .
- www.fyber.com CNAME .
 ;[onthe.io]
  as.cdn5.onthe.io CNAME .
  cdn.onthe.io CNAME .
@@ -8572,7 +8465,6 @@
  www.cbsileads.com CNAME .
 ;[cbsinteractive.com]
  adops.cbsinteractive.com CNAME .
- adportal.cbsinteractive.com CNAME .
  ads.asia.cbsinteractive.com CNAME .
  asia.cbsinteractive.com CNAME .
  b2b-ma.cbsinteractive.com CNAME .
@@ -14223,6 +14115,10 @@
  res.ateam-ad.jp CNAME .
  staging.campaign.ateam-ad.jp CNAME .
  www.ateam-ad.jp CNAME .
+;[admobclick.com]
+ admobclick.com CNAME .
+ pixel.admobclick.com CNAME .
+ www.admobclick.com CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
  adtimaserver.vn CNAME .
@@ -16255,6 +16151,7 @@
  ad.domainfactory.de CNAME .
  ad.ettoday.net CNAME .
  ad.eurosport.com CNAME .
+ ad.foxitsoftware.com CNAME .
  ad.foxnetworks.com CNAME .
  ad.freecity.de CNAME .
  ad.garenanow.com CNAME .
@@ -16551,14 +16448,12 @@
  ads.avazu.net CNAME .
  ads.avct.cloud CNAME .
  ads.avocet.io CNAME .
- ads.belointeractive.com CNAME .
  ads.betfair.com CNAME .
  ads.bigchurch.com CNAME .
  ads.bigfoot.com CNAME .
  ads.bitesms.com CNAME .
  ads.bittorrent.com CNAME .
  ads.blog.com CNAME .
- ads.bloomberg.com CNAME .
  ads.bluemountain.com CNAME .
  ads.bonniercorp.com CNAME .
  ads.boylesports.com CNAME .
@@ -16688,7 +16583,6 @@
  ads.massinfra.nl CNAME .
  ads.mcafee.com CNAME .
  ads.mediaodyssey.com CNAME .
- ads.mgnetwork.com CNAME .
  ads.miarroba.com CNAME .
  ads.mmania.com CNAME .
  ads.mobilautomaten.com CNAME .
@@ -16742,7 +16636,6 @@
  ads.rpgdot.com CNAME .
  ads.samsungads.com CNAME .
  ads.satyamonline.com CNAME .
- ads.saymedia.com CNAME .
  ads.scifi.com CNAME .
  ads.seniorfriendfinder.com CNAME .
  ads.sexinyourcity.com CNAME .
@@ -16780,7 +16673,6 @@
  ads.verticalresponse.com CNAME .
  ads.vgchartz.com CNAME .
  ads.videosz.com CNAME .
- ads.viksaffiliates.com CNAME .
  ads.virtual-nights.com CNAME .
  ads.virtualcountries.com CNAME .
  ads.vnumedia.com CNAME .
@@ -19977,6 +19869,7 @@
  acint.net CNAME .
  adentify.com CNAME .
  adj.st CNAME .
+ advanced-web-analytics.com CNAME .
  akuaba.chez.com CNAME .
  analysis.polarisoffice.com CNAME .
  analytics-au.clickdimensions.com CNAME .
@@ -20370,6 +20263,7 @@
  t.9gag.com CNAME .
  t.dailymail.co.uk CNAME .
  t.dtscdn.com CNAME .
+ t.eloqua.com CNAME .
  t.freelancer.com CNAME .
  tag.researchnow.com CNAME .
  tamgrt.com CNAME .
@@ -20388,6 +20282,7 @@
  track.hubspot.com CNAME .
  track.mobgc.com CNAME .
  track.omg543.com CNAME .
+ track.saygames.io CNAME .
  track.sohu.com CNAME .
  track.td3x.com CNAME .
  track.tenjin.io CNAME .

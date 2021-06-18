@@ -1,8 +1,8 @@
 ; Title: hostsVN
 ; Description: Filter contains all ad networks and tracking frequently accessed.
-; Last modified: 17 Jun 2021 11:00 UTC+7
-; Version: 2106171100
-; Blocked: 6,372 rules
+; Last modified: 18 Jun 2021 10:18 UTC+7
+; Version: 2106181018
+; Blocked: 6,373 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -905,7 +905,6 @@ accesstrade.net CNAME .
 acs.m.taobao.com CNAME .
 acuityplatform.com CNAME .
 ad-brix.com CNAME .
-ad-creatives-public.commondatastorage.googleapis.com CNAME .
 ad-exchange.toast.com CNAME .
 ad-score.com CNAME .
 ad-stir.com CNAME .
@@ -971,6 +970,7 @@ admarvel.com CNAME .
 admaym.com CNAME .
 admedia.com CNAME .
 admob.com CNAME .
+admobclick.com CNAME .
 adnet.mob.com CNAME .
 adnetasia.com CNAME .
 adnetworktech.com CNAME .
@@ -1362,7 +1362,6 @@ content-ad.net CNAME .
 content.ad CNAME .
 contentabc.com CNAME .
 contextweb.com CNAME .
-contributor.google.com CNAME .
 conversantmedia.com CNAME .
 convertexperiments.com CNAME .
 convertful.com CNAME .
@@ -1518,6 +1517,7 @@ go-mpulse.net CNAME .
 go2speed.org CNAME .
 google-analytics.com CNAME .
 googleadservices.com CNAME .
+googleanalytics.com CNAME .
 googleoptimize.com CNAME .
 googlesyndication.com CNAME .
 googletagmanager.com CNAME .
@@ -1799,7 +1799,9 @@ otnolatrnup.com CNAME .
 outbrain.com CNAME .
 outbrainimg.com CNAME .
 ov.yahoo.co.jp CNAME .
-pagead*.l.google.com CNAME .
+pagead-googlehosted.l.google.com CNAME .
+pagead-tpc.l.google.com CNAME .
+pagead.l.google.com CNAME .
 pangle.io CNAME .
 parrable.com CNAME .
 parsely.com CNAME .
@@ -2254,6 +2256,7 @@ ad.digitallook.com CNAME .
 ad.domainfactory.de CNAME .
 ad.ettoday.net CNAME .
 ad.eurosport.com CNAME .
+ad.foxitsoftware.com CNAME .
 ad.foxnetworks.com CNAME .
 ad.freecity.de CNAME .
 ad.garenanow.com CNAME .
@@ -2551,14 +2554,12 @@ ads.aspalliance.com CNAME .
 ads.avazu.net CNAME .
 ads.avct.cloud CNAME .
 ads.avocet.io CNAME .
-ads.belointeractive.com CNAME .
 ads.betfair.com CNAME .
 ads.bigchurch.com CNAME .
 ads.bigfoot.com CNAME .
 ads.bitesms.com CNAME .
 ads.bittorrent.com CNAME .
 ads.blog.com CNAME .
-ads.bloomberg.com CNAME .
 ads.bluemountain.com CNAME .
 ads.bonniercorp.com CNAME .
 ads.boylesports.com CNAME .
@@ -2688,7 +2689,6 @@ ads.lordlucky.com CNAME .
 ads.massinfra.nl CNAME .
 ads.mcafee.com CNAME .
 ads.mediaodyssey.com CNAME .
-ads.mgnetwork.com CNAME .
 ads.miarroba.com CNAME .
 ads.mmania.com CNAME .
 ads.mobilautomaten.com CNAME .
@@ -2742,7 +2742,6 @@ ads.redlightcenter.com CNAME .
 ads.rpgdot.com CNAME .
 ads.samsungads.com CNAME .
 ads.satyamonline.com CNAME .
-ads.saymedia.com CNAME .
 ads.scifi.com CNAME .
 ads.seniorfriendfinder.com CNAME .
 ads.sexinyourcity.com CNAME .
@@ -2780,7 +2779,6 @@ ads.valueimpression.com CNAME .
 ads.verticalresponse.com CNAME .
 ads.vgchartz.com CNAME .
 ads.videosz.com CNAME .
-ads.viksaffiliates.com CNAME .
 ads.virtual-nights.com CNAME .
 ads.virtualcountries.com CNAME .
 ads.vnumedia.com CNAME .
@@ -5873,6 +5871,7 @@ a3cloud.net CNAME .
 acint.net CNAME .
 adentify.com CNAME .
 adj.st CNAME .
+advanced-web-analytics.com CNAME .
 akuaba.chez.com CNAME .
 analysis.polarisoffice.com CNAME .
 analytics-au.clickdimensions.com CNAME .
@@ -6266,6 +6265,7 @@ sync2ad.com CNAME .
 t.9gag.com CNAME .
 t.dailymail.co.uk CNAME .
 t.dtscdn.com CNAME .
+t.eloqua.com CNAME .
 t.freelancer.com CNAME .
 tag.researchnow.com CNAME .
 tamgrt.com CNAME .
@@ -6284,6 +6284,7 @@ track.easeus.com CNAME .
 track.hubspot.com CNAME .
 track.mobgc.com CNAME .
 track.omg543.com CNAME .
+track.saygames.io CNAME .
 track.sohu.com CNAME .
 track.td3x.com CNAME .
 track.tenjin.io CNAME .
