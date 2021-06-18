@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-18T06:04:06.636Z
+; Last modified: 2021-06-18T18:05:13.503Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+egreephu.com CNAME .
 vubihasdtbadiq.com CNAME .
 sitiveadditio.biz CNAME .
 bedbwgjjpxiuox.com CNAME .
@@ -2767,6 +2768,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+dl.crazyporn.xxx CNAME .
 d2fbvay81k4ji3.cloudfront.net CNAME .
 centent.streanplay.cc CNAME .
 x2sfa.javgg.eu CNAME .
@@ -14763,6 +14765,7 @@ bptracking.com CNAME .
 bqiovml.com CNAME .
 br.rk.com CNAME .
 brainient.com CNAME .
+brainlyads.com CNAME .
 branchr.com CNAME .
 brand-display.com CNAME .
 brand.net CNAME .
@@ -24377,6 +24380,7 @@ getviously.com CNAME .
 gglscr.online CNAME .
 giddyuptrk.com CNAME .
 gim.co.il CNAME .
+glancecdn.net CNAME .
 glassboxcdn.com CNAME .
 globalsiteanalytics.com CNAME .
 gnpge.com CNAME .
@@ -25929,7 +25933,6 @@ trk.sele.co CNAME .
 tru.webelapp.com CNAME .
 ts.tradetracker.net CNAME .
 ttdetect.staticimgfarm.com CNAME .
-uim.tifbs.net CNAME .
 units.knotch.it CNAME .
 upt.graphiq.com CNAME .
 userexperience.thehut.net CNAME .
@@ -26569,6 +26572,7 @@ statistics.jfmedier.dk CNAME .
 trckr.nordiskemedier.dk CNAME .
 ubt.berlingskemedia.net CNAME .
 analytics.belgacom.be CNAME .
+apm.tnet.nl CNAME .
 cookies.reedbusiness.nl CNAME .
 hottraffic.nl CNAME .
 statistics.rbi-nl.com CNAME .
@@ -31538,6 +31542,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+x5.jougennotuki.com CNAME .
 ad.atown.jp CNAME .
 ads.pipaffiliates.com CNAME .
 traffic-exchange.tv CNAME .
@@ -31791,6 +31796,7 @@ bauernative.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+trenhdg.com CNAME .
 youqunjx.com CNAME .
 koudaiyundong.com CNAME .
 tu2.taohuaimg.com CNAME .
@@ -33387,7 +33393,6 @@ hzdwjc.com CNAME .
 xzpyjd.com CNAME .
 jianyouling.com CNAME .
 yrehdfer.com CNAME .
-trenhdg.com CNAME .
 sdurhnd.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
