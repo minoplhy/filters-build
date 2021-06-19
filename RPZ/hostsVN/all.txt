@@ -1,11 +1,9 @@
-; Title: hostsVN
-; Description: Filter contains all ad networks and tracking frequently accessed.
-; Last modified: 18 Jun 2021 10:18 UTC+7
-; Version: 2106181018
-; Blocked: 6,373 rules
-; Expires: 1 days (update frequency)
-; Homepage: https://bigdargon.github.io/hostsVN/
-;
+! Title: hostsVN CNAME .
+! Last modified: 18 Jun 2021 10:18 UTC+7 CNAME .
+! Version: 2106181018 CNAME .
+! Blocked: 6,373 domains CNAME .
+! The section containing the list contains all ad networks and tracking CNAME .
+! CNAME .
 24h-ad.24hstatic.com CNAME .
 24h-ipad-ad.24hstatic.com CNAME .
 ad-us.24hstatic.com CNAME .
@@ -6377,7 +6375,4 @@ zhangtom1989.cn CNAME .
 connect.facebook.net CNAME .
 appsflyer.com CNAME .
 mangaqq.com CNAME .
-app.appsflyer.com CNAME rpz-passthru.
-i.mangaqq.com CNAME rpz-passthru.
-
 
