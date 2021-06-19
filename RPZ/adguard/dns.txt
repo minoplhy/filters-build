@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-18T18:05:13.503Z
+; Last modified: 2021-06-19T06:04:07.324Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33388,12 +33388,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-11111fs.com CNAME .
-hzdwjc.com CNAME .
-xzpyjd.com CNAME .
-jianyouling.com CNAME .
-yrehdfer.com CNAME .
-sdurhnd.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33418,6 +33412,7 @@ sdurhnd.com CNAME .
 1002.men CNAME .
 100fenlm.com CNAME .
 111.175.219.*.js CNAME .
+11111fs.com CNAME .
 12086.net CNAME .
 12365chia.com CNAME .
 123hala.com CNAME .
@@ -34119,6 +34114,7 @@ hylyl.club CNAME .
 hysjm.cn CNAME .
 hytgj.com CNAME .
 hz-sllace.com CNAME .
+hzdwjc.com CNAME .
 hzlm.cc CNAME .
 hzyyhz.cn CNAME .
 i.zhuoyaju.com CNAME .
@@ -34170,6 +34166,7 @@ jianglongjie.cn CNAME .
 jiangmg.com CNAME .
 jianmei123.com CNAME .
 jianxinshanghai.com CNAME .
+jianyouling.com CNAME .
 jianyousj.com CNAME .
 jiasdart.cn CNAME .
 jiekc.com CNAME .
@@ -34544,6 +34541,7 @@ scriptcc.cc CNAME .
 scw0.com CNAME .
 sdhzstone.net CNAME .
 sdjjr.com CNAME .
+sdurhnd.com CNAME .
 sdxctr.com CNAME .
 sdxkdj.cn CNAME .
 sfxl.com.cn CNAME .
@@ -34896,6 +34894,7 @@ xyadyzpsb.com CNAME .
 xylmdm.top CNAME .
 xytom.com CNAME .
 xz6d.com CNAME .
+xzpyjd.com CNAME .
 xzyituo.com CNAME .
 y0o1g.cn CNAME .
 yalongrope.cn CNAME .
@@ -34943,6 +34942,7 @@ ypmob.com CNAME .
 yqgjq.com CNAME .
 yqhlty.com CNAME .
 yqw88.com CNAME .
+yrehdfer.com CNAME .
 ys2000.cdn.bcebos.com CNAME .
 ysgsq.cn CNAME .
 ysjkbk.com CNAME .
@@ -35371,7 +35371,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-js1.haoge500.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35838,6 +35837,7 @@ js.ruiwen.com CNAME .
 js.shangxueba.com CNAME .
 js.ubaike.cn CNAME .
 js.yanyue.cn CNAME .
+js1.haoge500.com CNAME .
 jsb.qianzhan.com CNAME .
 jscode.acg68.com CNAME .
 jscode.jbzj.com CNAME .
@@ -36091,7 +36091,11 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-zjxkdq.cn CNAME .
+losbateleros.com CNAME .
+jzq2019.top CNAME .
+gsqweb.cn CNAME .
+keyand.xyz CNAME .
+guoduand.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -37954,6 +37958,7 @@ ziyeaiying.com CNAME .
 zizcy.com CNAME .
 zjksgl.com CNAME .
 zjlfqf.com CNAME .
+zjxkdq.cn CNAME .
 zkba9.cn CNAME .
 zkwsdf.com CNAME .
 zln44.cn CNAME .
