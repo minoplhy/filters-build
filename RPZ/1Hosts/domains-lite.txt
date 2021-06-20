@@ -2,9 +2,9 @@
 ; Expires: 8 hours (update frequency)
 ;  .............
 ;  |home: github.com/badmojr/1Hosts
-;  |Blocked: 72,564 domains
+;  |Blocked: 72,570 domains
 ;  |Size: 1.32 MB
-;  |Updated: Sat, 19 Jun 2021 17:12:09 +0000
+;  |Updated: Sun, 20 Jun 2021 01:50:28 +0000
 ;  |
 ;  |Licence: Dandelicence,
 ;  | https://github.com/DandelionSprout/Dandelicence/blob/master/DandelicenceNewestVersion.md
@@ -3410,6 +3410,7 @@ gostats.cn CNAME .
 c3.gostats.cn CNAME .
 govbeijing.cn CNAME .
 govchongqing.cn CNAME .
+govgaungzhou.cn CNAME .
 govjiangsu.cn CNAME .
 show.govjiangsu.cn CNAME .
 govshenzhen.cn CNAME .
@@ -3458,7 +3459,6 @@ api.iimedia.cn CNAME .
 metrics.ilovematlab.cn CNAME .
 smetrics.ilovematlab.cn CNAME .
 www.immob.cn CNAME .
-appleid.inecd.cn CNAME .
 inmobi.cn CNAME .
 config.inmobi.cn CNAME .
 telemetry.sdk.inmobi.cn CNAME .
@@ -5540,6 +5540,7 @@ ac7d539d732.com CNAME .
 acacdn.com CNAME .
 marketing.acadian-asset.com CNAME .
 metrics.acbj.com CNAME .
+smetrics.accaglobal.com CNAME .
 accaii.com CNAME .
 accelacomm.com CNAME .
 acceleratesign.com CNAME .
@@ -22911,6 +22912,7 @@ gweini.com CNAME .
 gwmtracking.com CNAME .
 gx101.com CNAME .
 gxejgs.com CNAME .
+gxfkkj.com CNAME .
 lqvq.gxxcbj.com CNAME .
 gyeet.com CNAME .
 gyegalekb.com CNAME .
@@ -24334,6 +24336,7 @@ idtargeting.com CNAME .
 matcher.idtargeting.com CNAME .
 iduhivcnth.com CNAME .
 idwrx.com CNAME .
+app.id-erd.com CNAME .
 id-visitors.com CNAME .
 frontend.id-visitors.com CNAME .
 rc.ie13.com CNAME .
@@ -26143,7 +26146,6 @@ ja9377.com CNAME .
 jacketzerobelieved.com CNAME .
 www.jacklm3.com CNAME .
 ablink.e.jackpocket.com CNAME .
-traffic.jackpot247.com CNAME .
 stats.jacksellwood.com CNAME .
 smetrics.jackson.com CNAME .
 ads.jacksonsun.com CNAME .
@@ -30977,6 +30979,7 @@ mkt10904.com CNAME .
 mkt10905.com CNAME .
 mkt10907.com CNAME .
 mkt10911.com CNAME .
+mkt10916.com CNAME .
 mkt10917.com CNAME .
 mkt10924.com CNAME .
 mkt10925.com CNAME .
@@ -30986,6 +30989,9 @@ mkt10938.com CNAME .
 mkt10939.com CNAME .
 mkt10940.com CNAME .
 mkt10944.com CNAME .
+mkt10957.com CNAME .
+mkt10961.com CNAME .
+mkt29.com CNAME .
 mktoresp.com CNAME .
 294-tkb-300.mktoresp.com CNAME .
 396-lrb-524.mktoresp.com CNAME .
@@ -35246,6 +35252,8 @@ pinkpig2le8tt09.com CNAME .
 cxgfq.pinlue.com CNAME .
 affiliates.pinnaclesports.com CNAME .
 tracker.pinnaclesports.com CNAME .
+hk-h5-static.pinpincart.com CNAME .
+static-web.pinpincart.com CNAME .
 pinpoll.com CNAME .
 v8.analytics.pinsightmedia.com CNAME .
 cm.pinsightmedia.com CNAME .
@@ -36176,7 +36184,6 @@ swa.proflowers.com CNAME .
 ads.profootballtalk.com CNAME .
 proformics.com CNAME .
 profusesupport.com CNAME .
-promo.profxbrokers.com CNAME .
 prognosiscontradictbody.com CNAME .
 programattik.com CNAME .
 ssp.programattik.com CNAME .
@@ -37845,7 +37852,6 @@ in.requestmetrics.com CNAME .
 requiresdetached.com CNAME .
 resalag.com CNAME .
 reschedulewizards.com CNAME .
-researchad.com CNAME .
 tag.researchnow.com CNAME .
 research-artisan.com CNAME .
 www.research-artisan.com CNAME .
@@ -40869,7 +40875,6 @@ sootheside.com CNAME .
 sootuglyconfer.com CNAME .
 sopdamptotes.com CNAME .
 soperson.com CNAME .
-lead.soperson.com CNAME .
 sophisticatedstory.com CNAME .
 sophisticatedstove.com CNAME .
 sophomoremostlyplain.com CNAME .
@@ -44740,6 +44745,7 @@ www2.tycosp.com CNAME .
 info.tyco-fire.com CNAME .
 urh.tylll.com CNAME .
 a.tyncar.com CNAME .
+www.tynker.com CNAME .
 tynt.com CNAME .
 cdn.tynt.com CNAME .
 de.tynt.com CNAME .
@@ -46665,7 +46671,6 @@ w2528.com CNAME .
 tracking.w2mobile.com CNAME .
 www.tracking.w2mobile.com CNAME .
 w388.com CNAME .
-w3989.com CNAME .
 w3counter.com CNAME .
 pulse.w3counter.com CNAME .
 www.w3counter.com CNAME .
@@ -52634,7 +52639,6 @@ www.adstacks.in CNAME .
 adtorque.in CNAME .
 digianalytics.airtel.in CNAME .
 advertising.amazon.in CNAME .
-amazonservices.in CNAME .
 m.beautypageants.in CNAME .
 smetrics.boehringer-ingelheim.in CNAME .
 buyt.in CNAME .
@@ -56382,7 +56386,6 @@ a.line.me CNAME .
 sch.line.me CNAME .
 tr.line.me CNAME .
 lap-click.tr.line.me CNAME .
-ads.livetv314.me CNAME .
 livexxx.me CNAME .
 go.loadingnow.me CNAME .
 lookandfind.me CNAME .
@@ -56726,11 +56729,12 @@ adservice.google.mu CNAME .
 hzeetn.natalie.mu CNAME .
 smarine.mu CNAME .
 adservice.google.mw CNAME .
-amazon-vip.mx CNAME .
+smetrics.bbvaseguros.mx CNAME .
 jstvqk.bellisima.mx CNAME .
 blackbass.mx CNAME .
 cieh.mx CNAME .
 engage.3m.com.mx CNAME .
+smetrics.bbvanet.com.mx CNAME .
 conexionesymanguerashidrocalidas.com.mx CNAME .
 impreso.elfinanciero.com.mx CNAME .
 hits.eluniversal.com.mx CNAME .
@@ -65800,7 +65804,6 @@ ads.arrl.org CNAME .
 links.asbury.org CNAME .
 info.ascassociation.org CNAME .
 activity.asce.org CNAME .
-info.aspcapro.org CNAME .
 marketing.astm.org CNAME .
 astrocash.org CNAME .
 stats.avaaz.org CNAME .
@@ -66498,6 +66501,7 @@ ea.megustaleer.com.pe CNAME .
 act-on.up.edu.pe CNAME .
 smetrics.interbank.pe CNAME .
 doagpm.promart.pe CNAME .
+santandercp.pe CNAME .
 rutorc6mqdinc4cz.onion.pet CNAME .
 torrentzwealmisr.onion.pet CNAME .
 adservice.google.com.pg CNAME .
@@ -69475,8 +69479,6 @@ static.viadata.store CNAME .
 freecontent.stream CNAME .
 www.freecontent.stream CNAME .
 ibclick.stream CNAME .
-intelensafrete.stream CNAME .
-klapenlyidveln.stream CNAME .
 moneroocean.stream CNAME .
 gulf.moneroocean.stream CNAME .
 siteonline.stream CNAME .
@@ -70635,6 +70637,7 @@ adverts.archant.co.uk CNAME .
 csp.archant.co.uk CNAME .
 smetrics.argos.co.uk CNAME .
 vuorrx.aromantic.co.uk CNAME .
+smetrics.ascentric.co.uk CNAME .
 a02342.asianimage.co.uk CNAME .
 ads.aspectgroup.co.uk CNAME .
 flagship.asp-host.co.uk CNAME .
@@ -71925,7 +71928,6 @@ banner.thadaco.vn CNAME .
 ai.thanhnien.vn CNAME .
 log.thanhnien.vn CNAME .
 quangcao.thanhnien.vn CNAME .
-log.theleader.vn CNAME .
 ads.thesaigontimes.vn CNAME .
 cdn-ads.thesaigontimes.vn CNAME .
 staticad.thethao247.vn CNAME .
@@ -72101,7 +72103,6 @@ pixel.watch CNAME .
 www.pixel.watch CNAME .
 dasfelynsaterr.webcam CNAME .
 hookhub.webcam CNAME .
-lawiersenadrey.webcam CNAME .
 dllhost.website CNAME .
 indonesias.website CNAME .
 multifbpixels.website CNAME .
@@ -72381,6 +72382,7 @@ lhy1.xyz CNAME .
 libcdn.xyz CNAME .
 likn.xyz CNAME .
 limnigraphes.xyz CNAME .
+trk.lot-impossible-mouth-twice.xyz CNAME .
 mahieutin.xyz CNAME .
 makuzeko.xyz CNAME .
 mamihlapinatana.xyz CNAME .
@@ -72530,6 +72532,7 @@ stats.xtraffic.xyz CNAME .
 xtremeserve.xyz CNAME .
 js.xtremeserve.xyz CNAME .
 logs.xtremeserve.xyz CNAME .
+xxzzsj.xyz CNAME .
 xygediwe.xyz CNAME .
 xyz0k4gfs.xyz CNAME .
 y2020ad.xyz CNAME .
@@ -72574,6 +72577,9 @@ ads.vipmobile.co.za CNAME .
 metric.vodacom.co.za CNAME .
 www.webcounter.co.za CNAME .
 xtrack.capetown.gov.za CNAME .
+fraud.adjoe.zone CNAME .
+prod.fraud.adjoe.zone CNAME .
+prod.adjoe.zone CNAME .
 adserve.zone CNAME .
 go.koten.zone CNAME .
 trust.zone CNAME .

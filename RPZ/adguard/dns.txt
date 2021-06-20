@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-19T18:03:18.939Z
+; Last modified: 2021-06-20T06:04:01.464Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33420,7 +33420,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-gxfkkj.com CNAME .
+govgaungzhou.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34048,6 +34048,7 @@ gw069.com CNAME .
 gwbangshou.com CNAME .
 gwylm.com CNAME .
 gxejgs.com CNAME .
+gxfkkj.com CNAME .
 gxgzyny.com CNAME .
 gydag.com CNAME .
 gzduoqicai.cn CNAME .
@@ -36124,12 +36125,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-xxzzsj.xyz CNAME .
-losbateleros.com CNAME .
-jzq2019.top CNAME .
-gsqweb.cn CNAME .
-keyand.xyz CNAME .
-guoduand.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36786,6 +36781,7 @@ grjs06.com CNAME .
 grjs08.com CNAME .
 grubfast.com CNAME .
 gslyxny.com CNAME .
+gsqweb.cn CNAME .
 gssdsj.com CNAME .
 gtchong.com CNAME .
 gtifund.cn CNAME .
@@ -36796,6 +36792,7 @@ guangsss1999.com CNAME .
 guangweixinxi345.cn CNAME .
 guannin.com CNAME .
 guansenff.cn CNAME .
+guoduand.cn CNAME .
 guvdfs.cn CNAME .
 gxdianhua.com CNAME .
 gxfc2021.top CNAME .
@@ -37061,6 +37058,7 @@ jysbj.cn CNAME .
 jytjw.com CNAME .
 jzdianlan.cn CNAME .
 jzn360.cn CNAME .
+jzq2019.top CNAME .
 jzrzpump.com CNAME .
 k22x6.cn CNAME .
 k5p8f2.cn CNAME .
@@ -37077,6 +37075,7 @@ kddlearn.cn CNAME .
 keilb.xyz CNAME .
 keran.hl.cn CNAME .
 ketaoke.com CNAME .
+keyand.xyz CNAME .
 kfuih.cn CNAME .
 kgfnhf.cn CNAME .
 khuoy.com CNAME .
@@ -37157,6 +37156,7 @@ lobmuc.cn CNAME .
 lolvsdota.cn CNAME .
 longkoupeanut.cn CNAME .
 lordtao.cn CNAME .
+losbateleros.com CNAME .
 louisan.cn CNAME .
 lousivency.com.cn CNAME .
 lovepets70.com CNAME .
@@ -37839,6 +37839,7 @@ xuyssur.cn CNAME .
 xvqdfwy.cn CNAME .
 xw1001.com CNAME .
 xxkio.com CNAME .
+xxzzsj.xyz CNAME .
 xy98.com.cn CNAME .
 xywgbms.top CNAME .
 xztms.com CNAME .
