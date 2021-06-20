@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-20T06:04:01.464Z
+; Last modified: 2021-06-20T18:03:28.231Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+tywzyhfliwdbu.com CNAME .
+uhqpnhorurueku.com CNAME .
+awaitcola.com CNAME .
 egreephu.com CNAME .
 vubihasdtbadiq.com CNAME .
 sitiveadditio.biz CNAME .
@@ -67,7 +70,6 @@ jawsfixture.com CNAME .
 tronglyre.club CNAME .
 exru.website CNAME .
 departgross.com CNAME .
-inheritedgeneralrailroad.com CNAME .
 jawholeminable.com CNAME .
 picturesquebutcompassionate.com CNAME .
 sodamash.com CNAME .
@@ -104,7 +106,6 @@ divaduolite.com CNAME .
 ferociousvirtual.com CNAME .
 sizeilksohs.com CNAME .
 otlffresod.com CNAME .
-jkgrczjllhq.com CNAME .
 ekufogow.xyz CNAME .
 gasijosti.com CNAME .
 glpl4qp99ny4.com CNAME .
@@ -119,7 +120,6 @@ snodlycaccias.com CNAME .
 adc.streamspread.com CNAME .
 aftjohnanodes.com CNAME .
 melinaeability.casa CNAME .
-jonasahalockup.com CNAME .
 fogsham.com CNAME .
 ad.utop.ir CNAME .
 bmfads.com CNAME .
@@ -198,7 +198,6 @@ wizardmarndl.com CNAME .
 fhsmtrnsfnt.com CNAME .
 softenedimmortalityprocedure.com CNAME .
 mfk-cpm.com CNAME .
-jycdnjnz.com CNAME .
 lavageethion.com CNAME .
 lebilui.ru CNAME .
 momijoy.ru CNAME .
@@ -256,7 +255,6 @@ abroodeuripi.com CNAME .
 gratingtode.com CNAME .
 directpaper.name CNAME .
 monumentsmaterialeasel.com CNAME .
-intrudeaccess.com CNAME .
 notesbook.in CNAME .
 mblink.in CNAME .
 bitads.io CNAME .
@@ -708,7 +706,6 @@ crentgate.com CNAME .
 inservinea.com CNAME .
 popcent.org CNAME .
 adskk.club CNAME .
-insolencewalter.com CNAME .
 wqpeltrb.com CNAME .
 vcmrlwcafliaa.com CNAME .
 yfivoqeh.online CNAME .
@@ -745,7 +742,6 @@ sjunnwxixycbv.com CNAME .
 skjdtkoqlvrhcn.com CNAME .
 chicaudo.com CNAME .
 litourge.com CNAME .
-ignitiontigercamera.com CNAME .
 andarmair.club CNAME .
 p.tanx.com CNAME .
 ptaughar.com CNAME .
@@ -756,7 +752,6 @@ thautsie.net CNAME .
 secureanalytic.com CNAME .
 auweelta.net CNAME .
 willalland.info CNAME .
-intellipopup.com CNAME .
 zoaheeth.com CNAME .
 refparjhob.top CNAME .
 1xredir57496.top CNAME .
@@ -1281,7 +1276,6 @@ sgr1.com CNAME .
 aa24h.com CNAME .
 doutthenhap.info CNAME .
 2yut0j.cn CNAME .
-iarfina.pw CNAME .
 grunkav.online CNAME .
 sdasasyydd.com CNAME .
 adsaturn.com CNAME .
@@ -2550,10 +2544,8 @@ id.kbmg.cz CNAME .
 ifmnwi.club CNAME .
 imaginaxs.com CNAME .
 india-zed.com CNAME .
-inter1ads.com CNAME .
 iu1xoe7o.com CNAME .
 javacript.cf CNAME .
-jfduv7.com CNAME .
 ji.ihualun.com CNAME .
 jkolp.com CNAME .
 join.xlgirls.com CNAME .
@@ -8103,6 +8095,7 @@ iezbleqt.com CNAME .
 ifeuddaywa.com CNAME .
 ifsmatbeg.site CNAME .
 iglaique.net CNAME .
+ignitiontigercamera.com CNAME .
 ignoranttools.com CNAME .
 igvxnenqgu.com CNAME .
 ihjtrncfoha.com CNAME .
@@ -8190,6 +8183,7 @@ infra.systems CNAME .
 infrashift.com CNAME .
 ingoinghitchstick.com CNAME .
 ingratitudedaintyblockade.com CNAME .
+inheritedgeneralrailroad.com CNAME .
 inheritwalter.com CNAME .
 inhumenesokia.com CNAME .
 inigusyou.fun CNAME .
@@ -8205,6 +8199,7 @@ insectadvertisesecretly.com CNAME .
 insectdatabasesignificantly.com CNAME .
 insnative.com CNAME .
 insolencecountriesblunder.com CNAME .
+insolencewalter.com CNAME .
 insomn.pro CNAME .
 instahookupclub2.com CNAME .
 instahookupclub3.com CNAME .
@@ -8233,6 +8228,7 @@ intervalssuggested.com CNAME .
 intimidatewearisomespecialist.com CNAME .
 intimidatingclinchwily.com CNAME .
 intimidatinggodlessketchup.com CNAME .
+intrudeaccess.com CNAME .
 inventoryjeep.com CNAME .
 investigatesupernatural.com CNAME .
 invincibledefybegun.com CNAME .
@@ -8391,6 +8387,7 @@ jivomtuz.com CNAME .
 jjfankvlnhhm.com CNAME .
 jjnlfd.com CNAME .
 jjpnveujkk.com CNAME .
+jkgrczjllhq.com CNAME .
 jkjkeithc.com CNAME .
 jltklmnmj.com CNAME .
 jltzknvw.com CNAME .
@@ -8419,6 +8416,7 @@ jokelibellous.com CNAME .
 jolic2.com CNAME .
 jollyfirmexterminate.com CNAME .
 jomtingi.net CNAME .
+jonasahalockup.com CNAME .
 joobuste.com CNAME .
 joodoush.com CNAME .
 joophesh.com CNAME .
@@ -8476,6 +8474,7 @@ jwvwak1a.com CNAME .
 jxswwvvejwzdd.com CNAME .
 jxxcedyaazm.com CNAME .
 jyagyffnbysg.com CNAME .
+jycdnjnz.com CNAME .
 jyebqhel.com CNAME .
 jynp9m209p.com CNAME .
 jypugepha.pro CNAME .
@@ -15373,6 +15372,7 @@ jeetyetmedia.com CNAME .
 jemmgroup.com CNAME .
 jerredsite.pro CNAME .
 jewishcontentnetwork.com CNAME .
+jfduv7.com CNAME .
 jiawen88.com CNAME .
 jistaumt.com CNAME .
 jivox.com CNAME .
@@ -16911,6 +16911,7 @@ securesurf.biz CNAME .
 smashnewtab.com CNAME .
 spiralstab.com CNAME .
 yatab.net CNAME .
+inter1ads.com CNAME .
 ; uponit adservers
 ajkelra.com CNAME .
 albertonne.com CNAME .
@@ -16937,6 +16938,7 @@ daero.pw CNAME .
 daethana.pw CNAME .
 elabalar.pw CNAME .
 elmenor.xyz CNAME .
+iarfina.pw CNAME .
 omafaren.pw CNAME .
 omaris.pw CNAME .
 ;
@@ -18171,6 +18173,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+b90.yahoo.co.jp CNAME .
 mc-ya.ru CNAME .
 srmdata.com CNAME .
 eu.groupondata.com CNAME .
@@ -22196,6 +22199,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+bc.nhk.jp CNAME .
 t.simply-hentai.com CNAME .
 track.nzz.ch CNAME .
 t.indeed.com CNAME .
@@ -35405,6 +35409,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+88.yunqishi8.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
