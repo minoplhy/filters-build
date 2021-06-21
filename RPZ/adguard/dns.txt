@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-21T06:04:27.431Z
+; Last modified: 2021-06-21T18:03:16.099Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,10 +19,11 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+accompanycollapse.com CNAME .
+egreephu.com CNAME .
 tywzyhfliwdbu.com CNAME .
 uhqpnhorurueku.com CNAME .
 awaitcola.com CNAME .
-egreephu.com CNAME .
 vubihasdtbadiq.com CNAME .
 sitiveadditio.biz CNAME .
 bedbwgjjpxiuox.com CNAME .
@@ -327,7 +328,6 @@ cubanetestoon.com CNAME .
 adoto.net CNAME .
 dggaenaawxe8z.cloudfront.net CNAME .
 cuisineenvoyadvertise.com CNAME .
-malinesmanses.com CNAME .
 disparagethence.com CNAME .
 streakattempt.com CNAME .
 confidethirstyfrightful.com CNAME .
@@ -337,7 +337,6 @@ forlumineontor.com CNAME .
 harmlesstacticalhonorable.com CNAME .
 air2s.com CNAME .
 ioadserve.com CNAME .
-samplerpouch.com CNAME .
 go.loadingnow.me CNAME .
 wishjus.com CNAME .
 jutyledu.pro CNAME .
@@ -9005,6 +9004,7 @@ makeupworddisparage.com CNAME .
 makzidhq.com CNAME .
 malharpossible.pro CNAME .
 malharvoice.pro CNAME .
+malinesmanses.com CNAME .
 mallowsmother.com CNAME .
 malpacascal.space CNAME .
 mamihlapinatana.xyz CNAME .
@@ -11475,6 +11475,7 @@ sallyminority.com CNAME .
 salutationcheerlessdemote.com CNAME .
 samage-bility.icu CNAME .
 samegradually.com CNAME .
+samplerpouch.com CNAME .
 samtrg.com CNAME .
 samyarct.top CNAME .
 sanddevelto.fun CNAME .
@@ -26927,6 +26928,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+zbyynuew9g.ru CNAME .
 gzppit.com CNAME .
 main-ti-cod.com CNAME .
 ijvvsearfavi.mobi CNAME .
@@ -31578,6 +31580,8 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+flux-g.com CNAME .
+ad.mtrf.net CNAME .
 x5.jougennotuki.com CNAME .
 ad.atown.jp CNAME .
 ads.pipaffiliates.com CNAME .
@@ -33424,6 +33428,9 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+zuoss.net CNAME .
+xsjyun.cn CNAME .
+qweoc88123.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36130,6 +36137,11 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+webbridcar.xyz CNAME .
+czhongbao.net CNAME .
+baoxian28.cn CNAME .
+hepburn.net.cn CNAME .
+daddywu.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
