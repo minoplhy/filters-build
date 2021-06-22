@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-21T18:03:16.099Z
+; Last modified: 2021-06-22T06:04:23.603Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33428,9 +33428,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-zuoss.net CNAME .
-xsjyun.cn CNAME .
-qweoc88123.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34545,6 +34542,7 @@ qudaoweiwang.com CNAME .
 queene.cn CNAME .
 quehq.com CNAME .
 qvpublish.com CNAME .
+qweoc88123.top CNAME .
 qwfknhc.cn CNAME .
 qxfly.com CNAME .
 qxxys.com CNAME .
@@ -34911,6 +34909,7 @@ xn--xhq9mt12cf5v.site CNAME .
 xn--xhq9mt12cf5v.website CNAME .
 xnjpg.com CNAME .
 xnmcmnt.cn CNAME .
+xsjyun.cn CNAME .
 xt2d.cn CNAME .
 xtianqi.com.cn CNAME .
 xtxa.net CNAME .
@@ -35081,6 +35080,7 @@ zsjyc.top CNAME .
 zswinwin.xyz CNAME .
 ztidu.com CNAME .
 ztvx8.com CNAME .
+zuoss.net CNAME .
 zwenhan.com CNAME .
 zxhrq.cn CNAME .
 zybpj.com CNAME .
@@ -36137,11 +36137,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-webbridcar.xyz CNAME .
-czhongbao.net CNAME .
-baoxian28.cn CNAME .
-hepburn.net.cn CNAME .
-daddywu.cn CNAME .
+chuanjiae.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36403,6 +36399,7 @@ bangdu2.com CNAME .
 banma51.cn CNAME .
 baolutongwuye.cn CNAME .
 baomeidiaosu.cn CNAME .
+baoxian28.cn CNAME .
 bbbx.xyz CNAME .
 bbtys.net CNAME .
 bbvdd.com CNAME .
@@ -36577,12 +36574,14 @@ cxzudwk.com CNAME .
 cyboke.cn CNAME .
 cyto-biotherapy.com CNAME .
 czhcloud.cn CNAME .
+czhongbao.net CNAME .
 czlongle.cn CNAME .
 czxjx.cn CNAME .
 d36gyu.cn CNAME .
 dacedsfa.cn CNAME .
 dachadu.cn CNAME .
 dadawm.cc CNAME .
+daddywu.cn CNAME .
 dadedaxue.com CNAME .
 dailiq.cn CNAME .
 daima.dsxdn.com CNAME .
@@ -36863,6 +36862,7 @@ hehongmei.top CNAME .
 helpinfo.cn CNAME .
 henanlinyu.cn CNAME .
 henduoqian.com CNAME .
+hepburn.net.cn CNAME .
 heylookhere.top CNAME .
 hflvhua.com CNAME .
 hfyxdl.com CNAME .
@@ -37724,6 +37724,7 @@ wantezy.cn CNAME .
 watchhouse.cn CNAME .
 waterincloud.cn CNAME .
 wbiev.com CNAME .
+webbridcar.xyz CNAME .
 wechatpu.com CNAME .
 weidehuagong.com CNAME .
 weiguanwang888.com CNAME .
