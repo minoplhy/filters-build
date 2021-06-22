@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 18 Jun 2021 10:18 UTC+7
+; Updated: 22 Jun 2021 20:20 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -14119,6 +14119,18 @@
  admobclick.com CNAME .
  pixel.admobclick.com CNAME .
  www.admobclick.com CNAME .
+;[xdrig.com]
+ adt.xdrig.com CNAME .
+ app.xdrig.com CNAME .
+ av1.xdrig.com CNAME .
+ cloud.xdrig.com CNAME .
+ conf.xdrig.com CNAME .
+ ga.xdrig.com CNAME .
+ gv1.xdrig.com CNAME .
+ me.xdrig.com CNAME .
+ pg.xdrig.com CNAME .
+ push.xdrig.com CNAME .
+ xdrig.com CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
  adtimaserver.vn CNAME .
@@ -19428,6 +19440,7 @@
  tradeadexchange.com CNAME .
  tradedoubler.com CNAME .
  trademob.com CNAME .
+ tradplusad.com CNAME .
  traffic-exchange.com CNAME .
  traffic.focuusing.com CNAME .
  trafficadept.com CNAME .
