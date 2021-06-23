@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 22 Jun 2021 20:20 UTC+7
+; Updated: 23 Jun 2021 14:23 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -14660,7 +14660,9 @@
  adtima-media.zadn.vn CNAME .
  adtima-static-td.zadn.vn CNAME .
  adtima-static.zadn.vn CNAME .
+ adtima-video.zadn.vn CNAME .
 ;[adtima*.zascdn.me]
+ adtima-common.zascdn.me CNAME .
  adtima-media.zascdn.me CNAME .
  adtima-static.zascdn.me CNAME .
  adtima-video.zascdn.me CNAME .
@@ -15574,6 +15576,8 @@
  stats.vng.com.vn CNAME .
 ;[tpmedia.online]
  cdn.tpmedia.online CNAME .
+ cdn1.tpmedia.online CNAME .
+ cdnv.tpmedia.online CNAME .
  mvideo.tpmedia.online CNAME .
  tpmedia.online CNAME .
  www.tpmedia.online CNAME .
@@ -15593,6 +15597,19 @@
  googleshopping.sapoapps.vn CNAME .
  popup.sapoapps.vn CNAME .
  promotionpopup.sapoapps.vn CNAME .
+;[onmarketer.net]
+ onmarketer.net CNAME .
+ beta.onmarketer.net CNAME .
+ www.onmarketer.net CNAME .
+ hub.onmarketer.net CNAME .
+;[omarketer.viettelpost.vn]
+ api.omarketer.viettelpost.vn CNAME .
+ app.omarketer.viettelpost.vn CNAME .
+ cdn.omarketer.viettelpost.vn CNAME .
+ hub.omarketer.viettelpost.vn CNAME .
+ omarketer.viettelpost.vn CNAME .
+ url.omarketer.viettelpost.vn CNAME .
+ wss.omarketer.viettelpost.vn CNAME .
 ; --- Block adsVN ---
  5734a4f2d.vws.vegacdn.vn CNAME .
  73531862.vws.vegacdn.vn CNAME .
@@ -15915,6 +15932,7 @@
  log.ngaynay.vn CNAME .
  log.nhipcaudautu.vn CNAME .
  log.oto.com.vn CNAME .
+ log.plo.vn CNAME .
  log.saleup88.vn CNAME .
  log.sggp.org.vn CNAME .
  log.tapchimattran.vn CNAME .
@@ -17724,7 +17742,6 @@
  economicpizzas.com CNAME .
  ecoupons.com CNAME .
  ecpms.net CNAME .
- edaa.eu CNAME .
  edge.mdcgate.com CNAME .
  edgeio.com CNAME .
  edublog.pw CNAME .

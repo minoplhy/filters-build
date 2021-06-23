@@ -1,7 +1,7 @@
 ! Title: hostsVN CNAME .
-! Last modified: 22 Jun 2021 20:20 UTC+7 CNAME .
-! Version: 2106222020 CNAME .
-! Blocked: 6,375 domains CNAME .
+! Last modified: 23 Jun 2021 14:23 UTC+7 CNAME .
+! Version: 2106231423 CNAME .
+! Blocked: 6,386 domains CNAME .
 ! The section containing the list contains all ad networks and tracking CNAME .
 ! CNAME .
 24h-ad.24hstatic.com CNAME .
@@ -35,12 +35,14 @@ adsplay.net CNAME .
 adsplay.xyz CNAME .
 adstracking.apps.zing.vn CNAME .
 adtima-common.zadn.vn CNAME .
+adtima-common.zascdn.me CNAME .
 adtima-media-td.zadn.vn CNAME .
 adtima-media.zadn.vn CNAME .
 adtima-media.zascdn.me CNAME .
 adtima-static-td.zadn.vn CNAME .
 adtima-static.zadn.vn CNAME .
 adtima-static.zascdn.me CNAME .
+adtima-video.zadn.vn CNAME .
 adtima-video.zascdn.me CNAME .
 adtima.vn CNAME .
 adtimaserver.vn CNAME .
@@ -125,8 +127,10 @@ novaonx.com CNAME .
 nt-cdn.coccoc.com CNAME .
 nv-ad.24hstatic.com CNAME .
 ohchat.net CNAME .
+omarketer.viettelpost.vn CNAME .
 oncustomer.asia CNAME .
 onfluencer.net CNAME .
+onmarketer.net CNAME .
 partner.accesstrade.vn CNAME .
 phanquang.vn CNAME .
 philacct.com CNAME .
@@ -511,6 +515,7 @@ log.kinhtedouong.vn CNAME .
 log.ngaynay.vn CNAME .
 log.nhipcaudautu.vn CNAME .
 log.oto.com.vn CNAME .
+log.plo.vn CNAME .
 log.saleup88.vn CNAME .
 log.sggp.org.vn CNAME .
 log.tapchimattran.vn CNAME .
@@ -685,7 +690,9 @@ datcuoc247.com CNAME .
 debet.com CNAME .
 fa88.win CNAME .
 fabet.com CNAME .
+fabet.me CNAME .
 fabet.vip CNAME .
+fabet88.net CNAME .
 fabetvn.com CNAME .
 fb88.com CNAME .
 fb88.link CNAME .
@@ -696,11 +703,14 @@ fb88live.com CNAME .
 fb88sports.com CNAME .
 fb88viet.com CNAME .
 fcb8.com CNAME .
+fcb8.fun CNAME .
+fcb8.vip CNAME .
 fcb88.com CNAME .
 fcb88d.com CNAME .
 five88.biz CNAME .
 five88.com CNAME .
 five88.net CNAME .
+fivevn.net CNAME .
 gamebai.club CNAME .
 gdwbetvn888.com CNAME .
 gdwviet.com CNAME .
@@ -763,11 +773,13 @@ one88.com CNAME .
 one88.fun CNAME .
 one88.me CNAME .
 one88.us CNAME .
+one88.vip CNAME .
 one88.vn CNAME .
 oneday88.com CNAME .
 playgamefa88.live CNAME .
 playgo88.asia CNAME .
 playv8.com CNAME .
+playv8.vip CNAME .
 qq8788viet.com CNAME .
 r88.vn CNAME .
 red88.com CNAME .
@@ -3820,7 +3832,6 @@ eclickz.com CNAME .
 economicpizzas.com CNAME .
 ecoupons.com CNAME .
 ecpms.net CNAME .
-edaa.eu CNAME .
 edge.mdcgate.com CNAME .
 edgeio.com CNAME .
 edublog.pw CNAME .

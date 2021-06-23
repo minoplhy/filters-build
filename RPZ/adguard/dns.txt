@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-23T06:04:27.433Z
+; Last modified: 2021-06-23T12:04:12.840Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,10 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+igcdnnu.com CNAME .
+pubaka5.com CNAME .
+grothafepi.com CNAME .
+nemewagro.com CNAME .
 effectiveperformancenetwork.com CNAME .
 sciencem.club CNAME .
 akemeast.club CNAME .
@@ -173,7 +177,6 @@ bvnjgjfh.com CNAME .
 onsideratio.fun CNAME .
 eoemyywmjx.com CNAME .
 pierlinks.com CNAME .
-nkyouvery.fun CNAME .
 tefumiji.xyz CNAME .
 uhdokoq5ocmk.com CNAME .
 ohpdsplu.com CNAME .
@@ -2984,6 +2987,7 @@ llog.pl CNAME .
 bsxmuny.wp.pl CNAME .
 fusion.sydsvenskan.se CNAME .
 ad.juksy.com CNAME .
+nh-cdn.sgp1.cdn.digitaloceanspaces.com CNAME .
 ; https://github.com/AdguardTeam/AdguardFilters/issues/54242
 /movie1168\.com\/storage\/go\/[0-9a-zA-Z]{0,40}\.gif/ CNAME .
 ; https://github.com/AdguardTeam/AdguardFilters/issues/51547
@@ -9833,6 +9837,7 @@ nkjomdiztdy.com CNAME .
 nklrfqgz.com CNAME .
 nkmarxpzacidhn.com CNAME .
 nktorpmpbhvb.com CNAME .
+nkyouvery.fun CNAME .
 nlkspjjcxyvr.com CNAME .
 nlntrk.com CNAME .
 nlz0ini5uz9t.com CNAME .
@@ -18179,6 +18184,9 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+adrizer.com CNAME .
+contentsfeed.com CNAME .
+zz.bdstatic.com CNAME .
 agorahtag.tech CNAME .
 cdn.adsquirrel.ai CNAME .
 b90.yahoo.co.jp CNAME .
@@ -24194,7 +24202,6 @@ adinte.jp CNAME .
 adoric-om.com CNAME .
 adregain.com CNAME .
 adregain.ru CNAME .
-adrizer.com CNAME .
 adscore.com CNAME .
 adtector.com CNAME .
 adtrackers.net CNAME .
@@ -26313,7 +26320,6 @@ acrosspf.com CNAME .
 adpick.co.kr CNAME .
 adtive.com CNAME .
 aicontents.net CNAME .
-contentsfeed.com CNAME .
 dawin.tv CNAME .
 oevery.com CNAME .
 tenping.kr CNAME .
@@ -31843,6 +31849,8 @@ bauernative.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+my.my-hr.cn CNAME .
+one.toumppk.cn CNAME .
 trenhdg.com CNAME .
 youqunjx.com CNAME .
 koudaiyundong.com CNAME .
@@ -32603,9 +32611,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 22 Jun 2021 20:20 UTC+7
-; OriginalVersion: 2106222020
-; Blocked: 870 rules
+; Last modified: 23 Jun 2021 14:23 UTC+7
+; OriginalVersion: 2106231423
+; Blocked: 882 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32635,11 +32643,13 @@ adsplay.net CNAME .
 adsplay.xyz CNAME .
 adstracking.apps.zing.vn CNAME .
 adtima-common.zadn.vn CNAME .
+adtima-common.zascdn.me CNAME .
 adtima-media-td.zadn.vn CNAME .
 adtima-media.zadn.vn CNAME .
 adtima-media.zascdn.me CNAME .
 adtima-static-td.zadn.vn CNAME .
 adtima-static.zascdn.me CNAME .
+adtima-video.zadn.vn CNAME .
 adtima-video.zascdn.me CNAME .
 adtima.vn CNAME .
 adx.vn CNAME .
@@ -32710,8 +32720,10 @@ novaonx.com CNAME .
 nt-cdn.coccoc.com CNAME .
 nv-ad.24hstatic.com CNAME .
 ohchat.net CNAME .
+omarketer.viettelpost.vn CNAME .
 oncustomer.asia CNAME .
 onfluencer.net CNAME .
+onmarketer.net CNAME .
 partner.accesstrade.vn CNAME .
 phanquang.vn CNAME .
 philacct.com CNAME .
@@ -33074,6 +33086,7 @@ log.kinhtedouong.vn CNAME .
 log.ngaynay.vn CNAME .
 log.nhipcaudautu.vn CNAME .
 log.oto.com.vn CNAME .
+log.plo.vn CNAME .
 log.saleup88.vn CNAME .
 log.sggp.org.vn CNAME .
 log.tapchimattran.vn CNAME .
@@ -33244,7 +33257,9 @@ datcuoc247.com CNAME .
 debet.com CNAME .
 fa88.win CNAME .
 fabet.com CNAME .
+fabet.me CNAME .
 fabet.vip CNAME .
+fabet88.net CNAME .
 fabetvn.com CNAME .
 fb88.com CNAME .
 fb88.link CNAME .
@@ -33255,11 +33270,14 @@ fb88live.com CNAME .
 fb88sports.com CNAME .
 fb88viet.com CNAME .
 fcb8.com CNAME .
+fcb8.fun CNAME .
+fcb8.vip CNAME .
 fcb88.com CNAME .
 fcb88d.com CNAME .
 five88.biz CNAME .
 five88.com CNAME .
 five88.net CNAME .
+fivevn.net CNAME .
 gamebai.club CNAME .
 gdwbetvn888.com CNAME .
 gdwviet.com CNAME .
@@ -33322,11 +33340,13 @@ one88.com CNAME .
 one88.fun CNAME .
 one88.me CNAME .
 one88.us CNAME .
+one88.vip CNAME .
 one88.vn CNAME .
 oneday88.com CNAME .
 playgamefa88.live CNAME .
 playgo88.asia CNAME .
 playv8.com CNAME .
+playv8.vip CNAME .
 qq8788viet.com CNAME .
 r88.vn CNAME .
 red88.com CNAME .
@@ -36145,6 +36165,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+a3vy69.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
