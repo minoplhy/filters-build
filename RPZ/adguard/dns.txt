@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-22T18:03:28.496Z
+; Last modified: 2021-06-23T06:04:27.433Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+effectiveperformancenetwork.com CNAME .
 sciencem.club CNAME .
 akemeast.club CNAME .
 accompanycollapse.com CNAME .
@@ -15375,6 +15376,7 @@ imitrk.com CNAME .
 immedlinkum.info CNAME .
 imonomy.com CNAME .
 imp*.tradedoubler.com CNAME .
+impactify.io CNAME .
 impactradius-go.com CNAME .
 impactradius.com CNAME .
 impactserving.com CNAME .
@@ -17138,6 +17140,7 @@ dlkfm8bqz0bpx.cloudfront.net CNAME .
 dlvds9i67c60j.cloudfront.net CNAME .
 dm0acvguygm9h.cloudfront.net CNAME .
 dmkdtkad2jyb9.cloudfront.net CNAME .
+do69ll745l27z.cloudfront.net CNAME .
 dojx47ab4dyxi.cloudfront.net CNAME .
 downloadandsave-a.akamaihd.net CNAME .
 dpsq2uzakdgqz.cloudfront.net CNAME .
@@ -18176,6 +18179,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+agorahtag.tech CNAME .
+cdn.adsquirrel.ai CNAME .
 b90.yahoo.co.jp CNAME .
 mc-ya.ru CNAME .
 srmdata.com CNAME .
@@ -23789,7 +23794,7 @@ plbslog.umeng.com CNAME .
 analysys.cn CNAME .
 logs.supersonic.com CNAME .
 ; xiaomi mi band app
-datacollector-drru.dt.hicloud.com CNAME .
+datacollector-*.dt.hicloud.com CNAME .
 app-analytics-ru.huami.com CNAME .
 ; spb tv android app
 metrics.spbtv.com CNAME .
@@ -24712,6 +24717,8 @@ selectmedia.asia CNAME .
 sellebrity.com CNAME .
 sellpoint.net CNAME .
 semantic-finder.com CNAME .
+seon.io CNAME .
+seondnsresolve.com CNAME .
 serv-ac.com CNAME .
 sessions.exchange CNAME .
 sessionstack.com CNAME .
@@ -26001,7 +26008,6 @@ app.chat.xiaomi.net CNAME .
 bigdata.ssp.samsung.com CNAME .
 data.hicloud.com CNAME .
 extmaps-api.yandex.net CNAME .
-insights.samsung.com CNAME .
 logbak.hicloud.com CNAME .
 logservice.hicloud.com CNAME .
 logservice1.hicloud.com CNAME .
@@ -26348,7 +26354,6 @@ sambaads.com CNAME .
 trugaze.io CNAME .
 ; Romanian
 2parale.ro CNAME .
-agorahtag.tech CNAME .
 pahtag.tech CNAME .
 profitshare.ro CNAME .
 retargeting.biz CNAME .
@@ -33430,7 +33435,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-jacquelinelaura.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34191,6 +34195,7 @@ iwwacgx.cn CNAME .
 iyoowi.com CNAME .
 iyptc.cn CNAME .
 ja9377.com CNAME .
+jacquelinelaura.com CNAME .
 jbyy010.com CNAME .
 jcelyj.com CNAME .
 jcwlq.com CNAME .
@@ -36140,11 +36145,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-haoyundm.com CNAME .
-madisonjamesphotography.com CNAME .
-4tdbbs.cn CNAME .
-shirleyyean.com CNAME .
-chuanjiae.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36218,6 +36218,7 @@ chuanjiae.cn CNAME .
 4htixb.cn CNAME .
 4kfv18.cn CNAME .
 4nzrqw.cn CNAME .
+4tdbbs.cn CNAME .
 4z5o27.cn CNAME .
 517kp.com CNAME .
 519397.com CNAME .
@@ -36523,6 +36524,7 @@ chinayutai.cn CNAME .
 chkwwg.cn CNAME .
 chongnikeji.com CNAME .
 chuangjulm.cn CNAME .
+chuanjiae.cn CNAME .
 chuzrra.cn CNAME .
 cifree.xyz CNAME .
 cike666.com CNAME .
@@ -36846,6 +36848,7 @@ hanzhixin.cn CNAME .
 haomaiweb.com CNAME .
 haomaojin.com CNAME .
 haoxianyangrouye.com CNAME .
+haoyundm.com CNAME .
 happyyong.com CNAME .
 hbbww.com CNAME .
 hbhyc.cn CNAME .
@@ -37209,6 +37212,7 @@ lzhyhy.cn CNAME .
 lzjsjw.cn CNAME .
 m06nev.com CNAME .
 mababa.info CNAME .
+madisonjamesphotography.com CNAME .
 maicaoren.cn CNAME .
 maimaias.cn CNAME .
 mao1.jsnovel.com CNAME .
@@ -37525,6 +37529,7 @@ shffcy.cn CNAME .
 shidaikejivip.cn CNAME .
 shidailw.com CNAME .
 shiguangyx.cn CNAME .
+shirleyyean.com CNAME .
 shishishiguixinfangfuzhuangshanghan.cn CNAME .
 shjrwh.cn CNAME .
 shjsxx.com CNAME .
