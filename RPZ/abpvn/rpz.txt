@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 24 Jun 2021 09:47 UTC+7
+; Updated: 24 Jun 2021 21:05 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -3356,53 +3356,45 @@
  nc.gdt.qq.com CNAME .
  v.gdt.qq.com CNAME .
  v2.gdt.qq.com CNAME .
-;[mdt.qq.com]
- oth.str.mdt.qq.com CNAME .
- oth.eve.mdt.qq.com CNAME .
 ;[ping*.qq.com]
  pingfore.qq.com CNAME .
  pingjs.qq.com CNAME .
  pingma.qq.com CNAME .
  pingtcss.qq.com CNAME .
-;[umeng]
+;[umeng.co]
  alog.umeng.co CNAME .
+ oc.umeng.co CNAME .
+ umeng.co CNAME .
+;[umeng.com]
+ alog-default.umeng.com CNAME .
  alog.umeng.com CNAME .
- alog.umengcloud.com CNAME .
  alogs.umeng.com CNAME .
- alogs.umengcloud.com CNAME .
  api.umeng.com CNAME .
- api.wsq.umeng.com CNAME .
  ar.umeng.com CNAME .
  at.umeng.com CNAME .
- dev.umeng.com CNAME .
  errlog.umeng.com CNAME .
- msg.umengcloud.com CNAME .
- oc.umeng.co CNAME .
  oc.umeng.com CNAME .
  ocx.umeng.com CNAME .
  plbslog.umeng.com CNAME .
  sec.umeng.com CNAME .
- udash.umengcloud.com CNAME .
- ulogs.umengcloud.com CNAME .
- umeng.co CNAME .
+ ulogs.umeng.com CNAME .
  umeng.com CNAME .
+ www.umeng.com CNAME .
+;[umengcloud.com]
+ alog.umengcloud.com CNAME .
+ alogs.umengcloud.com CNAME .
+ ex.umengcloud.com CNAME .
+ msg.umengcloud.com CNAME .
+ ulogs.umengcloud.com CNAME .
  umengcloud.com CNAME .
- uop.umeng.com CNAME .
  upoll.umengcloud.com CNAME .
  utop.umengcloud.com CNAME .
- wsq.umeng.com CNAME .
- www.umeng.com CNAME .
-;[applift]
+;[apptornado.com]
  applift-a.apptornado.com CNAME .
  applift-b.apptornado.com CNAME .
- applift.com CNAME .
- cdn.applift.com CNAME .
- content.applift.com CNAME .
- monetize.applift.com CNAME .
- partner.applift.com CNAME .
- playads.applift.com CNAME .
- www.applift.com CNAME .
- tracking.applift.com CNAME .
+ apptornado.com CNAME .
+ eu-srv.apptornado.com CNAME .
+ sdk-b.apptornado.com CNAME .
 ;[xiaomi.com]
  a.stat.xiaomi.com CNAME .
  api.d.xiaomi.com CNAME .
@@ -14138,6 +14130,11 @@
  smartadnetwork.net CNAME .
  tracking.smartadnetwork.net CNAME .
  www.smartadnetwork.net CNAME .
+;[tubeadvertising.eu]
+ banners.tubeadvertising.eu CNAME .
+ smart.tubeadvertising.eu CNAME .
+ tubeadvertising.eu CNAME .
+ www.tubeadvertising.eu CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
  adtimaserver.vn CNAME .
@@ -15617,6 +15614,9 @@
  omarketer.viettelpost.vn CNAME .
  url.omarketer.viettelpost.vn CNAME .
  wss.omarketer.viettelpost.vn CNAME .
+;[adconnect.vn]
+ adconnect.vn CNAME .
+ static.adconnect.vn CNAME .
 ; --- Block adsVN ---
  5734a4f2d.vws.vegacdn.vn CNAME .
  73531862.vws.vegacdn.vn CNAME .
@@ -15982,6 +15982,7 @@
  mysapo.net CNAME .
  newlog.daidoanket.vn CNAME .
  nstat.headlines.pw CNAME .
+ pixel.chotot.com CNAME .
  production-tracking.riviu.co CNAME .
  report.vnay.vn CNAME .
  rsyslog.24h.com.vn CNAME .
@@ -20067,6 +20068,7 @@
  geoip.nekudo.com CNAME .
  getexceptional.com CNAME .
  getsitecontrol.com CNAME .
+ gf.umenglog.com CNAME .
  glanceguide.com CNAME .
  globalwebindex.net CNAME .
  go.ad1data.com CNAME .
@@ -20335,6 +20337,7 @@
  tracking-server-prod-1.zenmxapps.com CNAME .
  tracking-user-behavior.meeyland.com CNAME .
  tracking.adsrv.io CNAME .
+ tracking.applift.com CNAME .
  tracking.bodis.com CNAME .
  tracking.hubspot.com CNAME .
  tracking.lenzmx.com CNAME .
@@ -20467,6 +20470,4 @@
  track.appsflyer.com CNAME .
  validate.appsflyer.com CNAME .
  wa.appsflyer.com CNAME .
-;[mangaqq.com]
- mangaqq.com CNAME .
 
