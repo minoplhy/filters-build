@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-23T12:04:12.840Z
+; Last modified: 2021-06-24T06:05:06.602Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -2765,6 +2765,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+d13nu0oomnx5ti.cloudfront.net CNAME .
 cintent.streanplay.cc CNAME .
 centent.streanplay.cc CNAME .
 centent.steanplay.cc CNAME .
@@ -17538,7 +17539,8 @@ api.ads.watchabc.go.com CNAME .
 ad.prismamediadigital.com CNAME .
 ; Supership.jp (also mobile ads)
 socdm.com CNAME .
-;
+; ByteDance
+-tos.pstatp.com CNAME .
 ; Criteo mobile ads
 criteo.com CNAME .
 criteo.net CNAME .
@@ -18184,6 +18186,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+plugins.soclminer.com.br CNAME .
 adrizer.com CNAME .
 contentsfeed.com CNAME .
 zz.bdstatic.com CNAME .
@@ -26940,6 +26943,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+jsrlfg.com CNAME .
 1xroom.com CNAME .
 zbyynuew9g.ru CNAME .
 gzppit.com CNAME .
@@ -32611,8 +32615,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 23 Jun 2021 14:23 UTC+7
-; OriginalVersion: 2106231423
+; Last modified: 24 Jun 2021 09:47 UTC+7
+; OriginalVersion: 2106240947
 ; Blocked: 882 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -33455,6 +33459,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+toutiao.xn--fiqs8s CNAME .
+ot.jizy.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36165,7 +36171,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-a3vy69.cn CNAME .
+you6ka.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36315,6 +36321,7 @@ a3vy69.cn CNAME .
 9weg7b.com CNAME .
 9y88.com CNAME .
 a3pz36.cn CNAME .
+a3vy69.cn CNAME .
 a7t89g4a.cn CNAME .
 aa.wenxue6.com CNAME .
 aa13.cloud CNAME .
@@ -36399,6 +36406,7 @@ aoyou2.top CNAME .
 aoyou3.top CNAME .
 aoyou4.top CNAME .
 ap72el.com CNAME .
+apainter.cn CNAME .
 apdingqian.com CNAME .
 apjiangte.com CNAME .
 applequan.com CNAME .
@@ -37746,6 +37754,7 @@ vq7736.com CNAME .
 vvnna.com CNAME .
 vwb4p.cn CNAME .
 wagenlux.cn CNAME .
+wanderbj.top CNAME .
 wangdaguanli.com CNAME .
 wangjulm.com CNAME .
 wangkeduo.cn CNAME .

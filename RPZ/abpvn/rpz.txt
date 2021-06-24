@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 23 Jun 2021 14:23 UTC+7
+; Updated: 24 Jun 2021 09:47 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -13452,7 +13452,9 @@
  cdn.aicactus.io CNAME .
  geo-service.aicactus.io CNAME .
  staging-tag-cdn.aicactus.io CNAME .
+ tag-cdn.aicactus.io CNAME .
  tags.aicactus.io CNAME .
+ vt2-tags.aicactus.io CNAME .
 ;[deepintent.com]
  apsoutheast-match.deepintent.com CNAME .
  beacon.deepintent.com CNAME .
@@ -14131,6 +14133,11 @@
  pg.xdrig.com CNAME .
  push.xdrig.com CNAME .
  xdrig.com CNAME .
+;[smartadnetwork.net]
+ delivery.smartadnetwork.net CNAME .
+ smartadnetwork.net CNAME .
+ tracking.smartadnetwork.net CNAME .
+ www.smartadnetwork.net CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
  adtimaserver.vn CNAME .
