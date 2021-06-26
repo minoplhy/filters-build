@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-25T18:03:41.761Z
+; Last modified: 2021-06-26T06:05:02.443Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33469,10 +33469,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-verycleaner.cn CNAME .
-7daystodie.cn CNAME .
-shixiaofei864.cn CNAME .
-ynlsgw.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33639,6 +33635,7 @@ ynlsgw.com CNAME .
 7a096v.cn CNAME .
 7cbwus.cn CNAME .
 7dah8.com CNAME .
+7daystodie.cn CNAME .
 7gg.cc CNAME .
 7wen.cn CNAME .
 7xi9g1.com1.z0.glb.clouddn.com CNAME .
@@ -34647,6 +34644,7 @@ shengyaxd.com CNAME .
 shentupk85.com CNAME .
 shenzhengov.work CNAME .
 shibagongfang.com CNAME .
+shixiaofei864.cn CNAME .
 shoukuoedu.com CNAME .
 shouwangba.cn CNAME .
 shouyouyou.com CNAME .
@@ -34811,6 +34809,7 @@ vdazz.net CNAME .
 ve001nz.com CNAME .
 vedeh.com CNAME .
 vertivchina.cn CNAME .
+verycleaner.cn CNAME .
 vhpxa.top CNAME .
 victorjx.com CNAME .
 video231.oss-cn-beijing.aliyuncs.com CNAME .
@@ -35024,6 +35023,7 @@ ylfgybn.cn CNAME .
 ylflwbj.cn CNAME .
 ymcqb.com CNAME .
 ynbojie.com CNAME .
+ynlsgw.com CNAME .
 ynwqls.com CNAME .
 ynyyx168.com CNAME .
 youfumei.com CNAME .
@@ -35464,8 +35464,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-v1.wphonelife.com CNAME .
-a1.syfj.net CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35617,6 +35615,7 @@ a1.q6u.com CNAME .
 a1.qqtn.com CNAME .
 a1.shusanqi.com CNAME .
 a1.sumiaowang.com CNAME .
+a1.syfj.net CNAME .
 a1.twtym.com CNAME .
 a1.zhanzhang.net CNAME .
 a15d55423.5tps.xyz CNAME .
@@ -36075,6 +36074,7 @@ uu1.3gu.com CNAME .
 v1.kwpewga.cn CNAME .
 v1.phb123.com CNAME .
 v1.taksh.cn CNAME .
+v1.wphonelife.com CNAME .
 ve.kj-cy.cn CNAME .
 vi1.souid.com CNAME .
 vv1.pyhfxdm.cn CNAME .
@@ -36187,9 +36187,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-impresacisaf.com CNAME .
-loout.top CNAME .
-ysfc360.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -37014,6 +37011,7 @@ iibahmd.cn CNAME .
 iigushi.com CNAME .
 imgxb.top CNAME .
 imiek.com CNAME .
+impresacisaf.com CNAME .
 increased.cn CNAME .
 indiebuff.cn CNAME .
 infobbs.xyz CNAME .
@@ -37232,6 +37230,7 @@ lnalttc.com CNAME .
 lobmuc.cn CNAME .
 lolvsdota.cn CNAME .
 longkoupeanut.cn CNAME .
+loout.top CNAME .
 lordtao.cn CNAME .
 losbateleros.com CNAME .
 louisan.cn CNAME .
@@ -37992,6 +37991,7 @@ youweiprint.com CNAME .
 yqqlm.vip CNAME .
 yrqwyn.cn CNAME .
 yrrsckr.cn CNAME .
+ysfc360.cn CNAME .
 ysyhljt.vip CNAME .
 ytbctyy.com CNAME .
 ytbnm.cn CNAME .
