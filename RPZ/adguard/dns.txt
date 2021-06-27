@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-26T12:04:19.354Z
+; Last modified: 2021-06-27T06:03:30.047Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+gorgeouspresentation.com CNAME .
 stitchkidney.com CNAME .
 vilercarpetfolk.com CNAME .
 igcdnnu.com CNAME .
@@ -108,14 +109,12 @@ mewyrytu.com CNAME .
 plqbxvnjxq92.com CNAME .
 mogybapty.pro CNAME .
 kuludelo.com CNAME .
-psazamajy.pro CNAME .
 puzzlementevolve.com CNAME .
 parkcircularpearl.com CNAME .
 logworknomism.com CNAME .
 divaduolite.com CNAME .
 ferociousvirtual.com CNAME .
 sizeilksohs.com CNAME .
-otlffresod.com CNAME .
 ekufogow.xyz CNAME .
 gasijosti.com CNAME .
 glpl4qp99ny4.com CNAME .
@@ -158,7 +157,6 @@ flitions-sealteger.com CNAME .
 misspkl.com CNAME .
 nuqwe.com CNAME .
 di7stero.com CNAME .
-nyjixoco.com CNAME .
 colonistnobilityheroic.com CNAME .
 derangemathsreply.com CNAME .
 adsterra.org CNAME .
@@ -178,10 +176,8 @@ eoemyywmjx.com CNAME .
 pierlinks.com CNAME .
 tefumiji.xyz CNAME .
 uhdokoq5ocmk.com CNAME .
-ohpdsplu.com CNAME .
 sorryfearknockout.com CNAME .
 starvationpatio.com CNAME .
-poetryhonourable.com CNAME .
 aragontrack.com CNAME .
 beliefindefinite.com CNAME .
 luglestowha.pro CNAME .
@@ -205,7 +201,6 @@ momijoy.ru CNAME .
 perigshfnon.com CNAME .
 orbsclawand.com CNAME .
 clothingsphere.com CNAME .
-piuradelivery.com CNAME .
 stagepopkek.com CNAME .
 a.dirtyasmr.com CNAME .
 papaneecorche.com CNAME .
@@ -291,8 +286,6 @@ ppcnt.pro CNAME .
 chitypyve.pro CNAME .
 faglollstwo.com CNAME .
 dayanygold.com CNAME .
-pqtiqpfyeeayjk.com CNAME .
-overyfamiliar.biz CNAME .
 whagrolt.com CNAME .
 worersie.com CNAME .
 wapsisod.net CNAME .
@@ -542,7 +535,6 @@ selfswayjay.com CNAME .
 spyglass.reklamko.pro CNAME .
 hosupshunk.com CNAME .
 download-file.ml CNAME .
-pailridarm.com CNAME .
 app-department.report CNAME .
 saguvacu.xyz CNAME .
 adcryp.to CNAME .
@@ -646,7 +638,6 @@ tauptoat.com CNAME .
 hamlipboat.com CNAME .
 contexthub.net CNAME .
 partiesrelyfoliage.com CNAME .
-onclickperformance.com CNAME .
 gotchosen.com CNAME .
 lightingfleeventures.com CNAME .
 airairgu.com CNAME .
@@ -659,8 +650,6 @@ umekian.pw CNAME .
 jumpnews.pro CNAME .
 kelopronto.com CNAME .
 winmonero.club CNAME .
-pepsgolfsintake.com CNAME .
-ppfrlfe.com CNAME .
 sixloamsob.com CNAME .
 prdele.eu CNAME .
 adhits.cf CNAME .
@@ -712,19 +701,16 @@ kingads.mobi CNAME .
 goingsilltrusty.com CNAME .
 xuossk3tu6hb.com CNAME .
 albado-tech.xyz CNAME .
-puddingreluctantly.com CNAME .
 protawe.com CNAME .
 awprt.com CNAME .
 overkirliaan.com CNAME .
 webads.eu CNAME .
-parsruingmeld.com CNAME .
 parpapsit.com CNAME .
 chatintr.com CNAME .
 rdr.wargaming.net CNAME .
 ppcmate.com CNAME .
 adpaths.com CNAME .
 papawdadoton.com CNAME .
-pouluwie.net CNAME .
 urnawareflan.com CNAME .
 padsimz.com CNAME .
 wyclddhldiou.com CNAME .
@@ -760,7 +746,6 @@ ppcnt.eu CNAME .
 ppcnt.co CNAME .
 1571627030.rsc.cdn77.org CNAME .
 terrasdsdstd.com CNAME .
-oldnayfey.com CNAME .
 eru5tdmbuwxm.com CNAME .
 snessubsets.pro CNAME .
 defutohy.pro CNAME .
@@ -869,7 +854,6 @@ theyarehugevid.pro CNAME .
 notbad-ads.com CNAME .
 lindenlaugh.pro CNAME .
 983jdh.xyz CNAME .
-ofdittor.com CNAME .
 adprofits.ru CNAME .
 gvesgrun.online CNAME .
 peachdamwhiffs.store CNAME .
@@ -983,7 +967,6 @@ pagiwp.com CNAME .
 bestvideo2019.xyz CNAME .
 nfwljgjva.com CNAME .
 rnpwxssirmgflk.com CNAME .
-psaukrik.net CNAME .
 ommunalspound.info CNAME .
 ristintriestenforth.info CNAME .
 jeclittrecheckrep.info CNAME .
@@ -1094,7 +1077,6 @@ opgolan.com CNAME .
 antburape.club CNAME .
 andarcair.club CNAME .
 pushosub.com CNAME .
-psozoult.net CNAME .
 qwerfdx.com CNAME .
 youngesdresp.pro CNAME .
 clickscloud.net CNAME .
@@ -1147,7 +1129,6 @@ pushdom.co CNAME .
 admarket.network CNAME .
 systerwithing.info CNAME .
 laratlacrestot.pro CNAME .
-patithatspartal.pro CNAME .
 vamprog.site CNAME .
 bidadx.com CNAME .
 cdsbnrs.com CNAME .
@@ -1205,7 +1186,6 @@ tuigang1999.com CNAME .
 victory1999.com CNAME .
 adserver.yahoo.com CNAME .
 popunders.bid CNAME .
-osskanger.com CNAME .
 relapayssia.xyz CNAME .
 kepler-37b.com CNAME .
 voluumtlkrnarketing.com CNAME .
@@ -1314,7 +1294,6 @@ beharmalted.info CNAME .
 opetation.pro CNAME .
 oassooxo.com CNAME .
 founehie.com CNAME .
-phaihoaw.net CNAME .
 advsmedia.com CNAME .
 greetham.net CNAME .
 pushmono.com CNAME .
@@ -1481,7 +1460,6 @@ majoritishbettes.info CNAME .
 expectorslapsino.info CNAME .
 vaigowoa.com CNAME .
 ceetoaho.com CNAME .
-ottomdisede.club CNAME .
 burdaffi.burdadigital.pl CNAME .
 etrabandidlo.club CNAME .
 jhwj88.com CNAME .
@@ -1571,7 +1549,6 @@ siterdm.com CNAME .
 bokeden.com CNAME .
 ceehimur.uk CNAME .
 weedazou.net CNAME .
-pushanert.com CNAME .
 pushwhy.com CNAME .
 rtbvideobox.com CNAME .
 nauchegy.link CNAME .
@@ -1885,7 +1862,6 @@ vidcpm.com CNAME .
 juicyads.com CNAME .
 pimmuter.com CNAME .
 pimmuter.com CNAME .
-optad360.io CNAME .
 oyi9f1kbaj.com CNAME .
 rzekbhnk.top CNAME .
 adrino.pl CNAME .
@@ -1896,7 +1872,6 @@ menemier.info CNAME .
 therses.com CNAME .
 turbotraff.com CNAME .
 xijgedjgg5f55.com CNAME .
-pushno.com CNAME .
 bitvertise.io CNAME .
 coinverti.com CNAME .
 parlaka.com CNAME .
@@ -1953,7 +1928,6 @@ averoconnector.com CNAME .
 uncyane.com CNAME .
 bidrev.net CNAME .
 2pxg8bcf.top CNAME .
-preonesetro.com CNAME .
 omoukkkj.stream CNAME .
 zinidge.com CNAME .
 mysdvvf.com CNAME .
@@ -1981,12 +1955,10 @@ plufdsb.com CNAME .
 pukrazopchatka.com CNAME .
 tweightment.pro CNAME .
 udmlkmzjkob.co CNAME .
-okanjo.com CNAME .
 advnet.xyz CNAME .
 1.mobiuppedmedia.com CNAME .
 go2funz.com CNAME .
 valpeiros.com CNAME .
-overreare.co CNAME .
 witlee.com CNAME .
 hadarone.com CNAME .
 blueserving.com CNAME .
@@ -2033,7 +2005,6 @@ uymkdz9s.com CNAME .
 jiwvbck.com CNAME .
 pgcode.org CNAME .
 cashpartners.eu CNAME .
-play4k.co CNAME .
 nmpmgmldzvrmra.com CNAME .
 ojiffvsutzrx.com CNAME .
 yoredi.com CNAME .
@@ -2120,7 +2091,6 @@ muligov.com CNAME .
 namitol.com CNAME .
 nanuyalailai.com CNAME .
 oddomane.com CNAME .
-pitatagata.com CNAME .
 pompazilla.com CNAME .
 poratav.com CNAME .
 qawiman.com CNAME .
@@ -2608,7 +2578,6 @@ protectaffiliates.org CNAME .
 prxii.cf CNAME .
 prxii.tk CNAME .
 purgrobi.com CNAME .
-puserving.com CNAME .
 pweaatek.com CNAME .
 pyksf.com CNAME .
 qaadv.com CNAME .
@@ -9999,6 +9968,7 @@ nyadra.com CNAME .
 nychemicallun.fun CNAME .
 nydrctnk.com CNAME .
 nyetm2mkch.com CNAME .
+nyjixoco.com CNAME .
 nyphtrue.com CNAME .
 nyrithenrebarro.info CNAME .
 nyshoweverislat.fun CNAME .
@@ -10053,6 +10023,7 @@ oedoxundnibwc.com CNAME .
 oegdmfjoqyyt.com CNAME .
 oesfriences.fun CNAME .
 oeuanvyte.com CNAME .
+ofdittor.com CNAME .
 ofexmskz.com CNAME .
 offerimage.com CNAME .
 officultpolicit.pro CNAME .
@@ -10079,6 +10050,7 @@ ohkdsplu.com CNAME .
 ohldsplu.com CNAME .
 ohndsplu.com CNAME .
 ohodsplu.com CNAME .
+ohpdsplu.com CNAME .
 ohqdsplu.com CNAME .
 ohrdsplu.com CNAME .
 ohsatum.info CNAME .
@@ -10100,6 +10072,7 @@ okueroskynt.com CNAME .
 olderdiverge.com CNAME .
 oldership.com CNAME .
 oldmilram.com CNAME .
+oldnayfey.com CNAME .
 oldqsuoemchpr.com CNAME .
 oldrummarim.club CNAME .
 olibenelading.xyz CNAME .
@@ -10126,6 +10099,7 @@ oncfnary.com CNAME .
 onclickalgo.com CNAME .
 onclickgenius.com CNAME .
 onclickmega.com CNAME .
+onclickperformance.com CNAME .
 onclicksuper.com CNAME .
 onclicktraffic.com CNAME .
 ondayswr.club CNAME .
@@ -10207,6 +10181,7 @@ ositiesloca.top CNAME .
 ositoretoko.club CNAME .
 osmondards.pro CNAME .
 osny2p7a0k.com CNAME .
+osskanger.com CNAME .
 ostensibledaytimeseaweed.com CNAME .
 ostensiblegrave.com CNAME .
 osurembra.top CNAME .
@@ -10215,8 +10190,10 @@ otesreviou.club CNAME .
 othernfrence.club CNAME .
 othesarialiber.club CNAME .
 othyightmare.club CNAME .
+otlffresod.com CNAME .
 otnolabttmup.com CNAME .
 otnolatrnup.com CNAME .
+ottomdisede.club CNAME .
 ouboosta.com CNAME .
 oucywciij.com CNAME .
 oudccdjvh.com CNAME .
@@ -10268,6 +10245,7 @@ overnmentil.site CNAME .
 overnmentsv.club CNAME .
 overreactscout.com CNAME .
 oversightbullet.com CNAME .
+overyfamiliar.biz CNAME .
 ovk2cuebg77t.com CNAME .
 ovmzlptjfci.com CNAME .
 ovsindusted.club CNAME .
@@ -10333,6 +10311,7 @@ paginw.com CNAME .
 pagne4cham4hrobl.com CNAME .
 pagnookr.net CNAME .
 paht.tech CNAME .
+pailridarm.com CNAME .
 painfullyneattide.com CNAME .
 painsko.com CNAME .
 paintavoidwitty.com CNAME .
@@ -10363,6 +10342,7 @@ parentful.club CNAME .
 paripartners.ru CNAME .
 parkinggrumpy.com CNAME .
 parkurl.com CNAME .
+parsruingmeld.com CNAME .
 particlesmanuscript.com CNAME .
 particularmadam.com CNAME .
 partitiondetergenttumor.com CNAME .
@@ -10384,6 +10364,7 @@ pateablyace.com CNAME .
 paternalhumiliate.com CNAME .
 patgsrv.com CNAME .
 patientlyrequisite.com CNAME .
+patithatspartal.pro CNAME .
 patrizio.pro CNAME .
 patroposalun.pro CNAME .
 patsyfoxswab.com CNAME .
@@ -10448,6 +10429,7 @@ pentialin.fun CNAME .
 pepnerdmime.cam CNAME .
 pepperstretching.com CNAME .
 peppy2lon1g1stalk.com CNAME .
+pepsgolfsintake.com CNAME .
 perceivecatastrophe.com CNAME .
 perceivednameless.com CNAME .
 performanceonclick.com CNAME .
@@ -10495,6 +10477,7 @@ pgpyce.com CNAME .
 phaboart.net CNAME .
 phabsoun.net CNAME .
 phaignoo.com CNAME .
+phaihoaw.net CNAME .
 phaikroo.net CNAME .
 phaiksul.net CNAME .
 pharougn.com CNAME .
@@ -10631,6 +10614,7 @@ podsunwen.icu CNAME .
 podwonclarity.com CNAME .
 poemsdeucewee.com CNAME .
 poemsproduced.com CNAME .
+poetryhonourable.com CNAME .
 poifinsegg.com CNAME .
 poignantcover.com CNAME .
 poignantpersonnel.com CNAME .
@@ -10692,6 +10676,7 @@ potjevleesch.xyz CNAME .
 pottendent.top CNAME .
 poubotem.com CNAME .
 poudeeri.com CNAME .
+pouluwie.net CNAME .
 pouncewhineheadquarter.com CNAME .
 poupheeg.com CNAME .
 pourdear.com CNAME .
@@ -10701,11 +10686,13 @@ poxeemso.com CNAME .
 poxtebnltkehh.com CNAME .
 pp2ppsch1hount1hf.com CNAME .
 pp98trk.com CNAME .
+ppfrlfe.com CNAME .
 ppiespresen.club CNAME .
 ppomyzaheudlta.com CNAME .
 pprq7.com CNAME .
 ppscdnqkgj.com CNAME .
 pqdgvgxtshpny.com CNAME .
+pqtiqpfyeeayjk.com CNAME .
 pqvnjgeimffiu.com CNAME .
 pqxadekhqotwkv.com CNAME .
 practeddagek.club CNAME .
@@ -10837,6 +10824,8 @@ psampabs.net CNAME .
 psatorsi.com CNAME .
 psaudous.com CNAME .
 psaughun.com CNAME .
+psaukrik.net CNAME .
+psazamajy.pro CNAME .
 psclicks.com CNAME .
 psedfenedc.fun CNAME .
 pseepsie.com CNAME .
@@ -10856,6 +10845,7 @@ psoomeeg.com CNAME .
 psoptopi.com CNAME .
 psougrie.com CNAME .
 psoumtou.net CNAME .
+psozoult.net CNAME .
 psozyhotho.pro CNAME .
 psqiwslwpjccb.com CNAME .
 psulsobi.net CNAME .
@@ -10903,6 +10893,7 @@ ptuxinewhi.pro CNAME .
 ptwmjmp.com CNAME .
 publicsparedpen.com CNAME .
 pubmaner5.com CNAME .
+puddingreluctantly.com CNAME .
 puddlebooty.com CNAME .
 pufagobs.com CNAME .
 puffdifferent.com CNAME .
@@ -15832,6 +15823,7 @@ ogle-0740lb.com CNAME .
 ogrfi3uyt7.com CNAME .
 ohmcasting.com CNAME .
 ohmwrite.com CNAME .
+okanjo.com CNAME .
 okdigital.me CNAME .
 omclick.com CNAME .
 omg2.com CNAME .
@@ -15869,6 +15861,7 @@ operaserver.com CNAME .
 opingexamplyt.info CNAME .
 opt-intelligence.com CNAME .
 opt-n.net CNAME .
+optad360.io CNAME .
 opteama.com CNAME .
 optiads.org CNAME .
 optimatic.com CNAME .
@@ -15968,6 +15961,7 @@ picsti.com CNAME .
 pictela.net CNAME .
 pinballpublishernetwork.com CNAME .
 ping-traffic.info CNAME .
+piuradelivery.com CNAME .
 pivotrunner.com CNAME .
 pixazza.com CNAME .
 pixeltrack66.com CNAME .
@@ -15976,6 +15970,7 @@ pixiv.org CNAME .
 pixxur.com CNAME .
 placeiq.com CNAME .
 plannto.com CNAME .
+play4k.co CNAME .
 playertraffic.com CNAME .
 playtem.com CNAME .
 playuhd.host CNAME .
@@ -16053,6 +16048,7 @@ predictiondisplay.com CNAME .
 predictivadnetwork.com CNAME .
 predictivadvertising.com CNAME .
 preferredain.com CNAME .
+preonesetro.com CNAME .
 prestadsng.com CNAME .
 prexista.com CNAME .
 prfdesk.pro CNAME .
@@ -16130,12 +16126,14 @@ purdewee.net CNAME .
 purpleads.io CNAME .
 purpleflag.net CNAME .
 purplepatch.online CNAME .
+puserving.com CNAME .
 push-me-up.com CNAME .
 push2check.com CNAME .
 pushads.biz CNAME .
 pushagim.com CNAME .
 pushame.com CNAME .
 pushance.com CNAME .
+pushanert.com CNAME .
 pushbaddy.com CNAME .
 pushbasic.com CNAME .
 pushdusk.com CNAME .
@@ -16152,6 +16150,7 @@ pushnest.com CNAME .
 pushnevis.com CNAME .
 pushnews.org CNAME .
 pushnice.com CNAME .
+pushno.com CNAME .
 pushrase.com CNAME .
 pwrads.net CNAME .
 q1media.com CNAME .
@@ -16945,6 +16944,7 @@ moritava.com CNAME .
 mujilora.com CNAME .
 niholaev.com CNAME .
 pipilida.com CNAME .
+pitatagata.com CNAME .
 tinkerta.com CNAME .
 totachrl.com CNAME .
 trasholita.com CNAME .
@@ -24481,6 +24481,7 @@ indicative.com CNAME .
 infopro-insight.com CNAME .
 infoprodata.com CNAME .
 ingage.tech CNAME .
+innertrends.com CNAME .
 innomdc.com CNAME .
 instant.page CNAME .
 intellimize.co CNAME .
@@ -26547,6 +26548,7 @@ cdn-analytics.ladmedia.fr CNAME .
 compteur.websiteout.net CNAME .
 core.unit-sense.net CNAME .
 e.funnymel.com CNAME .
+events.newsroom.bi CNAME .
 events.sk.ht CNAME .
 nws.naltis.com CNAME .
 osd.oxygem.it CNAME .
@@ -33469,6 +33471,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+jessicalaurax.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35464,6 +35467,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+pic1.dianshu119.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
