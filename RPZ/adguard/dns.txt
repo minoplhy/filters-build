@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-27T06:03:30.047Z
+; Last modified: 2021-06-27T12:04:21.944Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -14199,6 +14199,7 @@ admanage.com CNAME .
 admanmedia.com CNAME .
 admarketplace.net CNAME .
 admaster.net CNAME .
+admatic.com.tr CNAME .
 admaxim.com CNAME .
 admaya.in CNAME .
 admaza.in CNAME .
@@ -31396,7 +31397,6 @@ adasist.com CNAME .
 adbuzz.com.tr CNAME .
 adcater.com CNAME .
 add.f5haber.com CNAME .
-admatic.com.tr CNAME .
 adnexio.com CNAME .
 adpozitif.com CNAME .
 adrazzi.com CNAME .
@@ -33471,7 +33471,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-jessicalaurax.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34240,6 +34239,7 @@ jcwlq.com CNAME .
 jczzjx.com CNAME .
 jdlhg.com CNAME .
 jehudf.com CNAME .
+jessicalaurax.com CNAME .
 jfjsp.com CNAME .
 jfqkj.com CNAME .
 jghcy.com CNAME .
@@ -35467,7 +35467,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-pic1.dianshu119.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -36011,6 +36010,7 @@ p1.zhongyoo.com CNAME .
 p1.zhumengwl.com CNAME .
 panyh123456.cn CNAME .
 pb.shuxigua.com CNAME .
+pic1.dianshu119.com CNAME .
 pic50.pingguolv.com CNAME .
 pkk1.zuimeiniwo.com CNAME .
 q1.yyxwzx.com CNAME .
