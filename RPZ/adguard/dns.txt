@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-28T06:04:10.619Z
+; Last modified: 2021-06-28T18:16:02.445Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+pop5sjhspear.com CNAME .
 gorgeouspresentation.com CNAME .
 stitchkidney.com CNAME .
 vilercarpetfolk.com CNAME .
@@ -4441,6 +4442,7 @@ badjocks.com CNAME .
 badleasump.cam CNAME .
 badsabs.com CNAME .
 badsamps.com CNAME .
+badsans.com CNAME .
 badsecs.com CNAME .
 badshades.com CNAME .
 badshores.com CNAME .
@@ -4815,6 +4817,7 @@ browsers.support CNAME .
 browsobsolete.com CNAME .
 brqvld0p.com CNAME .
 brrcaqvz.com CNAME .
+brtcjmnplmzo.com CNAME .
 brtsumthree.com CNAME .
 brucelead.com CNAME .
 bruceleadx.com CNAME .
@@ -6090,6 +6093,7 @@ distinethout.info CNAME .
 distractchafe.com CNAME .
 distraughtbudge.com CNAME .
 distressedsensesmanage.com CNAME .
+distributeoldfashionedrung.com CNAME .
 districtbaloneywhiskers.com CNAME .
 districtm.ca CNAME .
 dit-dit-dot.com CNAME .
@@ -6780,6 +6784,7 @@ exercially.mobi CNAME .
 exercisely.club CNAME .
 exhaustedannulmentaccredited.com CNAME .
 exhaustedgemini.com CNAME .
+exi8ef83z9.com CNAME .
 exitjunction.com CNAME .
 exjozegvbaresw.com CNAME .
 exobafrgdf.com CNAME .
@@ -8178,6 +8183,7 @@ insomn.pro CNAME .
 instahookupclub2.com CNAME .
 instahookupclub3.com CNAME .
 installationtray.com CNAME .
+installerleading.com CNAME .
 installsbarefootedringer.com CNAME .
 installssmashedbab.com CNAME .
 instantresp.com CNAME .
@@ -8876,6 +8882,7 @@ locatedunderwear.com CNAME .
 locationivanstutter.com CNAME .
 locationsreverenceaid.com CNAME .
 lockgranted.com CNAME .
+lockingadmitted.com CNAME .
 lockingessay.com CNAME .
 locothet.com CNAME .
 loddawqst.com CNAME .
@@ -10512,6 +10519,7 @@ phooreew.net CNAME .
 phoossax.net CNAME .
 phortaub.com CNAME .
 photographicconstablelanded.com CNAME .
+photographiccreche.com CNAME .
 phovihopy.pro CNAME .
 phsism.com CNAME .
 phudreez.com CNAME .
@@ -12972,7 +12980,9 @@ vacwrite.com CNAME .
 vafbmmsda.com CNAME .
 vaia06o630os.com CNAME .
 vaipsouw.com CNAME .
+vak345.com CNAME .
 vallegalikty.club CNAME .
+valonghost.xyz CNAME .
 valuethemarkets.info CNAME .
 vanderebony.pro CNAME .
 vanderlisten.pro CNAME .
@@ -12983,6 +12993,7 @@ vanssueshyer.casa CNAME .
 vapourgrievously.com CNAME .
 variabilitycomprehension.com CNAME .
 varietyofdisplayformats.com CNAME .
+variouscreativeformats.com CNAME .
 varybailedascend.com CNAME .
 varylioness.com CNAME .
 vasgenerete.site CNAME .
@@ -22228,6 +22239,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+l.niiblo.jp CNAME .
 events.sd-nbb.de CNAME .
 d2uhnetoehh304.cloudfront.net CNAME .
 c.sibnet.ru CNAME .
@@ -26829,6 +26841,8 @@ tracking.aita.gov.vn CNAME .
 ; https://forum.adguard.com/index.php?threads/ivoox-com-podcasts-issues.29530/
 ; addevweb.com$third-party
 ;
+lyricslocusvaried.com CNAME .
+viamariller.com CNAME .
 zcp.zwame.pt CNAME .
 adserver*.euroweeklynews.com CNAME .
 ads.enrt.eu CNAME .
@@ -26957,6 +26971,8 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+gafdelins.com CNAME .
+nplxa.com CNAME .
 jsrlfg.com CNAME .
 1xroom.com CNAME .
 zbyynuew9g.ru CNAME .
@@ -27779,7 +27795,6 @@ mibmcbm.com CNAME .
 cassns.pro CNAME .
 cdn.movieads.ru CNAME .
 mirtrailer.ru CNAME .
-vak345.com CNAME .
 lant.pro CNAME .
 frvid.ru CNAME .
 loders.club CNAME .
@@ -30465,7 +30480,6 @@ tolicando.com CNAME .
 tonopole.com CNAME .
 toormpc.com CNAME .
 toothsome-crook.fun CNAME .
-top-shop.ru CNAME .
 top100.ezar.ru CNAME .
 topcpa.ru CNAME .
 topcto.ru CNAME .
@@ -31609,6 +31623,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+candy-network.com CNAME .
 flux-g.com CNAME .
 ad.mtrf.net CNAME .
 x5.jougennotuki.com CNAME .
@@ -31866,6 +31881,7 @@ bauernative.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+7daystodie.cn CNAME .
 one.toumppk.cn CNAME .
 trenhdg.com CNAME .
 youqunjx.com CNAME .
@@ -32357,6 +32373,7 @@ clacson24.com CNAME .
 clickadv.it CNAME .
 clickcount.pw CNAME .
 clickpoint.it CNAME .
+codesour.com CNAME .
 consigli.it CNAME .
 coreg-feed.com CNAME .
 delosnetwork.it CNAME .
@@ -33473,6 +33490,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+ojbknx.com CNAME .
+darren01.oss-cn-beijing.aliyuncs.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33639,7 +33658,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 7a096v.cn CNAME .
 7cbwus.cn CNAME .
 7dah8.com CNAME .
-7daystodie.cn CNAME .
 7gg.cc CNAME .
 7wen.cn CNAME .
 7xi9g1.com1.z0.glb.clouddn.com CNAME .
@@ -35469,7 +35487,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-s1.pipishu.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -36033,6 +36050,7 @@ rdbd.xsread.com CNAME .
 s.yaozui.com CNAME .
 s.zixuntop.com CNAME .
 s1.dugoogle.com CNAME .
+s1.pipishu.com CNAME .
 s1.qiqutt.cn CNAME .
 s1.qiqutt.com CNAME .
 s1.tuzhaozhao.com CNAME .
@@ -36194,13 +36212,12 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-isles.cn CNAME .
-my-hr.cn CNAME .
-tpool.cn CNAME .
-txuesoft.cn CNAME .
-zgcqxjzny.cn CNAME .
-hdketang.cn CNAME .
-dzxzx.cn CNAME .
+wbdsj.top CNAME .
+gongshu168.cn CNAME .
+advancedreefaquarium.com CNAME .
+jinzpeng.cn CNAME .
+zsmyzg.cn CNAME .
+vsheying.top CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36718,6 +36735,7 @@ dydyhg.com CNAME .
 dyuadask.com CNAME .
 dzooo.cn CNAME .
 dzrenju2.cn CNAME .
+dzxzx.cn CNAME .
 e9emh.cn CNAME .
 ealcrrm.cn CNAME .
 ebuysolar.com CNAME .
@@ -36918,6 +36936,7 @@ hbyyzm.com CNAME .
 hcenc.com CNAME .
 hchik.com CNAME .
 hdfdm.com CNAME .
+hdketang.cn CNAME .
 hdminfeng.com CNAME .
 hdsahfkja.top CNAME .
 hdvwm3.cn CNAME .
@@ -37041,6 +37060,7 @@ ir2aok.com CNAME .
 iruad.com CNAME .
 isgow.com CNAME .
 ishowms.com CNAME .
+isles.cn CNAME .
 itcoder.top CNAME .
 iyouhu.cn CNAME .
 izuis.com CNAME .
@@ -37331,6 +37351,7 @@ mvlkvth.cn CNAME .
 mx.loubiqu.com CNAME .
 mxc87.org CNAME .
 mxhbkj.cn CNAME .
+my-hr.cn CNAME .
 myams.cn CNAME .
 mydownba.com CNAME .
 mysty.com.cn CNAME .
@@ -37725,6 +37746,7 @@ toujing7.top CNAME .
 toujing8.top CNAME .
 toujing9.top CNAME .
 tpcdn.top CNAME .
+tpool.cn CNAME .
 travel-together.cn CNAME .
 trhccn.cn CNAME .
 trpsm.xyz CNAME .
@@ -37740,6 +37762,7 @@ tuwo-audio.cn CNAME .
 twodogegg.cn CNAME .
 txn5n0.cn CNAME .
 txtxr.com CNAME .
+txuesoft.cn CNAME .
 txwhds.com.cn CNAME .
 tyrghj.cn CNAME .
 tyue.me CNAME .
@@ -38054,6 +38077,7 @@ zdovrb.cn CNAME .
 zenwq.com CNAME .
 zfood029.com CNAME .
 zgchaye123.com CNAME .
+zgcqxjzny.cn CNAME .
 zgdfvih.cn CNAME .
 zgfszs.com CNAME .
 zgjjkk.com CNAME .
