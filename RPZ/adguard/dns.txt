@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-27T12:04:21.944Z
+; Last modified: 2021-06-28T06:04:10.619Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -18194,6 +18194,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+kaiseki-website.com CNAME .
+site-kaiseki-tool.com CNAME .
 clarity.ms CNAME .
 plugins.soclminer.com.br CNAME .
 adrizer.com CNAME .
@@ -22226,6 +22228,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+events.sd-nbb.de CNAME .
 d2uhnetoehh304.cloudfront.net CNAME .
 c.sibnet.ru CNAME .
 bc.nhk.jp CNAME .
@@ -31863,7 +31866,6 @@ bauernative.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
-my.my-hr.cn CNAME .
 one.toumppk.cn CNAME .
 trenhdg.com CNAME .
 youqunjx.com CNAME .
@@ -35467,6 +35469,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+s1.pipishu.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -36191,6 +36194,13 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+isles.cn CNAME .
+my-hr.cn CNAME .
+tpool.cn CNAME .
+txuesoft.cn CNAME .
+zgcqxjzny.cn CNAME .
+hdketang.cn CNAME .
+dzxzx.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
