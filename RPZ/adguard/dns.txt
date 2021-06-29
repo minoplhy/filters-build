@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-06-29T06:04:18.980Z
+; Last modified: 2021-06-29T18:03:43.572Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -4558,6 +4558,7 @@ beeaimaid.com CNAME .
 beefraidmob.com CNAME .
 beegmove.com CNAME .
 beegotou.net CNAME .
+beehiveclergyman.com CNAME .
 beenmeekwarmth.casa CNAME .
 beforement.club CNAME .
 beforesfantr.club CNAME .
@@ -9843,6 +9844,7 @@ noiselesscatching.com CNAME .
 noisysortcasualty.com CNAME .
 nomadpertexcess.com CNAME .
 nomicidenti.top CNAME .
+nominalpowerlessunable.com CNAME .
 nonerr.com CNAME .
 nonewnews.name CNAME .
 nonfictionrobustchastise.com CNAME .
@@ -9992,6 +9994,7 @@ o4uxrk33.com CNAME .
 o626b32etkg6.com CNAME .
 oackoubs.com CNAME .
 oadaheba.net CNAME .
+oadsouzi.net CNAME .
 oaffolksy.cam CNAME .
 oagnatch.com CNAME .
 oampitsa.com CNAME .
@@ -18206,6 +18209,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+calameo-beacon.global.ssl.fastly.net CNAME .
 channel-analysis-js.gmw.cn CNAME .
 kaiseki-website.com CNAME .
 site-kaiseki-tool.com CNAME .
@@ -22363,7 +22367,6 @@ count.munhwa.com CNAME .
 geo.mattel163.com CNAME .
 tc-log.mattel163.com CNAME .
 metrics.api.yle.fi CNAME .
-analytics-sdk.yle.fi CNAME .
 events-api*.outfit7.com CNAME .
 events.emogi.com CNAME .
 log.ohmynews.com CNAME .
@@ -31888,7 +31891,6 @@ bauernative.com CNAME .
 ; Section contains list of advertising networks
 ;
 7daystodie.cn CNAME .
-one.toumppk.cn CNAME .
 trenhdg.com CNAME .
 youqunjx.com CNAME .
 koudaiyundong.com CNAME .
@@ -32650,9 +32652,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 29 Jun 2021 09:06 UTC+7
-; OriginalVersion: 2106290906
-; Blocked: 890 rules
+; Last modified: 29 Jun 2021 16:04 UTC+7
+; OriginalVersion: 2106291604
+; Blocked: 891 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33424,6 +33426,7 @@ top88.club CNAME .
 top88.fun CNAME .
 top88.uk CNAME .
 top88.us CNAME .
+trungso.vip CNAME .
 uw88vnd.com CNAME .
 v7ac.com CNAME .
 v8.club CNAME .
@@ -33502,6 +33505,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+120571.com CNAME .
+earthahedda.com CNAME .
 betonpolite.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
@@ -35500,6 +35505,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+99js.rxys.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -36225,6 +36231,15 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+arkn81.com CNAME .
+yongshengtongda.com CNAME .
+toumppk.cn CNAME .
+gldad.com CNAME .
+rqkgcd.xyz CNAME .
+jnjcxx.com CNAME .
+slout.top CNAME .
+huojugg.com CNAME .
+meibiisheng.com CNAME .
 speaknews.cn CNAME .
 gzts188.com CNAME .
 dangrancha.com.cn CNAME .

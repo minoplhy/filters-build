@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 29 Jun 2021 09:06 UTC+7
+; Updated: 29 Jun 2021 16:04 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -4967,10 +4967,9 @@
  cdn4.mxpnl.com CNAME .
  cdn2.mxpnl.com CNAME .
  images.mxpnl.com CNAME .
-;[hadarone]
+;[hadarone.com]
  hadarone.com CNAME .
  api.hadarone.com CNAME .
- admin.hadarone.com CNAME .
  dsp.hadarone.com CNAME .
  ssp.hadarone.com CNAME .
  d1.hadarone.com CNAME .
@@ -4984,49 +4983,30 @@
  c4.hadarone.com CNAME .
  c5.hadarone.com CNAME .
  static.hadarone.com CNAME .
-;[mookie1]
- 247access.mookie1.com CNAME .
- au-gmtdmp.gd3.mookie1.com CNAME .
- b3-eu.mookie1.com CNAME .
- b3-uk.mookie1.com CNAME .
+;[mookie1.com]
  b3.mookie1.com CNAME .
  cdn-akamai.mookie1.com CNAME .
  cdn.mookie1.com CNAME .
  cz.gmads.mookie1.com CNAME .
  de-gmtdmp.mookie1.com CNAME .
  dk-gmtdmp.mookie1.com CNAME .
- dna1.mookie1.com CNAME .
- dna2.mookie1.com CNAME .
- dna3.mookie1.com CNAME .
- eu-gmtdmp.gd1.mookie1.com CNAME .
  gd1.mookie1.com CNAME .
  gmads.mookie1.com CNAME .
  gmtdmp.mookie1.com CNAME .
  ib.mookie1.com CNAME .
- ibeu2.mookie1.com CNAME .
  in-gmtdmp.mookie1.com CNAME .
  it.gmads.mookie1.com CNAME .
- jp-gmtdmp.gd9.mookie1.com CNAME .
- l2pdus.mookie1.com CNAME .
  mookie1.com CNAME .
  odr.mookie1.com CNAME .
- premium.mookie1.com CNAME .
  pt-gmtdmp.mookie1.com CNAME .
  ru-gmtdmp.mookie1.com CNAME .
  sg-gmtdmp.gd2.mookie1.com CNAME .
- smibk.mookie1.com CNAME .
  static-tagr.gd1.mookie1.com CNAME .
  t.mookie1.com CNAME .
- tlg.mookie1.com CNAME .
  us-gmtdmp.mookie1.com CNAME .
  us.gmads.mookie1.com CNAME .
  vn-gmtdmp.mookie1.com CNAME .
- xaxis-emea.mookie1.com CNAME .
- xaxis-it.mookie1.com CNAME .
- xs.mookie1.com CNAME .
- z2.mookie1.com CNAME .
- zap.mookie1.com CNAME .
- zap2.mookie1.com CNAME .
+ x2.mookie1.com CNAME .
 ;[exosrv.com]
  a.exosrv.com CNAME .
  ads.exosrv.com CNAME .
@@ -5037,63 +5017,19 @@
  static.exosrv.com CNAME .
  syndication.exosrv.com CNAME .
  vstatic.exosrv.com CNAME .
-;[backtrace]
- api.backtrace.io CNAME .
- backtrace.io CNAME .
- bigfoot.sp.backtrace.io CNAME .
- billing.backtrace.io CNAME .
- ca1.metrics.backtrace.io CNAME .
- get.backtrace.io CNAME .
- intercomm1.backtrace.io CNAME .
- loghost.in.backtrace.io CNAME .
- metrics.backtrace.io CNAME .
- origin-get.backtrace.io CNAME .
- packages.backtrace.io CNAME .
- pipelinedb.sp.backtrace.io CNAME .
- releases.backtrace.io CNAME .
- saml.backtrace.io CNAME .
- sp.backtrace.io CNAME .
- unreal.backtrace.io CNAME .
- use.backtrace.io CNAME .
- www.backtrace.io CNAME .
-;[marinsm]
+;[marinsm.com]
  marinsm.com CNAME .
  pro.marinsm.com CNAME .
- qa-tracker.marinsm.com CNAME .
- t3.marinsm.com CNAME .
  tag.marinsm.com CNAME .
  tracker.marinsm.com CNAME .
- w2.marinsm.com CNAME .
-;[fullstory]
- connect.fullstory.com CNAME .
- fullstory.com CNAME .
- go.fullstory.com CNAME .
- internal.fullstory.com CNAME .
- internal.staging.fullstory.com CNAME .
- prom.fullstory.com CNAME .
- prometheus.fullstory.com CNAME .
- prometheus.staging.fullstory.com CNAME .
- r.fullstory.com CNAME .
- r.staging.fullstory.com CNAME .
- staging.fullstory.com CNAME .
-;[bounceexchange]
+;[bounceexchange.com]
  api.bounceexchange.com CNAME .
- api2.bounceexchange.com CNAME .
- api-rackspace.bounceexchange.com CNAME .
- behavioralautomationcouncil.bounceexchange.com CNAME .
+ assets.bounceexchange.com CNAME .
  bounceexchange.com CNAME .
  cnn.bounceexchange.com CNAME .
- convert.bounceexchange.com CNAME .
- core.bounceexchange.com CNAME .
  events.bounceexchange.com CNAME .
- get.bounceexchange.com CNAME .
- inboxretargeting.bounceexchange.com CNAME .
- looker.bounceexchange.com CNAME .
  pixel.bounceexchange.com CNAME .
- preflight.bounceexchange.com CNAME .
  tag.bounceexchange.com CNAME .
- tourneau.bounceexchange.com CNAME .
- utils.bounceexchange.com CNAME .
  www.bounceexchange.com CNAME .
 ;[steepto.com]
  a.steepto.com CNAME .
@@ -5111,13 +5047,6 @@
  video-native.steepto.com CNAME .
  wsp.steepto.com CNAME .
  www.steepto.com CNAME .
-;[appearch]
- appearch.info CNAME .
- p4.appearch.info CNAME .
- p5.appearch.info CNAME .
- p6.appearch.info CNAME .
- p7.appearch.info CNAME .
- p8.appearch.info CNAME .
 ;[admedia.com]
  admedia.com CNAME .
  adservices.picadmedia.com CNAME .
@@ -5136,31 +5065,24 @@
  v.admedia.com CNAME .
  vslider.admedia.com CNAME .
  w.admedia.com CNAME .
-;[shareaholic]
+;[shareaholic.com]
  analytics.shareaholic.com CNAME .
  apps.shareaholic.com CNAME .
- clickcdn.shareaholic.com CNAME .
  cm.shareaholic.com CNAME .
  d.shareaholic.com CNAME .
  go.shareaholic.com CNAME .
  grace.shareaholic.com CNAME .
- howler.shareaholic.com CNAME .
  partner.shareaholic.com CNAME .
- recommendations.shareaholic.com CNAME .
  recs.shareaholic.com CNAME .
  shareaholic.com CNAME .
  traffic.shareaholic.com CNAME .
- v2.shareaholic.com CNAME .
  www.shareaholic.com CNAME .
 ;[quantserve.com]
  ads.quantserve.com CNAME .
  c.quantserve.com CNAME .
  cms.quantserve.com CNAME .
- content.quantserve.com CNAME .
- dco.quantserve.com CNAME .
  edge.quantserve.com CNAME .
  exch.quantserve.com CNAME .
- flash.quantserve.com CNAME .
  global.px.quantserve.com CNAME .
  m.quantserve.com CNAME .
  maxcdn.quantserve.com CNAME .
@@ -14135,6 +14057,13 @@
  smart.tubeadvertising.eu CNAME .
  tubeadvertising.eu CNAME .
  www.tubeadvertising.eu CNAME .
+;[tradplusad.com]
+ api.tradplusad.com CNAME .
+ bidder.tradplusad.com CNAME .
+ cdn.tradplusad.com CNAME .
+ event.tradplusad.com CNAME .
+ tradplusad.com CNAME .
+ www.tradplusad.com CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
  adtimaserver.vn CNAME .
@@ -19466,7 +19395,6 @@
  tradeadexchange.com CNAME .
  tradedoubler.com CNAME .
  trademob.com CNAME .
- tradplusad.com CNAME .
  traffic-exchange.com CNAME .
  traffic.focuusing.com CNAME .
  trafficadept.com CNAME .
@@ -20061,6 +19989,7 @@
  freegeoip.net CNAME .
  frog.wix.com CNAME .
  front.optimonk.com CNAME .
+ fullstory.com CNAME .
  g.3gl.net CNAME .
  ga.clearbit.com CNAME .
  ga.getresponse.com CNAME .
