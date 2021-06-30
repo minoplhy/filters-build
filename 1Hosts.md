@@ -1,6 +1,6 @@
 ### 1Hosts - RPZ
 
-## Deprecrated
+## deprecated
 ## 1Hosts officially Support rpz
 
 #### Lite
