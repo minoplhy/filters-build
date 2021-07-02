@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-01T18:03:57.315Z
+; Last modified: 2021-07-02T06:03:13.371Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -28,6 +28,7 @@ izzzovhvisnxgy.com CNAME .
 cluster.awmdelivery.com CNAME .
 red12flyw2.site CNAME .
 pop5sjhspear.com CNAME .
+tuwuzaci.xyz CNAME .
 gorgeouspresentation.com CNAME .
 stitchkidney.com CNAME .
 vilercarpetfolk.com CNAME .
@@ -33609,9 +33610,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-valueur.com CNAME .
-cnlongshou.com CNAME .
-govguilin.cn CNAME .
+zhangbaochang.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34015,6 +34014,7 @@ cncy8.com CNAME .
 cnfanglei.com CNAME .
 cnhbxx.com CNAME .
 cnkok.com CNAME .
+cnlongshou.com CNAME .
 cnnywz.cn CNAME .
 cnpinzhuo.com CNAME .
 cnscdj.com CNAME .
@@ -34219,6 +34219,7 @@ govbeijing.cn CNAME .
 govchongqing.cn CNAME .
 govgaungzhou.cn CNAME .
 govgift.com CNAME .
+govguilin.cn CNAME .
 govhunan.cn CNAME .
 govjiangsu.cn CNAME .
 govshenzhen.cn CNAME .
@@ -34953,6 +34954,7 @@ uvclick.com CNAME .
 uzpmrbek.com CNAME .
 v9wuyulou.com CNAME .
 vaedan.top CNAME .
+valueur.com CNAME .
 vc370.com CNAME .
 vdazz.net CNAME .
 ve001nz.com CNAME .
@@ -36340,11 +36342,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-qiaoenyl.xyz CNAME .
-cilxili.top CNAME .
-tearf.cn CNAME .
-timup.top CNAME .
-dd-lightingshow.com CNAME .
+shufan.club CNAME .
+tuezse.cn CNAME .
+cjv2gt.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36737,6 +36737,7 @@ chuanjiae.cn CNAME .
 chuzrra.cn CNAME .
 cifree.xyz CNAME .
 cike666.com CNAME .
+cilxili.top CNAME .
 city009.com CNAME .
 cityb.xyz CNAME .
 cityd.xyz CNAME .
@@ -36818,6 +36819,7 @@ datazhan.com CNAME .
 daylskg.cn CNAME .
 dbxnvh.cn CNAME .
 dceni.com CNAME .
+dd-lightingshow.com CNAME .
 ddanq.com CNAME .
 dddyun.com CNAME .
 ddg1277.com CNAME .
@@ -37651,6 +37653,7 @@ qhxcdmfj.cn CNAME .
 qi-shi.top CNAME .
 qianggou8.top CNAME .
 qianyuntengyue.com CNAME .
+qiaoenyl.xyz CNAME .
 qiaopiguniang.com CNAME .
 qiditrade.com CNAME .
 qiguoguo.net CNAME .
@@ -37862,6 +37865,7 @@ tchep.com CNAME .
 tcnmf.com CNAME .
 tdain.com CNAME .
 tdbwgrm.cn CNAME .
+tearf.cn CNAME .
 tfg8.com CNAME .
 tgbrfv.cn CNAME .
 tglzqw.cn CNAME .
@@ -37873,6 +37877,7 @@ tiandihui9450.top CNAME .
 tianhuafund.cn CNAME .
 tiaoweiyou.cn CNAME .
 tieqifeng.com CNAME .
+timup.top CNAME .
 tingfengyu.top CNAME .
 tiojk.com CNAME .
 tirongtech.cn CNAME .
