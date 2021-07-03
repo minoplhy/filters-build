@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-02T18:03:42.089Z
+; Last modified: 2021-07-03T06:03:49.968Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33655,8 +33655,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-jindongsheng.top CNAME .
-zhangbaochang.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34452,6 +34450,7 @@ jiekc.com CNAME .
 jijunlongchengxinxi.cn CNAME .
 jikelian.xyz CNAME .
 jimeilm.com CNAME .
+jindongsheng.top CNAME .
 jindu179.com CNAME .
 jinglongtang.cn CNAME .
 jinshasi.cn CNAME .
@@ -35286,6 +35285,7 @@ zgtcar.com CNAME .
 zgunion.cn CNAME .
 zgyemy.com CNAME .
 zhaibei112.top CNAME .
+zhangbaochang.top CNAME .
 zhangkc.com CNAME .
 zhangranfilm.com CNAME .
 zhengyahong.cn CNAME .
@@ -36388,15 +36388,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-zc710956.top CNAME .
-wangyuekun.xyz CNAME .
-whsseqpcs.top CNAME .
-bowei666.xyz CNAME .
-xisea.top CNAME .
-shufan.club CNAME .
-yemingxing.top CNAME .
-tuezse.cn CNAME .
-cjv2gt.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36721,6 +36712,7 @@ bntxt.com CNAME .
 bodapet.com CNAME .
 bolili.info CNAME .
 bostonceltics.com.cn CNAME .
+bowei666.xyz CNAME .
 boweineng.cn CNAME .
 bpdffh.cn CNAME .
 bqhnj.cn CNAME .
@@ -36795,6 +36787,7 @@ cityb.xyz CNAME .
 cityd.xyz CNAME .
 cityf.xyz CNAME .
 cjhbkj.cn CNAME .
+cjv2gt.cn CNAME .
 cjyjqw.cn CNAME .
 ckaiv.com CNAME .
 ckjyck.qxs.la CNAME .
@@ -37825,6 +37818,7 @@ shjsxx.com CNAME .
 shorug.cn CNAME .
 shrtswkj.com CNAME .
 shsnjj.top CNAME .
+shufan.club CNAME .
 shunxinyuancaiwu.cn CNAME .
 signstu.top CNAME .
 simon184.cn CNAME .
@@ -37966,6 +37960,7 @@ tsrc8.com CNAME .
 ttbc33.com CNAME .
 ttshort.xyz CNAME .
 tuadong.com CNAME .
+tuezse.cn CNAME .
 tukexiu.com CNAME .
 tunanchangban.com CNAME .
 tuoxintrade.cn CNAME .
@@ -38031,6 +38026,7 @@ wangkeduo.cn CNAME .
 wangliqin.top CNAME .
 wangmingsort.cn CNAME .
 wangqing7.top CNAME .
+wangyuekun.xyz CNAME .
 wannuochongkong.com CNAME .
 wantezy.cn CNAME .
 watchhouse.cn CNAME .
@@ -38058,6 +38054,7 @@ wfslj.cn CNAME .
 wfyqc.com CNAME .
 whbhsoft.cn CNAME .
 whrles.com CNAME .
+whsseqpcs.top CNAME .
 whxhhjx.com CNAME .
 whxjnwzhs.com CNAME .
 win999.com.cn CNAME .
@@ -38128,6 +38125,7 @@ xinheshengmce.com CNAME .
 xinqiannv.com CNAME .
 xintaizhaoming.com CNAME .
 xinyuanstudio.com CNAME .
+xisea.top CNAME .
 xiuqixuan.cn CNAME .
 xixizaix.cn CNAME .
 xjhjtz.cn CNAME .
@@ -38194,6 +38192,7 @@ ybrex.cn CNAME .
 ybtianxi.com CNAME .
 ydfz.org CNAME .
 ydqcjy.cn CNAME .
+yemingxing.top CNAME .
 yeyushe.cn CNAME .
 yfygs.cn CNAME .
 yg10x.cn CNAME .
@@ -38286,6 +38285,7 @@ zabxb.com CNAME .
 zanghaihua.org CNAME .
 zazkkk.com CNAME .
 zbqmsc.com CNAME .
+zc710956.top CNAME .
 zcand.com CNAME .
 zdovrb.cn CNAME .
 zenwq.com CNAME .
