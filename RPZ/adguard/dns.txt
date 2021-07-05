@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-04T18:03:38.568Z
+; Last modified: 2021-07-05T06:04:49.295Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -25220,7 +25220,6 @@ foxpush.com CNAME .
 foxpush.net CNAME .
 getpush.net CNAME .
 getpushmonkey.com CNAME .
-getsupernova.com CNAME .
 gravitec.net CNAME .
 heroesdom.com CNAME .
 highfalutinhoney.com CNAME .
@@ -26155,6 +26154,7 @@ track.mailerlite.com CNAME .
 track.mycliplister.com CNAME .
 track.pricespider.com CNAME .
 track.qoof.com CNAME .
+track.realtimeboard.com CNAME .
 track.shop2market.com CNAME .
 track.social.com CNAME .
 track.strife.com CNAME .
@@ -32869,9 +32869,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 30 Jun 2021 14:01 UTC+7
-; OriginalVersion: 2106301401
-; Blocked: 891 rules
+; Last modified: 05 Jul 2021 11:08 UTC+7
+; OriginalVersion: 2107051108
+; Blocked: 893 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33538,6 +33538,7 @@ fcb88.com CNAME .
 fcb88d.com CNAME .
 five88.biz CNAME .
 five88.com CNAME .
+five88.me CNAME .
 five88.net CNAME .
 fivevn.net CNAME .
 gamebai.club CNAME .
@@ -33633,6 +33634,7 @@ tai789.net CNAME .
 taib52.club CNAME .
 taimacau.club CNAME .
 taiv8.com CNAME .
+taiv8.info CNAME .
 tangsoc.com CNAME .
 thethaodabet.com CNAME .
 thethaofb88.com CNAME .
@@ -33708,6 +33710,7 @@ hashearog.com CNAME .
 irduwhojas.ga CNAME .
 kaurroot.com CNAME .
 larpollicwilli.club CNAME .
+news-good.net CNAME .
 rituationscardb.info CNAME .
 sacchaeleduk.com CNAME .
 smilitygorb.club CNAME .
@@ -33722,8 +33725,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-zhangjunying.top CNAME .
-yl-zipper.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35286,6 +35287,7 @@ yiran686.cn CNAME .
 yisd.press CNAME .
 yishuifa.org CNAME .
 yixui.com CNAME .
+yl-zipper.com CNAME .
 ylfgybn.cn CNAME .
 ylflwbj.cn CNAME .
 ymcqb.com CNAME .
@@ -35356,6 +35358,7 @@ zgunion.cn CNAME .
 zgyemy.com CNAME .
 zhaibei112.top CNAME .
 zhangbaochang.top CNAME .
+zhangjunying.top CNAME .
 zhangkc.com CNAME .
 zhangranfilm.com CNAME .
 zhengyahong.cn CNAME .
@@ -36459,9 +36462,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-abovede6.com CNAME .
-xafengzhij.xyz CNAME .
-fhlong2000.xyz CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36632,6 +36632,7 @@ abie17.top CNAME .
 abie18.top CNAME .
 abie25.top CNAME .
 abie9.top CNAME .
+abovede6.com CNAME .
 abuse8.com CNAME .
 ac56.xyz CNAME .
 acaog.com CNAME .
@@ -37051,6 +37052,7 @@ ffpp.xyz CNAME .
 ffupiiv.cn CNAME .
 ffyyfy.top CNAME .
 fhixhde.cn CNAME .
+fhlong2000.xyz CNAME .
 findx2.info CNAME .
 fintechpi.com CNAME .
 fj95560.com CNAME .
@@ -38168,6 +38170,7 @@ wyxcb6.top CNAME .
 wzjs1.oss-accelerate.aliyuncs.com CNAME .
 xabtx.com CNAME .
 xacqp.com CNAME .
+xafengzhij.xyz CNAME .
 xafxs.cn CNAME .
 xamaky.top CNAME .
 xamiqi.top CNAME .

@@ -8,7 +8,7 @@
 ; Please forward any additions, corrections or comments by email to
 ; hosts@someonewhocares.org
 
-; Last updated: Sat, 26 Jun 2021 at 00:06:04 GMT
+; Last updated: Mon, 05 Jul 2021 at 03:34:39 GMT
 
 ; Use this file to prevent your computer from connecting to selected
 ; internet hosts. This is an easy and effective way to protect you from 
@@ -429,6 +429,7 @@
  api2.murdoog.com CNAME .
  apiadapter.ad5track.com CNAME .
  apis.murdoog.com CNAME .
+ app-analytics-v2.snapchat.com CNAME .
  app-analytics.snapchat.com CNAME .
  app.yesware.com CNAME .
  apple.com-onlinesupport.host CNAME .
@@ -2750,7 +2751,6 @@
  pdns.nudt.edu.cn CNAME .
  personalantispy.com CNAME .
  petra.nic.gov.jo CNAME .
- phatthalung.go.th CNAME .
  phorm.biz.tr CNAME .
  phorm.ch CNAME .
  phorm.cl CNAME .
@@ -8573,6 +8573,7 @@
  eventtracker.videostrip.com CNAME .
  evroteplo.ru CNAME .
  excellent.michaelanthonyrobinson.com CNAME .
+ exchange.scalemonk.com CNAME .
  exclusivegiftcards.com CNAME .
  exits1.webquest.net CNAME .
  exits2.webquest.net CNAME .
@@ -11316,6 +11317,7 @@
  sb.scorecardresearch.com CNAME .
  sc1.admob.com CNAME .
  sc9.admob.com CNAME .
+ scalemonk.com CNAME .
  scdown.qq.com CNAME .
  scegli-vinci.it CNAME .
  scgis.co.uk CNAME .

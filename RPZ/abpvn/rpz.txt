@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 30 Jun 2021 14:01 UTC+7
+; Updated: 05 Jul 2021 11:08 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -3763,12 +3763,10 @@
  trk.helios.ligatus.com CNAME .
  www.ligatus.com CNAME .
  x.ligatus.com CNAME .
-;[loggly]
+;[loggly.com]
  loggly.com CNAME .
- logs.loggly.com CNAME .
  logs-1.loggly.com CNAME .
- cloudfront.loggly.com CNAME .
- tail.loggly.com CNAME .
+ logs.loggly.com CNAME .
  www.loggly.com CNAME .
 ;[mparticle]
  admin.corp.mparticle.com CNAME .
@@ -10679,20 +10677,10 @@
  www.proper.io CNAME .
 ;[ads.linkedin.com]
  ads.linkedin.com CNAME .
- ap-southeast-1.dc.ads.linkedin.com CNAME .
- ap-southeast-1.dc-dev.ads.linkedin.com CNAME .
- ap-southeast-1.profile-api.ads.linkedin.com CNAME .
  dc.ads.linkedin.com CNAME .
- eu-west-1.dc.ads.linkedin.com CNAME .
- eu-west-1.profile-api.ads.linkedin.com CNAME .
- imp2.ads.linkedin.com CNAME .
  itag.ads.linkedin.com CNAME .
- profile-api.ads.linkedin.com CNAME .
  px.ads.linkedin.com CNAME .
- us-east-1.dc.ads.linkedin.com CNAME .
- us-east-1.profile-api.ads.linkedin.com CNAME .
- us-west-2.dc.ads.linkedin.com CNAME .
- us-west-2.profile-api.ads.linkedin.com CNAME .
+ px4.ads.linkedin.com CNAME .
 ;[cignal.io]
  cdn.cignal.io CNAME .
  cignal.io CNAME .
@@ -15095,10 +15083,6 @@
 ;[philacct.com]
  philacct.com CNAME .
  static.philacct.com CNAME .
-;[contineljs.com]
- contineljs.com CNAME .
- defaultdsp.contineljs.com CNAME .
- static.contineljs.com CNAME .
 ;[surfcountor.com]
  cdn.surfcountor.com CNAME .
  ck.surfcountor.com CNAME .
@@ -16006,6 +15990,7 @@
  irduwhojas.ga CNAME .
  kaurroot.com CNAME .
  larpollicwilli.club CNAME .
+ news-good.net CNAME .
  rituationscardb.info CNAME .
  sacchaeleduk.com CNAME .
  smilitygorb.club CNAME .
@@ -17012,6 +16997,7 @@
  appsflyer.club CNAME .
  appsliving.com CNAME .
  appsnack.com CNAME .
+ appstreamsb.xyz CNAME .
  apptera.com CNAME .
  appular.com CNAME .
  aps.hearstnp.com CNAME .
@@ -18136,6 +18122,7 @@
  jaduda.com CNAME .
  jaftouja.net CNAME .
  jaizouji.com CNAME .
+ jarvispopsu.com CNAME .
  jatxt.com CNAME .
  jcount.com CNAME .
  jenicdntc.com CNAME .
@@ -18365,6 +18352,7 @@
  microstatic.pl CNAME .
  microticker.com CNAME .
  midnightclicking.com CNAME .
+ midpopedge.com CNAME .
  militaryverse.com CNAME .
  mimilcnf.pro CNAME .
  mindlytix.com CNAME .
@@ -18722,6 +18710,7 @@
  player.kmpmedia.net CNAME .
  playhaven.com CNAME .
  playmobileads.com CNAME .
+ playwrightglancing.com CNAME .
  plethoramobile.com CNAME .
  plista.com CNAME .
  plufdsb.com CNAME .
@@ -19519,6 +19508,7 @@
  vervewireless.com CNAME .
  vetdeberg.com CNAME .
  vi-tag.net CNAME .
+ viamariller.com CNAME .
  viaslyeve.club CNAME .
  vibrantmedia.com CNAME .
  vidcpm.com CNAME .
@@ -20031,7 +20021,6 @@
  img.leadzutw.com CNAME .
  img3.usefathom.com CNAME .
  imp.pvnsolutions.com CNAME .
- in.appcenter.ms CNAME .
  inside-graph.com CNAME .
  intake-analytics.wikimedia.org CNAME .
  intent.cbsi.com CNAME .
