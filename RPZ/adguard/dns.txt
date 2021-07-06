@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-06T06:03:59.174Z
+; Last modified: 2021-07-06T18:03:28.046Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+tlccqcko.com CNAME .
+wohchuuemjs.com CNAME .
+quotedimpressive.com CNAME .
 asce.xyz CNAME .
 echnolog.club CNAME .
 ownandthaiho.biz CNAME .
@@ -4645,6 +4648,7 @@ betemolgar.com CNAME .
 betgorebysson.club CNAME .
 beticithy.com CNAME .
 betjeyxf.com CNAME .
+betonpolite.com CNAME .
 betrayedgeoffrey.com CNAME .
 betrayedregretdeadline.com CNAME .
 betshucklean.com CNAME .
@@ -7664,6 +7668,7 @@ greatedclu.fun CNAME .
 greatimprudencecuriosity.com CNAME .
 greatkneadsuburb.com CNAME .
 greatmentef.club CNAME .
+grecmaru.com CNAME .
 greedrum.net CNAME .
 greedysafely.com CNAME .
 greemeek.net CNAME .
@@ -8318,6 +8323,7 @@ iople.com CNAME .
 ipfmbexfdzb.com CNAME .
 ipiech.com CNAME .
 ipqjjrnciyi.com CNAME .
+iprom.net CNAME .
 ipsoorel.com CNAME .
 iptautup.com CNAME .
 iptonaib.net CNAME .
@@ -10696,6 +10702,7 @@ pisism.com CNAME .
 pistraving.co CNAME .
 pitegirlfridg.top CNAME .
 piticlik.com CNAME .
+pitpastraja.com CNAME .
 pityneedsdads.com CNAME .
 pjx1ky4xhwip.com CNAME .
 pkgebysm.com CNAME .
@@ -10904,6 +10911,7 @@ preyjustly.com CNAME .
 prfctmney.com CNAME .
 pricestern.top CNAME .
 prieseerunbe.info CNAME .
+prikachi.net CNAME .
 prime-vpnet.com CNAME .
 primevalcherries.com CNAME .
 primroseconstellationrapidly.com CNAME .
@@ -13071,6 +13079,7 @@ unlomblam.pro CNAME .
 unmortalloose.com CNAME .
 unoblotto.net CNAME .
 unrestchat.com CNAME .
+unrootpteroid.cam CNAME .
 unrulyrotate.com CNAME .
 unseen2020.com CNAME .
 unskilledsqueakjunk.com CNAME .
@@ -18443,6 +18452,12 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+a.ddli.jp CNAME .
+b92.yahoo.co.jp CNAME .
+cf-native.karte.io CNAME .
+lptag.liveperson.net CNAME .
+pub.toku-tag.jp CNAME .
+script-ad.mobadme.jp CNAME .
 tapdb.com CNAME .
 tapdb.net CNAME .
 track.robee.tech CNAME .
@@ -22486,6 +22501,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+ping.hashnode.com CNAME .
 log.vava.com CNAME .
 beacon.samsclub.com CNAME .
 counter.theconversation.com CNAME .
@@ -25974,6 +25990,7 @@ loglady.skypicker.com CNAME .
 logs-api.shoprunner.com CNAME .
 logs.vmixcore.com CNAME .
 lore.circulate.com CNAME .
+lps.qantas.com CNAME .
 lt.tritondigital.com CNAME .
 lucid.mjhassoc.com CNAME .
 lunametrics.wpengine.netdna-cdn.com CNAME .
@@ -26336,7 +26353,7 @@ open.oneplus.net CNAME .
 sa.api.intl.miui.com CNAME .
 stat.xiaomi.com CNAME .
 supportmetrics.apple.com CNAME .
-trackingshipment.apple.com CNAME .
+xp.apple.com CNAME .
 ; Appcues
 /https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/ CNAME .
 ; taboola
@@ -27252,6 +27269,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+bmddea.com CNAME .
 ads2.pbxware.ru CNAME .
 playjusting.com CNAME .
 gafdelins.com CNAME .
@@ -32927,9 +32945,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 05 Jul 2021 11:08 UTC+7
-; OriginalVersion: 2107051108
-; Blocked: 893 rules
+; Last modified: 06 Jul 2021 14:23 UTC+7
+; OriginalVersion: 2107061423
+; Blocked: 899 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33244,6 +33262,7 @@ cdn-bongdadem-net.cdn.ampproject.org CNAME .
 cdn.bongdadem.net CNAME .
 cdnasset.dantri.com.vn CNAME .
 click-ads.saoteen.net CNAME .
+click.vieon.vn CNAME .
 clix.vn CNAME .
 core.vnecdn.com CNAME .
 cpx.vnecdn.com CNAME .
@@ -33519,6 +33538,7 @@ trending.vn CNAME .
 trk.123c.vn CNAME .
 trk.staging.123c.vn CNAME .
 userstats.shopee.vn CNAME .
+vieon-tracking.vieon.vn CNAME .
 vtrack.vht.com.vn CNAME .
 webpush.bizfly.vn CNAME .
 webpush.todo.vn CNAME .
@@ -33584,9 +33604,11 @@ fabetvn.com CNAME .
 fb88.com CNAME .
 fb88.link CNAME .
 fb88club.com CNAME .
+fb88cup.com CNAME .
 fb88en.com CNAME .
 fb88go.com CNAME .
 fb88live.com CNAME .
+fb88max.com CNAME .
 fb88sports.com CNAME .
 fb88viet.com CNAME .
 fcb8.com CNAME .
@@ -33619,6 +33641,7 @@ jbo064.com CNAME .
 jboviet.com CNAME .
 jbovn.com CNAME .
 k8dl08.cc CNAME .
+k8sport.com CNAME .
 k8vina17.com CNAME .
 k8vn03.com CNAME .
 keotot.net CNAME .
@@ -33731,6 +33754,7 @@ vwinnow.com CNAME .
 vwinthethao.com CNAME .
 vx88.com CNAME .
 vx88e.com CNAME .
+vz681.com CNAME .
 w388.com CNAME .
 w88.vin CNAME .
 w88bro.com CNAME .
@@ -33783,6 +33807,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+mlddvji.cn CNAME .
+hq33333.com CNAME .
 senxiaopang.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
@@ -34099,7 +34125,6 @@ bdyxzx.com CNAME .
 bearad.com CNAME .
 bebelait.com CNAME .
 bejzz.top CNAME .
-betonpolite.com CNAME .
 bfgg365.com CNAME .
 biandaosheng.com CNAME .
 biaoshipai.net CNAME .
@@ -34912,7 +34937,6 @@ queene.cn CNAME .
 quehq.com CNAME .
 qvpublish.com CNAME .
 qweoc88123.top CNAME .
-qwfknhc.cn CNAME .
 qxfly.com CNAME .
 qxxys.com CNAME .
 qycjrkfzx.com CNAME .
@@ -34995,14 +35019,12 @@ sitebakup.com CNAME .
 sitemobia.com CNAME .
 sjgnskf.com CNAME .
 sjmwkj.cn CNAME .
-sjy-stone.com.cn CNAME .
 skywinners.com.cn CNAME .
 sm077.com CNAME .
 smallmovieapp.com CNAME .
 smallvideoapp.com CNAME .
 smart-start.com.cn CNAME .
 smartfarming.cn CNAME .
-smf82.cn CNAME .
 smucdn.com CNAME .
 smxsg.com CNAME .
 snnnyy.com CNAME .
@@ -35101,7 +35123,6 @@ ttbc.cc CNAME .
 ttzhongbao.com CNAME .
 tuifish.com CNAME .
 tukeai.com CNAME .
-tvbyb04.cn CNAME .
 twitterzs.com CNAME .
 twzui6.com CNAME .
 txdwc.cn CNAME .
@@ -35241,10 +35262,8 @@ xihashuale.com CNAME .
 xihuangdushu.com CNAME .
 xilele.com CNAME .
 xingjuhe.com CNAME .
-xingyao.doubiy.com CNAME .
 xinlongrubber.com CNAME .
 xinray.net CNAME .
-xinyijiasc.cn CNAME .
 xiongdong.com CNAME .
 xiongzhangad.com CNAME .
 xk2012.com CNAME .
@@ -35256,10 +35275,7 @@ xmrzw.cn CNAME .
 xmtsyg.com CNAME .
 xmxxwl.com CNAME .
 xmzwdgm.com CNAME .
-xn--2qu92fhtx4ff.icu CNAME .
 xn--2qu96gouvko1a.com CNAME .
-xn--2qux23c9ziyrq.video CNAME .
-xn--2quz8f01ak10c.shop CNAME .
 xn--2ssq0ktxigkq.com CNAME .
 xn--3bs795g.chat CNAME .
 xn--3bs795g.pub CNAME .
@@ -35282,7 +35298,6 @@ xn--xhq9mt12cf5v.ren CNAME .
 xn--xhq9mt12cf5v.site CNAME .
 xn--xhq9mt12cf5v.website CNAME .
 xnjpg.com CNAME .
-xnmcmnt.cn CNAME .
 xsjyun.cn CNAME .
 xt2d.cn CNAME .
 xtianqi.com.cn CNAME .
@@ -35399,7 +35414,6 @@ yzwr588.com CNAME .
 yzygo.com CNAME .
 yzyrsw.com CNAME .
 yzytb.com CNAME .
-z5of63.cn CNAME .
 zaitouwang.com CNAME .
 zantainet.com CNAME .
 zcrtd.com CNAME .
@@ -36521,6 +36535,14 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+loverzhou.club CNAME .
+wangzibo.top CNAME .
+fsxzbs.cn CNAME .
+yueli101.xyz CNAME .
+xingchenweb.top CNAME .
+drawenjoy.cn CNAME .
+cxjju.cn CNAME .
+qhgbkr.cn CNAME .
 shitao.xyz CNAME .
 yosjob.cn CNAME .
 yundad.com CNAME .
@@ -37783,7 +37805,6 @@ oycslia.xyz CNAME .
 oycslib.xyz CNAME .
 oycslic.xyz CNAME .
 oyknmi.cn CNAME .
-p0pm5z.cn CNAME .
 panwenjun.top CNAME .
 pbbgfsm.cn CNAME .
 pbtxt.win CNAME .
@@ -37816,17 +37837,13 @@ ppee.xyz CNAME .
 pppxia.com CNAME .
 pqezdo.cn CNAME .
 ptgezc.com CNAME .
-pu0glv.cn CNAME .
 puqer.cn CNAME .
 pwjmzqx.cn CNAME .
 pyblogs.xyz CNAME .
 pyerc.com CNAME .
 pyhuiyu.com CNAME .
 pyxjwks.com CNAME .
-pzvlnh.cn CNAME .
-q671e.cn CNAME .
 qa7mp9j.cn CNAME .
-qaqact.cn CNAME .
 qdglzx.com CNAME .
 qdhhdsw.cn CNAME .
 qdilmak.cn CNAME .
@@ -37854,11 +37871,9 @@ qivsod.com CNAME .
 qizixsw.com CNAME .
 qjxszp.cn CNAME .
 qkptx.com CNAME .
-qkykxrm.cn CNAME .
 ql01t4.com CNAME .
 qloved.cn CNAME .
 qlssbq.cn CNAME .
-qnpov.cn CNAME .
 qpmue.xyz CNAME .
 qpmztk.cn CNAME .
 qqdashabi.top CNAME .
@@ -37872,7 +37887,6 @@ qwddcwmwqiqwd19.cn CNAME .
 qwddcwmwqiqwd20.cn CNAME .
 qwddcwmwqiqwd21.cn CNAME .
 qxyu.top CNAME .
-qyhwqie.cn CNAME .
 qysyyg.com CNAME .
 qyttl.cn CNAME .
 qzbxfs.com CNAME .
@@ -37886,7 +37900,6 @@ r890x3.com CNAME .
 raeqqe.cn CNAME .
 ranqibio.com CNAME .
 rbywg.com CNAME .
-rcynoe.cn CNAME .
 rdtylx.cn CNAME .
 renfas.com CNAME .
 renrentoutiao.cn CNAME .
@@ -37911,7 +37924,6 @@ rqkgcd.xyz CNAME .
 ruyidk.com CNAME .
 ruyiqufu.com CNAME .
 rvsosm.cn CNAME .
-rxconkz.cn CNAME .
 rzlib.net CNAME .
 rzxlszy.vip CNAME .
 s28xvp.com CNAME .
@@ -38001,7 +38013,6 @@ suhusushi.com CNAME .
 suitmatters.cn CNAME .
 suoooi.cn CNAME .
 superbao.top CNAME .
-sv7oqa.cn CNAME .
 svfwer.top CNAME .
 sviss.top CNAME .
 sw9t.ml CNAME .
@@ -38025,7 +38036,6 @@ sydswxx.com CNAME .
 symad.cn CNAME .
 symag.cn CNAME .
 syooys.com CNAME .
-syrstrq.cn CNAME .
 sysal.cn CNAME .
 sysycloud.com CNAME .
 sytsr.com CNAME .
@@ -38045,7 +38055,6 @@ tabyee.cn CNAME .
 taikangshenyuan.com CNAME .
 taishijian.com CNAME .
 tajxgs.com CNAME .
-taobaocoupon.cn CNAME .
 taomochou.cn CNAME .
 tatjhh.cn CNAME .
 tbaia.com CNAME .
@@ -38064,7 +38073,6 @@ thindsoo.cn CNAME .
 this-is-living.cn CNAME .
 tiandihui9450.top CNAME .
 tianhuafund.cn CNAME .
-tiaoweiyou.cn CNAME .
 tieqifeng.com CNAME .
 timup.top CNAME .
 tingfengyu.top CNAME .
@@ -38108,7 +38116,6 @@ tukexiu.com CNAME .
 tunanchangban.com CNAME .
 tuoxintrade.cn CNAME .
 tuwo-audio.cn CNAME .
-twodogegg.cn CNAME .
 txn5n0.cn CNAME .
 txtxr.com CNAME .
 txuesoft.cn CNAME .
@@ -38127,7 +38134,6 @@ ubt573.org CNAME .
 ububyiw6655.xyz CNAME .
 uc4a.cn CNAME .
 ucaii.com CNAME .
-ucvqmvg.cn CNAME .
 uhbjvwn.cn CNAME .
 uissm.com CNAME .
 ujiasm.com CNAME .
@@ -38143,20 +38149,17 @@ ut0ej.cn CNAME .
 uu7ey6.cn CNAME .
 uuu88.top CNAME .
 uuwhg.com CNAME .
-uxnycjr.cn CNAME .
 uyueread.com CNAME .
 v5levm1.com CNAME .
 vasb.cn CNAME .
 vbanm.com CNAME .
 vchim.com CNAME .
-vf5yb4.cn CNAME .
 vgimer.cn CNAME .
 vinuxhome.com CNAME .
 vivi87.cn CNAME .
 vjptye.cn CNAME .
 vkpsmzj.cn CNAME .
 vkuay.com CNAME .
-voterlin.cn CNAME .
 vq7736.com CNAME .
 vsheying.top CNAME .
 vvnna.com CNAME .
@@ -38219,11 +38222,9 @@ workbizs.com CNAME .
 woshiyunying.com CNAME .
 wotto.cn CNAME .
 wtgongsi.com CNAME .
-wtnjupl.cn CNAME .
 wtztkpy.cn CNAME .
 wuyuande.com CNAME .
 wvcdn.cn CNAME .
-wvfgiio.cn CNAME .
 wxbdwj.cn CNAME .
 wxebgpj.cn CNAME .
 wxhdwy.com CNAME .
@@ -38260,7 +38261,6 @@ xiaogouzhuanqian.cn CNAME .
 xiaokeaiapp.com CNAME .
 xiaoshuoyun.cn CNAME .
 xieyanmin.com.cn CNAME .
-xindelin.cn CNAME .
 xinghao89.com CNAME .
 xingnu.site CNAME .
 xingpingmaoyi.cn CNAME .
@@ -38286,10 +38286,6 @@ xmseaside.com CNAME .
 xmstpay.com CNAME .
 xmyejun.cn CNAME .
 xmysinter.com CNAME .
-xn--2qu92fhtx4ff.ink CNAME .
-xn--2qu92fhtx4ff.ren CNAME .
-xn--2qux23c9ziyrq.icu CNAME .
-xn--2qux23c9ziyrq.ink CNAME .
 xn--2ssq0ktxigkq.cc CNAME .
 xn--cjr60y21klpd.com CNAME .
 xn--ddua45lfy1c.ink CNAME .
@@ -38300,7 +38296,6 @@ xnjzsn.com CNAME .
 xnzkqew.cn CNAME .
 xpxvok.cn CNAME .
 xsc.x81zw.com CNAME .
-xswfkco.cn CNAME .
 xsyouwei.cn CNAME .
 xuchangmuying.com CNAME .
 xuenengyoujiaoyu.com CNAME .
@@ -38309,7 +38304,6 @@ xunhuaji.cn CNAME .
 xunzhuo123.com CNAME .
 xuro006.com CNAME .
 xuxiangkj.com CNAME .
-xuyssur.cn CNAME .
 xvqdfwy.cn CNAME .
 xw1001.com CNAME .
 xxaalsn.cn CNAME .
@@ -38362,7 +38356,6 @@ yituo-patibao.cn CNAME .
 yixiangzhan.cn CNAME .
 yiyu-fz.cn CNAME .
 yiyuantian.com CNAME .
-yizhijin.cn CNAME .
 yjegf.com CNAME .
 yjiaj.com CNAME .
 yjxqy.com CNAME .
@@ -38410,8 +38403,6 @@ yuyanhe.com CNAME .
 yvrpeky.cn CNAME .
 ywbwsm.com CNAME .
 ywqpgy.com CNAME .
-ywqum.cn CNAME .
-ywxtmox.cn CNAME .
 yxhxs.com CNAME .
 yxsnf.cn CNAME .
 yyeks.com CNAME .
@@ -38436,7 +38427,6 @@ zenwq.com CNAME .
 zfood029.com CNAME .
 zgchaye123.com CNAME .
 zgcqxjzny.cn CNAME .
-zgdfvih.cn CNAME .
 zgfszs.com CNAME .
 zgjjkk.com CNAME .
 zgjkv.com CNAME .
@@ -38479,7 +38469,6 @@ zkba9.cn CNAME .
 zkwsdf.com CNAME .
 zln44.cn CNAME .
 zmyuer.com CNAME .
-zoepb.cn CNAME .
 zougg.com CNAME .
 zoujuhonglawyer.com CNAME .
 zouxinyan.xyz CNAME .

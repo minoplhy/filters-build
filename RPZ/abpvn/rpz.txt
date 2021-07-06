@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 05 Jul 2021 11:08 UTC+7
+; Updated: 06 Jul 2021 14:23 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -3627,53 +3627,49 @@
  servicedesk.appboy.com CNAME .
  sondheim-elb.appboy.com CNAME .
  sweeney-elb.appboy.com CNAME .
-;[adnxs]
+;[adnxs.com]
  acdn.adnxs.com CNAME .
  adnxs.com CNAME .
- ads.adnxs.com CNAME .
- adstxt.adnxs.com CNAME .
- adx.adnxs.com CNAME .
- akamai.cdneval.adnxs.com CNAME .
  ams1-ib.adnxs.com CNAME .
  anycast.adnxs.com CNAME .
  b.adnxs.com CNAME .
  cdn.adnxs.com CNAME .
- cdneval.adnxs.com CNAME .
- cfengine.nym1.adnxs.com CNAME .
- cib.adnxs.com CNAME .
- cloudflare.cdneval.adnxs.com CNAME .
- crcdn.adnxs.com CNAME .
+ crcdn1.adnxs.com CNAME .
+ crcdn9.adnxs.com CNAME .
  dcdn.adnxs.com CNAME .
- fastly.cdneval.adnxs.com CNAME .
- fb-nym.adnxs.com CNAME .
- g.adnxs.com CNAME .
- gam.adnxs.com CNAME .
- highwinds.cdneval.adnxs.com CNAME .
  ib.adnxs.com CNAME .
  ib.anycast.adnxs.com CNAME .
- jp.adnxs.com CNAME .
- jump.adnxs.com CNAME .
+ lax1-ib.adnxs.com CNAME .
+ lax1.ib.adnxs.com CNAME .
+ lib.adnxs.com CNAME .
  m.adnxs.com CNAME .
  m.anycast.adnxs.com CNAME .
  mediation.adnxs.com CNAME .
- mob.adnxs.com CNAME .
  mobile.anycast.adnxs.com CNAME .
- mp.adnxs.com CNAME .
- openadid.adnxs.com CNAME .
  p.adnxs.com CNAME .
  prebid.adnxs.com CNAME .
- proxy.adnxs.com CNAME .
- photobucket.adnxs.com CNAME .
  rb.adnxs.com CNAME .
- sand.api.adnxs.com CNAME .
+ s.update.ib.adnxs.com CNAME .
  secure.adnxs.com CNAME .
- secure-ams.adnxs.com CNAME .
- server.ib.adnxs.com CNAME .
+ sharethrough.adnxs.com CNAME .
+ sin1-ib.adnxs.com CNAME .
+ sin3-ib.adnxs.com CNAME .
+ t.update.ib.adnxs.com CNAME .
  thunder.adnxs.com CNAME .
+ update.ib.adnxs.com CNAME .
  vcdn.adnxs.com CNAME .
- www.adnxs.com CNAME .
- ym.adnxs.com CNAME .
- ym-default.adnxs.com CNAME .
+ yj-a.p.adnxs.com CNAME .
+ yj.p.adnxs.com CNAME .
+;[adnxs-simple.com]
+ acdn.adnxs-simple.com CNAME .
+ adnxs-simple.com CNAME .
+ b.adnxs-simple.com CNAME .
+ cdn.adnxs-simple.com CNAME .
+ dcdn.adnxs-simple.com CNAME .
+ ib.adnxs-simple.com CNAME .
+ prebid.adnxs-simple.com CNAME .
+ rb.adnxs-simple.com CNAME .
+ vcdn.adnxs-simple.com CNAME .
 ;[batch]
  batch.com CNAME .
  www.batch.com CNAME .
@@ -15667,6 +15663,7 @@
  cdnasset.dantri.com.vn CNAME .
  chiasephim.xyz CNAME .
  click-ads.saoteen.net CNAME .
+ click.vieon.vn CNAME .
  clipbongda.info CNAME .
  clix.vn CNAME .
  core.vnecdn.com CNAME .
@@ -15969,6 +15966,7 @@
  trk.123c.vn CNAME .
  trk.staging.123c.vn CNAME .
  userstats.shopee.vn CNAME .
+ vieon-tracking.vieon.vn CNAME .
  vn.alexajstrack.com CNAME .
  vtrack.vht.com.vn CNAME .
  webpush.bizfly.vn CNAME .
@@ -17052,6 +17050,7 @@
  avpa.javalobby.org CNAME .
  avres.net CNAME .
  avsads.com CNAME .
+ awaitcola.com CNAME .
  awempire.com CNAME .
  aweprt.com CNAME .
  awin1.com CNAME .
@@ -17622,6 +17621,7 @@
  doublepimpads.com CNAME .
  doubtfulrainstorm.com CNAME .
  downloadr.xyz CNAME .
+ dozubatan.com CNAME .
  dq95d35.com CNAME .
  drabsize.com CNAME .
  dragzebra.com CNAME .
@@ -18079,6 +18079,7 @@
  inringtone.com CNAME .
  insightexpress.com CNAME .
  inskinmedia.com CNAME .
+ insolencemanipulative.com CNAME .
  insomn.pro CNAME .
  inspectorclick.com CNAME .
  install.365-stream.com CNAME .
@@ -18797,6 +18798,7 @@
  pub.hardware.fr CNAME .
  pub.realmedia.fr CNAME .
  pub.trads.io CNAME .
+ pubaka5.com CNAME .
  pubdirecte.com CNAME .
  public.wedodemos.com CNAME .
  publicidad.elmundo.es CNAME .
@@ -18914,6 +18916,7 @@
  retargeter.com CNAME .
  retargetly.com CNAME .
  rev2pub.com CNAME .
+ revengemeantjackpot.com CNAME .
  revenue.net CNAME .
  revenuedirect.com CNAME .
  revmob.com CNAME .
@@ -18941,6 +18944,7 @@
  rocketfuel.com CNAME .
  roia.biz CNAME .
  rose.ixbt.com CNAME .
+ rot.spotsniper.ru CNAME .
  rotabanner.com CNAME .
  rotumal.com CNAME .
  roughexampler.info CNAME .
@@ -18960,6 +18964,7 @@
  rtk.io CNAME .
  ru-traffic.com CNAME .
  ru4.com CNAME .
+ rufflycouncil.com CNAME .
  runads.com CNAME .
  runbornto.com CNAME .
  rundsp.com CNAME .
