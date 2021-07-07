@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-06T18:03:28.046Z
+; Last modified: 2021-07-07T06:03:32.220Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -32945,8 +32945,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 06 Jul 2021 14:23 UTC+7
-; OriginalVersion: 2107061423
+; Last modified: 07 Jul 2021 10:15 UTC+7
+; OriginalVersion: 2107071015
 ; Blocked: 899 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -33807,9 +33807,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-mlddvji.cn CNAME .
-hq33333.com CNAME .
-senxiaopang.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34512,6 +34509,7 @@ hongdianshijue.com CNAME .
 hongtefm.com CNAME .
 hot-eam.com CNAME .
 hpyx365.cn CNAME .
+hq33333.com CNAME .
 hqae.cn CNAME .
 hqwlm.com CNAME .
 hqygz.com CNAME .
@@ -34798,6 +34796,7 @@ minyaartcrafts.cn CNAME .
 mitao17.com CNAME .
 mjx123.com CNAME .
 mkaqh.cn CNAME .
+mlddvji.cn CNAME .
 mlt01.com CNAME .
 mm-cgnews.com CNAME .
 mnxtu.com CNAME .
@@ -34980,6 +34979,7 @@ sdjjr.com CNAME .
 sdurhnd.com CNAME .
 sdxctr.com CNAME .
 sdxkdj.cn CNAME .
+senxiaopang.top CNAME .
 sfxl.com.cn CNAME .
 sfz023.com CNAME .
 shackapple.com CNAME .
@@ -36535,17 +36535,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-loverzhou.club CNAME .
-wangzibo.top CNAME .
-fsxzbs.cn CNAME .
-yueli101.xyz CNAME .
-xingchenweb.top CNAME .
-drawenjoy.cn CNAME .
-cxjju.cn CNAME .
-qhgbkr.cn CNAME .
-shitao.xyz CNAME .
-yosjob.cn CNAME .
-yundad.com CNAME .
+sanzhong.co CNAME .
+yswenhua.com CNAME .
+tangequan.co CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36994,6 +36986,7 @@ cuoss.com CNAME .
 cw49z0.cn CNAME .
 cxb4.cn CNAME .
 cxcxt.com CNAME .
+cxjju.cn CNAME .
 cxmob.net CNAME .
 cxzudwk.com CNAME .
 cy-ck.top CNAME .
@@ -37062,6 +37055,7 @@ dofkfhv.cn CNAME .
 doulaihai.top CNAME .
 downcdn.top CNAME .
 dpbyc.com CNAME .
+drawenjoy.cn CNAME .
 dreamrecord.cn CNAME .
 dsdsds8848.xyz CNAME .
 dsjre.com CNAME .
@@ -37164,6 +37158,7 @@ friend17.net CNAME .
 frjxdv.cn CNAME .
 fskj100.cn CNAME .
 fstaw.com CNAME .
+fsxzbs.cn CNAME .
 fszhxd.com CNAME .
 fuchuqu.cn CNAME .
 fuhaimuye.cn CNAME .
@@ -37627,6 +37622,7 @@ losbateleros.com CNAME .
 louisan.cn CNAME .
 lousivency.com.cn CNAME .
 lovepets70.com CNAME .
+loverzhou.club CNAME .
 lownguw.top CNAME .
 lq0s3c.cn CNAME .
 lq1.abcxs.com CNAME .
@@ -37852,6 +37848,7 @@ qdyazc.com CNAME .
 qgdvyvd.cn CNAME .
 qhdmqzc.cn CNAME .
 qhdop.com CNAME .
+qhgbkr.cn CNAME .
 qhruisen.cn CNAME .
 qhweisen.cn CNAME .
 qhxcdmfj.cn CNAME .
@@ -37968,6 +37965,7 @@ shidailw.com CNAME .
 shiguangyx.cn CNAME .
 shirleyyean.com CNAME .
 shishishiguixinfangfuzhuangshanghan.cn CNAME .
+shitao.xyz CNAME .
 shjrwh.cn CNAME .
 shjsxx.com CNAME .
 shorug.cn CNAME .
@@ -38173,6 +38171,7 @@ wangliqin.top CNAME .
 wangmingsort.cn CNAME .
 wangqing7.top CNAME .
 wangyuekun.xyz CNAME .
+wangzibo.top CNAME .
 wannuochongkong.com CNAME .
 wantezy.cn CNAME .
 watchhouse.cn CNAME .
@@ -38261,6 +38260,7 @@ xiaogouzhuanqian.cn CNAME .
 xiaokeaiapp.com CNAME .
 xiaoshuoyun.cn CNAME .
 xieyanmin.com.cn CNAME .
+xingchenweb.top CNAME .
 xinghao89.com CNAME .
 xingnu.site CNAME .
 xingpingmaoyi.cn CNAME .
@@ -38370,6 +38370,7 @@ ynjyhm.com CNAME .
 ynzby.cn CNAME .
 yongshengtongda.com CNAME .
 yoobest.cn CNAME .
+yosjob.cn CNAME .
 you6ka.cn CNAME .
 youngalsobeautiful.com CNAME .
 youpukeji.cn CNAME .
@@ -38389,11 +38390,13 @@ yu520o.top CNAME .
 yuandongoffice.com CNAME .
 yuanqitu.com CNAME .
 yueduyy.com CNAME .
+yueli101.xyz CNAME .
 yueyuelao.cn CNAME .
 yufuyan.cn CNAME .
 yuhuanjiuye.com CNAME .
 yun-pdm2000.cn CNAME .
 yun-pdm5000.cn CNAME .
+yundad.com CNAME .
 yundingmap.com CNAME .
 yunl1.com CNAME .
 yunnanpulasi.com CNAME .

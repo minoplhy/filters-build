@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 06 Jul 2021 14:23 UTC+7
+; Updated: 07 Jul 2021 10:15 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -5236,22 +5236,6 @@
  whitelabel.media.net CNAME .
  www.media.net CNAME .
  yahoo.media.net CNAME .
-;[optimizely.com]
- api.optimizely.com CNAME .
- app.optimizely.com CNAME .
- cdn.optimizely.com CNAME .
- cdn3.optimizely.com CNAME .
- client.optimizely.com CNAME .
- errors.client.optimizely.com CNAME .
- events.mobile.optimizely.com CNAME .
- log.optimizely.com CNAME .
- log3.optimizely.com CNAME .
- odds.optimizely.com CNAME .
- optimizely.com CNAME .
- rum.optimizely.com CNAME .
- tapi.optimizely.com CNAME .
- vis.optimizely.com CNAME .
- www.optimizely.com CNAME .
 ;[urbanairship]
  analyze.urbanairship.com CNAME .
  api.urbanairship.com CNAME .
@@ -20060,6 +20044,7 @@
  log.kmplayer.com CNAME .
  log.kuwo.cn CNAME .
  log.mediation.onebooster.me CNAME .
+ log.optimizely.com CNAME .
  log.quora.com CNAME .
  log.snapdeal.com CNAME .
  log.snow.me CNAME .
@@ -20075,6 +20060,7 @@
  logs.ironsrc.mobi CNAME .
  logs.spilgames.com CNAME .
  logsss.com CNAME .
+ logx.optimizely.com CNAME .
  loles.neostrada.pl CNAME .
  mads.dailymail.co.uk CNAME .
  maper.info CNAME .
