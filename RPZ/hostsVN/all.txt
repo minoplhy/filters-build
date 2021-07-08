@@ -1,7 +1,7 @@
 ! Title: hostsVN CNAME .
-! Last modified: 07 Jul 2021 10:15 UTC+7 CNAME .
-! Version: 2107071015 CNAME .
-! Blocked: 6,418 domains CNAME .
+! Last modified: 08 Jul 2021 10:36 UTC+7 CNAME .
+! Version: 2107081036 CNAME .
+! Blocked: 6,411 domains CNAME .
 ! The section containing the list contains all ad networks and tracking CNAME .
 ! CNAME .
 24h-ad.24hstatic.com CNAME .
@@ -277,6 +277,7 @@ ads.phunusuckhoe.vn CNAME .
 ads.phunuvagiadinh.vn CNAME .
 ads.songmoi.vn CNAME .
 ads.suckhoegiadinh.com.vn CNAME .
+ads.thanhnien.vn CNAME .
 ads.thegioitiepthi.vn CNAME .
 ads.thesaigontimes.vn CNAME .
 ads.thitruongtaichinhtiente.vn CNAME .
@@ -936,7 +937,6 @@ ad-exchange.toast.com CNAME .
 ad-score.com CNAME .
 ad-stir.com CNAME .
 ad.daum.net CNAME .
-ad.download.cnet.com CNAME .
 ad.go.com CNAME .
 ad.gt CNAME .
 ad.intl.xiaomi.com CNAME .
@@ -1031,7 +1031,6 @@ ads-sg.tiktok.com CNAME .
 ads-twitter.com CNAME .
 ads.*.yahoo.com CNAME .
 ads.bing.com CNAME .
-ads.cnet.com CNAME .
 ads.cnn.com CNAME .
 ads.gmodules.com CNAME .
 ads.google.com CNAME .
@@ -1040,7 +1039,6 @@ ads.heytapmobile.com CNAME .
 ads.internal.unity3d.com CNAME .
 ads.linkedin.com CNAME .
 ads.msn.com CNAME .
-ads.nytimes.com CNAME .
 ads.oppomobile.com CNAME .
 ads.pinterest.com CNAME .
 ads.prd.ie.internal.unity3d.com CNAME .
@@ -1097,7 +1095,6 @@ adtelligent.com CNAME .
 adthor.com CNAME .
 adthrive.com CNAME .
 adtilt.com CNAME .
-adtimes.nytimes.com CNAME .
 adtlgc.com CNAME .
 adtng.com CNAME .
 adtrack.king.com CNAME .
@@ -1687,7 +1684,6 @@ m-adash.m.taobao.com CNAME .
 macaw.is CNAME .
 mads*.amazon.com CNAME .
 mads*z.com CNAME .
-mads.cnet.com CNAME .
 mahimeta.com CNAME .
 mail-ads.google.com CNAME .
 mainadv.com CNAME .
@@ -1713,7 +1709,6 @@ mediafuse.com CNAME .
 medialytics.com CNAME .
 mediarithmics.com CNAME .
 mediawayss.com CNAME .
-meter-svc.nytimes.com CNAME .
 metok.sys.miui.com CNAME .
 metric-api.newrelic.com CNAME .
 metrics-logger.spot.im CNAME .
@@ -1793,7 +1788,6 @@ nr-data.net CNAME .
 ns1p.net CNAME .
 nsclick.baidu.com CNAME .
 nxtck.com CNAME .
-nytadvertising.nytimes.com CNAME .
 o-s.io CNAME .
 o333o.com CNAME .
 objc.top CNAME .
@@ -1919,8 +1913,6 @@ reklamstore.com CNAME .
 rekmob.com CNAME .
 relap.io CNAME .
 remarketingpixel.com CNAME .
-remotead-internal.cnet.com CNAME .
-remotead.cnet.com CNAME .
 report.appmetrica.yandex.net CNAME .
 report.qq.com CNAME .
 res-ad-kr.kajicam.com CNAME .
@@ -4292,6 +4284,7 @@ iqm.com CNAME .
 ireklama.cz CNAME .
 irkfunkyformer.com CNAME .
 irncdn.com CNAME .
+ironsource.mobi CNAME .
 ismtampsshad.icu CNAME .
 itfarm.com CNAME .
 itineraryupper.com CNAME .

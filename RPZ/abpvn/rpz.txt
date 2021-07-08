@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 07 Jul 2021 10:15 UTC+7
+; Updated: 08 Jul 2021 10:36 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -5318,62 +5318,34 @@
  post.update.indexww.com CNAME .
  s.update.indexww.com CNAME .
  update.indexww.com CNAME .
-;[cnet]
- ad.download.cnet.com CNAME .
- adimg.cnet.com CNAME .
- ads.cnet.com CNAME .
- ct.cnet-ssa.cnet.com CNAME .
- dw.cnet.com CNAME .
- electronics.cnet.com CNAME .
- mads.cnet.com CNAME .
- remotead.cnet.com CNAME .
- remotead-internal.cnet.com CNAME .
- surveys.cnet.com CNAME .
- urs.cnet.com CNAME .
-;[nytimes]
- ads.nytimes.com CNAME .
- adtimes.nytimes.com CNAME .
- et.nytimes.com CNAME .
- geoip.newsdev.nytimes.com CNAME .
- graphics7.nytimes.com CNAME .
- images.nytimes.com CNAME .
- meter-svc.nytimes.com CNAME .
- nytadvertising.nytimes.com CNAME .
- oas-fr.video.on.nytimes.com CNAME .
- tagx.nytimes.com CNAME .
- up.nytimes.com CNAME .
- wt.o.nytimes.com CNAME .
-;[linksynergy]
+;[linksynergy.com]
  ad.linksynergy.com CNAME .
  ads.rd.linksynergy.com CNAME .
- aftp.linksynergy.com CNAME .
  amp.rd.linksynergy.com CNAME .
+ automate.linksynergy.com CNAME .
  banner.linksynergy.com CNAME .
  cli.linksynergy.com CNAME .
  click.linksynergy.com CNAME .
- ftp.linksynergy.com CNAME .
+ consent.linksynergy.com CNAME .
  linksynergy.com CNAME .
- m.banner.linksynergy.com CNAME .
- m.www.linksynergy.com CNAME .
- merchant.linksynergy.com CNAME .
- mftp.linksynergy.com CNAME .
  mproxy.banner.linksynergy.com CNAME .
- r2.linksynergy.com CNAME .
- ss.linksynergy.com CNAME .
- ssl.linksynergy.com CNAME .
  track.linksynergy.com CNAME .
 ;[cdnwidget]
  cdnwidget.com CNAME .
  ids.cdnwidget.com CNAME .
  pixel.cdnwidget.com CNAME .
  u.cdnwidget.com CNAME .
-;[cintnetworks]
+;[cintnetworks.com]
  cintnetworks.com CNAME .
  c.cintnetworks.com CNAME .
+;[cint.com]
  cint.com CNAME .
+ collector.cint.com CNAME .
+ qps.cint.com CNAME .
+;[mmccint.com]
  mmccint.com CNAME .
  sf.mmccint.com CNAME .
- controller-gateway.mmccint.com CNAME .
+ sfmon.mmccint.com CNAME .
 ;[3lift.com]
  3lift.com CNAME .
  amp.3lift.com CNAME .
@@ -15575,6 +15547,7 @@
  ads.phunuvagiadinh.vn CNAME .
  ads.songmoi.vn CNAME .
  ads.suckhoegiadinh.com.vn CNAME .
+ ads.thanhnien.vn CNAME .
  ads.thegioitiepthi.vn CNAME .
  ads.thesaigontimes.vn CNAME .
  ads.thitruongtaichinhtiente.vn CNAME .
@@ -18091,6 +18064,7 @@
  ireklama.cz CNAME .
  irkfunkyformer.com CNAME .
  irncdn.com CNAME .
+ ironsource.mobi CNAME .
  ismtampsshad.icu CNAME .
  itfarm.com CNAME .
  itineraryupper.com CNAME .
@@ -19675,6 +19649,7 @@
  www.hgzuqrtzt.com CNAME .
  www.hkoxlirf.com CNAME .
  www.increaserev.com CNAME .
+ www.ironsource.mobi CNAME .
  www.joeyzzvkpjha.com CNAME .
  www.kaplanindex.com CNAME .
  www.ketchapp.org CNAME .
