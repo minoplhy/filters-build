@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-09T06:03:30.947Z
+; Last modified: 2021-07-09T18:05:47.044Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,14 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+faster-trk.com CNAME .
+embogsoarers.com CNAME .
+rozumotterer.com CNAME .
+xpbbyiqbcawamy.com CNAME .
+ipmbnqqaon.com CNAME .
+nkwintenc.biz CNAME .
+jarvispopsu.com CNAME .
+viamariller.com CNAME .
 ad4point.nyc3.digitaloceanspaces.com CNAME .
 rawirymi.xyz CNAME .
 armiesgaspclue.com CNAME .
@@ -17363,6 +17371,8 @@ appodeal.com CNAME .
 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com CNAME .
 a.76674bdad304297eda3d325f449f6f49.com CNAME .
 ;
+geoloc.yospace.com CNAME .
+video-ads-module.ad-tech.nbcuni.com CNAME .
 banner.hpmdnetwork.ru CNAME .
 hybrid.ai CNAME .
 ad.auditude.com CNAME .
@@ -18004,6 +18014,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+analytics.chase.com CNAME .
+scripttags.jst.ai CNAME .
 trace21.dsb-ebusiness.com CNAME .
 a.ddli.jp CNAME .
 b92.yahoo.co.jp CNAME .
@@ -23695,8 +23707,6 @@ analytics.qoqa.com CNAME .
 ; Relap - avoid breaking their website on desktop
 ; but make sure it's blocked in apps
 ;+ PLATFORM(ios, android)
-;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-;
 us04logfiles.zoom.us CNAME .
 us04logfiles-va.zoom.us CNAME .
 costco-adbutler.com CNAME .
@@ -26674,7 +26684,6 @@ tracking.aita.gov.vn CNAME .
 ; addevweb.com$third-party
 ;
 lyricslocusvaried.com CNAME .
-viamariller.com CNAME .
 zcp.zwame.pt CNAME .
 adserver*.euroweeklynews.com CNAME .
 ads.enrt.eu CNAME .
@@ -26803,6 +26812,8 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+verwvy.com CNAME .
+5xanz2dxcn.ru CNAME .
 gldlwt.com CNAME .
 nasrispit.com CNAME .
 bmddea.com CNAME .
@@ -33349,6 +33360,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+887591.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36083,6 +36095,11 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+prfuxl.xyz CNAME .
+miniholiday.cn CNAME .
+youlejia.xyz CNAME .
+doujl.cn CNAME .
+zhcps.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
