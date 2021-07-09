@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-08T18:03:50.177Z
+; Last modified: 2021-07-09T06:03:30.947Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -24068,7 +24068,6 @@ ablsrv.com CNAME .
 abtrcking.com CNAME .
 abtshield.com CNAME .
 accdab.net CNAME .
-acceptableserver.com CNAME .
 acsbap.com CNAME .
 acuityplatform.com CNAME .
 acxiomapac.com CNAME .
@@ -24179,7 +24178,6 @@ cdnanalytics.xyz CNAME .
 cdnmaster.com CNAME .
 cdnopw.com CNAME .
 cformanalytics.com CNAME .
-chickensaladandads.com CNAME .
 cintnetworks.com CNAME .
 clearbitjs.com CNAME .
 clickbrainiacs.com CNAME .
@@ -24340,7 +24338,6 @@ hsadspixel.net CNAME .
 hscta.net CNAME .
 hudb.pl CNAME .
 humanpresence.app CNAME .
-i401xox.com CNAME .
 iaudienc.com CNAME .
 ifvox.com CNAME .
 impactradius-event.com CNAME .
@@ -24423,7 +24420,6 @@ m-t.io CNAME .
 m0mentum.net CNAME .
 m365log.com CNAME .
 mabipa.com CNAME .
-macandcheeseandads.com CNAME .
 magnuum.com CNAME .
 marketperf.com CNAME .
 marketshot.com CNAME .
@@ -24683,7 +24679,6 @@ tgtag.io CNAME .
 theagency.com CNAME .
 theardent.group CNAME .
 thehairofcaptainpicard.com CNAME .
-thingswontend.com CNAME .
 thinktot.com CNAME .
 threat-analytics.com CNAME .
 tnctrx.com CNAME .
@@ -24949,13 +24944,11 @@ bmcm.pw CNAME .
 bmnr.pw CNAME .
 bmst.pw CNAME .
 browsermine.com CNAME .
-byebye.ml CNAME .
 candid.zone CNAME .
 cdn-code.host CNAME .
 chmproxy.bid CNAME .
 clgserv.pro CNAME .
 cloud-miner.eu CNAME .
-cloudcoins.co CNAME .
 cloudflareinsights.com CNAME .
 cnhv.co CNAME .
 coinhiveproxy.com CNAME .
@@ -24965,7 +24958,6 @@ coinminerz.com CNAME .
 coinminingonline.com CNAME .
 coinwebmining.com CNAME .
 cookiescript.info CNAME .
-cpufan.club CNAME .
 cryptaloot.pro CNAME .
 crypto-coins.club CNAME .
 crypto-coins.com CNAME .
@@ -25002,7 +24994,6 @@ filmoljupci.com CNAME .
 flare-analytics.com CNAME .
 freecontent.bid CNAME .
 freecontent.date CNAME .
-freecontent.science CNAME .
 freecontent.stream CNAME .
 g1thub.com CNAME .
 gay-hotvideo.net CNAME .
@@ -25065,7 +25056,6 @@ reauthenticator.com CNAME .
 rollercoin.com CNAME .
 rtb-seller.com CNAME .
 s7ven.com CNAME .
-seed.bitcoin.jonasschnelli.ch CNAME .
 seed.bitcoin.sipa.be CNAME .
 seed.bitcoin.sprovoost.nl CNAME .
 seed.bitcoin.wiz.biz CNAME .
@@ -25085,7 +25075,6 @@ supportxmr.com CNAME .
 sushipool.com CNAME .
 swiftmining.win CNAME .
 tmmp.io CNAME .
-truemine.org CNAME .
 trustiseverything.de CNAME .
 trustmeiamapro.de CNAME .
 turnsocial.com CNAME .
@@ -25145,6 +25134,7 @@ acount.alley.ws CNAME .
 activetracker.activehotels.com CNAME .
 activities.niagara.comedycentral.com CNAME .
 activity.*.miui.com CNAME .
+ad-shield.io CNAME .
 ad.aloodo.com CNAME .
 adfox.yandex.ru CNAME .
 adlog.com.com CNAME .
@@ -25164,7 +25154,6 @@ analytics-beacon-*.amazonaws.com CNAME .
 analytics-cms.whitebeard.me CNAME .
 analytics-production.hapyak.com CNAME .
 analytics-rhwg.rhcloud.com CNAME .
-analytics-script.ad-shield.io CNAME .
 analytics-scripts.cablelabs.com CNAME .
 analytics-sg.tiktok.com CNAME .
 analytics.30m.com CNAME .
@@ -25362,7 +25351,6 @@ d11a2fzhgzqe7i.cloudfront.net CNAME .
 d16fk4ms6rqz1v.cloudfront.net CNAME .
 d191y0yd6d0jy4.cloudfront.net CNAME .
 d1cr9zxt7u0sgu.cloudfront.net CNAME .
-d1hi41nc56pmug.cloudfront.net CNAME .
 d1iazwv1n1tsyi.cloudfront.net CNAME .
 d1igp3oop3iho5.cloudfront.net CNAME .
 d1n00d49gkbray.cloudfront.net CNAME .
@@ -25421,7 +25409,6 @@ diagnose.igstatic.com CNAME .
 dirt.dennis.co.uk CNAME .
 djibeacon.djns.com CNAME .
 dl1d2m8ri9v3j.cloudfront.net CNAME .
-dlvkf5067xruv.cloudfront.net CNAME .
 dn34cbtcv9mef.cloudfront.net CNAME .
 doppler-reporting.cbsivideo.com CNAME .
 dotaudiences.com CNAME .
@@ -25600,7 +25587,6 @@ ping-dot-acp-magento.appspot.com CNAME .
 ping.dozuki.com CNAME .
 pings.vidpulse.com CNAME .
 pipe-collect.ebu.io CNAME .
-pix.impdesk.com CNAME .
 pix.revjet.com CNAME .
 pix.speedbit.com CNAME .
 pixel-a.basis.net CNAME .
@@ -25622,7 +25608,6 @@ platform.iteratehq.com CNAME .
 plausibleio.workers.dev CNAME .
 pmetrics.performancing.com CNAME .
 porpoise.azettl.net CNAME .
-powersearch.us.com CNAME .
 pr.blogflux.com CNAME .
 prd-collector-auth.playbuzz.com CNAME .
 prd-collector-platform.ex.co CNAME .
@@ -25684,7 +25669,6 @@ stas.outbrain.com CNAME .
 stat.boredomtherapy.com CNAME .
 stat.glaze.ai CNAME .
 stat.moevideo.net CNAME .
-stat.pladform.ru CNAME .
 stat.segitek.hu CNAME .
 stat.web-regie.com CNAME .
 statistics.tattermedia.com CNAME .
@@ -25820,7 +25804,6 @@ tracking.customerly.io CNAME .
 tracking.drsfostersmith.com CNAME .
 tracking.drum.io CNAME .
 tracking.edvisors.com CNAME .
-tracking.ehavior.net CNAME .
 tracking.fanbridge.com CNAME .
 tracking.fits.me CNAME .
 tracking.godatafeed.com CNAME .
@@ -25847,7 +25830,6 @@ tracking.sembox.it CNAME .
 tracking.sezzle.com CNAME .
 tracking.sharplink.us CNAME .
 tracking.waterfrontmedia.com CNAME .
-tracking.worldmedia.net CNAME .
 tracking1.brandmentions.com CNAME .
 trackla.stackla.com CNAME .
 traffic.acwebconnecting.com CNAME .
@@ -26428,7 +26410,6 @@ securite.01net.com CNAME .
 stat.prsmedia.fr CNAME .
 stats-dc1.frz.io CNAME .
 stats-factory.digitregroup.io CNAME .
-stats.buzzea.com CNAME .
 stats.ipmgroup.be CNAME .
 stats.tipser.com CNAME .
 t.ofsys.com CNAME .
@@ -26519,9 +26500,6 @@ links.boom.ge CNAME .
 rum.marquardmedia.hu CNAME .
 videostat-new.index.hu CNAME .
 videostat.index.hu CNAME .
-; Icelandic
-; Indian
-analytics.bhaskar.com CNAME .
 analytics.competitoor.com CNAME .
 analytics00.meride.tv CNAME .
 audit.shaa.it CNAME .
@@ -26665,7 +26643,6 @@ g-stats.openhost.es CNAME .
 hits.eluniversal.com.mx CNAME .
 mtm.qdqmedia.com CNAME .
 pixel.zumby.io CNAME .
-stats.bitban.com CNAME .
 stats.qdq.com CNAME .
 stats.sec.telefonica.com CNAME .
 tag.shopping-feed.com CNAME .
@@ -31738,6 +31715,7 @@ sv.sheego.de CNAME .
 azol.de CNAME .
 twiago.com CNAME .
 bauernative.com CNAME .
+chickensaladandads.com CNAME .
 ;
 ; Source name: AdGuard Chinese filter ad servers
 ; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/ChineseFilter/sections/adservers.txt
@@ -32508,8 +32486,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 08 Jul 2021 10:36 UTC+7
-; OriginalVersion: 2107081036
+; Last modified: 09 Jul 2021 10:14 UTC+7
+; OriginalVersion: 2107091014
 ; Blocked: 900 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -33371,9 +33349,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-887251.com CNAME .
-joannalaura.com CNAME .
-vainews.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33555,6 +33530,7 @@ vainews.cn CNAME .
 85tgw.com CNAME .
 860010.com CNAME .
 88-baidu.com CNAME .
+887251.com CNAME .
 88818122.cn CNAME .
 8881919.cc CNAME .
 88rpg.net CNAME .
@@ -34190,6 +34166,7 @@ jl027.com CNAME .
 jlwljym.com CNAME .
 jnxz88.cn CNAME .
 jnyngg.cn CNAME .
+joannalaura.com CNAME .
 johtzj.com CNAME .
 jozee.cn CNAME .
 jp88888887.cn CNAME .
@@ -34717,6 +34694,7 @@ uvclick.com CNAME .
 uzpmrbek.com CNAME .
 v9wuyulou.com CNAME .
 vaedan.top CNAME .
+vainews.cn CNAME .
 valueur.com CNAME .
 vc370.com CNAME .
 vdazz.net CNAME .
@@ -35314,6 +35292,7 @@ sgg.southcn.com CNAME .
 share.gzdsw.com CNAME .
 sodhef.com CNAME .
 ssgg.chazidian.com CNAME .
+ssp.21ic.com CNAME .
 ssp.hinet.net CNAME .
 ssp.kdnet.net CNAME .
 ssp.njxzwh.com CNAME .
@@ -35355,7 +35334,6 @@ yybx.oss-cn-hangzhou.aliyuncs.com CNAME .
 z.nowscore.com CNAME .
 zt2088.com CNAME .
 ztyumn.ifeng.com CNAME .
-ssp.21ic.com CNAME .
 ad.10010.com CNAME rpz-passthru.
 ad.abchina.com CNAME rpz-passthru.
 ad.kazakinfo.com CNAME rpz-passthru.
@@ -36105,15 +36083,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-greeknaturalcyprus.com CNAME .
-tahui.club CNAME .
-hyjdz.cn CNAME .
-oxsm.top CNAME .
-first11.cn CNAME .
-churchatsouthcreek.com CNAME .
-win10zyb.cn CNAME .
-qianb.ltd CNAME .
-cbgyhe.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36464,6 +36433,7 @@ caiwanhui.top CNAME .
 calculated.cn CNAME .
 caofta.cn CNAME .
 cathaycentury.com CNAME .
+cbgyhe.cn CNAME .
 cbxe1r.cn CNAME .
 cbyckdf.cn CNAME .
 cchfjz.com CNAME .
@@ -36506,6 +36476,7 @@ chkwwg.cn CNAME .
 chongnikeji.com CNAME .
 chuangjulm.cn CNAME .
 chuanjiae.cn CNAME .
+churchatsouthcreek.com CNAME .
 chuzrra.cn CNAME .
 cifree.xyz CNAME .
 cike666.com CNAME .
@@ -36711,6 +36682,7 @@ fhixhde.cn CNAME .
 fhlong2000.xyz CNAME .
 findx2.info CNAME .
 fintechpi.com CNAME .
+first11.cn CNAME .
 fj95560.com CNAME .
 fjhanmei.com CNAME .
 fjmrxys.com CNAME .
@@ -36801,6 +36773,7 @@ gralfusnzpo006.top CNAME .
 gralfusnzpo007.top CNAME .
 gralfusnzpo008.top CNAME .
 graypay1.cn CNAME .
+greeknaturalcyprus.com CNAME .
 grjs02.com CNAME .
 grjs06.com CNAME .
 grjs08.com CNAME .
@@ -36947,6 +36920,7 @@ hvie6u.cn CNAME .
 hxiak.com CNAME .
 hxyssd.cn CNAME .
 hycfxdc.com CNAME .
+hyjdz.cn CNAME .
 hytcsh.cn CNAME .
 hyuanprint.com CNAME .
 hyxca.top CNAME .
@@ -37376,6 +37350,7 @@ ouhwjdv.cn CNAME .
 ovoawh.com CNAME .
 ow*.biqugego.com CNAME .
 ox11.com CNAME .
+oxsm.top CNAME .
 oycslia.xyz CNAME .
 oycslib.xyz CNAME .
 oycslic.xyz CNAME .
@@ -37432,6 +37407,7 @@ qhruisen.cn CNAME .
 qhweisen.cn CNAME .
 qhxcdmfj.cn CNAME .
 qi-shi.top CNAME .
+qianb.ltd CNAME .
 qianggou8.top CNAME .
 qianyuntengyue.com CNAME .
 qiaoenyl.xyz CNAME .
@@ -37630,6 +37606,7 @@ szyuke.cn CNAME .
 t1g2.cn CNAME .
 t3s9j.xyz CNAME .
 tabyee.cn CNAME .
+tahui.club CNAME .
 taikangshenyuan.com CNAME .
 taishijian.com CNAME .
 tajxgs.com CNAME .
@@ -37783,6 +37760,7 @@ whrles.com CNAME .
 whsseqpcs.top CNAME .
 whxhhjx.com CNAME .
 whxjnwzhs.com CNAME .
+win10zyb.cn CNAME .
 win999.com.cn CNAME .
 wjaa23.com CNAME .
 wjdfv.com CNAME .

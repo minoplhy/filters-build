@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 08 Jul 2021 10:36 UTC+7
+; Updated: 09 Jul 2021 10:14 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -14004,6 +14004,13 @@
  event.tradplusad.com CNAME .
  tradplusad.com CNAME .
  www.tradplusad.com CNAME .
+;[geniee.jp]
+ api.geniee.jp CNAME .
+ cpt.geniee.jp CNAME .
+ geniee.jp CNAME .
+ other.geniee.jp CNAME .
+ s.geniee.jp CNAME .
+ www.geniee.jp CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
  adtimaserver.vn CNAME .
