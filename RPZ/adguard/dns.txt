@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-09T18:05:47.044Z
+; Last modified: 2021-07-10T06:03:29.329Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -24084,7 +24084,6 @@ acxiomapac.com CNAME .
 adabra.com CNAME .
 adalyser.com CNAME .
 adblockrelief.com CNAME .
-adgjl13.com CNAME .
 adhslx.com CNAME .
 adinte.jp CNAME .
 adoric-om.com CNAME .
@@ -24403,7 +24402,6 @@ kokos.click CNAME .
 konduit.me CNAME .
 ktxtr.com CNAME .
 l2.io CNAME .
-lansrv030.com CNAME .
 leadbi.com CNAME .
 leadchampion.com CNAME .
 leaddyno.com CNAME .
@@ -24655,7 +24653,6 @@ splitbee.io CNAME .
 sprinklecontent.com CNAME .
 spycounter.net CNAME .
 sqate.io CNAME .
-srv1010elan.com CNAME .
 ssm.codes CNAME .
 stackadapt.com CNAME .
 stadsvc.com CNAME .
@@ -24718,7 +24715,6 @@ tribl.io CNAME .
 trilogyed.com CNAME .
 triptease.io CNAME .
 triptease.net CNAME .
-trksrv44.com CNAME .
 trmads.eu CNAME .
 trmnsite.com CNAME .
 trs.cn CNAME .
@@ -25732,6 +25728,7 @@ t.cfjump.com CNAME .
 t.clic2buy.com CNAME .
 t.dgm-au.com CNAME .
 t.menepe.com CNAME .
+t.pointandplace.com CNAME .
 t.powerreviews.com CNAME .
 t.pswec.com CNAME .
 t.raptorsmartadvisor.com CNAME .
@@ -33360,7 +33357,9 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-887591.com CNAME .
+30mksr.cn CNAME .
+njzyjy.cn CNAME .
+hbzhenquan.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33543,6 +33542,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 860010.com CNAME .
 88-baidu.com CNAME .
 887251.com CNAME .
+887591.com CNAME .
 88818122.cn CNAME .
 8881919.cc CNAME .
 88rpg.net CNAME .
@@ -36095,11 +36095,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-prfuxl.xyz CNAME .
-miniholiday.cn CNAME .
-youlejia.xyz CNAME .
-doujl.cn CNAME .
-zhcps.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36617,6 +36612,7 @@ dnjszp.cn CNAME .
 dodolive.cn CNAME .
 dodomo.info CNAME .
 dofkfhv.cn CNAME .
+doujl.cn CNAME .
 doulaihai.top CNAME .
 downcdn.top CNAME .
 dpbyc.com CNAME .
@@ -37245,6 +37241,7 @@ mhdnspro.com CNAME .
 mhi9da.cn CNAME .
 miaos11.com CNAME .
 micreative-china.cn CNAME .
+miniholiday.cn CNAME .
 mitjg.xyz CNAME .
 mituir.xyz CNAME .
 miyaluorenliziuan.cn CNAME .
@@ -37403,6 +37400,7 @@ pos68.cn CNAME .
 ppee.xyz CNAME .
 pppxia.com CNAME .
 pqezdo.cn CNAME .
+prfuxl.xyz CNAME .
 ptgezc.com CNAME .
 puqer.cn CNAME .
 pwjmzqx.cn CNAME .
@@ -37948,6 +37946,7 @@ yongshengtongda.com CNAME .
 yoobest.cn CNAME .
 yosjob.cn CNAME .
 you6ka.cn CNAME .
+youlejia.xyz CNAME .
 youngalsobeautiful.com CNAME .
 youpukeji.cn CNAME .
 youshouge513.cn CNAME .
@@ -38019,6 +38018,7 @@ zhangyiqian.top CNAME .
 zhanjiangletian.com CNAME .
 zhanlan5.cn CNAME .
 zhaoyafang.cn CNAME .
+zhcps.cn CNAME .
 zhekoudajie.com CNAME .
 zhengzhoupengbo.com CNAME .
 zhiboiot.cn CNAME .
