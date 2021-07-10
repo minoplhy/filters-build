@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-10T06:03:29.329Z
+; Last modified: 2021-07-10T18:03:19.284Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+babanmat.com CNAME .
+trixyapieces.com CNAME .
+rnotraff.com CNAME .
 faster-trk.com CNAME .
 embogsoarers.com CNAME .
 rozumotterer.com CNAME .
@@ -139,7 +142,6 @@ s2strk.info CNAME .
 gp.trcked.me CNAME .
 ggjqcdnmnno.com CNAME .
 dwomentt.biz CNAME .
-tillatingmer.fun CNAME .
 colorfulads.com CNAME .
 prod.entry.video-ads.a2z.com CNAME .
 lovelybingo.com CNAME .
@@ -178,7 +180,6 @@ roewnand.biz CNAME .
 ethnictyrosky.com CNAME .
 wherabygry.com CNAME .
 swinity.com CNAME .
-thousandfixedlyyawn.com CNAME .
 tags.catapultx.com CNAME .
 z.cdn.adpool.bet CNAME .
 ccdnqxu.com CNAME .
@@ -200,7 +201,6 @@ di7stero.com CNAME .
 colonistnobilityheroic.com CNAME .
 derangemathsreply.com CNAME .
 adsterra.org CNAME .
-tluumnjyrc.com CNAME .
 ursegreatm.fun CNAME .
 qwtomdpb.com CNAME .
 voylbgutpjcmcm.com CNAME .
@@ -214,7 +214,6 @@ bvnjgjfh.com CNAME .
 onsideratio.fun CNAME .
 eoemyywmjx.com CNAME .
 pierlinks.com CNAME .
-tefumiji.xyz CNAME .
 aragontrack.com CNAME .
 beliefindefinite.com CNAME .
 luglestowha.pro CNAME .
@@ -287,7 +286,6 @@ monumentsmaterialeasel.com CNAME .
 notesbook.in CNAME .
 bitads.io CNAME .
 riotousgrit.com CNAME .
-thispositionw.biz CNAME .
 vetdeberg.com CNAME .
 zviybblezmc.com CNAME .
 thorsado.net CNAME .
@@ -1062,7 +1060,6 @@ aspanyarc.club CNAME .
 9purdfe9xg.com CNAME .
 risausso.com CNAME .
 tohopes.ru CNAME .
-totogetica.com CNAME .
 ascraftan.com CNAME .
 ndjelsefd.com CNAME .
 syyycc.com CNAME .
@@ -1124,7 +1121,6 @@ bumampaid.club CNAME .
 balvalur.com CNAME .
 gloalrie.com CNAME .
 pushazam.com CNAME .
-uod2quk646.com CNAME .
 thetreuntalle.pro CNAME .
 dorectertnerow.info CNAME .
 nuclearads.com CNAME .
@@ -1222,7 +1218,6 @@ m.helloworld2018.top CNAME .
 reydi.xyz CNAME .
 chidsimp.com CNAME .
 hpcat.cn CNAME .
-tslomhfys.com CNAME .
 bl0uxepb4o.com CNAME .
 321gongsi.com CNAME .
 e.211pu.cn CNAME .
@@ -1606,7 +1601,6 @@ d2bj2texxib1qg.cloudfront.net CNAME .
 drakorindo.club CNAME .
 mobileoffers-a-download.com CNAME .
 piratepc.net CNAME .
-talk2none.com CNAME .
 smashseek.com CNAME .
 theirsvendor.com CNAME .
 opten.hu CNAME .
@@ -1887,7 +1881,6 @@ traqueto.com CNAME .
 wheelches.info CNAME .
 menemier.info CNAME .
 therses.com CNAME .
-turbotraff.com CNAME .
 xijgedjgg5f55.com CNAME .
 bitvertise.io CNAME .
 coinverti.com CNAME .
@@ -1966,7 +1959,6 @@ run-syndicate.com CNAME .
 modulepush.com CNAME .
 pipeschannels.com CNAME .
 adsrv4k.com CNAME .
-tagbucket.cc CNAME .
 plufdsb.com CNAME .
 pukrazopchatka.com CNAME .
 tweightment.pro CNAME .
@@ -2001,7 +1993,6 @@ yebadu.com CNAME .
 ssl4go.ga CNAME .
 stimergeners.pro CNAME .
 frolnk.com CNAME .
-terrapush.com CNAME .
 fridrici.info CNAME .
 stampshire.info CNAME .
 noqukjy.com CNAME .
@@ -2113,7 +2104,6 @@ quavomi.com CNAME .
 rolkakuksa.com CNAME .
 scrappykoko.com CNAME .
 senolati.com CNAME .
-tantella.com CNAME .
 tenlokif.com CNAME .
 tijorari.com CNAME .
 tikodala.com CNAME .
@@ -2639,12 +2629,10 @@ tr553.com CNAME .
 tracking.cirrusinsight.com CNAME .
 tradeadexchange.com CNAME .
 trafex.net CNAME .
-traffichaus.com CNAME .
 trafficholder.com CNAME .
 trafficmagnates.com CNAME .
 traforet.com CNAME .
 transpera.com CNAME .
-trklnks.com CNAME .
 tubecontext.com CNAME .
 ujieva.com CNAME .
 vartoken.com CNAME .
@@ -3080,7 +3068,6 @@ serie-vostfr.com CNAME .
 smartoffer.site CNAME .
 stonecalcom.com CNAME .
 terethat.ru CNAME .
-thewhizmarketing.com CNAME .
 thewhizproducts.com CNAME .
 thewise.com CNAME .
 traffic.tc-clicks.com CNAME .
@@ -12199,6 +12186,7 @@ talkingaboutfirms.ga CNAME .
 talkingdom.club CNAME .
 talsauve.com CNAME .
 tamhdxkh.com CNAME .
+tantella.com CNAME .
 tantsprovisitsc.club CNAME .
 tapixesa.pro CNAME .
 tapjoyads.com CNAME .
@@ -12249,6 +12237,7 @@ teennostrils.com CNAME .
 teenstiffen.com CNAME .
 teeplyinsidere.club CNAME .
 tefrequesth.top CNAME .
+tefumiji.xyz CNAME .
 tegiccurlish.fun CNAME .
 tehappear.top CNAME .
 tek-tek-trek.com CNAME .
@@ -12345,6 +12334,7 @@ thirgoad.top CNAME .
 thiscdn.com CNAME .
 thisisyourprize.site CNAME .
 thismetric.com CNAME .
+thispositionw.biz CNAME .
 thistracknet.com CNAME .
 thizamocu.pro CNAME .
 thliptruhzaed.com CNAME .
@@ -12363,6 +12353,7 @@ thoudroa.net CNAME .
 thoughclassifiedjeff.com CNAME .
 thoughtthricecompress.com CNAME .
 thoughuttered.com CNAME .
+thousandfixedlyyawn.com CNAME .
 thqwivyhdpoem.com CNAME .
 thricemodestsuffix.com CNAME .
 throughhonouredhighest.com CNAME .
@@ -12392,6 +12383,7 @@ tificanaccou.top CNAME .
 tigerhysteriaspree.com CNAME .
 tightsaturdayi.com CNAME .
 tiglesoshi.pro CNAME .
+tillatingmer.fun CNAME .
 tilltucked.com CNAME .
 timai-mao.com CNAME .
 timbercooling.com CNAME .
@@ -12425,6 +12417,7 @@ tljivh.com CNAME .
 tlocatering.club CNAME .
 tlootas.org CNAME .
 tlrrlomssbt.com CNAME .
+tluumnjyrc.com CNAME .
 tme2wrwzz3wh.com CNAME .
 tmfkuesmlpto.com CNAME .
 tmiscattlem.fun CNAME .
@@ -12484,6 +12477,7 @@ tortoiselavender.com CNAME .
 totallifeguru.com CNAME .
 totentacruelor.com CNAME .
 totifiquo.com CNAME .
+totogetica.com CNAME .
 touchbackgroundrusty.com CNAME .
 toughopponent.com CNAME .
 touglesy.net CNAME .
@@ -12588,6 +12582,7 @@ tsensatisee.club CNAME .
 tsfrenceabu.club CNAME .
 tsinsideredex.club CNAME .
 tsleavilycele.club CNAME .
+tslomhfys.com CNAME .
 tspops.com CNAME .
 tstobkl.pro CNAME .
 tstrokenga.info CNAME .
@@ -12771,6 +12766,7 @@ untiloutrage.com CNAME .
 untruewring.com CNAME .
 unwillingcalumny.com CNAME .
 unwofulcountys.com CNAME .
+uod2quk646.com CNAME .
 uopvdbudoe.com CNAME .
 upgulpinon.com CNAME .
 upheavesy.club CNAME .
@@ -16447,12 +16443,14 @@ tacoda.net CNAME .
 tacrater.com CNAME .
 tacticalrepublic.com CNAME .
 tafmaster.com CNAME .
+tagbucket.cc CNAME .
 tagcade.com CNAME .
 taggify.net CNAME .
 tagjunction.com CNAME .
 tailsweep.com CNAME .
 taiphaib.net CNAME .
 talaropa.com CNAME .
+talk2none.com CNAME .
 tangozebra.com CNAME .
 tankeuro.com CNAME .
 tapinfluence.com CNAME .
@@ -16479,6 +16477,7 @@ teesheel.net CNAME .
 telemetryverification.net CNAME .
 teracent.net CNAME .
 teracreative.com CNAME .
+terrapush.com CNAME .
 terratraf.com CNAME .
 testfilter.com CNAME .
 testnet.nl CNAME .
@@ -16499,6 +16498,7 @@ therubiqube.com CNAME .
 theverlalinglac.info CNAME .
 thewebgemnetwork.com CNAME .
 thewheelof.com CNAME .
+thewhizmarketing.com CNAME .
 thikraik.net CNAME .
 thisiswaldo.com CNAME .
 thoughtleadr.com CNAME .
@@ -16571,6 +16571,7 @@ trafficfabrik.com CNAME .
 trafficfactory.biz CNAME .
 trafficforce.com CNAME .
 trafficformoney.com CNAME .
+traffichaus.com CNAME .
 trafficjunky.com CNAME .
 trafficjunky.net CNAME .
 trafficmasterz.net CNAME .
@@ -16608,6 +16609,7 @@ trimpur.com CNAME .
 trk4.com CNAME .
 trkclk.net CNAME .
 trker.com CNAME .
+trklnks.com CNAME .
 trklvs.com CNAME .
 trkrdel.com CNAME .
 trks.us CNAME .
@@ -16629,6 +16631,7 @@ tubeadvertising.eu CNAME .
 tubereplay.com CNAME .
 tumri.net CNAME .
 turboadv.com CNAME .
+turbotraff.com CNAME .
 turbotraff.net CNAME .
 tusno.com CNAME .
 tut-64.com CNAME .
@@ -18014,6 +18017,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+ar-x.site CNAME .
 analytics.chase.com CNAME .
 scripttags.jst.ai CNAME .
 trace21.dsb-ebusiness.com CNAME .
@@ -26146,7 +26150,6 @@ afi-b.com CNAME .
 aid-ad.jp CNAME .
 amoad.com CNAME .
 analyticsip.net CNAME .
-ar-x.site CNAME .
 cetlog.jp CNAME .
 cheqzone.com CNAME .
 d-markets.net CNAME .
@@ -31432,7 +31435,6 @@ ov.yahoo.co.jp CNAME .
 logoole.yahoo.co.jp CNAME .
 yads.yahoo.co.jp CNAME .
 yads.yjtag.yahoo.co.jp CNAME .
-yjaxc.yahoo.co.jp CNAME .
 ;
 ; Supership.jp (also mobile ads)
 ;
@@ -31470,6 +31472,10 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+js.winc-ad.com CNAME .
+cdn.neppa-ad.com CNAME .
+affil.jp CNAME .
+reemo-ad.jp CNAME .
 cdn.alistcloud.com CNAME .
 ams900.goo.ne.jp CNAME .
 candy-network.com CNAME .
@@ -31584,7 +31590,6 @@ xxxxxxxx.jp CNAME .
 act1-1.info CNAME .
 blogroll.livedoor.net CNAME .
 dis.hogei.info CNAME .
-tokyo-tube-ad.com CNAME .
 ad.netowl.jp CNAME .
 js.colo2.jp CNAME .
 preaf-ad.jp CNAME .
@@ -32006,6 +32011,7 @@ c-points.de CNAME .
 cashdorado.de CNAME .
 chatntr.com CNAME .
 ci-marketing.de CNAME .
+cmadserver.de CNAME .
 codes.wai.it CNAME .
 conative.de CNAME .
 connects.ch CNAME .
@@ -35366,6 +35372,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+static.sinawap.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -36095,6 +36102,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+adtongji.xyz CNAME .
+baoren.tech CNAME .
+esure.wang CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
