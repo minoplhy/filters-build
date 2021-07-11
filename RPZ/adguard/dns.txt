@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-10T18:03:19.284Z
+; Last modified: 2021-07-11T06:04:49.042Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,11 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+eighing.space CNAME .
+entsconsesi.top CNAME .
+nereserv.com CNAME .
+ntvpinp.com CNAME .
+puwpush.com CNAME .
 babanmat.com CNAME .
 trixyapieces.com CNAME .
 rnotraff.com CNAME .
@@ -3104,7 +3109,6 @@ mine.torrent.pw CNAME .
 0127538a552.com CNAME .
 0265331.com CNAME .
 02aa19117f396e9.com CNAME .
-02b5da94a2bd4aea.com CNAME .
 039ad0897e6da.com CNAME .
 048d36793b8.com CNAME .
 050y9lhe8p.com CNAME .
@@ -3182,7 +3186,6 @@ mine.torrent.pw CNAME .
 1983c499735.com CNAME .
 199b8977fc.com CNAME .
 19a782bc982.com CNAME .
-19b45a16170729.com CNAME .
 19beda38dc2ce42.com CNAME .
 19d12dd9de1.com CNAME .
 1ab5bb25e29d576.com CNAME .
@@ -3199,8 +3202,6 @@ mine.torrent.pw CNAME .
 1f58098dd54.com CNAME .
 1f7de8569ea97f0614.com CNAME .
 1fwjpdwguvqs.com CNAME .
-1han-rit-ten.com CNAME .
-1hanritten.com CNAME .
 1nimo.com CNAME .
 1p1eqpotato.com CNAME .
 1phads.com CNAME .
@@ -3209,7 +3210,6 @@ mine.torrent.pw CNAME .
 1rm.xyz CNAME .
 1rx.io CNAME .
 1rxntv.io CNAME .
-1st2nd.xyz CNAME .
 1ts03.top CNAME .
 1web.me CNAME .
 2020mustang.com CNAME .
@@ -3273,7 +3273,6 @@ mine.torrent.pw CNAME .
 302a67cac6.com CNAME .
 303marketplace.com CNAME .
 30b9e3a7d7e2b.com CNAME .
-30yo.xyz CNAME .
 3133a.xyz CNAME .
 32979c00fcc59b5.com CNAME .
 32a79e2833309ebe.com CNAME .
@@ -3300,12 +3299,9 @@ mine.torrent.pw CNAME .
 3a8c9b0ca405b5.com CNAME .
 3ab171502b3.com CNAME .
 3ac901bf5793b0fccff.com CNAME .
-3c0012ab95c132f.com CNAME .
-3c513c1d3255c.com CNAME .
 3c76eee2407c7c1.com CNAME .
 3ca28642b714623b2.com CNAME .
 3cd99930e27056f89.com CNAME .
-3cnce854.com CNAME .
 3d0da2373af57.com CNAME .
 3d1a1e7f6db3.com CNAME .
 3d643f542787c62a7.com CNAME .
@@ -3333,7 +3329,6 @@ mine.torrent.pw CNAME .
 42eed1a0d9c129.com CNAME .
 43137c93a82b0e81da.com CNAME .
 43d6f284d10bfbbb3.com CNAME .
-43plc.com CNAME .
 442d9f2ac50ca502.com CNAME .
 4465ef53c8ffded.com CNAME .
 448ff4fcfcd199a.com CNAME .
@@ -3385,7 +3380,6 @@ mine.torrent.pw CNAME .
 55d6000d6d.com CNAME .
 55e593878c2d47.com CNAME .
 563015cf3d.com CNAME .
-56bc7e3668e952c.com CNAME .
 56bfc388bf12.com CNAME .
 5726303d87522d05.com CNAME .
 57473b6b571.com CNAME .
@@ -3400,7 +3394,6 @@ mine.torrent.pw CNAME .
 59cn7.com CNAME .
 59e6ea7248001c.com CNAME .
 5a60bfdc522.com CNAME .
-5aa8f31e2f5d.com CNAME .
 5advertise.com CNAME .
 5b5a93686577c13.com CNAME .
 5c43cbc0f41.com CNAME .
@@ -3419,7 +3412,6 @@ mine.torrent.pw CNAME .
 5wuefo9haif3.com CNAME .
 5x5i5tj2u97w.com CNAME .
 5yfi7sy.com CNAME .
-5yw028ngxe9x.com CNAME .
 600z.com CNAME .
 602d76e204c032.com CNAME .
 6068a17eed25.com CNAME .
@@ -3463,7 +3455,6 @@ mine.torrent.pw CNAME .
 6e2f1d2ae033.com CNAME .
 6ea56485aed0c.com CNAME .
 6f1dba68f65.com CNAME .
-6f2bdffd6587d.com CNAME .
 6f2tjr26.top CNAME .
 6f793cc9999.com CNAME .
 6gijbgjyzc14.com CNAME .
@@ -3476,7 +3467,6 @@ mine.torrent.pw CNAME .
 6ujk8x9soxhm.com CNAME .
 6vgtaearxl49.com CNAME .
 6yag4bmwyhs4.com CNAME .
-6yfory7f0njw.com CNAME .
 6zw2rcfd.com CNAME .
 6zy9yqe1ew.com CNAME .
 7-7-7-partner.com CNAME .
@@ -3520,12 +3510,10 @@ mine.torrent.pw CNAME .
 7a8fe1c29493.com CNAME .
 7b7by5utoney.com CNAME .
 7c1e55606540.com CNAME .
-7cxcrejm.com CNAME .
 7db0b2a0ee95f557904.com CNAME .
 7dee28afeb8c939d8.com CNAME .
 7e233f1cc5320.com CNAME .
 7e625f490775b155.com CNAME .
-7f011d5e07db.com CNAME .
 7f19b1713b43f7db.com CNAME .
 7f3ad7d6ad52.com CNAME .
 7f6383e2d7.com CNAME .
@@ -3541,7 +3529,6 @@ mine.torrent.pw CNAME .
 7pud.com CNAME .
 7tpfnjn03b32.com CNAME .
 7wtic7ru.com CNAME .
-7x749.xyz CNAME .
 7yucu023o36p.com CNAME .
 80055404.vtt CNAME .
 800d24d61daea3c.com CNAME .
@@ -3589,11 +3576,9 @@ mine.torrent.pw CNAME .
 8mb4qkd74cht.com CNAME .
 8po6fdwjsym3.com CNAME .
 8s32e590un.com CNAME .
-8tduqa3h42y5.com CNAME .
 8ue9q7i.com CNAME .
 8wey4x0c.com CNAME .
 8wtkfxiss1o2.com CNAME .
-8xkr.xyz CNAME .
 8ze98lcl8389.com CNAME .
 9053fe03868ab.com CNAME .
 91effa509f8f15a.com CNAME .
@@ -3634,7 +3619,6 @@ mine.torrent.pw CNAME .
 9ehy8a8u6b.com CNAME .
 9f38cd012c83.com CNAME .
 9fcbacf708f2.com CNAME .
-9ksj.xyz CNAME .
 9t5.me CNAME .
 9utwbj08.top CNAME .
 a0675c1160de6c6.com CNAME .
@@ -33363,9 +33347,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-30mksr.cn CNAME .
-njzyjy.cn CNAME .
-hbzhenquan.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33443,6 +33424,7 @@ hbzhenquan.cn CNAME .
 2m2n.com CNAME .
 2polj.top CNAME .
 2zfzly.com CNAME .
+30mksr.cn CNAME .
 31365y.com CNAME .
 3336639.com CNAME .
 3336653.com CNAME .
@@ -34031,6 +34013,7 @@ hbhtbn.com CNAME .
 hblinwei.com CNAME .
 hbssjd.cn CNAME .
 hbyingchang.cn CNAME .
+hbzhenquan.cn CNAME .
 hcwljy.com CNAME .
 hebkb.cn CNAME .
 hellocdn.top CNAME .
@@ -34394,6 +34377,7 @@ njjrlf.com CNAME .
 njmpacc.com CNAME .
 njq.net CNAME .
 njwxh.com CNAME .
+njzyjy.cn CNAME .
 nkscdn.com CNAME .
 nktcw.cn CNAME .
 nmpcdn.com CNAME .
@@ -35372,7 +35356,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-static.sinawap.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35963,6 +35946,7 @@ ssb.ah499.com CNAME .
 static*.365inews.com CNAME .
 static.ichehome.com CNAME .
 static.jiaquyi.com CNAME .
+static.sinawap.com CNAME .
 t.cnscore.com CNAME .
 t1.612.com CNAME .
 tech.jiukang.org CNAME .
@@ -36102,9 +36086,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-adtongji.xyz CNAME .
-baoren.tech CNAME .
-esure.wang CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0316dieroxiemzfjwmapk.xyz CNAME .
@@ -36286,6 +36267,7 @@ adddyy.com CNAME .
 adfangxiang.com CNAME .
 adhdsb.cn CNAME .
 adrian.net.cn CNAME .
+adtongji.xyz CNAME .
 aduic.com CNAME .
 advancedreefaquarium.com CNAME .
 affiliate6.com CNAME .
@@ -36376,6 +36358,7 @@ bangdu2.com CNAME .
 banma51.cn CNAME .
 baolutongwuye.cn CNAME .
 baomeidiaosu.cn CNAME .
+baoren.tech CNAME .
 baoxian28.cn CNAME .
 bbbx.xyz CNAME .
 bbtys.net CNAME .
@@ -36669,6 +36652,7 @@ enq5ur.cn CNAME .
 epcqyac.cn CNAME .
 erhfnv.cn CNAME .
 erkesi.cn CNAME .
+esure.wang CNAME .
 esuzm.cn CNAME .
 esyzdb.com CNAME .
 exusr.com CNAME .
