@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-11T18:03:01.896Z
+; Last modified: 2021-07-12T18:03:46.280Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+svacdnjutk.com CNAME .
+boustahe.com CNAME .
 wolverdonfilmes.ml CNAME .
 bonertraffic12.info CNAME .
 eighing.space CNAME .
@@ -83,7 +85,6 @@ effectiveperformancenetwork.com CNAME .
 sciencem.club CNAME .
 akemeast.club CNAME .
 accompanycollapse.com CNAME .
-egreephu.com CNAME .
 tywzyhfliwdbu.com CNAME .
 uhqpnhorurueku.com CNAME .
 vubihasdtbadiq.com CNAME .
@@ -174,7 +175,6 @@ bookstorethree.com CNAME .
 refpamjeql.top CNAME .
 1-xredbet93636.top CNAME .
 1xsultan.com CNAME .
-ilyf4amifh.com CNAME .
 snodlycaccias.com CNAME .
 adc.streamspread.com CNAME .
 aftjohnanodes.com CNAME .
@@ -316,7 +316,6 @@ huerty.site CNAME .
 lawscagetroy.com CNAME .
 vashebiwa.pro CNAME .
 zosuptosta.pro CNAME .
-vowcertainly.com CNAME .
 forcelessgreetingbust.com CNAME .
 defyraspypuke.com CNAME .
 yomaza.net CNAME .
@@ -723,7 +722,6 @@ inservinea.com CNAME .
 popcent.org CNAME .
 adskk.club CNAME .
 wqpeltrb.com CNAME .
-vcmrlwcafliaa.com CNAME .
 yfivoqeh.online CNAME .
 recordervesttasting.com CNAME .
 ppcnt.org CNAME .
@@ -794,7 +792,6 @@ bestdealfor20.life CNAME .
 api.myhappyads.com CNAME .
 preanalytication.com CNAME .
 passeseuro.com CNAME .
-vipicmou.net CNAME .
 milk.supertool.stunnermedia.com CNAME .
 classentedol.club CNAME .
 rotumal.com CNAME .
@@ -1040,7 +1037,6 @@ badsbads.com CNAME .
 aiservice.vn CNAME .
 targetpush.co.kr CNAME .
 grubsoan.com CNAME .
-vempozah.net CNAME .
 lauhauch.com CNAME .
 daunteegyptian.pro CNAME .
 a.bestcontenttool.top CNAME .
@@ -1060,7 +1056,6 @@ nakedreel.com CNAME .
 caligula.pro CNAME .
 doublepimpads.com CNAME .
 bgadx.com CNAME .
-vaebard.com CNAME .
 augheguw.net CNAME .
 moowouzy.net CNAME .
 aspanyarc.club CNAME .
@@ -1190,14 +1185,12 @@ aptapebog.online CNAME .
 askallalb.club CNAME .
 mvbemeggnodty.com CNAME .
 mysmokingmistress.com CNAME .
-voastauz.net CNAME .
 ashaidbit.club CNAME .
 buysellads.com CNAME .
 kongssew.com CNAME .
 zoafoaho.net CNAME .
 posecoug.pro CNAME .
 pvp-pro.space CNAME .
-vaipsona.com CNAME .
 thevpntrustzone.xyz CNAME .
 superonclick.com CNAME .
 serconmp.com CNAME .
@@ -1306,7 +1299,6 @@ detectnewfavorite.com CNAME .
 ian.xyz CNAME .
 hesftig.site CNAME .
 resorsedroblet.pro CNAME .
-vizaiced.net CNAME .
 whehilru.com CNAME .
 noakauhe.com CNAME .
 syndapop.com CNAME .
@@ -1388,8 +1380,6 @@ guckawoh.net CNAME .
 vernehepet.info CNAME .
 groogloo.net CNAME .
 miakalyn.pw CNAME .
-vaivafie.net CNAME .
-voaroawo.net CNAME .
 lessonis.com CNAME .
 gleersoo.net CNAME .
 dalseeds.net CNAME .
@@ -1876,7 +1866,6 @@ allcuteboys.com CNAME .
 iz682noju02ye5.com CNAME .
 pndelfast.com CNAME .
 a.gerasopa.com CNAME .
-vidcpm.com CNAME .
 juicyads.com CNAME .
 pimmuter.com CNAME .
 pimmuter.com CNAME .
@@ -2122,7 +2111,6 @@ uralap.com CNAME .
 utazwa.com CNAME .
 utorido.com CNAME .
 uzotarak.com CNAME .
-venonita.com CNAME .
 vkafirac.com CNAME .
 volimole.com CNAME .
 wakapita.com CNAME .
@@ -2642,7 +2630,6 @@ traforet.com CNAME .
 transpera.com CNAME .
 tubecontext.com CNAME .
 ujieva.com CNAME .
-vartoken.com CNAME .
 videogenetic.com CNAME .
 voluumtrk2.com CNAME .
 waframedia16.com CNAME .
@@ -6336,6 +6323,7 @@ effrontferty.top CNAME .
 egfqtvewksktz.com CNAME .
 eginnisseco.top CNAME .
 eglates.pro CNAME .
+egreephu.com CNAME .
 egrettyjokilin.info CNAME .
 egroacho.com CNAME .
 egxlbyokjk.com CNAME .
@@ -7928,6 +7916,7 @@ illnessspraydeference.com CNAME .
 illustrationmanlypageant.com CNAME .
 illustriousoatmeal.com CNAME .
 ilohfbiph.com CNAME .
+ilyf4amifh.com CNAME .
 ilypsycholasg.club CNAME .
 imbetan.info CNAME .
 immersedcopythinking.com CNAME .
@@ -9508,6 +9497,7 @@ negyuk.com CNAME .
 nehodyshy.pro CNAME .
 neictryziiogg.com CNAME .
 neighbetweenintrude.com CNAME .
+neighbouringmarvel.com CNAME .
 neighchurch.com CNAME .
 neitherentrailsrim.com CNAME .
 nellads.com CNAME .
@@ -12783,9 +12773,12 @@ v1pweb.rocks CNAME .
 v3qdrfxuyzwb.com CNAME .
 vaccnavalcod.website CNAME .
 vacwrite.com CNAME .
+vaebard.com CNAME .
 vafbmmsda.com CNAME .
 vaia06o630os.com CNAME .
+vaipsona.com CNAME .
 vaipsouw.com CNAME .
+vaivafie.net CNAME .
 vak345.com CNAME .
 valonghost.xyz CNAME .
 valuethemarkets.info CNAME .
@@ -12813,6 +12806,7 @@ vatskaylittl.club CNAME .
 vaultwrite.com CNAME .
 vbds84p3ct02.com CNAME .
 vcdc.com CNAME .
+vcmrlwcafliaa.com CNAME .
 vcommission.com CNAME .
 vcpcvmfnocsfay.com CNAME .
 vcwrigdrnh.com CNAME .
@@ -12830,6 +12824,7 @@ velvetrattle.com CNAME .
 vendigamus.com CNAME .
 vendnibtemp.com CNAME .
 venetrigni.com CNAME .
+venonita.com CNAME .
 venotrouble.biz CNAME .
 ventilatorvisitedgrain.com CNAME .
 ventrequmus.com CNAME .
@@ -12858,6 +12853,7 @@ vgw35hwr4w6x.com CNAME .
 vhtadetq.com CNAME .
 vid4vip.com CNAME .
 vidalak.com CNAME .
+vidcpm.com CNAME .
 video-adblocker.com CNAME .
 videoaccess.xyz CNAME .
 videoonecom.com CNAME .
@@ -12900,6 +12896,7 @@ violentthinner.com CNAME .
 vip-vip-vup.com CNAME .
 vipaicka.net CNAME .
 vipcpms.com CNAME .
+vipicmou.net CNAME .
 viral481.com CNAME .
 viral782.com CNAME .
 viralcpm.com CNAME .
@@ -12922,6 +12919,7 @@ vitamuscow.casa CNAME .
 vivdq.com CNAME .
 vividdefinedspiral.com CNAME .
 vixnixxer.com CNAME .
+vizaiced.net CNAME .
 vjdnbrpqvp.com CNAME .
 vjkjjhbi.com CNAME .
 vjnpoelbrhd.com CNAME .
@@ -12942,6 +12940,8 @@ vnkevmoytft.com CNAME .
 vnrherdsxr.com CNAME .
 vntsm.com CNAME .
 voapozol.com CNAME .
+voaroawo.net CNAME .
+voastauz.net CNAME .
 voawhooh.net CNAME .
 vobqmjimemjf.com CNAME .
 vobquhydgvyqf.com CNAME .
@@ -12966,6 +12966,7 @@ vouhecem.net CNAME .
 vounaipu.net CNAME .
 voupkdprug.com CNAME .
 vovhiwr.com CNAME .
+vowcertainly.com CNAME .
 vowifeba.xyz CNAME .
 vownixsofa.cam CNAME .
 voxfind.com CNAME .
@@ -16631,6 +16632,7 @@ valueclickmedia.com CNAME .
 valuecommerce.com CNAME .
 vapedia.com CNAME .
 variablefitness.com CNAME .
+vartoken.com CNAME .
 vashoot.com CNAME .
 vastserved.com CNAME .
 vbtrax.com CNAME .
@@ -16639,6 +16641,7 @@ vdopia.com CNAME .
 velmedia.net CNAME .
 velti.com CNAME .
 vemba.com CNAME .
+vempozah.net CNAME .
 vendexo.com CNAME .
 venturead.com CNAME .
 veoxa.com CNAME .
@@ -17945,6 +17948,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+oracleinfinity.io CNAME .
 ar-x.site CNAME .
 analytics.chase.com CNAME .
 scripttags.jst.ai CNAME .
@@ -20964,6 +20968,7 @@ functionalclam.com CNAME .
 ; Admiral domains
 ; These domains are used for tracking purposes according to the data that is being sent there.
 ; More info: https://getadmiral.com/products/measure
+colossalcoat.com CNAME .
 cutechin.com CNAME .
 shakegoldfish.com CNAME .
 livelylaugh.com CNAME .
@@ -23639,6 +23644,13 @@ analytics.qoqa.com CNAME .
 ; Relap - avoid breaking their website on desktop
 ; but make sure it's blocked in apps
 ;+ PLATFORM(ios, android)
+;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
+;
+events.textme-app.com CNAME .
+stocks-analytics-events.apple.com CNAME .
+stocks-analytics-events.news.apple-dns.net CNAME .
+books-analytics-events.apple.com CNAME .
+books-analytics-events.news.apple-dns.net CNAME .
 us04logfiles.zoom.us CNAME .
 us04logfiles-va.zoom.us CNAME .
 costco-adbutler.com CNAME .
@@ -24432,7 +24444,6 @@ openlog.in CNAME .
 opstag.com CNAME .
 optimizelydata.com CNAME .
 optimove.net CNAME .
-oracleinfinity.io CNAME .
 oribi.io CNAME .
 osdata.solutions CNAME .
 outbid.io CNAME .
@@ -25036,7 +25047,6 @@ amlg.io CNAME .
 annoyedairport.com CNAME .
 ayc0zsm69431gfebd.info CNAME .
 borderbrush.com CNAME .
-colossalcoat.com CNAME .
 confesschairs.com CNAME .
 cushionpig.com CNAME .
 distributiontomatoes.com CNAME .
@@ -26166,6 +26176,7 @@ trugaze.io CNAME .
 pahtag.tech CNAME .
 profitshare.ro CNAME .
 retargeting.biz CNAME .
+wtstats.ro CNAME .
 zontera.com CNAME .
 24smi.info CNAME .
 24smi.net CNAME .
@@ -33298,8 +33309,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-aw21.top CNAME .
-3338676.com CNAME .
+88888888vip.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33389,6 +33399,7 @@ aw21.top CNAME .
 3337739.com CNAME .
 3337765.com CNAME .
 3337781.com CNAME .
+3338676.com CNAME .
 3338863.com CNAME .
 3338877.com CNAME .
 338336.com CNAME .
@@ -33590,6 +33601,7 @@ at98.com CNAME .
 audit8.com CNAME .
 auspiciousvp.com CNAME .
 avtiaozhuan.com CNAME .
+aw21.top CNAME .
 ax21pics.org CNAME .
 b588866.com CNAME .
 b96bcea4.cc CNAME .
@@ -36036,8 +36048,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-taoke.cloud CNAME .
-tgaopa.cn CNAME .
+n5ta9.site CNAME .
+guiyimq.fun CNAME .
+zjjrlx4.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37527,6 +37540,7 @@ taikangshenyuan.com CNAME .
 taishijian.com CNAME .
 tajxgs.com CNAME .
 tangequan.co CNAME .
+taoke.cloud CNAME .
 taomochou.cn CNAME .
 tatjhh.cn CNAME .
 tbaia.com CNAME .
@@ -37537,6 +37551,7 @@ tdain.com CNAME .
 tdbwgrm.cn CNAME .
 tearf.cn CNAME .
 tfg8.com CNAME .
+tgaopa.cn CNAME .
 tgbrfv.cn CNAME .
 tglzqw.cn CNAME .
 themaxmall.com CNAME .
