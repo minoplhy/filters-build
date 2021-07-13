@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-12T18:03:46.280Z
+; Last modified: 2021-07-13T06:04:46.759Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -25808,6 +25808,7 @@ utle.tech426.com CNAME .
 visit.geocities.com CNAME .
 vmstats.varrando.com CNAME .
 vtnlog-*.elb.amazonaws.com CNAME .
+wco.crownpeak.com CNAME .
 web1.51.la CNAME .
 weblog.livesport.eu CNAME .
 weblogger-dynamic-lb.playdom.com CNAME .
@@ -33309,7 +33310,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-88888888vip.top CNAME .
+amarketing.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33496,6 +33497,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 887591.com CNAME .
 88818122.cn CNAME .
 8881919.cc CNAME .
+88888888vip.top CNAME .
 88rpg.net CNAME .
 892155.com CNAME .
 899792.com CNAME .
@@ -36048,9 +36050,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-n5ta9.site CNAME .
-guiyimq.fun CNAME .
-zjjrlx4.com CNAME .
+53953.club CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36717,6 +36717,7 @@ guangsss1999.com CNAME .
 guangweixinxi345.cn CNAME .
 guannin.com CNAME .
 guansenff.cn CNAME .
+guiyimq.fun CNAME .
 guoduand.cn CNAME .
 guvdfs.cn CNAME .
 gxdianhua.com CNAME .
@@ -37194,6 +37195,7 @@ mzbb8872.cn CNAME .
 mzcs65562.cn CNAME .
 mzirmall.com CNAME .
 n18uji.xyz CNAME .
+n5ta9.site CNAME .
 nabeghlavi.com.cn CNAME .
 nainaimi.top CNAME .
 najingyi.cn CNAME .
@@ -37958,6 +37960,7 @@ zixiansun.com CNAME .
 zixun8.com CNAME .
 ziyeaiying.com CNAME .
 zizcy.com CNAME .
+zjjrlx4.com CNAME .
 zjksgl.com CNAME .
 zjlfqf.com CNAME .
 zjxkdq.cn CNAME .
