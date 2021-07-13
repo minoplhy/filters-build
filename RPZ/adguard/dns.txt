@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-13T06:04:46.759Z
+; Last modified: 2021-07-13T18:04:00.699Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+ausoafab.net CNAME .
 svacdnjutk.com CNAME .
 boustahe.com CNAME .
 wolverdonfilmes.ml CNAME .
@@ -45,7 +46,6 @@ armiesgaspclue.com CNAME .
 qzlglizfy.com CNAME .
 iwxzizcw.com CNAME .
 glersakr.com CNAME .
-ausoafab.net CNAME .
 widow5blackfr.com CNAME .
 spoilphysiqueteenagers.com CNAME .
 ascertaincrescenthandbag.com CNAME .
@@ -2697,6 +2697,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+ad.kisscartoon.sh CNAME .
 d13nu0oomnx5ti.cloudfront.net CNAME .
 cintent.streanplay.cc CNAME .
 centent.streanplay.cc CNAME .
@@ -10555,7 +10556,6 @@ preyjustly.com CNAME .
 prfctmney.com CNAME .
 pricestern.top CNAME .
 prieseerunbe.info CNAME .
-prikachi.net CNAME .
 prime-vpnet.com CNAME .
 primevalcherries.com CNAME .
 primroseconstellationrapidly.com CNAME .
@@ -17948,6 +17948,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+requestmetrics.com CNAME .
+alpixtrack.com CNAME .
 oracleinfinity.io CNAME .
 ar-x.site CNAME .
 analytics.chase.com CNAME .
@@ -22003,6 +22005,10 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+logs.gaana.com CNAME .
+track.searchiq.co CNAME .
+broker.datazoom.io CNAME .
+dot.texastribune.org CNAME .
 ping.hashnode.com CNAME .
 log.vava.com CNAME .
 beacon.samsclub.com CNAME .
@@ -23646,6 +23652,12 @@ analytics.qoqa.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+analytics.rover.io CNAME .
+events-collector-api.viacom.tech CNAME .
+events.data.microsoft.com CNAME .
+pipe.aria.microsoft.com CNAME .
+log-api.aillis.net CNAME .
+log.snow.me CNAME .
 events.textme-app.com CNAME .
 stocks-analytics-events.apple.com CNAME .
 stocks-analytics-events.news.apple-dns.net CNAME .
@@ -24046,7 +24058,6 @@ agrvt.com CNAME .
 airbrake.io CNAME .
 airserve.net CNAME .
 aivalabs.com CNAME .
-alpixtrack.com CNAME .
 amnet.tw CNAME .
 amplitude.com CNAME .
 ampush.io CNAME .
@@ -24514,7 +24525,6 @@ remailtarget.com CNAME .
 remind.me CNAME .
 repixel.co CNAME .
 report-uri.io CNAME .
-requestmetrics.com CNAME .
 resulticks.com CNAME .
 retargettracker.com CNAME .
 retentionscience.com CNAME .
@@ -36050,6 +36060,12 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+miniling.cn CNAME .
+lynmo.cn CNAME .
+cdnfjz.com CNAME .
+886721.com CNAME .
+evzimlox.cn CNAME .
+marchtools.cn CNAME .
 53953.club CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
