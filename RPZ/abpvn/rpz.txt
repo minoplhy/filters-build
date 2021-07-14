@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 11 Jul 2021 20:26 UTC+7
+; Updated: 14 Jul 2021 14:22 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -5650,6 +5650,7 @@ yt.mmstat.com CNAME .
 ;[jpush.cn]
 ali-stats.jpush.cn CNAME .
 api.jpush.cn CNAME .
+config-junion.jpush.cn CNAME .
 config.jpush.cn CNAME .
 gd-stats.jpush.cn CNAME .
 im.jpush.cn CNAME .
@@ -9537,14 +9538,11 @@ matomo.cloud CNAME .
 cdn.matomo.cloud CNAME .
 cuoituoitrevn.matomo.cloud CNAME .
 oxiivn.matomo.cloud CNAME .
-;[opecloud.com]
-opecloud.com CNAME .
+;[tagger.opecloud.com]
 papi.tagger.opecloud.com CNAME .
 profiles.tagger.opecloud.com CNAME .
 tagger.opecloud.com CNAME .
-tagger-admeira.opecloud.com CNAME .
-tagger-hoydigital.opecloud.com CNAME .
-wwwr.opecloud.com CNAME .
+www.tagger.opecloud.com CNAME .
 ;[petametrics.com]
 api.petametrics.com CNAME .
 api-eu-central-1.petametrics.com CNAME .
@@ -10320,11 +10318,12 @@ tw.wpu.sh CNAME .
 wpu.sh CNAME .
 ;[adbrix.io]
 adbrix.io CNAME .
-adtouch.adbrix.io CNAME .
 adtouch-qa.adbrix.io CNAME .
+adtouch.adbrix.io CNAME .
 applinks.adbrix.io CNAME .
-event.adbrix.io CNAME .
 event-qa.adbrix.io CNAME .
+event.adbrix.io CNAME .
+gdpr-qa.adbrix.io CNAME .
 gdpr.adbrix.io CNAME .
 rm-lo-sdk.adbrix.io CNAME .
 static.adbrix.io CNAME .
@@ -14003,6 +14002,7 @@ mdc.meitustat.com CNAME .
 meepo.meitustat.com CNAME .
 meitustat.com CNAME .
 rabbit.meitustat.com CNAME .
+web-rabbit.meitustat.com CNAME .
 www.meitustat.com CNAME .
 ;[tg.meitu.com]
 adui.tg.meitu.com CNAME .
@@ -15072,8 +15072,14 @@ vidmatic.fuseplatform.net CNAME .
 sourcetobin.com CNAME .
 static.sourcetobin.com CNAME .
 ;[philacct.com]
+fgp.philacct.com CNAME .
 philacct.com CNAME .
 static.philacct.com CNAME .
+;[contineljs.com]
+cdn.contineljs.com CNAME .
+contineljs.com CNAME .
+defaultdsp.contineljs.com CNAME .
+static.contineljs.com CNAME .
 ;[surfcountor.com]
 cdn.surfcountor.com CNAME .
 ck.surfcountor.com CNAME .
@@ -15526,6 +15532,9 @@ api.bongdadem.net CNAME .
 bongdadem.net CNAME .
 cdn.bongdadem.net CNAME .
 www.bongdadem.net CNAME .
+;[ampproject.org]
+ads-thanhnien-vn.cdn.ampproject.org CNAME .
+cdn-bongdadem-net.cdn.ampproject.org CNAME .
 ; --- Block adsVN ---
 5734a4f2d.vws.vegacdn.vn CNAME .
 73531862.vws.vegacdn.vn CNAME .
@@ -15659,7 +15668,6 @@ bgadx.com CNAME .
 bluemaulpuffs.com CNAME .
 boxpr.aiservice.vn CNAME .
 cdn-ads.thesaigontimes.vn CNAME .
-cdn-bongdadem-net.cdn.ampproject.org CNAME .
 cdnasset.dantri.com.vn CNAME .
 chiasephim.xyz CNAME .
 click-ads.saoteen.net CNAME .
@@ -19871,12 +19879,12 @@ a3cloud.net CNAME .
 acint.net CNAME .
 adentify.com CNAME .
 adj.st CNAME .
+adlog.foxitcloud.com CNAME .
 advanced-web-analytics.com CNAME .
 akuaba.chez.com CNAME .
 analysis.polarisoffice.com CNAME .
 analytics-au.clickdimensions.com CNAME .
 analytics-ca.clickdimensions.com CNAME .
-analytics-digit-in.cdn.ampproject.org CNAME .
 analytics-eu.clickdimensions.com CNAME .
 analytics-production.hapyak.com CNAME .
 analytics-statistics.machbird.com CNAME .
@@ -20010,6 +20018,7 @@ dynatrace.com CNAME .
 e.crashlytics.com CNAME .
 e2.platform88798.com CNAME .
 edigitalsurvey.com CNAME .
+emltrk.com CNAME .
 ethtrader.de CNAME .
 etl.tindersparks.com CNAME .
 events.apester.com CNAME .
@@ -20024,7 +20033,6 @@ fathomseo.com CNAME .
 firsthive.com CNAME .
 flagcounter.com CNAME .
 freegeoip.net CNAME .
-frog.wix.com CNAME .
 front.optimonk.com CNAME .
 fullstory.com CNAME .
 g.3gl.net CNAME .
@@ -20107,6 +20115,7 @@ log.tutuapp.com CNAME .
 log.umsns.com CNAME .
 log.ventunotech.com CNAME .
 log.ys7.com CNAME .
+logger.foxitcloud.com CNAME .
 logger.unsplash.com CNAME .
 logging.goclean.tech CNAME .
 logreport-v2.easy4ipcloud.com CNAME .
@@ -20161,7 +20170,6 @@ p.trvdp.com CNAME .
 p.typekit.net CNAME .
 pebed.dm.gg CNAME .
 pegloang.com CNAME .
-pi.pardot.com CNAME .
 ping.kitidi.com CNAME .
 pingback.issuu.com CNAME .
 pipedream.wistia.com CNAME .

@@ -1,7 +1,7 @@
 ! Title: hostsVN CNAME .
-! Last modified: 11 Jul 2021 20:26 UTC+7 CNAME .
-! Version: 2107112026 CNAME .
-! Blocked: 6,458 domains CNAME .
+! Last modified: 14 Jul 2021 14:22 UTC+7 CNAME .
+! Version: 2107141422 CNAME .
+! Blocked: 6,460 domains CNAME .
 ! The section containing the list contains all ad networks and tracking CNAME .
 ! CNAME .
 24h-ad.24hstatic.com CNAME .
@@ -23,6 +23,7 @@ adnetwork.vn CNAME .
 adpia.vn CNAME .
 adrealclick.com CNAME .
 ads-target.coccoc.com CNAME .
+ads-thanhnien-vn.cdn.ampproject.org CNAME .
 ads.platform.zalo.me CNAME .
 ads.zalo.me CNAME .
 ads.zaloapp.com CNAME .
@@ -65,6 +66,7 @@ blogstatistics.sapoapps.vn CNAME .
 bongdadem.net CNAME .
 brand.zing.vn CNAME .
 bwstatistics.sapoapps.vn CNAME .
+cdn-bongdadem-net.cdn.ampproject.org CNAME .
 cdn-qc.coccoc.com CNAME .
 cdn.comedia.coccoc.com CNAME .
 cdnstoremedia.com CNAME .
@@ -76,6 +78,7 @@ cleverads.vn CNAME .
 clevernet.vn CNAME .
 clickbuy.bz CNAME .
 codon.vn CNAME .
+contineljs.com CNAME .
 dable.io CNAME .
 donglogs.com CNAME .
 eclick.vn CNAME .
@@ -346,7 +349,6 @@ bgadx.com CNAME .
 bluemaulpuffs.com CNAME .
 boxpr.aiservice.vn CNAME .
 cdn-ads.thesaigontimes.vn CNAME .
-cdn-bongdadem-net.cdn.ampproject.org CNAME .
 cdnasset.dantri.com.vn CNAME .
 chiasephim.xyz CNAME .
 click-ads.saoteen.net CNAME .
@@ -1818,7 +1820,6 @@ onespot-tracking.herokuapp.com CNAME .
 onetag-sys.com CNAME .
 onscroll.com CNAME .
 onthe.io CNAME .
-opecloud.com CNAME .
 openx.com CNAME .
 openx.net CNAME .
 opmnstr.com CNAME .
@@ -2054,6 +2055,7 @@ surveygizmobeacon.s3.amazonaws.com CNAME .
 sworkitads.herokuapp.com CNAME .
 t.spot.im CNAME .
 taboola.com CNAME .
+tagger.opecloud.com CNAME .
 tagmanager.toast.com CNAME .
 tanx.com CNAME .
 tapad.com CNAME .
@@ -5948,12 +5950,12 @@ a3cloud.net CNAME .
 acint.net CNAME .
 adentify.com CNAME .
 adj.st CNAME .
+adlog.foxitcloud.com CNAME .
 advanced-web-analytics.com CNAME .
 akuaba.chez.com CNAME .
 analysis.polarisoffice.com CNAME .
 analytics-au.clickdimensions.com CNAME .
 analytics-ca.clickdimensions.com CNAME .
-analytics-digit-in.cdn.ampproject.org CNAME .
 analytics-eu.clickdimensions.com CNAME .
 analytics-production.hapyak.com CNAME .
 analytics-statistics.machbird.com CNAME .
@@ -6087,6 +6089,7 @@ dynatrace.com CNAME .
 e.crashlytics.com CNAME .
 e2.platform88798.com CNAME .
 edigitalsurvey.com CNAME .
+emltrk.com CNAME .
 ethtrader.de CNAME .
 etl.tindersparks.com CNAME .
 events.apester.com CNAME .
@@ -6101,7 +6104,6 @@ fathomseo.com CNAME .
 firsthive.com CNAME .
 flagcounter.com CNAME .
 freegeoip.net CNAME .
-frog.wix.com CNAME .
 front.optimonk.com CNAME .
 fullstory.com CNAME .
 g.3gl.net CNAME .
@@ -6184,6 +6186,7 @@ log.tutuapp.com CNAME .
 log.umsns.com CNAME .
 log.ventunotech.com CNAME .
 log.ys7.com CNAME .
+logger.foxitcloud.com CNAME .
 logger.unsplash.com CNAME .
 logging.goclean.tech CNAME .
 logreport-v2.easy4ipcloud.com CNAME .
@@ -6238,7 +6241,6 @@ p.trvdp.com CNAME .
 p.typekit.net CNAME .
 pebed.dm.gg CNAME .
 pegloang.com CNAME .
-pi.pardot.com CNAME .
 ping.kitidi.com CNAME .
 pingback.issuu.com CNAME .
 pipedream.wistia.com CNAME .
