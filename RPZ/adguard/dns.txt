@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-13T18:04:00.699Z
+; Last modified: 2021-07-14T06:03:30.367Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33320,7 +33320,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-amarketing.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33598,6 +33597,7 @@ alisinak.com CNAME .
 alitianxia168.com CNAME .
 aliyuncss.com CNAME .
 aliyunxin.com CNAME .
+amarketing.top CNAME .
 andyfanfan.xyz CNAME .
 annabelleabe.com CNAME .
 anquanzhuomian.cn CNAME .
@@ -36060,13 +36060,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-miniling.cn CNAME .
-lynmo.cn CNAME .
-cdnfjz.com CNAME .
-886721.com CNAME .
-evzimlox.cn CNAME .
-marchtools.cn CNAME .
-53953.club CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36143,6 +36136,7 @@ marchtools.cn CNAME .
 51zdwy.cn CNAME .
 52homie.cn CNAME .
 52tushuo.com CNAME .
+53953.club CNAME .
 53gem.com CNAME .
 563217.com CNAME .
 56space.com CNAME .
@@ -36170,6 +36164,7 @@ marchtools.cn CNAME .
 7times.top CNAME .
 833761.com CNAME .
 85wa.cn CNAME .
+886721.com CNAME .
 888lianmeng.com CNAME .
 88eg.cn CNAME .
 8bnwuz.cn CNAME .
@@ -36385,6 +36380,7 @@ cdgxq.com CNAME .
 cdiah.com CNAME .
 cdjkngs.cn CNAME .
 cdlkzb.com CNAME .
+cdnfjz.com CNAME .
 cdzimeijia.com CNAME .
 ceai.xyz CNAME .
 cehbg.com CNAME .
@@ -36591,6 +36587,7 @@ erkesi.cn CNAME .
 esure.wang CNAME .
 esuzm.cn CNAME .
 esyzdb.com CNAME .
+evzimlox.cn CNAME .
 exusr.com CNAME .
 ez2kyh.cn CNAME .
 ezfashion.com.cn CNAME .
@@ -37141,6 +37138,7 @@ ly5200.cn CNAME .
 lyczhb.com CNAME .
 lyjz001.com CNAME .
 lylifa.com CNAME .
+lynmo.cn CNAME .
 lzhyhy.cn CNAME .
 lzjsjw.cn CNAME .
 m06nev.com CNAME .
@@ -37152,6 +37150,7 @@ mao1.jsnovel.com CNAME .
 maobujie.com CNAME .
 maosengss.cn CNAME .
 maoyumao.net CNAME .
+marchtools.cn CNAME .
 maro30.com CNAME .
 mavuz.com CNAME .
 mbxt.net CNAME .
@@ -37173,6 +37172,7 @@ mhi9da.cn CNAME .
 miaos11.com CNAME .
 micreative-china.cn CNAME .
 miniholiday.cn CNAME .
+miniling.cn CNAME .
 mitjg.xyz CNAME .
 mituir.xyz CNAME .
 miyaluorenliziuan.cn CNAME .
