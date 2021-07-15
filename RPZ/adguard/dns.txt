@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-15T06:05:22.370Z
+; Last modified: 2021-07-15T18:03:40.629Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,14 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+adp13a.com CNAME .
+admozartxml.com CNAME .
+vstzen.com CNAME .
+codedpigzed.cam CNAME .
+fluencecutins.cam CNAME .
+checkreliableupdatinglatest.info CNAME .
+troncomelets.com CNAME .
+oohingjap.com CNAME .
 domakuhitaor.com CNAME .
 i-afk.com CNAME .
 displacepepperyadvertisement.com CNAME .
@@ -31,7 +39,6 @@ bonertraffic12.info CNAME .
 eighing.space CNAME .
 entsconsesi.top CNAME .
 nereserv.com CNAME .
-ntvpinp.com CNAME .
 puwpush.com CNAME .
 babanmat.com CNAME .
 trixyapieces.com CNAME .
@@ -6950,7 +6957,6 @@ flowerythug.com CNAME .
 flowln.com CNAME .
 flowwiththetide.xyz CNAME .
 flrdra.com CNAME .
-fluencecutins.cam CNAME .
 fluencymister.com CNAME .
 fluffycodepotc.com CNAME .
 fluffyeaster.com CNAME .
@@ -8167,6 +8173,7 @@ jechesmacaltont.info CNAME .
 jeehathu.com CNAME .
 jeejujou.net CNAME .
 jeerszitstoke.com CNAME .
+jehobsee.com CNAME .
 jeinvegpool.com CNAME .
 jeisl.com CNAME .
 jelllizard.com CNAME .
@@ -9617,6 +9624,7 @@ nignrecentry.club CNAME .
 niholaev.com CNAME .
 nikkiexxxads.com CNAME .
 niledestratherg.club CNAME .
+nilreels.com CNAME .
 niltibse.net CNAME .
 nimelytranst.club CNAME .
 nimhuemark.com CNAME .
@@ -9767,6 +9775,7 @@ ntshoustee.club CNAME .
 ntsparallycalc.info CNAME .
 ntsperimepr.space CNAME .
 ntvpevents.com CNAME .
+ntvpinp.com CNAME .
 ntvpwpush.com CNAME .
 ntvsw.com CNAME .
 ntymurmud.top CNAME .
@@ -11682,6 +11691,7 @@ simpan.online CNAME .
 simpleprogr.club CNAME .
 simpletraffic.co CNAME .
 simplyjmp.com CNAME .
+simpunok.com CNAME .
 simrubwan.com CNAME .
 sinaunrelean.info CNAME .
 sincerelypractically.com CNAME .
@@ -12408,6 +12418,7 @@ tommyperseverance.com CNAME .
 tonexcitiessa.club CNAME .
 tonightsuppressedgrocery.com CNAME .
 toodlepork.com CNAME .
+tookawie.com CNAME .
 top-performance.best CNAME .
 top-performance.club CNAME .
 topbetfast.com CNAME .
@@ -17992,6 +18003,9 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+b0e8.com CNAME .
+bc0a.com CNAME .
+medtargetsystem.com CNAME .
 events.tubecup.org CNAME .
 rat.rakuten.co.jp CNAME .
 requestmetrics.com CNAME .
@@ -22049,6 +22063,11 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+beacon.netflix.com CNAME .
+customerevents.netflix.com CNAME .
+nmtracking.netflix.com CNAME .
+presentationtracking.netflix.com CNAME .
+analytics.tmonews.com CNAME .
 segment-cdn.producthunt.com CNAME .
 logs.gaana.com CNAME .
 track.searchiq.co CNAME .
@@ -22514,7 +22533,6 @@ beacon.ehow.com CNAME .
 beacon.examiner.com CNAME .
 beacon.indieclicktv.com CNAME .
 beacon.lycos.com CNAME .
-beacon.netflix.com CNAME .
 beacon.nuskin.com CNAME .
 beacon.search.yahoo.com CNAME .
 beacon.toyota.co.jp CNAME .
@@ -24139,11 +24157,9 @@ audienceplay.com CNAME .
 audio.sex CNAME .
 autoline-top.com CNAME .
 azointel.com CNAME .
-b0e8.com CNAME .
 b1js.com CNAME .
 baremetrics.com CNAME .
 baztrack.com CNAME .
-bc0a.com CNAME .
 beaconstreetservices.com CNAME .
 beampulse.com CNAME .
 beeftransmission.com CNAME .
@@ -31468,6 +31484,8 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+blogroll.click CNAME .
+ad-nex.com CNAME .
 js.winc-ad.com CNAME .
 cdn.neppa-ad.com CNAME .
 affil.jp CNAME .
@@ -31596,7 +31614,6 @@ appollo-plus.com CNAME .
 fam-ad.com CNAME .
 ap.ad-feed.com CNAME .
 blog.livelog.biz CNAME .
-ad-nex.com CNAME .
 js.isboost.co.jp CNAME .
 appollo.jp CNAME .
 ad-tag.biz CNAME .
@@ -33367,6 +33384,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+elsiehoney.com CNAME .
+elvirahedwig.com CNAME .
 cqdzjc.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
