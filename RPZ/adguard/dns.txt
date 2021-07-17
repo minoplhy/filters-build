@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-17T06:03:44.458Z
+; Last modified: 2021-07-17T18:03:21.759Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -31438,6 +31438,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+ad.ddo.jp CNAME .
 blogroll.click CNAME .
 ad-nex.com CNAME .
 js.winc-ad.com CNAME .
@@ -35344,6 +35345,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+ab.rejushe.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35763,7 +35765,7 @@ hy.huangye88.net CNAME .
 idgdmgroup.com.cn CNAME .
 ii1.chajiaotong.com CNAME .
 iia1.pikacn.com CNAME .
-image66.top2099.com CNAME .
+top2099.com CNAME .
 images8.gaotie.cn CNAME .
 img.263y.com CNAME .
 img.ferlie.net CNAME .
@@ -36073,7 +36075,13 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+yanomami.cn CNAME .
+njygp.cn CNAME .
+yikebang.xyz CNAME .
 hiibcfr.cn CNAME .
+huojukk.com CNAME .
+dafawl.cn CNAME .
+xhtbkh.cn CNAME .
 ljg79.work CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
