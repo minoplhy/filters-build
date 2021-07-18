@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-18T06:04:16.635Z
+; Last modified: 2021-07-18T18:03:42.024Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+qzlglizfy.com CNAME .
 kinkledunendly.com CNAME .
 passwordscompound.com CNAME .
 dualizefriskin.com CNAME .
@@ -62,7 +63,6 @@ viamariller.com CNAME .
 ad4point.nyc3.digitaloceanspaces.com CNAME .
 rawirymi.xyz CNAME .
 armiesgaspclue.com CNAME .
-qzlglizfy.com CNAME .
 iwxzizcw.com CNAME .
 glersakr.com CNAME .
 widow5blackfr.com CNAME .
@@ -12707,6 +12707,7 @@ upgulpinon.com CNAME .
 upheavesy.club CNAME .
 uponelectabuzzor.club CNAME .
 upsettingcrescentwig.com CNAME .
+upsettommyvomit.com CNAME .
 upsghpnqjoo.com CNAME .
 upsidebaitpalm.com CNAME .
 upsidecopiedcraft.com CNAME .
@@ -17952,6 +17953,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+tracklog.58.com CNAME .
 wtstats.ro CNAME .
 static.terratraf.io CNAME .
 b0e8.com CNAME .
@@ -23903,8 +23905,6 @@ api-analytics.metaps.com CNAME .
 api.analytics.omgpop.com CNAME .
 api.appsee.com CNAME .
 api.apptentive.com CNAME .
-api.branch.io CNAME .
-api2.branch.io CNAME .
 api.crittercism.com CNAME .
 api.gimbal.com CNAME .
 api.sec.miui.com CNAME .
@@ -25246,6 +25246,7 @@ bitdash-reporting.appspot.com CNAME .
 bmrg.reflected.net CNAME .
 bonsai.internetbrands.com CNAME .
 brain.foresee.com CNAME .
+branch.io CNAME .
 bright.bncnt.com CNAME .
 bs.yandex.ru CNAME .
 btn.clickability.com CNAME .
@@ -25391,6 +25392,7 @@ doppler-reporting.cbsivideo.com CNAME .
 dotaudiences.com CNAME .
 doug1izaerwt3.cloudfront.net CNAME .
 drlimmode9ddd.cloudfront.net CNAME .
+dsbahmgppc0j4.cloudfront.net CNAME .
 dt1pxsve3tgas.cloudfront.net CNAME .
 du4rq1xqh3i1k.cloudfront.net CNAME .
 du8783wkf05yr.cloudfront.net CNAME .
@@ -25890,6 +25892,7 @@ zvsuhljiha-a.akamaihd.net CNAME .
 7q1z79gxsi.global.ssl.fastly.net CNAME .
 clarium.global.ssl.fastly.net CNAME .
 dfapvmql-q.global.ssl.fastly.net CNAME .
+vwonwkaqvq-a.global.ssl.fastly.net CNAME .
 ; Seals, Websecurity, Protection etc. Unnecessary third-party scripts
 beyondsecurity.com CNAME .
 cyveillance.com CNAME .
@@ -33345,6 +33348,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+835551.com CNAME .
+luassane.cn CNAME .
 pi9lxn.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
@@ -36082,6 +36087,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+pndagz.com CNAME .
 enzenet.cn CNAME .
 abblm.com CNAME .
 ojojoj.cn CNAME .
