@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-17T18:03:21.759Z
+; Last modified: 2021-07-18T06:04:16.635Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -14227,6 +14227,7 @@ adtdp.com CNAME .
 adtear.com CNAME .
 adtecc.com CNAME .
 adtech.de CNAME .
+adtechium.com CNAME .
 adtegrity.net CNAME .
 adtelligent.com CNAME .
 adteractive.com CNAME .
@@ -14799,6 +14800,7 @@ cdna.tremormedia.com CNAME .
 charltonmedia.com CNAME .
 cibleclick.com CNAME .
 cinarra.com CNAME .
+citrusad.com CNAME .
 city-ads.de CNAME .
 clash-media.com CNAME .
 cleafs.com CNAME .
@@ -24024,6 +24026,7 @@ g8715710740.co CNAME .
 g8913795075.co CNAME .
 g9111879410.co CNAME .
 lltrck.com CNAME .
+loloclicks.biz CNAME .
 mors22.com CNAME .
 nxakpj4ac8gkd53.info CNAME .
 sbgsodufuosmmvsdf.info CNAME .
@@ -24296,6 +24299,7 @@ gweini.com CNAME .
 gwmtracking.com CNAME .
 gxgydnhz.com CNAME .
 haloscan.com CNAME .
+havasedge.com CNAME .
 hdmtools.com CNAME .
 heatmap.services CNAME .
 heyhelga.net CNAME .
@@ -24525,6 +24529,7 @@ quantserve.com CNAME .
 quartic.pl CNAME .
 quintesse.io CNAME .
 quitsnap-blue.com CNAME .
+radiateb2b.com CNAME .
 rampanel.com CNAME .
 ravelin.click CNAME .
 rdcdn.com CNAME .
@@ -25321,6 +25326,7 @@ d10gj7yjsfriaj.cloudfront.net CNAME .
 d11a2fzhgzqe7i.cloudfront.net CNAME .
 d16fk4ms6rqz1v.cloudfront.net CNAME .
 d191y0yd6d0jy4.cloudfront.net CNAME .
+d1af033869koo7.cloudfront.net CNAME .
 d1cr9zxt7u0sgu.cloudfront.net CNAME .
 d1iazwv1n1tsyi.cloudfront.net CNAME .
 d1igp3oop3iho5.cloudfront.net CNAME .
@@ -33339,8 +33345,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-rongxunet.top CNAME .
-loclog.cn CNAME .
+pi9lxn.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34276,6 +34281,7 @@ lixuanbaojie.com CNAME .
 lizehuandian.top CNAME .
 llguandongyan.com CNAME .
 llqss.top CNAME .
+loclog.cn CNAME .
 log.interest.mix.sina.com.cn CNAME .
 longchengtg.com CNAME .
 lovestyl.com CNAME .
@@ -34488,6 +34494,7 @@ rgdhct.cn CNAME .
 riqu2015.com CNAME .
 roay.cn CNAME .
 rongdingwl.cn CNAME .
+rongxunet.top CNAME .
 rqgsf.com CNAME .
 rrsubway.com CNAME .
 rscxwmj.cn CNAME .
@@ -35345,7 +35352,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-ab.rejushe.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35509,6 +35515,7 @@ aa.ninze.com CNAME .
 aa.xiangxiangmf.com CNAME .
 aaa.tumanyi.com CNAME .
 ab.cnbanbao.com CNAME .
+ab.rejushe.com CNAME .
 abc.douguo.com CNAME .
 abc.rwpt.top CNAME .
 abcdcfasda.gushiwen.cn CNAME .
@@ -35765,7 +35772,6 @@ hy.huangye88.net CNAME .
 idgdmgroup.com.cn CNAME .
 ii1.chajiaotong.com CNAME .
 iia1.pikacn.com CNAME .
-top2099.com CNAME .
 images8.gaotie.cn CNAME .
 img.263y.com CNAME .
 img.ferlie.net CNAME .
@@ -35942,6 +35948,7 @@ t1.612.com CNAME .
 tech.jiukang.org CNAME .
 thetestpage.39.net CNAME .
 tongj.xilu.com CNAME .
+top2099.com CNAME .
 tt123.eastday.com CNAME .
 tu.zx110.org CNAME .
 u.zuoyesou.com CNAME .
@@ -36075,14 +36082,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-yanomami.cn CNAME .
-njygp.cn CNAME .
-yikebang.xyz CNAME .
-hiibcfr.cn CNAME .
-huojukk.com CNAME .
-dafawl.cn CNAME .
-xhtbkh.cn CNAME .
-ljg79.work CNAME .
+enzenet.cn CNAME .
+abblm.com CNAME .
+ojojoj.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36500,6 +36502,7 @@ dachadu.cn CNAME .
 dadawm.cc CNAME .
 daddywu.cn CNAME .
 dadedaxue.com CNAME .
+dafawl.cn CNAME .
 dailiq.cn CNAME .
 daima.dsxdn.com CNAME .
 daizhangguanjia.com.cn CNAME .
@@ -36795,6 +36798,7 @@ hhrhl.vip CNAME .
 hhslbz.cn CNAME .
 highter.top CNAME .
 hihifenxiang.com CNAME .
+hiibcfr.cn CNAME .
 hissq.com CNAME .
 hixili.top CNAME .
 hjjnpx.com CNAME .
@@ -36847,6 +36851,7 @@ huitiankuaiji.com CNAME .
 huixingcheng.cn CNAME .
 huodiyun.cn CNAME .
 huojugg.com CNAME .
+huojukk.com CNAME .
 huojutt.com CNAME .
 huonvd.cn CNAME .
 huosuniao.com CNAME .
@@ -37083,6 +37088,7 @@ liuzishen.com CNAME .
 lixianze.top CNAME .
 lixudong.top CNAME .
 liyelaowu.cn CNAME .
+ljg79.work CNAME .
 ljggc.com CNAME .
 ljmei.com CNAME .
 llqd5.cn CNAME .
@@ -37225,6 +37231,7 @@ njhuashidai.cn CNAME .
 njohvxs.cn CNAME .
 njsbzc.cn CNAME .
 njxczy.com CNAME .
+njygp.cn CNAME .
 nkyyls.cn CNAME .
 nkzjc.cn CNAME .
 nkzker.cn CNAME .
@@ -37733,6 +37740,7 @@ xeihy.com CNAME .
 xfya3.cn CNAME .
 xhct66.com CNAME .
 xhera.cn CNAME .
+xhtbkh.cn CNAME .
 xiachouchou.com CNAME .
 xiandafood.cn CNAME .
 xiangwangdesh.com CNAME .
@@ -37802,6 +37810,7 @@ yanbenji.cn CNAME .
 yangtzeev.com CNAME .
 yangzhenpeng.top CNAME .
 yanjunbo.com CNAME .
+yanomami.cn CNAME .
 yantairuide.com CNAME .
 yanyanbiji.com CNAME .
 yaodianzhineng.cn CNAME .
@@ -37823,6 +37832,7 @@ yicuntian.cn CNAME .
 yidiansurong.com CNAME .
 yierheng.top CNAME .
 yihegangtie.com CNAME .
+yikebang.xyz CNAME .
 yikuaiqian.com.cn CNAME .
 yimai51.cn CNAME .
 yimeize.cn CNAME .
