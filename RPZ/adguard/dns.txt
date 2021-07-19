@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-18T18:03:42.024Z
+; Last modified: 2021-07-19T06:04:40.690Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -5673,6 +5673,7 @@ daethana.pw CNAME .
 daffaite.com CNAME .
 dafthulksyams.com CNAME .
 daichoho.com CNAME .
+daijopimplo.com CNAME .
 dailyinterventioncongestion.com CNAME .
 dainaith.net CNAME .
 daintyecstasyspleen.com CNAME .
@@ -9964,6 +9965,7 @@ ookedapp.club CNAME .
 ookmakescole.club CNAME .
 oolufhbdabqce.com CNAME .
 ooq5z.com CNAME .
+oorunsey.com CNAME .
 oovj94k5hg4j.com CNAME .
 ooxoatse.com CNAME .
 opekoobs.net CNAME .
@@ -12947,6 +12949,7 @@ vlitag.com CNAME .
 vloudsze.com CNAME .
 vlrzhoueyoxw.com CNAME .
 vltwox7zl7h1wv.com CNAME .
+vmctzaxkc.com CNAME .
 vmhzvqzx.com CNAME .
 vmraahnmspzy.com CNAME .
 vn6e8w2w92.com CNAME .
@@ -12975,6 +12978,7 @@ volumegently.com CNAME .
 voluumtracker.com CNAME .
 voluumtrk.com CNAME .
 voraciousdutylover.com CNAME .
+vorrireer.com CNAME .
 vospendence.club CNAME .
 voteyapgrade.com CNAME .
 vouceeco.com CNAME .
@@ -24176,6 +24180,7 @@ cohesionapps.com CNAME .
 coll2onf.com CNAME .
 collecting.click CNAME .
 colossusssp.com CNAME .
+conductrics.net CNAME .
 conduze.com CNAME .
 config.parsely.com CNAME .
 content-square.net CNAME .
@@ -24517,6 +24522,7 @@ publicgood.com CNAME .
 pubplus.com CNAME .
 pubstack.io CNAME .
 pubxtag1.com CNAME .
+pulseinsights.com CNAME .
 pushauction.com CNAME .
 pvd.to CNAME .
 pxaction.com CNAME .
@@ -25338,6 +25344,7 @@ d1t9uctetvi0tu.cloudfront.net CNAME .
 d1wirc5qsdb1y5.cloudfront.net CNAME .
 d1yu67rmchodpo.cloudfront.net CNAME .
 d20kffh39acpue.cloudfront.net CNAME .
+d21y75miwcfqoq.cloudfront.net CNAME .
 d23pi6hvdpcc5i.cloudfront.net CNAME .
 d241ujsiy3yht0.cloudfront.net CNAME .
 d24cze5sab2jwg.cloudfront.net CNAME .
@@ -25730,6 +25737,7 @@ telemetry.tableausoftware.com CNAME .
 thetradedesk-tags.s3.amazonaws.com CNAME .
 tl.tradetracker.net CNAME .
 tm.vendemore.com CNAME .
+tms.fmm.io CNAME .
 to.getnitropack.com CNAME .
 tr.cloud-media.fr CNAME .
 tr.interlake.net CNAME .
@@ -33348,9 +33356,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-835551.com CNAME .
-luassane.cn CNAME .
-pi9lxn.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33529,6 +33534,7 @@ pi9lxn.cn CNAME .
 820rd.com CNAME .
 825145.com CNAME .
 827649.com CNAME .
+835551.com CNAME .
 8521448.com CNAME .
 85tgw.com CNAME .
 860010.com CNAME .
@@ -34298,6 +34304,7 @@ lsxmg.com CNAME .
 ltcprtc.com CNAME .
 lu.sogou.com CNAME .
 lu.sogoucdn.com CNAME .
+luassane.cn CNAME .
 luoyuanedu.cn CNAME .
 lvt1980.cn CNAME .
 lvylv.cn CNAME .
@@ -34420,6 +34427,7 @@ pdsjycm.com CNAME .
 pedailyu.com CNAME .
 penxiangge.com CNAME .
 pg88cdn.com CNAME .
+pi9lxn.cn CNAME .
 pianjjiicdn.com CNAME .
 pingping888.com CNAME .
 pinwu123.com CNAME .
@@ -36087,10 +36095,8 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-pndagz.com CNAME .
-enzenet.cn CNAME .
-abblm.com CNAME .
-ojojoj.cn CNAME .
+wangqilin.xyz CNAME .
+wanglc.vip CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36221,6 +36227,7 @@ aaan.xyz CNAME .
 aaaw.xyz CNAME .
 aabbccddeeffgg.cn CNAME .
 aakkzzz.com CNAME .
+abblm.com CNAME .
 abi.run CNAME .
 abovede6.com CNAME .
 abuse8.com CNAME .
@@ -36597,6 +36604,7 @@ elvx.top CNAME .
 emgwq.com CNAME .
 enjuk.com CNAME .
 enjuw.com CNAME .
+enzenet.cn CNAME .
 erhfnv.cn CNAME .
 erkesi.cn CNAME .
 esure.wang CNAME .
@@ -37264,6 +37272,7 @@ obeip.com CNAME .
 obj9.cn CNAME .
 oende.cn CNAME .
 ohthub.com.cn CNAME .
+ojojoj.cn CNAME .
 okwan.cn CNAME .
 on1q0.cn CNAME .
 onlyshow.top CNAME .
@@ -37308,6 +37317,7 @@ pkbook.com.cn CNAME .
 pkyxdwj.cn CNAME .
 plerv.com CNAME .
 plokr.com CNAME .
+pndagz.com CNAME .
 po*.877zw.com CNAME .
 pos68.cn CNAME .
 ppee.xyz CNAME .

@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 14 Jul 2021 14:22 UTC+7
+; Updated: 19 Jul 2021 15:01 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -14043,6 +14043,45 @@ asset.adxplay.com CNAME .
 res.adxplay.com CNAME .
 static-res.adxplay.com CNAME .
 www.adxplay.com CNAME .
+;[exoticads.com]
+ads13.exoticads.com CNAME .
+ads15.exoticads.com CNAME .
+adserver.exoticads.com CNAME .
+cdn.exoticads.com CNAME .
+content.exoticads.com CNAME .
+exoticads.com CNAME .
+www.exoticads.com CNAME .
+;[adspyglass.com]
+adspyglass.com CNAME .
+api.adspyglass.com CNAME .
+dsp.adspyglass.com CNAME .
+www.adspyglass.com CNAME .
+;[clickadilla.com]
+clickadilla.com CNAME .
+publishers-stage.clickadilla.com CNAME .
+publishers.clickadilla.com CNAME .
+script.clickadilla.com CNAME .
+tracking.clickadilla.com CNAME .
+;[nawpush.com]
+na.nawpush.com CNAME .
+nawpush.com CNAME .
+;[soft-com.biz]
+push.soft-com.biz CNAME .
+soft-com.biz CNAME .
+;[vasstycom.com]
+kts.vasstycom.com CNAME .
+vasstycom.com CNAME .
+;[genieesspv.jp]
+a-mobile.genieesspv.jp CNAME .
+abh.genieesspv.jp CNAME .
+ad-spire.genieesspv.jp CNAME .
+aladdin.genieesspv.jp CNAME .
+genieesspv.jp CNAME .
+ialaddin.genieesspv.jp CNAME .
+isboost.genieesspv.jp CNAME .
+jma.genieesspv.jp CNAME .
+mediaz.genieesspv.jp CNAME .
+sprout-ad.genieesspv.jp CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
 adtimaserver.vn CNAME .
@@ -15535,6 +15574,9 @@ www.bongdadem.net CNAME .
 ;[ampproject.org]
 ads-thanhnien-vn.cdn.ampproject.org CNAME .
 cdn-bongdadem-net.cdn.ampproject.org CNAME .
+;[chin-adnetwork.com]
+chin-adnetwork.com CNAME .
+js.chin-adnetwork.com CNAME .
 ; --- Block adsVN ---
 5734a4f2d.vws.vegacdn.vn CNAME .
 73531862.vws.vegacdn.vn CNAME .
@@ -16361,6 +16403,7 @@ adreactor.com CNAME .
 adreclaim.com CNAME .
 adrecreate.com CNAME .
 adremedy.com CNAME .
+adrenalpop.com CNAME .
 adreporting.com CNAME .
 adres.internet.com CNAME .
 adrevolver.com CNAME .
@@ -16774,7 +16817,6 @@ adspace.ro CNAME .
 adspleen.com CNAME .
 adsponse.de CNAME .
 adspot.co CNAME .
-adspyglass.com CNAME .
 adsrevenue.net CNAME .
 adsrocket.net CNAME .
 adsrv.deviantart.com CNAME .
@@ -16817,6 +16859,7 @@ adunity.com CNAME .
 adux.com CNAME .
 adv-adserver.com CNAME .
 adv-banner.libero.it CNAME .
+adv-links.com CNAME .
 adv-sv-show.focus.cn CNAME .
 adv-sv-stat.focus.cn CNAME .
 adv.cooperhosting.net CNAME .
@@ -17023,6 +17066,7 @@ as5.com CNAME .
 asacdn.com CNAME .
 asccdn.com CNAME .
 asdnn1331.xyz CNAME .
+asgclickpop.com CNAME .
 ashcdn.com CNAME .
 asiacpx.com CNAME .
 askaspalb.online CNAME .
@@ -17048,6 +17092,7 @@ audiens.com CNAME .
 audrte.com CNAME .
 augur.io CNAME .
 aulteeby.net CNAME .
+ausoafab.net CNAME .
 auto-bannertausch.de CNAME .
 autohits.dk CNAME .
 automaticflock.com CNAME .
@@ -17072,6 +17117,7 @@ b-1st.com CNAME .
 b4psads.com CNAME .
 b91vip.com CNAME .
 baaomenaltho.com CNAME .
+babanmat.com CNAME .
 babs.tv2.dk CNAME .
 backbeatmedia.com CNAME .
 balancebreath.com CNAME .
@@ -17202,6 +17248,7 @@ bidtrk.com CNAME .
 bigbangmedia.com CNAME .
 bigclicks.com CNAME .
 billboard.cz CNAME .
+billionpops.com CNAME .
 binary1.website CNAME .
 binarymoney.site CNAME .
 bioniccuddle.com CNAME .
@@ -17369,6 +17416,7 @@ claroadsclick.com CNAME .
 claroclicks.com CNAME .
 clashmobile.com CNAME .
 class-act-clicks.com CNAME .
+cleantapioca.com CNAME .
 clearadnetwork.com CNAME .
 clearbid.uberads.com CNAME .
 clearcomb.com CNAME .
@@ -17532,6 +17580,7 @@ crowdgravity.com CNAME .
 crownrecluse.com CNAME .
 crtv.mate1.com CNAME .
 cubics.com CNAME .
+culmedmaumee.com CNAME .
 cumbersomecloud.com CNAME .
 curtaincows.com CNAME .
 cutecushion.com CNAME .
@@ -17794,6 +17843,8 @@ fast-adv.it CNAME .
 fastbuy.biz CNAME .
 fastclick.com CNAME .
 fastclick.net CNAME .
+fastpopclick.com CNAME .
+fastpopunder.com CNAME .
 fathuntsgall.com CNAME .
 faultycanvas.com CNAME .
 faultyfowl.com CNAME .
@@ -17834,6 +17885,7 @@ forex-affiliate.net CNAME .
 forshrd.com CNAME .
 forter.com CNAME .
 fortvision.com CNAME .
+forzslodge.com CNAME .
 fourarithmetic.com CNAME .
 fr33fastdwnlad.space CNAME .
 frailoffer.com CNAME .
@@ -17869,7 +17921,6 @@ galaxien.com CNAME .
 gavnogeeygaika.com CNAME .
 gayadnetwork.com CNAME .
 gemius.pl CNAME .
-genieesspv.jp CNAME .
 geniusdexchange.com CNAME .
 geo.digitalpoint.com CNAME .
 geobanner.adultfriendfinder.com CNAME .
@@ -18034,6 +18085,7 @@ iconadserver.com CNAME .
 icptrack.com CNAME .
 idcounter.com CNAME .
 iddiction.com CNAME .
+iddpop.com CNAME .
 idealmedia.io CNAME .
 ideliv.net CNAME .
 idelv.net CNAME .
@@ -18129,6 +18181,7 @@ irkfunkyformer.com CNAME .
 irncdn.com CNAME .
 ironsource.mobi CNAME .
 ismtampsshad.icu CNAME .
+isupopc.com CNAME .
 itfarm.com CNAME .
 itineraryupper.com CNAME .
 itnuzleafan.com CNAME .
@@ -18155,6 +18208,7 @@ jinkads.de CNAME .
 jioads.akamaized.net CNAME .
 jivox.com CNAME .
 jiwire.com CNAME .
+jmrnews.pro CNAME .
 joetec.net CNAME .
 joeyzzvkpjha.com CNAME .
 jokedollars.com CNAME .
@@ -18386,6 +18440,7 @@ mintrace.com CNAME .
 missionsection.com CNAME .
 misstrends.com CNAME .
 miva.com CNAME .
+mixandfun.com CNAME .
 mixedreading.com CNAME .
 mixtraffic.com CNAME .
 mjlpqbklxgt.com CNAME .
@@ -18484,6 +18539,7 @@ nastydollars.com CNAME .
 nativeadv.online CNAME .
 nativepu.sh CNAME .
 nativeroll.tv CNAME .
+nativewpsh.com CNAME .
 navigator.io CNAME .
 navrcholu.cz CNAME .
 nbjmp.com CNAME .
@@ -18495,6 +18551,7 @@ neighborlywatch.com CNAME .
 neocounter.neoworx-blog-tools.net CNAME .
 neodatagroup.com CNAME .
 neoffic.com CNAME .
+nereserv.com CNAME .
 nervoussummer.com CNAME .
 net-filter.com CNAME .
 netaffiliation.com CNAME .
@@ -18525,6 +18582,7 @@ newtopsites.com CNAME .
 nexac.com CNAME .
 ng3.ads.warnerbros.com CNAME .
 nicksstevmark.com CNAME .
+ninkorant.online CNAME .
 nitratory.com CNAME .
 nitroclicks.com CNAME .
 noiselessplough.com CNAME .
@@ -18539,6 +18597,7 @@ nrc.tapas.net CNAME .
 ntsecd.com CNAME .
 ntv.io CNAME .
 ntvk1.ru CNAME .
+ntvpinp.com CNAME .
 ntvsw.com CNAME .
 nuclearads.com CNAME .
 nuffnang.com.my CNAME .
@@ -18747,8 +18806,10 @@ pontiflex.com CNAME .
 pop-under.ru CNAME .
 pop.bid CNAME .
 pop5sjhspear.com CNAME .
+popcain.com CNAME .
 popflawlessads.com CNAME .
 popmyads.com CNAME .
+popsoffer.com CNAME .
 popub.com CNAME .
 popunder.ru CNAME .
 popupmoney.com CNAME .
@@ -18843,6 +18904,7 @@ pushmono.com CNAME .
 pushno.com CNAME .
 pushokey.com CNAME .
 pushqwer.com CNAME .
+puwpush.com CNAME .
 puzzlingfall.com CNAME .
 pvclouds.com CNAME .
 q.azcentral.com CNAME .
@@ -18851,6 +18913,7 @@ qnsr.com CNAME .
 quacksquirrel.com CNAME .
 quaintcan.com CNAME .
 quakemarketing.com CNAME .
+quallyrimers.com CNAME .
 quantcast.com CNAME .
 quantummetric.com CNAME .
 quarterbean.com CNAME .
@@ -18997,6 +19060,7 @@ rusenov.com CNAME .
 ruthlessrobin.com CNAME .
 ruwertur.com CNAME .
 rvedfxeljxo.com CNAME .
+rvrpushserv.com CNAME .
 s2d6.com CNAME .
 sageanalyst.net CNAME .
 sailif.com CNAME .
@@ -19229,6 +19293,7 @@ stormyachiever.com CNAME .
 stormyshock.com CNAME .
 stormysponge.com CNAME .
 stoveseashore.com CNAME .
+stovoori.net CNAME .
 straightnest.com CNAME .
 strikead.com CNAME .
 strikeiron.com CNAME .
@@ -19259,6 +19324,7 @@ supertop1.com CNAME .
 surfmusik-adserver.de CNAME .
 sviter2s1olenyami1.com CNAME .
 swan-swan-goose.com CNAME .
+swesomepop.com CNAME .
 swimslope.com CNAME .
 swissadsolutions.com CNAME .
 switchadhub.com CNAME .
@@ -19267,7 +19333,10 @@ swordfishdc.com CNAME .
 swordgoose.com CNAME .
 sx.trhnt.com CNAME .
 sync.vmweb.net CNAME .
+syndapop.com CNAME .
 syndicate.purch.com CNAME .
+syndicpop.com CNAME .
+syndopop.com CNAME .
 syrsple2se8nyu9.com CNAME .
 syyycc.com CNAME .
 t.insigit.com CNAME .
@@ -19569,9 +19638,11 @@ vmmpxl.com CNAME .
 vmweb.net CNAME .
 vogueoatgap.com CNAME .
 voicevegetable.com CNAME .
+voredi.com CNAME .
 vpon.com CNAME .
 vrs.cz CNAME .
 vs.tucows.com CNAME .
+vstaner.com CNAME .
 vt.myvisualiq.net CNAME .
 vtracy.de CNAME .
 w3i.com CNAME .
@@ -19654,6 +19725,7 @@ wmirk.ru CNAME .
 womanear.com CNAME .
 wonderlandads.com CNAME .
 wondoads.de CNAME .
+woredi.com CNAME .
 worldoffersdaily.com CNAME .
 worldwide-cash.net CNAME .
 worriednumber.com CNAME .
@@ -19673,8 +19745,8 @@ www.adexchangetracker.com CNAME .
 www.adnetworkperformance.com CNAME .
 www.ads24h.net CNAME .
 www.adsluna.com CNAME .
-www.adspyglass.com CNAME .
 www.adstune.com CNAME .
+www.adv-links.com CNAME .
 www.advinci.co CNAME .
 www.agroupadx.com CNAME .
 www.allmygoodlife.com CNAME .
@@ -19744,6 +19816,7 @@ www.mobzeg.com CNAME .
 www.money4exit.de CNAME .
 www.moneymakercdn.com CNAME .
 www.myadsystem.com CNAME .
+www.ninkorant.online CNAME .
 www.noisysortcasualty.com CNAME .
 www.ntvsw.com CNAME .
 www.onclickmega.com CNAME .
@@ -19809,6 +19882,7 @@ xrea.com CNAME .
 xtendmedia.com CNAME .
 xtremeserve.xyz CNAME .
 xtremetop1.com CNAME .
+xxssyndic.com CNAME .
 xxxcounter.com CNAME .
 xxxmyself.com CNAME .
 xy7elite.com CNAME .
@@ -19818,6 +19892,7 @@ yads.c.yimg.jp CNAME .
 ybrantdigital.com CNAME .
 ydworld.com CNAME .
 yealnk.com CNAME .
+yebadu.com CNAME .
 yesads.com CNAME .
 yesadvertising.com CNAME .
 yieldads.com CNAME .
@@ -19832,6 +19907,7 @@ yoc-adserver.com CNAME .
 yoc-performance.com CNAME .
 yogar2ti8nf9.com CNAME .
 yoggrt.com CNAME .
+yougotacheck.com CNAME .
 ytimm.com CNAME .
 yuilop.com CNAME .
 yume.com CNAME .
@@ -20295,6 +20371,7 @@ track.56txs4.com CNAME .
 track.analytics-data.io CNAME .
 track.datetrck.com CNAME .
 track.easeus.com CNAME .
+track.gotprofits.com CNAME .
 track.hubspot.com CNAME .
 track.mobgc.com CNAME .
 track.omg543.com CNAME .
@@ -20318,6 +20395,7 @@ tracking-user-behavior.meeyland.com CNAME .
 tracking.adsrv.io CNAME .
 tracking.applift.com CNAME .
 tracking.bodis.com CNAME .
+tracking.gotprofits.com CNAME .
 tracking.hubspot.com CNAME .
 tracking.lenzmx.com CNAME .
 tracking.musixmatch.com CNAME .
