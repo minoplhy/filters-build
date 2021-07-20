@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-20T00:13:53.583Z
+; Last modified: 2021-07-20T18:03:52.292Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+deadlyhung.com CNAME .
+yepteaswont.com CNAME .
+bestcontentweb.top CNAME .
 syrsple2se8nyu09.com CNAME .
 ads.timesjobsandcareers.com CNAME .
 assertnourishingconnection.com CNAME .
@@ -26,7 +29,6 @@ fouptebu.net CNAME .
 iphumiki.com CNAME .
 jouteetu.net CNAME .
 revelationneighbourly.com CNAME .
-qzlglizfy.com CNAME .
 kinkledunendly.com CNAME .
 passwordscompound.com CNAME .
 dualizefriskin.com CNAME .
@@ -70,6 +72,7 @@ viamariller.com CNAME .
 ad4point.nyc3.digitaloceanspaces.com CNAME .
 rawirymi.xyz CNAME .
 armiesgaspclue.com CNAME .
+qzlglizfy.com CNAME .
 iwxzizcw.com CNAME .
 glersakr.com CNAME .
 widow5blackfr.com CNAME .
@@ -4008,11 +4011,13 @@ alternativecpmgate.com CNAME .
 alternativeprofitablegate.com CNAME .
 althoutafrick.info CNAME .
 altowriestwispy.com CNAME .
+altronopubacc.com CNAME .
 alwayspainfully.com CNAME .
 alwqfajh.com CNAME .
 alwsbnvialll.com CNAME .
 alxbgo.com CNAME .
 alxsite.com CNAME .
+alysson.de CNAME .
 alythoriticalt.club CNAME .
 amabadmer.club CNAME .
 amads.buzz CNAME .
@@ -5336,6 +5341,7 @@ compartmentnutsnovember.com CNAME .
 compensions.pro CNAME .
 compiletormentboats.com CNAME .
 completedmisunderstand.com CNAME .
+complexdaggled.com CNAME .
 complicatedgeneratelens.com CNAME .
 complicatedtelegraph.com CNAME .
 composedwatchman.com CNAME .
@@ -6402,6 +6408,7 @@ eloquencer.com CNAME .
 elprogresse.top CNAME .
 elsetormentshower.com CNAME .
 elsupposit.club CNAME .
+elxis-downloads.com CNAME .
 elyconsisterj.club CNAME .
 emagazing.fun CNAME .
 emanpro.fun CNAME .
@@ -7243,6 +7250,7 @@ getbonusnow3.com CNAME .
 getdonspeg.work CNAME .
 getpdaiddaily.com CNAME .
 getplumberacting.com CNAME .
+getsomespecials.com CNAME .
 geuniveruls.top CNAME .
 gexlwn.com CNAME .
 gfcowlrmdt.com CNAME .
@@ -9244,6 +9252,7 @@ mol18.biz CNAME .
 molebeagleheadless.com CNAME .
 moleforgotbran.casa CNAME .
 mollyperpetualpimple.com CNAME .
+moltensuchos.com CNAME .
 momdanwillingness.com CNAME .
 momentumviable.com CNAME .
 momenturede.fun CNAME .
@@ -10201,6 +10210,7 @@ pc1ads.com CNAME .
 pc2ads.com CNAME .
 pcdnlt.com CNAME .
 pcdodues.com CNAME .
+pclk.name CNAME .
 pcnp.xyz CNAME .
 pcon.space CNAME .
 pctsrv.com CNAME .
@@ -11217,6 +11227,7 @@ rmationeng.club CNAME .
 rmedessents.club CNAME .
 rmlehtrdzfyonb.com CNAME .
 rmqygg2zv24y.com CNAME .
+rndmusharnar.com CNAME .
 rndrx0rqwkb8.com CNAME .
 rnigait.com CNAME .
 ro7s8wo57qnb.com CNAME .
@@ -11678,6 +11689,7 @@ sitefeytout.com CNAME .
 sitetoway.com CNAME .
 sivedeciseim.club CNAME .
 sixft-apart.com CNAME .
+sixminutes.biz CNAME .
 sixteenabsorptionbreed.com CNAME .
 sixtuxfixer.com CNAME .
 sjeffrontagr.top CNAME .
@@ -12100,6 +12112,7 @@ szprhglyodqj.com CNAME .
 szpsngbow.com CNAME .
 t.uc.cn CNAME .
 t0gkj99krb24.com CNAME .
+t2lgo.com CNAME .
 t5lxz7dtq4iz.com CNAME .
 tabici.com CNAME .
 tablebehav.club CNAME .
@@ -12166,6 +12179,7 @@ teemooge.net CNAME .
 teemprofaneglitter.com CNAME .
 teennostrils.com CNAME .
 teenstiffen.com CNAME .
+teenymetropolitan.com CNAME .
 teeplyinsidere.club CNAME .
 tefrequesth.top CNAME .
 tefumiji.xyz CNAME .
@@ -17938,6 +17952,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+mm.actionlink.jp CNAME .
 btloader.com CNAME .
 tracklog.58.com CNAME .
 wtstats.ro CNAME .
@@ -20967,6 +20982,7 @@ functionalclam.com CNAME .
 ; Admiral domains
 ; These domains are used for tracking purposes according to the data that is being sent there.
 ; More info: https://getadmiral.com/products/measure
+fallaciousfifth.com CNAME .
 colossalcoat.com CNAME .
 cutechin.com CNAME .
 shakegoldfish.com CNAME .
@@ -22002,6 +22018,8 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+smetrics.foxnews.com CNAME .
+smetric.trulia.com CNAME .
 ichnaea-web.netflix.com CNAME .
 beacon.netflix.com CNAME .
 customerevents.netflix.com CNAME .
@@ -23655,6 +23673,7 @@ analytics.qoqa.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+api.telemetry.watchabc.go.com CNAME .
 analytics.rover.io CNAME .
 events-collector-api.viacom.tech CNAME .
 events.data.microsoft.com CNAME .
@@ -25058,7 +25077,6 @@ yuebofa.cc CNAME .
 zlx.com.br CNAME .
 ; Admiral
 aheadmachine.com CNAME .
-amlg.io CNAME .
 annoyedairport.com CNAME .
 ayc0zsm69431gfebd.info CNAME .
 borderbrush.com CNAME .
@@ -25068,7 +25086,6 @@ distributiontomatoes.com CNAME .
 disturbedquiet.com CNAME .
 dogcollarfavourbluff.com CNAME .
 enormousearth.com CNAME .
-fallaciousfifth.com CNAME .
 glisteningguide.com CNAME .
 handyfireman.com CNAME .
 impulsejewel.com CNAME .
@@ -25090,6 +25107,7 @@ teenytinycellar.com CNAME .
 ; Source: https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
 ;
 100widgets.com CNAME .
+3p-geo.yahoo.com CNAME .
 51network.com CNAME .
 aan.amazon.com CNAME .
 abc.hearst.co.uk CNAME .
@@ -26774,6 +26792,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+popadon.com CNAME .
 gevnqh.com CNAME .
 r.2ad.wtf CNAME .
 ehfgifjjhdaejjajacj.ru CNAME .
@@ -29720,7 +29739,6 @@ pool5.info CNAME .
 pop-parad. CNAME .
 pop-under. CNAME .
 pop.mrstiff.com CNAME .
-popadon.com CNAME .
 popinads.com CNAME .
 poptraf. CNAME .
 popunder. CNAME .
@@ -31438,6 +31456,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+devo.jp CNAME .
 ad.ddo.jp CNAME .
 blogroll.click CNAME .
 ad-nex.com CNAME .
@@ -31674,6 +31693,7 @@ w.zenback.jp CNAME .
 ; Source name: AdGuard German filter ad servers
 ; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/GermanFilter/sections/adservers.txt
 ;
+ihreapotheken.de CNAME .
 intextlinks.idg.zone CNAME .
 megadeliveryn.com CNAME .
 hybrid-prd.ad-prd.s.joyn.de CNAME .
@@ -36088,6 +36108,17 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+wanchencloth.cn CNAME .
+syzdbxg.com CNAME .
+tcals.cn CNAME .
+pmshow.cn CNAME .
+helpbeatlestribute.com CNAME .
+xjbaisi.cn CNAME .
+yingge.fun CNAME .
+xxia.xyz CNAME .
+oorui.cn CNAME .
+xintengfeiyang.info CNAME .
+r8sr4j.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
