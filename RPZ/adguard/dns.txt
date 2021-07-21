@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-20T18:03:52.292Z
+; Last modified: 2021-07-21T06:04:49.259Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -18206,8 +18206,6 @@ adblock-analytics.io CNAME .
 aukana.jp CNAME .
 stat.tiara. CNAME .
 track.tiara. CNAME .
-telemetry.api.wmcdp.io CNAME .
-logs.psm.wmcdp.io CNAME .
 doubleverify.com CNAME .
 volvelle.tech CNAME .
 audiencemanager.de CNAME .
@@ -24748,6 +24746,7 @@ wgsas.com CNAME .
 whizstats.com CNAME .
 wirewuss.com CNAME .
 withcubed.com CNAME .
+wmcdp.io CNAME .
 womtp.com CNAME .
 wootric.com CNAME .
 worldflagcounter.com CNAME .
@@ -25582,6 +25581,7 @@ pixel.fanbridge.com CNAME .
 pixel.glimr.io CNAME .
 pixel.mintigo.com CNAME .
 pixel.newscred.com CNAME .
+pixel.snapsmedia.io CNAME .
 pixel.solvemedia.com CNAME .
 pixel.sprinklr.com CNAME .
 pixel.tree.com CNAME .
@@ -26437,6 +26437,7 @@ imp.ad-plus.cn CNAME .
 imp.optaim.com CNAME .
 log.hiiir.com CNAME .
 log.tagtic.cn CNAME .
+nos.netease.com CNAME .
 p.tencentmind.com CNAME .
 r.sax.sina.com.cn CNAME .
 report.meituan.com CNAME .
@@ -33369,6 +33370,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+297772.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36108,17 +36110,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-wanchencloth.cn CNAME .
-syzdbxg.com CNAME .
-tcals.cn CNAME .
-pmshow.cn CNAME .
-helpbeatlestribute.com CNAME .
-xjbaisi.cn CNAME .
-yingge.fun CNAME .
-xxia.xyz CNAME .
-oorui.cn CNAME .
-xintengfeiyang.info CNAME .
-r8sr4j.cn CNAME .
+zwwl.shop CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36821,6 +36813,7 @@ hebeixingfei.com CNAME .
 hebhec.cn CNAME .
 hebzycw.com CNAME .
 hehongmei.top CNAME .
+helpbeatlestribute.com CNAME .
 helpinfo.cn CNAME .
 henanlinyu.cn CNAME .
 henduoqian.com CNAME .
@@ -37298,6 +37291,7 @@ ojojoj.cn CNAME .
 okwan.cn CNAME .
 on1q0.cn CNAME .
 onlyshow.top CNAME .
+oorui.cn CNAME .
 opapxq.com CNAME .
 opengam.com CNAME .
 oppaid.com CNAME .
@@ -37339,6 +37333,7 @@ pkbook.com.cn CNAME .
 pkyxdwj.cn CNAME .
 plerv.com CNAME .
 plokr.com CNAME .
+pmshow.cn CNAME .
 pndagz.com CNAME .
 po*.877zw.com CNAME .
 pos68.cn CNAME .
@@ -37410,6 +37405,7 @@ qzyiming.cn CNAME .
 qzylyp.com CNAME .
 r3wd6.cn CNAME .
 r890x3.com CNAME .
+r8sr4j.cn CNAME .
 raeqqe.cn CNAME .
 ranqibio.com CNAME .
 rbywg.com CNAME .
@@ -37556,6 +37552,7 @@ sysal.cn CNAME .
 sysycloud.com CNAME .
 sytsr.com CNAME .
 syxchj.cn CNAME .
+syzdbxg.com CNAME .
 szhdhbz.com CNAME .
 szhgmd.com CNAME .
 szmxwjm.com CNAME .
@@ -37577,6 +37574,7 @@ taoke.cloud CNAME .
 taomochou.cn CNAME .
 tatjhh.cn CNAME .
 tbaia.com CNAME .
+tcals.cn CNAME .
 tcbdd.cn CNAME .
 tchep.com CNAME .
 tcnmf.com CNAME .
@@ -37686,6 +37684,7 @@ vsheying.top CNAME .
 vvnna.com CNAME .
 vwb4p.cn CNAME .
 wagenlux.cn CNAME .
+wanchencloth.cn CNAME .
 wanderbj.top CNAME .
 wangchuanwujin.cn CNAME .
 wangdaguanli.com CNAME .
@@ -37798,10 +37797,12 @@ xingsky.cn CNAME .
 xinheshengmce.com CNAME .
 xinqiannv.com CNAME .
 xintaizhaoming.com CNAME .
+xintengfeiyang.info CNAME .
 xinyuanstudio.com CNAME .
 xisea.top CNAME .
 xiuqixuan.cn CNAME .
 xixizaix.cn CNAME .
+xjbaisi.cn CNAME .
 xjhjtz.cn CNAME .
 xjsytoy.com CNAME .
 xkqpco.com CNAME .
@@ -37837,6 +37838,7 @@ xuxiangkj.com CNAME .
 xvqdfwy.cn CNAME .
 xw1001.com CNAME .
 xxaalsn.cn CNAME .
+xxia.xyz CNAME .
 xxkio.com CNAME .
 xxzzsj.xyz CNAME .
 xy98.com.cn CNAME .
@@ -37877,6 +37879,7 @@ yikuaiqian.com.cn CNAME .
 yimai51.cn CNAME .
 yimeize.cn CNAME .
 yingfulook.cn CNAME .
+yingge.fun CNAME .
 yingjiawm.com CNAME .
 yingyeping.com CNAME .
 yinlt.com CNAME .
