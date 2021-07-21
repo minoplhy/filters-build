@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-21T06:04:49.259Z
+; Last modified: 2021-07-21T18:03:59.159Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,30 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+viiigle.com CNAME .
+flvpcdnb.com CNAME .
+loveofffer.com CNAME .
+brothcorewearisome.com CNAME .
+colpursehowl.com CNAME .
+convincedsponsorshipenemy.com CNAME .
+coudswamper.com CNAME .
+currentlyclash.com CNAME .
+ovlliiwtxgjlz.com CNAME .
+plumposterity.com CNAME .
+rimstipulatedeputy.com CNAME .
+safeguardoperating.com CNAME .
+scarletcashwi5.com CNAME .
+separationreverttap.com CNAME .
+tastingraise.com CNAME .
+thanosofcos5.com CNAME .
+ultimowraxle.com CNAME .
+uzxkuwalnjp.com CNAME .
+adsgig.com CNAME .
+daijopimplo.com CNAME .
+bycashexo.com CNAME .
+zewhaphaste.com CNAME .
+kishypece.com CNAME .
+oreflushvehemence.com CNAME .
 deadlyhung.com CNAME .
 yepteaswont.com CNAME .
 bestcontentweb.top CNAME .
@@ -57,8 +81,6 @@ wolverdonfilmes.ml CNAME .
 bonertraffic12.info CNAME .
 eighing.space CNAME .
 entsconsesi.top CNAME .
-nereserv.com CNAME .
-puwpush.com CNAME .
 babanmat.com CNAME .
 trixyapieces.com CNAME .
 rnotraff.com CNAME .
@@ -3255,6 +3277,7 @@ mine.torrent.pw CNAME .
 2444efc8cd8e.com CNAME .
 247realmedia.com CNAME .
 24ad89fc2690ed9369.com CNAME .
+24affiliates.com CNAME .
 24vunvrv.com CNAME .
 24x7adservice.com CNAME .
 254a.com CNAME .
@@ -5681,7 +5704,6 @@ daethana.pw CNAME .
 daffaite.com CNAME .
 dafthulksyams.com CNAME .
 daichoho.com CNAME .
-daijopimplo.com CNAME .
 dailyinterventioncongestion.com CNAME .
 dainaith.net CNAME .
 daintyecstasyspleen.com CNAME .
@@ -7380,6 +7402,7 @@ goo4anywhere.com CNAME .
 goofypismica.com CNAME .
 googlesierai.xyz CNAME .
 gopejk.com CNAME .
+gophykopta.com CNAME .
 goredi.com CNAME .
 gorettent.xyz CNAME .
 goshooph.com CNAME .
@@ -7842,6 +7865,7 @@ htintpa.tech CNAME .
 htmonster.com CNAME .
 htmuhftnu.com CNAME .
 htuczktvwtsf.com CNAME .
+hublosk.com CNAME .
 hubmaydaybrow.com CNAME .
 hubturn.info CNAME .
 hubvotrpjios.com CNAME .
@@ -8265,6 +8289,7 @@ judgementinvincible.com CNAME .
 juggrounds.com CNAME .
 juicycash.net CNAME .
 jukyshyze.com CNAME .
+jullyambery.net CNAME .
 julrdr.com CNAME .
 jumbitr.com CNAME .
 jumbln.com CNAME .
@@ -8330,6 +8355,7 @@ keepinfit.net CNAME .
 keeptaza.com CNAME .
 keezoupe.net CNAME .
 kegsandremembrance.com CNAME .
+kellyfight.com CNAME .
 kelt-195b.com CNAME .
 kemperare.club CNAME .
 kennetting.club CNAME .
@@ -9526,6 +9552,7 @@ neltoole.net CNAME .
 neoamwhdg.com CNAME .
 nepobedimiy2kot11jf.com CNAME .
 nerbulsterme.club CNAME .
+nereserv.com CNAME .
 neshedfrie.club CNAME .
 nesjournin.top CNAME .
 nesparklines.info CNAME .
@@ -10786,6 +10813,7 @@ putrunsspawn.com CNAME .
 putstairboor.com CNAME .
 puttrotgob.com CNAME .
 puuvpsveaskxzb.com CNAME .
+puwpush.com CNAME .
 puzzledchampagneaboninableaboninable.com CNAME .
 pvclouds.com CNAME .
 pvcndecvyb.com CNAME .
@@ -17952,6 +17980,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+cdn.trackclicks.info CNAME .
 mm.actionlink.jp CNAME .
 btloader.com CNAME .
 tracklog.58.com CNAME .
@@ -22016,6 +22045,8 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+ub.finanzfrage.net CNAME .
+slike.indiatimes.com CNAME .
 smetrics.foxnews.com CNAME .
 smetric.trulia.com CNAME .
 ichnaea-web.netflix.com CNAME .
@@ -33370,6 +33401,11 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+guirui-clothes.com CNAME .
+bujiangjiu123.com CNAME .
+xiji-express.com CNAME .
+sparkyinchun.com CNAME .
+th-make.com CNAME .
 297772.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
@@ -36110,6 +36146,12 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+bronya.club CNAME .
+bolijiupingchang.com CNAME .
+guoshihuaiyao.com CNAME .
+diandongchetoukui.com CNAME .
+importcat.com CNAME .
+xinghualinghang.com CNAME .
 zwwl.shop CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
