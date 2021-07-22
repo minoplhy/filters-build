@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-22T00:14:43.464Z
+; Last modified: 2021-07-22T18:03:52.499Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,14 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+ptwmstc.com CNAME .
+addictionestimated.com CNAME .
+awcrpu.com CNAME .
+betokendolous.com CNAME .
+forzslodge.com CNAME .
+trinityslantsummer.com CNAME .
+creative.mshago.com CNAME .
+describedarkchair.top CNAME .
 viiigle.com CNAME .
 flvpcdnb.com CNAME .
 loveofffer.com CNAME .
@@ -2757,7 +2765,6 @@ cintent.streanplay.cc CNAME .
 centent.streanplay.cc CNAME .
 centent.steanplay.cc CNAME .
 dl.crazyporn.xxx CNAME .
-d2fbvay81k4ji3.cloudfront.net CNAME .
 x2sfa.javgg.eu CNAME .
 xd3r.javgg.eu CNAME .
 spyglass.octanime.net CNAME .
@@ -3246,6 +3253,7 @@ mine.torrent.pw CNAME .
 1f58098dd54.com CNAME .
 1f7de8569ea97f0614.com CNAME .
 1fwjpdwguvqs.com CNAME .
+1igare0jn.de CNAME .
 1nimo.com CNAME .
 1p1eqpotato.com CNAME .
 1phads.com CNAME .
@@ -6009,6 +6017,7 @@ disticked.club CNAME .
 distilled.ie CNAME .
 distinctcoherentmean.com CNAME .
 distinctionlatent.com CNAME .
+distinctleftmargaret.com CNAME .
 distinethout.info CNAME .
 distractchafe.com CNAME .
 distraughtbudge.com CNAME .
@@ -11019,6 +11028,7 @@ rearrangeapostrophemargarita.com CNAME .
 rearroges.xyz CNAME .
 reasonsteamconcrete.com CNAME .
 reasonzoodeport.com CNAME .
+rebiraert.com CNAME .
 rebrancardera.site CNAME .
 rebuildcroakdeployment.com CNAME .
 recablesaccule.casa CNAME .
@@ -16863,6 +16873,7 @@ d2c4ylitp1qu24.cloudfront.net CNAME .
 d2cgumzzqhgmdu.cloudfront.net CNAME .
 d2d8qsxiai9qwj.cloudfront.net CNAME .
 d2edfzx4ay42og.cloudfront.net CNAME .
+d2fbvay81k4ji3.cloudfront.net CNAME .
 d2focgxak1cn74.cloudfront.net CNAME .
 d2g9nmtuil60cb.cloudfront.net CNAME .
 d2ghscazvn398x.cloudfront.net CNAME .
@@ -17980,6 +17991,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+restisbench.com CNAME .
 cdn.trackclicks.info CNAME .
 mm.actionlink.jp CNAME .
 btloader.com CNAME .
@@ -22045,6 +22057,8 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+klik.nrc.nl CNAME .
+uie.data.cbc.ca CNAME .
 ub.finanzfrage.net CNAME .
 slike.indiatimes.com CNAME .
 smetrics.foxnews.com CNAME .
@@ -23700,8 +23714,6 @@ analytics.qoqa.com CNAME .
 ; Relap - avoid breaking their website on desktop
 ; but make sure it's blocked in apps
 ;+ PLATFORM(ios, android)
-;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
-;
 api.telemetry.watchabc.go.com CNAME .
 analytics.rover.io CNAME .
 events-collector-api.viacom.tech CNAME .
@@ -24022,6 +24034,7 @@ analy.qq.com CNAME .
 ;
 ; Revolving trackers
 apxl.io CNAME .
+bydst.com CNAME .
 cloudwp.io CNAME .
 g2377012020.co CNAME .
 g2575096355.co CNAME .
@@ -24555,7 +24568,6 @@ pulseinsights.com CNAME .
 pushauction.com CNAME .
 pvd.to CNAME .
 pxaction.com CNAME .
-pxchk.net CNAME .
 pzz.events CNAME .
 qflm.net CNAME .
 qlitics.com CNAME .
@@ -25411,6 +25423,7 @@ data.beop.io CNAME .
 data.circulate.com CNAME .
 data.imakenews.com CNAME .
 data.minute.ly CNAME .
+data.nexxt.com CNAME .
 data.queryly.com CNAME .
 data.studybreakmedia.com CNAME .
 data.woosmap.com CNAME .
@@ -25462,6 +25475,7 @@ events.splash-screen.net CNAME .
 events.split.io CNAME .
 events.yourcx.io CNAME .
 eventtracker.videostrip.com CNAME .
+evt.houzz.com CNAME .
 exacttarget.com CNAME .
 f-log-at.grammarly.io CNAME .
 f-log-test.grammarly.io CNAME .
@@ -25511,6 +25525,7 @@ imp.clickability.com CNAME .
 imp.constantcontact.com CNAME .
 imp.pvnsolutions.com CNAME .
 impress.vcita.com CNAME .
+ingest.make.rvapps.io CNAME .
 insight.mintel.com CNAME .
 insight.rapid7.com CNAME .
 insights.algolia.io CNAME .
@@ -26824,6 +26839,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+qotank.com CNAME .
 popadon.com CNAME .
 gevnqh.com CNAME .
 r.2ad.wtf CNAME .
@@ -33401,6 +33417,9 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+bjxgw.top CNAME .
+lqunionsoft.top CNAME .
+longbaojiachen.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36146,6 +36165,17 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+9xwk68.cn CNAME .
+amvecurt.cn CNAME .
+erkui.tech CNAME .
+zhwyjd.cn CNAME .
+xinxbh.cn CNAME .
+ieatlu.xyz CNAME .
+ouxutong.com CNAME .
+cqut.ltd CNAME .
+e92k49.com CNAME .
+truecrimesss.com CNAME .
+ledaren.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
