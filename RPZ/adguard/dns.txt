@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-21T18:03:59.159Z
+; Last modified: 2021-07-22T00:14:43.464Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -33401,12 +33401,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-guirui-clothes.com CNAME .
-bujiangjiu123.com CNAME .
-xiji-express.com CNAME .
-sparkyinchun.com CNAME .
-th-make.com CNAME .
-297772.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33478,6 +33472,7 @@ th-make.com CNAME .
 28wangmeng.com CNAME .
 292812.com CNAME .
 293870.com CNAME .
+297772.com CNAME .
 29wjns.com CNAME .
 2d-c.cn CNAME .
 2g2h.com CNAME .
@@ -33759,6 +33754,7 @@ bts05.site CNAME .
 btssy.net CNAME .
 btwan5.com CNAME .
 bufamy.com CNAME .
+bujiangjiu123.com CNAME .
 buydee.org CNAME .
 buyihao.com CNAME .
 bv8888.com CNAME .
@@ -34035,6 +34031,7 @@ guang8.cc CNAME .
 guanmeixiangsu.com CNAME .
 guduopu.com CNAME .
 guidashu.com CNAME .
+guirui-clothes.com CNAME .
 guominziben.com CNAME .
 guotaotaoci.net CNAME .
 guoxintdh.com CNAME .
@@ -34635,6 +34632,7 @@ smxsg.com CNAME .
 snnnyy.com CNAME .
 so9l.com CNAME .
 soulplp.com CNAME .
+sparkyinchun.com CNAME .
 spcode.baidu.com CNAME .
 spectram.pro CNAME .
 spxnet.com CNAME .
@@ -34696,6 +34694,7 @@ techantuijian.com CNAME .
 tencent.xn--io0a7i CNAME .
 tequanma.com CNAME .
 tesfw.com CNAME .
+th-make.com CNAME .
 th21333.com CNAME .
 thishare.com CNAME .
 tiangu99.com CNAME .
@@ -34866,6 +34865,7 @@ xianguangergaozhi.com CNAME .
 xiarikui08.com CNAME .
 xihashuale.com CNAME .
 xihuangdushu.com CNAME .
+xiji-express.com CNAME .
 xilele.com CNAME .
 xingjuhe.com CNAME .
 xinlongrubber.com CNAME .
@@ -36146,13 +36146,6 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-bronya.club CNAME .
-bolijiupingchang.com CNAME .
-guoshihuaiyao.com CNAME .
-diandongchetoukui.com CNAME .
-importcat.com CNAME .
-xinghualinghang.com CNAME .
-zwwl.shop CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36434,12 +36427,14 @@ bmuju.com CNAME .
 bndbddt.top CNAME .
 bntxt.com CNAME .
 bodapet.com CNAME .
+bolijiupingchang.com CNAME .
 bolili.info CNAME .
 bostonceltics.com.cn CNAME .
 bowei666.xyz CNAME .
 boweineng.cn CNAME .
 bqhnj.cn CNAME .
 bridline.cn CNAME .
+bronya.club CNAME .
 brysj.vip CNAME .
 btbalex.cn CNAME .
 bugcreator.cn CNAME .
@@ -36605,6 +36600,7 @@ dgaoz.com CNAME .
 dglscm.cn CNAME .
 dgxzwj.com CNAME .
 dhdgkj.com CNAME .
+diandongchetoukui.com CNAME .
 diangezan.me CNAME .
 dianshihuanping.cn CNAME .
 dibyc.com CNAME .
@@ -36802,6 +36798,7 @@ guannin.com CNAME .
 guansenff.cn CNAME .
 guiyimq.fun CNAME .
 guoduand.cn CNAME .
+guoshihuaiyao.com CNAME .
 guvdfs.cn CNAME .
 gxdianhua.com CNAME .
 gxfc2021.top CNAME .
@@ -36953,6 +36950,7 @@ iibahmd.cn CNAME .
 iigushi.com CNAME .
 imgxb.top CNAME .
 imiek.com CNAME .
+importcat.com CNAME .
 impresacisaf.com CNAME .
 increased.cn CNAME .
 indiebuff.cn CNAME .
@@ -37833,6 +37831,7 @@ xiaoshuoyun.cn CNAME .
 xieyanmin.com.cn CNAME .
 xingchenweb.top CNAME .
 xinghao89.com CNAME .
+xinghualinghang.com CNAME .
 xingnu.site CNAME .
 xingpingmaoyi.cn CNAME .
 xingsky.cn CNAME .
@@ -38072,6 +38071,7 @@ zutodu.cn CNAME .
 zvqbbj.cn CNAME .
 zwhkug.cn CNAME .
 zwkssb.com CNAME .
+zwwl.shop CNAME .
 zwychain.cn CNAME .
 zxglpj.cn CNAME .
 zxhymh.com CNAME .
