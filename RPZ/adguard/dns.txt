@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-22T18:03:52.499Z
+; Last modified: 2021-07-23T06:03:45.691Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -24116,6 +24116,7 @@ adunity.com CNAME .
 advalo.com CNAME .
 adways.com CNAME .
 adxcel-ec2.com CNAME .
+affilired.com CNAME .
 afftrack.pro CNAME .
 agentanalytics.com CNAME .
 agrvt.com CNAME .
@@ -25152,19 +25153,12 @@ teenytinycellar.com CNAME .
 3p-geo.yahoo.com CNAME .
 51network.com CNAME .
 aan.amazon.com CNAME .
-abc.hearst.co.uk CNAME .
-acount.alley.ws CNAME .
-activetracker.activehotels.com CNAME .
-activities.niagara.comedycentral.com CNAME .
-activity.*.miui.com CNAME .
 ad-shield.io CNAME .
 ad.aloodo.com CNAME .
 adfox.yandex.ru CNAME .
 adlog.com.com CNAME .
-affiliate.iamplify.com CNAME .
 affiliates.mgmmirage.com CNAME .
 affiliates.minglematch.com CNAME .
-affiliates.purevpn.com CNAME .
 air.audioeye.com CNAME .
 alexandria.marfeelcdn.com CNAME .
 amplify.outbrain.com CNAME .
@@ -26772,7 +26766,6 @@ ads.prisacom.com CNAME .
 adserver.clix.pt CNAME .
 adsmwt.com CNAME .
 adsroute.com CNAME .
-affilired.com CNAME .
 afilio.com.br CNAME .
 analytics.teleclal.com CNAME .
 antevenio.com CNAME .
@@ -33417,9 +33410,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-bjxgw.top CNAME .
-lqunionsoft.top CNAME .
-longbaojiachen.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -33751,6 +33741,7 @@ bingyinq.com CNAME .
 biohailijie.cn CNAME .
 bj-bytsk.com CNAME .
 bjgtsh.com CNAME .
+bjxgw.top CNAME .
 bjytdqwx.com CNAME .
 bjzsyx.cn CNAME .
 bla01.com CNAME .
@@ -34361,11 +34352,13 @@ llguandongyan.com CNAME .
 llqss.top CNAME .
 loclog.cn CNAME .
 log.interest.mix.sina.com.cn CNAME .
+longbaojiachen.top CNAME .
 longchengtg.com CNAME .
 lovestyl.com CNAME .
 lovexia.top CNAME .
 lpjxzs.com CNAME .
 lpsgc.cn CNAME .
+lqunionsoft.top CNAME .
 lsaeb.com CNAME .
 lsxmg.com CNAME .
 ltcprtc.com CNAME .
@@ -36165,17 +36158,8 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-9xwk68.cn CNAME .
-amvecurt.cn CNAME .
-erkui.tech CNAME .
-zhwyjd.cn CNAME .
-xinxbh.cn CNAME .
-ieatlu.xyz CNAME .
-ouxutong.com CNAME .
-cqut.ltd CNAME .
-e92k49.com CNAME .
-truecrimesss.com CNAME .
-ledaren.cn CNAME .
+euler7.club CNAME .
+kenxr.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36297,6 +36281,7 @@ ledaren.cn CNAME .
 996f3d.cn CNAME .
 9ucm.com CNAME .
 9weg7b.com CNAME .
+9xwk68.cn CNAME .
 9y88.com CNAME .
 a3pz36.cn CNAME .
 a3vy69.cn CNAME .
@@ -36362,6 +36347,7 @@ aly766.com CNAME .
 am77p.cn CNAME .
 amghais.cn CNAME .
 amghvzn.cn CNAME .
+amvecurt.cn CNAME .
 andrewsolicitors.com CNAME .
 anhaochem.com CNAME .
 anhuigecui.cn CNAME .
@@ -36572,6 +36558,7 @@ cqdjhj.cn CNAME .
 cqerbihou.com CNAME .
 cqgya.com CNAME .
 cqshaseng.com CNAME .
+cqut.ltd CNAME .
 cs12d.com CNAME .
 csalsylqx.com CNAME .
 cshwhy.cn CNAME .
@@ -36669,6 +36656,7 @@ dyuadask.com CNAME .
 dzooo.cn CNAME .
 dzrenju2.cn CNAME .
 dzxzx.cn CNAME .
+e92k49.com CNAME .
 e9emh.cn CNAME .
 ealcrrm.cn CNAME .
 ebuysolar.com CNAME .
@@ -36689,6 +36677,7 @@ enjuw.com CNAME .
 enzenet.cn CNAME .
 erhfnv.cn CNAME .
 erkesi.cn CNAME .
+erkui.tech CNAME .
 esure.wang CNAME .
 esuzm.cn CNAME .
 esyzdb.com CNAME .
@@ -36972,6 +36961,7 @@ i87b3.cn CNAME .
 ia22.com CNAME .
 ic86doc.com CNAME .
 identified.cn CNAME .
+ieatlu.xyz CNAME .
 if-yn.com CNAME .
 ihais.com CNAME .
 ihear123.com CNAME .
@@ -37154,6 +37144,7 @@ lantuyj.com CNAME .
 lanzuankeji.cn CNAME .
 lawumi.cn CNAME .
 lcrmm.top CNAME .
+ledaren.cn CNAME .
 legozu.com CNAME .
 leixigroup.com CNAME .
 lejuyoujia2019.com CNAME .
@@ -37369,6 +37360,7 @@ opyyy.com CNAME .
 osndy.com CNAME .
 osqoglv.cn CNAME .
 ouhwjdv.cn CNAME .
+ouxutong.com CNAME .
 ovoawh.com CNAME .
 ow*.biqugego.com CNAME .
 ox11.com CNAME .
@@ -37694,6 +37686,7 @@ tpool.cn CNAME .
 travel-together.cn CNAME .
 trhccn.cn CNAME .
 trpsm.xyz CNAME .
+truecrimesss.com CNAME .
 tsgyg.cn CNAME .
 tsrc8.com CNAME .
 ttbc33.com CNAME .
@@ -37869,6 +37862,7 @@ xinheshengmce.com CNAME .
 xinqiannv.com CNAME .
 xintaizhaoming.com CNAME .
 xintengfeiyang.info CNAME .
+xinxbh.cn CNAME .
 xinyuanstudio.com CNAME .
 xisea.top CNAME .
 xiuqixuan.cn CNAME .
@@ -38067,6 +38061,7 @@ zhuanyule.cn CNAME .
 zhuhaiqilu.cn CNAME .
 zhujiafangchan.cn CNAME .
 zhuzaogangqiu.com CNAME .
+zhwyjd.cn CNAME .
 zhywyl.cn CNAME .
 zichunping.cn CNAME .
 zimingdh.com CNAME .
