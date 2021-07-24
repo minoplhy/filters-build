@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-23T18:03:52.930Z
+; Last modified: 2021-07-24T06:03:29.108Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -23786,9 +23786,10 @@ analytics.qoqa.com CNAME .
 ; but make sure it's blocked in apps
 ;+ PLATFORM(ios, android)
 api.telemetry.watchabc.go.com CNAME .
+browser.events.data.microsoft.com CNAME .
 analytics.rover.io CNAME .
 events-collector-api.viacom.tech CNAME .
-events.data.microsoft.com CNAME .
+self.events.data.microsoft.com CNAME .
 pipe.aria.microsoft.com CNAME .
 log-api.aillis.net CNAME .
 log.snow.me CNAME .
@@ -24148,6 +24149,7 @@ lltrck.com CNAME .
 loloclicks.biz CNAME .
 mors22.com CNAME .
 nxakpj4ac8gkd53.info CNAME .
+r42tag.com CNAME .
 sbgsodufuosmmvsdf.info CNAME .
 site24x7rum.eu CNAME .
 truffle.bid CNAME .
@@ -33489,6 +33491,10 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+397773.com CNAME .
+govxian.cn CNAME .
+dailiqing.net CNAME .
+jfsm5.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35487,6 +35493,7 @@ yybx.oss-cn-hangzhou.aliyuncs.com CNAME .
 z.nowscore.com CNAME .
 zt2088.com CNAME .
 ztyumn.ifeng.com CNAME .
+874547.men CNAME .
 ad.10010.com CNAME rpz-passthru.
 ad.abchina.com CNAME rpz-passthru.
 ad.kazakinfo.com CNAME rpz-passthru.
@@ -36237,16 +36244,8 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-zjlovexb.xyz CNAME .
-ayun.ltd CNAME .
-dayouyuanliao.com CNAME .
-pjfrsc.cn CNAME .
-3721fuli.cn CNAME .
-wyafelk.cn CNAME .
-fnggukz.cn CNAME .
-wxtuoke.cn CNAME .
-euler7.club CNAME .
-kenxr.com CNAME .
+jxbear.xyz CNAME .
+qzyfpfyy.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36298,6 +36297,7 @@ kenxr.com CNAME .
 355262.com CNAME .
 35kds.com CNAME .
 365syt.cn CNAME .
+3721fuli.cn CNAME .
 377zt.cn CNAME .
 381s.net CNAME .
 387635.com CNAME .
@@ -36465,6 +36465,7 @@ awtks.com CNAME .
 awyys.com CNAME .
 axizb.cn CNAME .
 axuns.com CNAME .
+ayun.ltd CNAME .
 b2b5.net CNAME .
 babalink.net CNAME .
 babalink.top CNAME .
@@ -36684,6 +36685,7 @@ daokejs.com CNAME .
 dasheducation.cn CNAME .
 daskm.com CNAME .
 datazhan.com CNAME .
+dayouyuanliao.com CNAME .
 dbxnvh.cn CNAME .
 dceni.com CNAME .
 dd-lightingshow.com CNAME .
@@ -36768,6 +36770,7 @@ erkui.tech CNAME .
 esure.wang CNAME .
 esuzm.cn CNAME .
 esyzdb.com CNAME .
+euler7.club CNAME .
 evzimlox.cn CNAME .
 exusr.com CNAME .
 ezfashion.com.cn CNAME .
@@ -36815,6 +36818,7 @@ fll007.com CNAME .
 flmcju.cn CNAME .
 fmketang.cn CNAME .
 fnbocll.cn CNAME .
+fnggukz.cn CNAME .
 fnwll.cn CNAME .
 forwardhard.cn CNAME .
 fouas.com CNAME .
@@ -37195,6 +37199,7 @@ kbstyn.com CNAME .
 kddlearn.cn CNAME .
 keilb.xyz CNAME .
 kejiadoor.cn CNAME .
+kenxr.com CNAME .
 keran.hl.cn CNAME .
 ketaoke.com CNAME .
 keyand.xyz CNAME .
@@ -37477,6 +37482,7 @@ pingseli.com CNAME .
 pingyuanshenghuo.cn CNAME .
 pinkmore.cn CNAME .
 pjbjzf.com CNAME .
+pjfrsc.cn CNAME .
 pjlcrab.top CNAME .
 pkbook.com.cn CNAME .
 pkyxdwj.cn CNAME .
@@ -37906,6 +37912,8 @@ wxbdwj.cn CNAME .
 wxebgpj.cn CNAME .
 wxhdwy.com CNAME .
 wxskqy.cn CNAME .
+wxtuoke.cn CNAME .
+wyafelk.cn CNAME .
 wywna.cn CNAME .
 wyxcb6.top CNAME .
 wzjs1.oss-accelerate.aliyuncs.com CNAME .
@@ -38160,6 +38168,7 @@ zizcy.com CNAME .
 zjjrlx4.com CNAME .
 zjksgl.com CNAME .
 zjlfqf.com CNAME .
+zjlovexb.xyz CNAME .
 zjxkdq.cn CNAME .
 zkba9.cn CNAME .
 zkwsdf.com CNAME .
