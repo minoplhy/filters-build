@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-24T06:03:29.108Z
+; Last modified: 2021-07-24T18:03:23.936Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,8 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+sharpycurvet.com CNAME .
+03ed9035a0801f.com CNAME .
 8jay04c4q7te.com CNAME .
 waugique.net CNAME .
 teeglimu.com CNAME .
@@ -32606,8 +32608,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 23 Jul 2021 14:34 UTC+7
-; OriginalVersion: 2107231434
+; Last modified: 24 Jul 2021 20:06 UTC+7
+; OriginalVersion: 2107242006
 ; Blocked: 923 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -36244,6 +36246,14 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+web0513.com CNAME .
+6255875.com CNAME .
+tiqu.io CNAME .
+jzhxzsgs.com CNAME .
+wy95.xyz CNAME .
+arhat.io CNAME .
+xinghuolm.top CNAME .
+haoweb.top CNAME .
 jxbear.xyz CNAME .
 qzyfpfyy.com CNAME .
 01tn.cn CNAME .
