@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-25T18:03:25.505Z
+; Last modified: 2021-07-26T06:07:58.739Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+medfoodspace.com CNAME .
 skatestooped.com CNAME .
 aj1559.online CNAME .
 cellaraudacityslack.com CNAME .
@@ -31624,6 +31625,7 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
+waqool.com CNAME .
 ad.nwi.jp CNAME .
 devo.jp CNAME .
 ad.ddo.jp CNAME .
@@ -36294,9 +36296,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-swaa.top CNAME .
-nbsave.xyz CNAME .
-mtoalv.cn CNAME .
+yjjc.xyz CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37421,6 +37421,7 @@ mrjfsc.cn CNAME .
 mrzhifu.net CNAME .
 msccabin.com CNAME .
 mtcat.cn CNAME .
+mtoalv.cn CNAME .
 mudezs.com CNAME .
 mvlkvth.cn CNAME .
 mx.loubiqu.com CNAME .
@@ -37445,6 +37446,7 @@ naolifanghealth.com CNAME .
 nashlin.top CNAME .
 nazhenkj.com CNAME .
 nbhotpo.com CNAME .
+nbsave.xyz CNAME .
 nbwmsod.cn CNAME .
 ncoyqc.com CNAME .
 ndusa.cn CNAME .
@@ -37740,6 +37742,7 @@ superbao.top CNAME .
 svfwer.top CNAME .
 sviss.top CNAME .
 sw9t.ml CNAME .
+swaa.top CNAME .
 swq48b.cn CNAME .
 swyhome.com CNAME .
 sx9zy.cn CNAME .
