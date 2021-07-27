@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-26T18:05:55.687Z
+; Last modified: 2021-07-27T18:03:24.965Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,14 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+auchoons.net CNAME .
+deliberatelycube.com CNAME .
+gardourd.com CNAME .
+mutilatecoast.com CNAME .
+travelingturtleharmonious.com CNAME .
+gigacpmserv.com CNAME .
+greeter.me CNAME .
+300daytravel.com CNAME .
 wolvespermanent.com CNAME .
 creative.leojmp.com CNAME .
 nettierbrakier.com CNAME .
@@ -931,7 +939,6 @@ notification-centar.com CNAME .
 pushisback.com CNAME .
 popcent.net CNAME .
 redirect750.us CNAME .
-healmsuoguurd.eu CNAME .
 protection-phone.club CNAME .
 digiadzone.com CNAME .
 cogleapad.com CNAME .
@@ -2754,6 +2761,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+awrfds3.pornpapa.com CNAME .
 d1tpwjufge3qqa.cloudfront.net CNAME .
 d1ev866ubw90c6.cloudfront.net CNAME .
 nugh2om.txxx.com CNAME .
@@ -2954,7 +2962,6 @@ llog.pl CNAME .
 ;
 bsxmuny.wp.pl CNAME .
 fusion.sydsvenskan.se CNAME .
-ad.juksy.com CNAME .
 ; https://github.com/AdguardTeam/AdguardFilters/issues/54242
 /movie1168\.com\/storage\/go\/[0-9a-zA-Z]{0,40}\.gif/ CNAME .
 ; https://github.com/AdguardTeam/AdguardFilters/issues/51547
@@ -18093,6 +18100,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+microanalytics.io CNAME .
 tracking.sexcash.com CNAME .
 fastly-insights.com CNAME .
 restisbench.com CNAME .
@@ -22163,6 +22171,10 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+t.imgur.com CNAME .
+counter1.fc2.com CNAME .
+analyzer*.fc2.com CNAME .
+analyzer52.fc2.com CNAME .
 klik.nrc.nl CNAME .
 uie.data.cbc.ca CNAME .
 ub.finanzfrage.net CNAME .
@@ -22631,7 +22643,6 @@ analytics.volvocars.com CNAME .
 analytics.wetpaint.me CNAME .
 analytics.whatculture.com CNAME .
 analyze.yahooapis.com CNAME .
-analyzer52.fc2.com CNAME .
 atax.gamespy.com CNAME .
 atax.gamestats.com CNAME .
 atax.ign.com CNAME .
@@ -24235,7 +24246,6 @@ affilired.com CNAME .
 afftrack.pro CNAME .
 agentanalytics.com CNAME .
 agrvt.com CNAME .
-airbrake.io CNAME .
 airserve.net CNAME .
 aivalabs.com CNAME .
 amnet.tw CNAME .
@@ -31612,7 +31622,6 @@ adntokyo.gunosy.com CNAME .
 creatives.gunosy.com CNAME .
 ;
 ; Fc2.com
-analyzer*.fc2.com CNAME .
 media5.fc2.com CNAME .
 ;
 ; Excite.co.jp
@@ -32654,9 +32663,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 24 Jul 2021 20:06 UTC+7
-; OriginalVersion: 2107242006
-; Blocked: 923 rules
+; Last modified: 27 Jul 2021 17:29 UTC+7
+; OriginalVersion: 2107271729
+; Blocked: 924 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33525,6 +33534,7 @@ hashearog.com CNAME .
 irduwhojas.ga CNAME .
 kaurroot.com CNAME .
 larpollicwilli.club CNAME .
+lib1.biz CNAME .
 news-good.net CNAME .
 rituationscardb.info CNAME .
 sacchaeleduk.com CNAME .
@@ -35563,7 +35573,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-a.baidinet.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35668,6 +35677,7 @@ a.78yx.net CNAME .
 a.91nets.cn CNAME .
 a.91zhongkao.com CNAME .
 a.armystar.com CNAME .
+a.baidinet.com CNAME .
 a.bake818.cn CNAME .
 a.duanmeiwen.com CNAME .
 a.duduji.com CNAME .
@@ -36294,10 +36304,11 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-ltyonej.cn CNAME .
-lkle.top CNAME .
-jdwxshfw.cn CNAME .
-yjjc.xyz CNAME .
+wangtianci.cn CNAME .
+guideserv.cn CNAME .
+201767.cn CNAME .
+xzhcedu.cn CNAME .
+wangmiao.xyz CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37147,6 +37158,7 @@ jcboloni.cn CNAME .
 jcwwxn.com CNAME .
 jdgcjx.cn CNAME .
 jdgsgl.com CNAME .
+jdwxshfw.cn CNAME .
 jdzlxtc.com CNAME .
 jfgcxj.com CNAME .
 jgcq3003.com CNAME .
@@ -37330,6 +37342,7 @@ liyelaowu.cn CNAME .
 ljg79.work CNAME .
 ljggc.com CNAME .
 ljmei.com CNAME .
+lkle.top CNAME .
 llqd5.cn CNAME .
 lmdknj.xxbiquge.net CNAME .
 lnalttc.com CNAME .
@@ -37350,6 +37363,7 @@ lrwgc.com CNAME .
 lscckgm.cn CNAME .
 lshmjz.com CNAME .
 ltaome.cn CNAME .
+ltyonej.cn CNAME .
 lusrg.cn CNAME .
 luxoshopde.com CNAME .
 luyouxi.cn CNAME .
@@ -38118,6 +38132,7 @@ yiyu-fz.cn CNAME .
 yiyuantian.com CNAME .
 yjegf.com CNAME .
 yjiaj.com CNAME .
+yjjc.xyz CNAME .
 yjxqy.com CNAME .
 ykanx.com CNAME .
 ykpbgqc.top CNAME .

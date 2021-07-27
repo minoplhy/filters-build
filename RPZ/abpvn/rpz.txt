@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 24 Jul 2021 20:06 UTC+7
+; Updated: 27 Jul 2021 17:29 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -14101,6 +14101,21 @@ segment-data-us-west.zqtk.net CNAME .
 segment-data.zqtk.net CNAME .
 t.zqtk.net CNAME .
 zqtk.net CNAME .
+;[fouanalytics.com]
+adsbydomain.fouanalytics.com CNAME .
+api.fouanalytics.com CNAME .
+fouanalytics.com CNAME .
+pagexray-eu.fouanalytics.com CNAME .
+pagexray.fouanalytics.com CNAME .
+www.fouanalytics.com CNAME .
+;[urlhausa.com]
+cdn.urlhausa.com CNAME .
+t.urlhausa.com CNAME .
+urlhausa.com CNAME .
+;[qrlsx.com]
+qrlsx.com CNAME .
+v3.qrlsx.com CNAME .
+vo2.qrlsx.com CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
 adtimaserver.vn CNAME .
@@ -16059,6 +16074,7 @@ hashearog.com CNAME .
 irduwhojas.ga CNAME .
 kaurroot.com CNAME .
 larpollicwilli.club CNAME .
+lib1.biz CNAME .
 news-good.net CNAME .
 rituationscardb.info CNAME .
 sacchaeleduk.com CNAME .
@@ -17241,7 +17257,6 @@ bbelements.com CNAME .
 bcfads.com CNAME .
 bcmediagroup.com CNAME .
 beabsolom.com CNAME .
-beacon.gu-web.net CNAME .
 beaconacceptable.com CNAME .
 bead-ad.com CNAME .
 beamincrease.com CNAME .
@@ -18153,6 +18168,7 @@ illfatedsnail.com CNAME .
 illustriousoatmeal.com CNAME .
 iloopmobile.com CNAME .
 ilovecheating.com CNAME .
+ilyf4amifh.com CNAME .
 imagecash.net CNAME .
 images-pw.secureserver.net CNAME .
 images.footballaddicts.se CNAME .
@@ -18748,6 +18764,7 @@ oustoope.com CNAME .
 out-there-media.com CNAME .
 outtimburrtor.com CNAME .
 overture.com CNAME .
+ovlliiwtxgjlz.com CNAME .
 ovyiakt1wzqz.com CNAME .
 owebmoney.ru CNAME .
 owlsr.us CNAME .
@@ -19235,6 +19252,7 @@ sistacked.com CNAME .
 sitedataprocessing.com CNAME .
 sitemeter.com CNAME .
 sitestat.com CNAME .
+sitetoway.com CNAME .
 sixscissors.com CNAME .
 sixsigmatraffic.com CNAME .
 sizesidewalk.com CNAME .
@@ -19265,6 +19283,7 @@ sms.otair.com CNAME .
 snapgiant.com CNAME .
 sneakystamp.com CNAME .
 snoobi.com CNAME .
+snowdayonline.xyz CNAME .
 socialspark.com CNAME .
 softclick.com.br CNAME .
 sojern.com CNAME .
@@ -19469,6 +19488,7 @@ textads.biz CNAME .
 textlinks.com CNAME .
 tgvbwjbnxz.com CNAME .
 tgzobwoutuwn.com CNAME .
+thanosofcos5.com CNAME .
 tharbadir.com CNAME .
 theadex.com CNAME .
 theadhost.com CNAME .
@@ -19665,6 +19685,7 @@ utarget.co.uk CNAME .
 utils.mediageneral.net CNAME .
 uttermosthobbies.com CNAME .
 uyunad.com CNAME .
+uzxkuwalnjp.com CNAME .
 valegaj.com CNAME .
 validclick.com CNAME .
 valuead.com CNAME .
@@ -19681,6 +19702,7 @@ veinteractive.com CNAME .
 velocecdn.com CNAME .
 velocitycdn.com CNAME .
 velti.com CNAME .
+venetrigni.com CNAME .
 ventivmedia.com CNAME .
 venuegirtjive.com CNAME .
 verblife-3.co CNAME .
@@ -20113,6 +20135,7 @@ bafuhotel.com CNAME .
 bango.net CNAME .
 batchlogging4.truecaller.com CNAME .
 beacon-api.aliyuncs.com CNAME .
+beacon.gu-web.net CNAME .
 beacon.riskified.com CNAME .
 beacon.shazam.com CNAME .
 beampulse.com CNAME .
@@ -20330,10 +20353,10 @@ online-prod.zenmxapps.com CNAME .
 opensharecount.com CNAME .
 ophan.theguardian.com CNAME .
 optnmstr.com CNAME .
-p.trvdp.com CNAME .
 p.typekit.net CNAME .
 pebed.dm.gg CNAME .
 pegloang.com CNAME .
+phar.gu-web.net CNAME .
 ping.kitidi.com CNAME .
 pingback.issuu.com CNAME .
 pipedream.wistia.com CNAME .
