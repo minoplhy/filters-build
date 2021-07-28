@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-28T06:03:53.549Z
+; Last modified: 2021-07-28T12:06:00.178Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+pbprof.com CNAME .
+admost-banner.b-cdn.net CNAME .
+claring-loccelkin.com CNAME .
 auchoons.net CNAME .
 deliberatelycube.com CNAME .
 gardourd.com CNAME .
@@ -2761,6 +2764,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+ads-dot-fbc-web-2018.uc.r.appspot.com CNAME .
 awrfds3.pornpapa.com CNAME .
 d1tpwjufge3qqa.cloudfront.net CNAME .
 d1ev866ubw90c6.cloudfront.net CNAME .
@@ -18101,6 +18105,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+tag.search.sensefuel.live CNAME .
+api.dataunlocker.com CNAME .
 microanalytics.io CNAME .
 tracking.sexcash.com CNAME .
 fastly-insights.com CNAME .
@@ -22172,10 +22178,11 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+monitoring.youronlinechoices.com CNAME .
+1bw7etm93lf.www.woodbrass.com CNAME .
 t.imgur.com CNAME .
 counter1.fc2.com CNAME .
 analyzer*.fc2.com CNAME .
-analyzer52.fc2.com CNAME .
 klik.nrc.nl CNAME .
 uie.data.cbc.ca CNAME .
 ub.finanzfrage.net CNAME .
@@ -24198,6 +24205,7 @@ g8517626405.co CNAME .
 g8715710740.co CNAME .
 g8913795075.co CNAME .
 g9111879410.co CNAME .
+ldnlyap.com CNAME .
 lltrck.com CNAME .
 loloclicks.biz CNAME .
 mors22.com CNAME .
@@ -32098,6 +32106,23 @@ t.njzrxx.xyz CNAME .
 yqrta.xyz CNAME .
 zjgfq.com CNAME .
 ;
+; Source name: AdGuard Dutch filter ad servers
+; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers.txt
+;
+;
+; Section contains list of advertising networks
+;
+pexi.nl CNAME .
+adconfigproxy.azurewebsites.net CNAME .
+;
+; Source name: AdGuard Dutch filter ad servers first-party
+; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/DutchFilter/sections/adservers_firstparty.txt
+;
+;
+; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
+;
+content2.nrc.nl CNAME .
+;
 ; Source name: EasyList Germany ad servers
 ; Source: https://raw.githubusercontent.com/easylist/easylistgermany/master/easylistgermany/easylistgermany_adservers.txt
 ;
@@ -36312,6 +36337,7 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+rtkyvd.xyz CNAME .
 huzhu.group CNAME .
 jwyl.ltd CNAME .
 iwucoz.cn CNAME .
@@ -38354,6 +38380,7 @@ abcounter.de CNAME .
 adc.api.nine.com.au CNAME .
 ; https://github.com/AdguardTeam/AdguardDNS/issues/52
 mobileanalytics.*.amazonaws.com CNAME .
+analyzer52.fc2.com CNAME .
 clientlog.portal.office.com CNAME .
 collect.sas.com CNAME .
 collect2.sas.com CNAME .
