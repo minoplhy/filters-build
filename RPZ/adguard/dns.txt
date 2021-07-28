@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-27T18:03:24.965Z
+; Last modified: 2021-07-28T06:03:53.549Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -5179,6 +5179,7 @@ cigaretteprovenaffected.com CNAME .
 cigarettywu.club CNAME .
 ciksolre.net CNAME .
 cilcountee.top CNAME .
+cimg.co CNAME .
 ciqguphollyj.com CNAME .
 circuitrestbeds.com CNAME .
 circumferencefurfavour.com CNAME .
@@ -5435,7 +5436,6 @@ conjeller-chikemon.com CNAME .
 connectad.io CNAME .
 connectignite.com CNAME .
 connectionads.com CNAME .
-connexity.net CNAME .
 connexplace.com CNAME .
 connextra.com CNAME .
 conqueredcousin.com CNAME .
@@ -14982,6 +14982,7 @@ commissionfactory.com.au CNAME .
 commissionmonster.com CNAME .
 communicationads.net CNAME .
 comscore.com CNAME .
+connexity.net CNAME .
 consumable.com CNAME .
 contaxe.com CNAME .
 content-cooperation.com CNAME .
@@ -24160,6 +24161,7 @@ altopd.com CNAME .
 apxl.io CNAME .
 bydst.com CNAME .
 cloudwp.io CNAME .
+e1e.io CNAME .
 g2377012020.co CNAME .
 g2575096355.co CNAME .
 g2773180690.co CNAME .
@@ -24629,6 +24631,7 @@ nitropay.com CNAME .
 nmrodam.com CNAME .
 noibu.com CNAME .
 northstartravelmedia.com CNAME .
+ns8.com CNAME .
 ns8ds.com CNAME .
 nuloox.com CNAME .
 nyltx.com CNAME .
@@ -24752,6 +24755,7 @@ searchenginegenie.com CNAME .
 securitytrfx.com CNAME .
 seeip.org CNAME .
 seevolution.com CNAME .
+segmetrics.io CNAME .
 selectmedia.asia CNAME .
 sellebrity.com CNAME .
 sellpoint.net CNAME .
@@ -24853,6 +24857,7 @@ trackonomics.net CNAME .
 traffer.net CNAME .
 trafficfuel.com CNAME .
 trafficguard.ai CNAME .
+trafficroots.com CNAME .
 transactionale.com CNAME .
 traq.li CNAME .
 traversedlp.com CNAME .
@@ -25627,6 +25632,7 @@ geo.mezr.com CNAME .
 geo.q5media.net CNAME .
 geo.thehindu.com CNAME .
 geobar.ziffdavisinternational.com CNAME .
+geoip.cookieyes.com CNAME .
 geoip.nekudo.com CNAME .
 geolocation.outreach.com CNAME .
 go.toutapp.com CNAME .
@@ -25818,6 +25824,7 @@ smrt.as CNAME .
 snaps.vidiemi.com CNAME .
 snowplow.swm.digital CNAME .
 speedtrap.shopdirect.com CNAME .
+ssa.stepstone.com CNAME .
 ssr.streamrail.net CNAME .
 st.cdnco.us CNAME .
 st.linkfire.com CNAME .
@@ -33550,6 +33557,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+baidu-image-qqcom.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36304,11 +36312,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-wangtianci.cn CNAME .
-guideserv.cn CNAME .
-201767.cn CNAME .
-xzhcedu.cn CNAME .
-wangmiao.xyz CNAME .
+huzhu.group CNAME .
+jwyl.ltd CNAME .
+iwucoz.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -36344,6 +36350,7 @@ wangmiao.xyz CNAME .
 199zw.com CNAME .
 1ug8jn.cn CNAME .
 200ps.com CNAME .
+201767.cn CNAME .
 2227q.com CNAME .
 22qzhao5.cn CNAME .
 23uuw3.com CNAME .
@@ -36971,6 +36978,7 @@ guangsss1999.com CNAME .
 guangweixinxi345.cn CNAME .
 guannin.com CNAME .
 guansenff.cn CNAME .
+guideserv.cn CNAME .
 guiyimq.fun CNAME .
 guoduand.cn CNAME .
 guoshihuaiyao.com CNAME .
@@ -37924,9 +37932,11 @@ wangjulm.com CNAME .
 wangkeduo.cn CNAME .
 wanglc.vip CNAME .
 wangliqin.top CNAME .
+wangmiao.xyz CNAME .
 wangmingsort.cn CNAME .
 wangqilin.xyz CNAME .
 wangqing7.top CNAME .
+wangtianci.cn CNAME .
 wangyuekun.xyz CNAME .
 wangzibo.top CNAME .
 wannuochongkong.com CNAME .
@@ -38082,6 +38092,7 @@ xxkio.com CNAME .
 xxzzsj.xyz CNAME .
 xy98.com.cn CNAME .
 xywgbms.top CNAME .
+xzhcedu.cn CNAME .
 xztms.com CNAME .
 y7o9rh.cn CNAME .
 yaba.org.cn CNAME .
