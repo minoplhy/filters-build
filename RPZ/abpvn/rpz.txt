@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 29 Jul 2021 12:17 UTC+7
+; Updated: 29 Jul 2021 16:04 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -4111,6 +4111,8 @@ clicktrack.pubmatic.com CNAME .
 gads.pubmatic.com CNAME .
 hb.pubmatic.com CNAME .
 hbopenbid.pubmatic.com CNAME .
+hbopenbid-sg.pubmatic.com CNAME .
+hbopenbid-sgc.pubmatic.com CNAME .
 image.pubmatic.com CNAME .
 image1.pubmatic.com CNAME .
 image2.pubmatic.com CNAME .
@@ -4121,33 +4123,33 @@ image6.pubmatic.com CNAME .
 image7.pubmatic.com CNAME .
 image8.pubmatic.com CNAME .
 image9.pubmatic.com CNAME .
-lyr.pubmatic.com CNAME .
 openbid.pubmatic.com CNAME .
-ops.pubmatic.com CNAME .
-origin-ui.pubmatic.com CNAME .
 ow.pubmatic.com CNAME .
 pubmatic.com CNAME .
-phtrack.pubmatic.com CNAME .
+showads-sg.pubmatic.com CNAME .
+showads-sgc.pubmatic.com CNAME .
 showads.pubmatic.com CNAME .
+simage2.pubmatic.com CNAME .
+sshowads.pubmatic.com CNAME .
 t.pubmatic.com CNAME .
 track.pubmatic.com CNAME .
 vid.pubmatic.com CNAME .
-vpaid.pubmatic.com CNAME .
 www.pubmatic.com CNAME .
-;[doubleverify]
+;[doubleverify.com]
 cdn.doubleverify.com CNAME .
 cdn3.doubleverify.com CNAME .
 doubleverify.com CNAME .
 loga2.doubleverify.com CNAME .
+logall.doubleverify.com CNAME .
+pub.doubleverify.com CNAME .
+rtb.doubleverify.com CNAME .
+rtb2.doubleverify.com CNAME .
 rtb3.doubleverify.com CNAME .
 rtbcdn.doubleverify.com CNAME .
-srs.doubleverify.com CNAME .
 tps.doubleverify.com CNAME .
-tps1216.doubleverify.com CNAME .
-tps3.doubleverify.com CNAME .
-tps31.doubleverify.com CNAME .
-tracker.cdn-us-doubleverify.com CNAME .
-yt.srs.doubleverify.com CNAME .
+vast.doubleverify.com CNAME .
+vpaid.doubleverify.com CNAME .
+vtrk.doubleverify.com CNAME .
 ;[criteo.net]
 azcdn.criteo.net CNAME .
 azcdn-preprod.criteo.net CNAME .
@@ -7248,46 +7250,28 @@ www.playground.xyz CNAME .
 ;[adform.net]
 a1.adform.net CNAME .
 a2.adform.net CNAME .
-adback.adform.net CNAME .
 adform.net CNAME .
+adx-tc.adform.net CNAME .
 adx.adform.net CNAME .
 adx2.adform.net CNAME .
 adx3.adform.net CNAME .
-adx-tc.adform.net CNAME .
 asia.adform.net CNAME .
 c1.adform.net CNAME .
 cm.adform.net CNAME .
 cm2.adform.net CNAME .
 cm3.adform.net CNAME .
 cp.adform.net CNAME .
-czc.adform.net CNAME .
 dmp.adform.net CNAME .
-dmp-eu.adform.net CNAME .
-dmpr.adform.net CNAME .
-edc.adform.net CNAME .
-files.adform.net CNAME .
-files5.adform.net CNAME .
-global.adform.net CNAME .
-global-www.adform.net CNAME .
 hb.adx.adform.net CNAME .
 hb.adx2.adform.net CNAME .
-idmatch.adform.net CNAME .
-isobar.adform.net CNAME .
-nivea.adform.net CNAME .
-pipe.adform.net CNAME .
+hm.adform.net CNAME .
 rtb.adform.net CNAME .
 s1.adform.net CNAME .
-s1-eu.adform.net CNAME .
 s2.adform.net CNAME .
 server.adform.net CNAME .
-targeted-www.adform.net CNAME .
-track.adform.net CNAME .
 track-eu.adform.net CNAME .
-track-tc.adform.net CNAME .
 track-us.adform.net CNAME .
-us.adform.net CNAME .
-villaxl.adform.net CNAME .
-xd.adform.net CNAME .
+track.adform.net CNAME .
 ;[adz2you.net]
 adz2you.net CNAME .
 adhitzcom.adz2you.net CNAME .
@@ -12135,7 +12119,6 @@ id.yieldlab.net CNAME .
 instayp.yieldlab.net CNAME .
 lb.yieldlab.net CNAME .
 multissp.yieldlab.net CNAME .
-multissp-dev.yieldlab.net CNAME .
 ortb.yieldlab.net CNAME .
 p.yieldlab.net CNAME .
 probe.yieldlab.net CNAME .
@@ -14116,6 +14099,33 @@ urlhausa.com CNAME .
 qrlsx.com CNAME .
 v3.qrlsx.com CNAME .
 vo2.qrlsx.com CNAME .
+;[ad4m.at]
+ad4m.at CNAME .
+as.ad4m.at CNAME .
+assets.ad4m.at CNAME .
+cdn.ad4m.at CNAME .
+kras.ad4m.at CNAME .
+www.ad4m.at CNAME .
+;[adscale.de]
+adscale.de CNAME .
+cotads.adscale.de CNAME .
+hb.adscale.de CNAME .
+ih.adscale.de CNAME .
+js.adscale.de CNAME .
+trx.adscale.de CNAME .
+vh.adscale.de CNAME .
+www.adscale.de CNAME .
+;[twiago.com]
+a.twiago.com CNAME .
+b.twiago.com CNAME .
+cdn.twiago.com CNAME .
+twiago.com CNAME .
+www.twiago.com CNAME .
+;[onaudience.com]
+api.onaudience.com CNAME .
+onaudience.com CNAME .
+pixel.onaudience.com CNAME .
+www.onaudience.com CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
 adtimaserver.vn CNAME .
@@ -14349,7 +14359,6 @@ banners-gallery.coccoc.com CNAME .
 cdn-qc.coccoc.com CNAME .
 cdn.comedia.coccoc.com CNAME .
 metrics.coccoc.com CNAME .
-nt-cdn.coccoc.com CNAME .
 qc-static.coccoc.com CNAME .
 shop-cdn.coccoc.com CNAME .
 shopping.coccoc.com CNAME .
@@ -16761,7 +16770,6 @@ ads4homes.com CNAME .
 ads5.virtual-nights.com CNAME .
 ads8.com CNAME .
 adsbridge.com CNAME .
-adscale.de CNAME .
 adscan.yelabapp.com CNAME .
 adscfg.togothermany.cn CNAME .
 adscfg.uqualities.com CNAME .
@@ -18715,7 +18723,6 @@ olivebrandresponse.com CNAME .
 omniscientspark.com CNAME .
 omniture.com CNAME .
 on-mobi.com CNAME .
-onaudience.com CNAME .
 onclasrv.com CNAME .
 onclickads.net CNAME .
 onclickmega.com CNAME .
@@ -19638,7 +19645,6 @@ turboadv.com CNAME .
 tutelatechnologies.com CNAME .
 tvmtracker.com CNAME .
 twenticiseflo.site CNAME .
-twiago.com CNAME .
 twittad.com CNAME .
 twokidjay.com CNAME .
 twyn.com CNAME .
@@ -20118,6 +20124,7 @@ analyticsapi.bsbportal.com CNAME .
 android-stat.acestream.net CNAME .
 anhui-attorney.com CNAME .
 annedouglas.com CNAME .
+api.oneaudience.com CNAME .
 api.prooffactor.com CNAME .
 api.quantumgraph.com CNAME .
 api.safegraph.com CNAME .
