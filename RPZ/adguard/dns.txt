@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-28T12:06:00.178Z
+; Last modified: 2021-07-29T06:04:10.164Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,11 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+growadvertising.com CNAME .
+free.srcdn.xyz CNAME .
+believegrandpa.com CNAME .
+otisephie.com CNAME .
+peekcogentpope.com CNAME .
 pbprof.com CNAME .
 admost-banner.b-cdn.net CNAME .
 claring-loccelkin.com CNAME .
@@ -18105,6 +18110,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+analytics.core.retell.cc CNAME .
+powerbiz.co CNAME .
 tag.search.sensefuel.live CNAME .
 api.dataunlocker.com CNAME .
 microanalytics.io CNAME .
@@ -22178,6 +22185,8 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+d3in1te4fdays6.cloudfront.net CNAME .
+tracker.cdn-moneysmart.com CNAME .
 monitoring.youronlinechoices.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
 t.imgur.com CNAME .
@@ -24166,6 +24175,7 @@ analy.qq.com CNAME .
 ; Revolving trackers
 altopd.com CNAME .
 apxl.io CNAME .
+auriro.net CNAME .
 bydst.com CNAME .
 cloudwp.io CNAME .
 e1e.io CNAME .
@@ -24209,6 +24219,7 @@ ldnlyap.com CNAME .
 lltrck.com CNAME .
 loloclicks.biz CNAME .
 mors22.com CNAME .
+mt48.net CNAME .
 nxakpj4ac8gkd53.info CNAME .
 r42tag.com CNAME .
 sbgsodufuosmmvsdf.info CNAME .
@@ -25278,6 +25289,7 @@ oafishobservation.com CNAME .
 panickycurtain.com CNAME .
 pastoralroad.com CNAME .
 pleasantpump.com CNAME .
+pricklydebt.com CNAME .
 q20jqurls0y7gk8.info CNAME .
 railwayreason.com CNAME .
 rangecake.com CNAME .
@@ -25740,6 +25752,7 @@ optimizely.appspot.com CNAME .
 orts.wixawin.com CNAME .
 p.delivery.net CNAME .
 p.eyebuydirect-cmr.net CNAME .
+page-events-ustats.udemy.com CNAME .
 pagesense-collect.zoho.com CNAME .
 pagesocket.glam.com CNAME .
 pap.qualityunit.com CNAME .
@@ -32695,9 +32708,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 27 Jul 2021 17:29 UTC+7
-; OriginalVersion: 2107271729
-; Blocked: 924 rules
+; Last modified: 29 Jul 2021 12:17 UTC+7
+; OriginalVersion: 2107291217
+; Blocked: 926 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -32745,6 +32758,7 @@ ambientdsp.com CNAME .
 analytics.zapps.vn CNAME .
 anthill.vn CNAME .
 ants.vn CNAME .
+anymind360-com.cdn.ampproject.org CNAME .
 atdnetwork.com CNAME .
 autoads.asia CNAME .
 banners-gallery.coccoc.com CNAME .
@@ -32783,6 +32797,7 @@ jslog.zapps.vn CNAME .
 kabbmedia.com CNAME .
 klick.vn CNAME .
 lavanetwork.net CNAME .
+log-vietnamplus-vn.cdn.ampproject.org CNAME .
 log.mp3.zing.vn CNAME .
 log.news.zing.vn CNAME .
 log.o2o.service.zaloapp.com CNAME .
@@ -33582,6 +33597,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+yjbuhao.top CNAME .
 baidu-image-qqcom.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
@@ -36337,6 +36353,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+reofamily.cn CNAME .
+jiachangwuliu.cn CNAME .
+qiyebaopin.cn CNAME .
 rtkyvd.xyz CNAME .
 huzhu.group CNAME .
 jwyl.ltd CNAME .

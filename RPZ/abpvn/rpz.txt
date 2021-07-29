@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 27 Jul 2021 17:29 UTC+7
+; Updated: 29 Jul 2021 12:17 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -15607,7 +15607,9 @@ cdn.bongdadem.net CNAME .
 www.bongdadem.net CNAME .
 ;[cdn.ampproject.org]
 ads-thanhnien-vn.cdn.ampproject.org CNAME .
+anymind36-com.cdn.ampproject.org CNAME .
 cdn-bongdadem-net.cdn.ampproject.org CNAME .
+log-vietnamplus-vn.cdn.ampproject.org CNAME .
 sbbanner-com.cdn.ampproject.org CNAME .
 ;[chin-adnetwork.com]
 chin-adnetwork.com CNAME .
