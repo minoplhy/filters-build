@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-29T18:03:51.167Z
+; Last modified: 2021-07-30T06:04:18.826Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -23998,6 +23998,7 @@ analytics.qoqa.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+stats-proto.pandora.com CNAME .
 collector.vhx.tv CNAME .
 analytics-server.gimbal.com CNAME .
 log-tb.sgsnssdk.com CNAME .
@@ -24212,7 +24213,6 @@ metrics.timewarnercable.com CNAME .
 flurry.agentportal-*.yahoodns.net CNAME .
 amptrack-dailymail-co-uk.cdn.ampproject.org CNAME .
 metrics-cbslocal-com.cdn.ampproject.org CNAME .
-counter.hdvb.info CNAME .
 tracking-server-prod-1.zenmxapps.com CNAME .
 config.uca.cloud.unity3d.com CNAME .
 api.uca.cloud.unity3d.com CNAME .
@@ -33753,6 +33753,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+jenniferlaurax.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35778,7 +35779,6 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
-1.jushtong.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -35807,6 +35807,7 @@ xayah.date CNAME .
 1.isanxia.com CNAME .
 1.jeasyui.net CNAME .
 1.jiqie.cn CNAME .
+1.jushtong.com CNAME .
 1.kuaidiwo.cn CNAME .
 1.lishibu.com CNAME .
 1.lvshi567.com CNAME .
@@ -36510,8 +36511,8 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-lthzd.cn CNAME .
-uxszams.cn CNAME .
+aftdt.cn CNAME .
+qgydhjh.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37572,6 +37573,7 @@ lrwgc.com CNAME .
 lscckgm.cn CNAME .
 lshmjz.com CNAME .
 ltaome.cn CNAME .
+lthzd.cn CNAME .
 ltyonej.cn CNAME .
 lusrg.cn CNAME .
 luxoshopde.com CNAME .
@@ -38111,6 +38113,7 @@ ut0ej.cn CNAME .
 uu7ey6.cn CNAME .
 uuu88.top CNAME .
 uuwhg.com CNAME .
+uxszams.cn CNAME .
 uyueread.com CNAME .
 v5levm1.com CNAME .
 vasb.cn CNAME .
