@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-07-30T06:04:18.826Z
+; Last modified: 2021-07-30T18:04:31.506Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,15 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+qrclevrfjw.com CNAME .
+sdmfyqkghzedvx.com CNAME .
+b91vip.com CNAME .
+whingewost.com CNAME .
+fieldofbachus.com CNAME .
+konradsneak.com CNAME .
+spewyelks.com CNAME .
+steadydonut.com CNAME .
+thoovoay.net CNAME .
 videobaba.xyz CNAME .
 javoyynu.xyz CNAME .
 growadvertising.com CNAME .
@@ -4421,6 +4430,7 @@ ba32365df2.com CNAME .
 ba5ed55a0d56f15.com CNAME .
 ba7d8f30fba.com CNAME .
 baa2e174884c9c0460e.com CNAME .
+babadnmak.com CNAME .
 babanmak.com CNAME .
 babanmas.com CNAME .
 babyboomboomads.com CNAME .
@@ -4645,6 +4655,7 @@ bid.glass CNAME .
 biddyfungussaps.com CNAME .
 bidiology.com CNAME .
 bidverdrd.com CNAME .
+bigappboi.com CNAME .
 bigbolz.com CNAME .
 bigbootymania.com CNAME .
 bigprizesonline.com CNAME .
@@ -10898,6 +10909,7 @@ psoumtou.net CNAME .
 psozoult.net CNAME .
 psozyhotho.pro CNAME .
 psqiwslwpjccb.com CNAME .
+pstreetma.com CNAME .
 psulsobi.net CNAME .
 psuphuns.net CNAME .
 psurdoak.com CNAME .
@@ -13274,6 +13286,7 @@ vsetfdtwhp.com CNAME .
 vsmokhklbw.com CNAME .
 vstaner.com CNAME .
 vsteepo.com CNAME .
+vstet.com CNAME .
 vsu2jbpvgx3m.com CNAME .
 vsvihsib.com CNAME .
 vsyaiejmfooba.com CNAME .
@@ -18253,6 +18266,9 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+omniconvert.com CNAME .
+cdn.clerk.io CNAME .
+getaim.info CNAME .
 analytics.monetiza.co CNAME .
 repixel.co CNAME .
 pubexchange.com CNAME .
@@ -24812,7 +24828,6 @@ nyltx.com CNAME .
 o-s.io CNAME .
 octomarket.com CNAME .
 ohayoo.io CNAME .
-omniconvert.com CNAME .
 omtvxcle.com CNAME .
 ondu.ru CNAME .
 oneimpress.io CNAME .
@@ -25020,6 +25035,7 @@ track-server-100.com CNAME .
 trackadm.com CNAME .
 trackcb.com CNAME .
 trackertest.org CNAME .
+trackingca.com CNAME .
 trackingpro.pro CNAME .
 trackmethod.com CNAME .
 trackmstr.com CNAME .
@@ -26074,6 +26090,7 @@ tag-manager.playbuzz.com CNAME .
 tag.aumago.com CNAME .
 tag.brandcdn.com CNAME .
 tag.elevaate.io CNAME .
+tag.flagship.io CNAME .
 tag.myplay.com CNAME .
 tag.rightmessage.com CNAME .
 tag.rmp.rakuten.com CNAME .
@@ -26652,7 +26669,6 @@ yieldbird.com CNAME .
 d-stats.com CNAME .
 ; Turkish
 ; Ukranian
-getaim.info CNAME .
 mediatraffic.com.ua CNAME .
 ; Vietnamese
 contineljs.com CNAME .
@@ -27148,6 +27164,8 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+trysnd.fun CNAME .
+aj2345.online CNAME .
 humoek.com CNAME .
 baklajansss.site CNAME .
 kq6lwk3m9g.ru CNAME .
@@ -31814,7 +31832,6 @@ adimpkwd.excite.co.jp CNAME .
 ;
 ; Eimg.jp
 ;
-qrclevrfjw.com CNAME .
 waqool.com CNAME .
 ad.nwi.jp CNAME .
 devo.jp CNAME .
@@ -36511,8 +36528,11 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+xuruochen.cn CNAME .
+zhaosijie.cn CNAME .
 aftdt.cn CNAME .
 qgydhjh.cn CNAME .
+hongjiaex.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
