@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-08T00:16:29.715Z
+; Last modified: 2021-08-08T06:04:01.349Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -17339,6 +17339,7 @@ oas.luxweb.com CNAME .
 on.maxspeedcdn.com CNAME .
 p.d.1emn.com CNAME .
 p.smartertravel.com CNAME .
+pacontainer.s3.amazonaws.com CNAME .
 padsdel.com CNAME .
 pagead2.googlesyndication.com CNAME .
 partner.bargaindomains.com CNAME .
@@ -26863,7 +26864,6 @@ imp.ad-plus.cn CNAME .
 imp.optaim.com CNAME .
 log.hiiir.com CNAME .
 log.tagtic.cn CNAME .
-nos.netease.com CNAME .
 p.tencentmind.com CNAME .
 px.effirst.com CNAME .
 r.sax.sina.com.cn CNAME .
@@ -33844,6 +33844,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+jisukuaisong.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35842,7 +35843,6 @@ tk.504pk.com CNAME .
 tmea116.oss-cn-beijing.aliyuncs.com CNAME .
 tp.sgcn.com CNAME .
 u.63kc.com CNAME .
-u.cnzol.com CNAME .
 uc.zhuici.com CNAME .
 union.china.com.cn CNAME .
 union.yihaodian.com CNAME .
@@ -35885,6 +35885,8 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+vip.panggugu.com CNAME .
+1.ufc7.com CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -36625,6 +36627,12 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+liangzimo.ltd CNAME .
+2886115.com CNAME .
+5qoh.cn CNAME .
+shandongaosen.cn CNAME .
+zhpxkl.cn CNAME .
+szjywn.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
