@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 07 Aug 2021 20:57 UTC+7
+; Updated: 09 Aug 2021 17:14 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -5431,23 +5431,34 @@ static.getclicky.com CNAME .
 widgets.getclicky.com CNAME .
 www.getclicky.com CNAME .
 ;[yandex.ru]
-adfox.yandex.ru CNAME .
 an.yandex.ru CNAME .
 awaps.yandex.ru CNAME .
 awsync.yandex.ru CNAME .
 bs.yandex.ru CNAME .
 informer.yandex.ru CNAME .
 mc.yandex.ru CNAME .
-d31j93rd8oukbv.cloudfront.net CNAME .
+adsdk.yandex.ru CNAME .
+metrika.yandex.ru CNAME .
+clck.yandex.ru CNAME .
+share.yandex.ru CNAME .
+;[adfox.yandex.ru]
+adfox.yandex.ru CNAME .
+matchid.adfox.yandex.ru CNAME .
+;[appmetrica.yandex.ru]
+appmetrica.yandex.ru CNAME .
+redirect.appmetrica.yandex.ru CNAME .
 ;[yandex.net]
-analytics.mobile.yandex.net CNAME .
-appmetrica.yandex.net CNAME .
 awaps.yandex.net CNAME .
-banners.mobile.yandex.net CNAME .
-banners-slb.mobile.yandex.net CNAME .
 external-promo-metrics.yandex.net CNAME .
+;[appmetrica.yandex.net]
+appmetrica.yandex.net CNAME .
 report.appmetrica.yandex.net CNAME .
 rosenberg.appmetrica.yandex.net CNAME .
+;[mobile.yandex.net]
+analytics.mobile.yandex.net CNAME .
+banners-slb.mobile.yandex.net CNAME .
+banners.mobile.yandex.net CNAME .
+startup.mobile.yandex.net CNAME .
 ;[yandex.com]
 clck.yandex.com CNAME .
 appmetrica.yandex.com CNAME .
@@ -14182,6 +14193,65 @@ cm.tns-counter.ru CNAME .
 kz.tns-counter.ru CNAME .
 tns-counter.ru CNAME .
 www.tns-counter.ru CNAME .
+;[adpicmedia.net]
+adpicmedia.net CNAME .
+bid.adpicmedia.net CNAME .
+eu.adpicmedia.net CNAME .
+www.adpicmedia.net CNAME .
+xml.adpicmedia.net CNAME .
+;[rklmstr.com]
+bid.rklmstr.com CNAME .
+cdn.rklmstr.com CNAME .
+rklmstr.com CNAME .
+rtb.rklmstr.com CNAME .
+static.rklmstr.com CNAME .
+www.rklmstr.com CNAME .
+xml.rklmstr.com CNAME .
+xml2.rklmstr.com CNAME .
+;[boffoadsfeeds.com]
+boffoadsfeeds.com CNAME .
+xml.boffoadsfeeds.com CNAME .
+www.boffoadsfeeds.com CNAME .
+;[asdpoi.com]
+asdpoi.com CNAME .
+widgets.asdpoi.com CNAME .
+www.asdpoi.com CNAME .
+;[admozartxml.com]
+admozartxml.com CNAME .
+static.admozartxml.com CNAME .
+www.admozartxml.com CNAME .
+xml.admozartxml.com CNAME .
+;[admidainsight.com]
+admidainsight.com CNAME .
+static.admidainsight.com CNAME .
+www.admidainsight.com CNAME .
+xml.admidainsight.com CNAME .
+;[adservercheck.net]
+adservercheck.net CNAME .
+bid.adservercheck.net CNAME .
+www.adservercheck.net CNAME .
+xml.adservercheck.net CNAME .
+;[am15.net]
+am15.net CNAME .
+b.am15.net CNAME .
+c.am15.net CNAME .
+rtb.am15.net CNAME .
+;[kidoz.net]
+analytics.kidoz.net CNAME .
+cdn.kidoz.net CNAME .
+kidoz.net CNAME .
+sdk-api.kidoz.net CNAME .
+sdk.kidoz.net CNAME .
+vast.kidoz.net CNAME .
+www.kidoz.net CNAME .
+;[yandexadexchange.net]
+an.yandexadexchange.net CNAME .
+mobile.yandexadexchange.net CNAME .
+postback.yandexadexchange.net CNAME .
+st.yandexadexchange.net CNAME .
+yandexadexchange.net CNAME .
+advideo.dsp.yandexadexchange.net CNAME .
+bigo.dsp.yandexadexchange.net CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
 adtimaserver.vn CNAME .
@@ -17098,6 +17168,7 @@ allmygoodlife.com CNAME .
 allmyverygreatlife.com CNAME .
 allosponsor.com CNAME .
 allstarmediagroup.com CNAME .
+altronopubacc.com CNAME .
 amazingcounters.com CNAME .
 ambiguousquilt.com CNAME .
 ambitiousagreement.com CNAME .
@@ -19038,6 +19109,7 @@ prsitecheck.com CNAME .
 ps.ns-cdn.com CNAME .
 ps7894.com CNAME .
 psstt.com CNAME .
+psvpromo.psvgamestudio.com CNAME .
 ptairtug.net CNAME .
 ptywajofa.pro CNAME .
 pub.chez.com CNAME .
@@ -19045,6 +19117,7 @@ pub.club-internet.fr CNAME .
 pub.hardware.fr CNAME .
 pub.realmedia.fr CNAME .
 pub.trads.io CNAME .
+pubacca5mc.com CNAME .
 pubaka5.com CNAME .
 pubdirecte.com CNAME .
 public.wedodemos.com CNAME .

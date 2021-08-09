@@ -1,7 +1,7 @@
 ! Title: hostsVN CNAME .
-! Last modified: 07 Aug 2021 20:57 UTC+7 CNAME .
-! Version: 2108072057 CNAME .
-! Blocked: 6,638 domains CNAME .
+! Last modified: 09 Aug 2021 17:14 UTC+7 CNAME .
+! Version: 2108091714 CNAME .
+! Blocked: 6,655 domains CNAME .
 ! The section containing the list contains all ad networks and tracking CNAME .
 ! CNAME .
 24h-ad.24hstatic.com CNAME .
@@ -1029,9 +1029,11 @@ admarketplace.net CNAME .
 admarvel.com CNAME .
 admaym.com CNAME .
 admedia.com CNAME .
+admidainsight.com CNAME .
 admixer.com CNAME .
 admob.com CNAME .
 admobclick.com CNAME .
+admozartxml.com CNAME .
 adnet.mob.com CNAME .
 adnetasia.com CNAME .
 adnetworktech.com CNAME .
@@ -1042,6 +1044,7 @@ adnxs.com CNAME .
 adomik.com CNAME .
 adop.cc CNAME .
 adoptimize.info CNAME .
+adpicmedia.net CNAME .
 adplugg.com CNAME .
 adpone.com CNAME .
 adpopcorn.com CNAME .
@@ -1102,10 +1105,12 @@ adscale.de CNAME .
 adschoom.com CNAME .
 adsco.re CNAME .
 adsconex.com CNAME .
+adsdk.yandex.ru CNAME .
 adserver-*.*.elb.amazonaws.com CNAME .
 adserver.bing.com CNAME .
 adserver.yahoo.co.jp CNAME .
 adserver.yahoo.com CNAME .
+adservercheck.net CNAME .
 adservice.google.* CNAME .
 adservme.com CNAME .
 adsfactor.net CNAME .
@@ -1193,6 +1198,7 @@ alcmpn.com CNAME .
 alexametrics.com CNAME .
 alphonso.tv CNAME .
 als.baidu.com CNAME .
+am15.net CNAME .
 amazon-adsystem.amazon.com CNAME .
 amazon-adsystem.com CNAME .
 amazon-adsystems.com CNAME .
@@ -1255,6 +1261,7 @@ applovin.com CNAME .
 applvn.com CNAME .
 appmetrica.yandex.com CNAME .
 appmetrica.yandex.net CNAME .
+appmetrica.yandex.ru CNAME .
 appnext.com CNAME .
 appnexus.com CNAME .
 appodealx.com CNAME .
@@ -1270,6 +1277,7 @@ arsdev.net CNAME .
 arsena*.xyz CNAME .
 artsai.com CNAME .
 asdfix.com CNAME .
+asdpoi.com CNAME .
 asianmedia.com CNAME .
 askingpoint.com CNAME .
 assoc-amazon.com CNAME .
@@ -1340,6 +1348,7 @@ bluekai.com CNAME .
 blueseed.tv CNAME .
 blueserving.com CNAME .
 bnmla.com CNAME .
+boffoadsfeeds.com CNAME .
 books-analytics-events.apple.com CNAME .
 bounceexchange.com CNAME .
 branch.io CNAME .
@@ -1394,6 +1403,7 @@ clarium.io CNAME .
 claroads.com CNAME .
 claroadsxml.com CNAME .
 clck.yandex.com CNAME .
+clck.yandex.ru CNAME .
 clcktrax.com CNAME .
 clean.gg CNAME .
 clevertap.com CNAME .
@@ -1687,6 +1697,7 @@ kaffnet.com CNAME .
 kargo.com CNAME .
 kau.li CNAME .
 keywee.co CNAME .
+kidoz.net CNAME .
 kinesis.*.amazonaws.com CNAME .
 knowlead.io CNAME .
 kochava.com CNAME .
@@ -1770,6 +1781,7 @@ metok.sys.miui.com CNAME .
 metric-api.newrelic.com CNAME .
 metrics-logger.spot.im CNAME .
 metrics.cnn.com CNAME .
+metrika.yandex.ru CNAME .
 mfadsrvr.com CNAME .
 mgid.com CNAME .
 miaozhen.com CNAME .
@@ -1975,7 +1987,6 @@ reklamstore.com CNAME .
 rekmob.com CNAME .
 relap.io CNAME .
 remarketingpixel.com CNAME .
-report.appmetrica.yandex.net CNAME .
 report.qq.com CNAME .
 res-ad-kr.kajicam.com CNAME .
 res-ad.kajicam.com CNAME .
@@ -1990,11 +2001,11 @@ rfihub.com CNAME .
 rfrl.pw CNAME .
 richmediaads.com CNAME .
 rkdms.com CNAME .
+rklmstr.com CNAME .
 rlcdn.com CNAME .
 rmads.msn.com CNAME .
 rmp.rakuten.com CNAME .
 rmtag.com CNAME .
-rosenberg.appmetrica.yandex.net CNAME .
 rtbid.me CNAME .
 rtbsuperhub.com CNAME .
 rtmark.net CNAME .
@@ -2037,6 +2048,7 @@ serving-sys.com CNAME .
 serving1.net CNAME .
 sgp.o2o.api.xiaomi.com CNAME .
 share.mob.com CNAME .
+share.yandex.ru CNAME .
 shareaholic.com CNAME .
 sharethis.com CNAME .
 sharethrough.com CNAME .
@@ -2081,6 +2093,7 @@ stack-sonar.com CNAME .
 staging-insights-collector.newrelic.com CNAME .
 starbolt.io CNAME .
 startappservice.com CNAME .
+startup.mobile.yandex.net CNAME .
 stat-rock.com CNAME .
 static-doubleclick-net.l.google.com CNAME .
 staticstuff.net CNAME .
@@ -2235,6 +2248,7 @@ xtremepush.com CNAME .
 yadro.ru CNAME .
 yads.yahoo.co.jp CNAME .
 yads.yjtag.yahoo.co.jp CNAME .
+yandexadexchange.net CNAME .
 ybx.yahoo.co.jp CNAME .
 yeas.yahoo.co.jp CNAME .
 yieldlab.net CNAME .
@@ -3192,6 +3206,7 @@ allmygoodlife.com CNAME .
 allmyverygreatlife.com CNAME .
 allosponsor.com CNAME .
 allstarmediagroup.com CNAME .
+altronopubacc.com CNAME .
 amazingcounters.com CNAME .
 ambiguousquilt.com CNAME .
 ambitiousagreement.com CNAME .
@@ -5140,6 +5155,7 @@ prsitecheck.com CNAME .
 ps.ns-cdn.com CNAME .
 ps7894.com CNAME .
 psstt.com CNAME .
+psvpromo.psvgamestudio.com CNAME .
 ptairtug.net CNAME .
 ptywajofa.pro CNAME .
 pub.chez.com CNAME .
@@ -5147,6 +5163,7 @@ pub.club-internet.fr CNAME .
 pub.hardware.fr CNAME .
 pub.realmedia.fr CNAME .
 pub.trads.io CNAME .
+pubacca5mc.com CNAME .
 pubaka5.com CNAME .
 pubdirecte.com CNAME .
 public.wedodemos.com CNAME .

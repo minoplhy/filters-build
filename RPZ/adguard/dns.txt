@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-09T06:04:51.917Z
+; Last modified: 2021-08-09T18:03:31.027Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+api.flat-ads.com CNAME .
 adrokt.com CNAME .
 daedaelousscri.com CNAME .
 cawkyhouhere.com CNAME .
@@ -22406,6 +22407,7 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+ipada.cafe.naver.com CNAME .
 boomerang.dell.com CNAME .
 fp.kakaku.com CNAME .
 sysmon.kakaku.com CNAME .
@@ -24084,6 +24086,10 @@ stat.y.qq.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+qa-events-schema.viacom.tech CNAME .
+dns-clientinfo.cbsivideo.com CNAME .
+trace.qq.com CNAME .
+report.*.qq.com CNAME .
 events.tvtime.com CNAME .
 smetrics.discover.com CNAME .
 sadobeanalytics.geico.com CNAME .
@@ -26195,7 +26201,6 @@ tr.cloud-media.fr CNAME .
 tr.interlake.net CNAME .
 tr1.mailperformance.com CNAME .
 traccoon.intellectsoft.net CNAME .
-trace.qq.com CNAME .
 track.99acres.com CNAME .
 track.addevent.com CNAME .
 track.atgstores.com CNAME .
@@ -32974,8 +32979,8 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 07 Aug 2021 20:57 UTC+7
-; OriginalVersion: 2108072057
+; Last modified: 09 Aug 2021 17:14 UTC+7
+; OriginalVersion: 2108091714
 ; Blocked: 932 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
@@ -33868,6 +33873,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+lingqinga.cn CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36651,10 +36657,11 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+ivruc.cn CNAME .
+jnkqds.cn CNAME .
 huilan.xyz CNAME .
 9d6k.cn CNAME .
 mjpiqb.cn CNAME .
-bytegoofy.com CNAME .
 cqyijiu.cn CNAME .
 jingcaiedc.cn CNAME .
 tchkcc.cn CNAME .
