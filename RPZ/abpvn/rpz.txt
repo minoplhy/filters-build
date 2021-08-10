@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 09 Aug 2021 17:14 UTC+7
+; Updated: 10 Aug 2021 10:54 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -12837,6 +12837,7 @@ sdscdn.userreport.com CNAME .
 sync.userreport.com CNAME .
 tag.userreport.com CNAME .
 userreport.com CNAME .
+visitanalytics.userreport.com CNAME .
 ;[appier.net]
 a.c.appier.net CNAME .
 ad.appier.net CNAME .
@@ -13932,11 +13933,6 @@ me.xdrig.com CNAME .
 pg.xdrig.com CNAME .
 push.xdrig.com CNAME .
 xdrig.com CNAME .
-;[smartadnetwork.net]
-delivery.smartadnetwork.net CNAME .
-smartadnetwork.net CNAME .
-tracking.smartadnetwork.net CNAME .
-www.smartadnetwork.net CNAME .
 ;[tubeadvertising.eu]
 banners.tubeadvertising.eu CNAME .
 smart.tubeadvertising.eu CNAME .
