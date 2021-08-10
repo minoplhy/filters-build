@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-10T06:04:29.751Z
+; Last modified: 2021-08-10T18:04:49.294Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,16 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+chioneflake.com CNAME .
+d-ughwashes.ru CNAME .
+hunter-hub.com CNAME .
+a.trk-imps.com CNAME .
+ocdnmq.com CNAME .
+worldspromising.com CNAME .
+glamourgreek.com CNAME .
+reialsoha.biz CNAME .
+arysignificc.fun CNAME .
+godfulsiums.com CNAME .
 glixaing.com CNAME .
 api.flat-ads.com CNAME .
 adrokt.com CNAME .
@@ -240,7 +250,6 @@ fawhositho.com CNAME .
 pinifafi.com CNAME .
 wabekice.com CNAME .
 cromo.name CNAME .
-yiopse.com CNAME .
 copperpolygraphforthwith.com CNAME .
 tiltgardenheadlight.com CNAME .
 appstreamsb.xyz CNAME .
@@ -2813,6 +2822,7 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+ads-partners.coupang.com CNAME .
 ads-dot-fbc-web-2018.uc.r.appspot.com CNAME .
 awrfds3.pornpapa.com CNAME .
 d1tpwjufge3qqa.cloudfront.net CNAME .
@@ -3986,6 +3996,7 @@ africaewgrhdtb.com CNAME .
 afriflatry.co CNAME .
 afssdmin.com CNAME .
 afzcqqdhkn.com CNAME .
+agcm.xyz CNAME .
 agedissance.club CNAME .
 aggressivefrequentneckquirky.com CNAME .
 aggressiveracketscout.com CNAME .
@@ -4569,6 +4580,7 @@ bcloudhost.com CNAME .
 bcnewltd.club CNAME .
 bcuuipewdz.com CNAME .
 bcvutcks.com CNAME .
+bcxamyjtnzuf.com CNAME .
 bd1617dbbc28f.com CNAME .
 bd202457b.com CNAME .
 bd44.fun CNAME .
@@ -6018,6 +6030,7 @@ desolatethings.com CNAME .
 despisenoughtshit.com CNAME .
 deswhatlike.biz CNAME .
 detachedbates.com CNAME .
+detdtmkwcl.com CNAME .
 detecteddesigningspirited.com CNAME .
 detectivesrecoilatmospheric.com CNAME .
 detectorvenomouscutlery.com CNAME .
@@ -10215,6 +10228,7 @@ ongassume.top CNAME .
 onhowever.fun CNAME .
 onhusband.top CNAME .
 onintensstud.club CNAME .
+online-protection-now.com CNAME .
 onlyjugpub.com CNAME .
 onmarshtompor.com CNAME .
 onmystems.top CNAME .
@@ -10876,6 +10890,7 @@ primevalcherries.com CNAME .
 primroseconstellationrapidly.com CNAME .
 princedrainclearance.com CNAME .
 princided.club CNAME .
+pringed.space CNAME .
 prioritybeforehand.com CNAME .
 priorityinvaderinflation.com CNAME .
 privacyheelvest.com CNAME .
@@ -11294,6 +11309,7 @@ rearrangeapostrophemargarita.com CNAME .
 rearroges.xyz CNAME .
 reasonsteamconcrete.com CNAME .
 reasonzoodeport.com CNAME .
+rebikuny.com CNAME .
 rebiraert.com CNAME .
 rebrancardera.site CNAME .
 rebuildcroakdeployment.com CNAME .
@@ -11337,6 +11353,7 @@ reductingds.club CNAME .
 redundancyphilosophicalwest.com CNAME .
 redvxjlmaehy.com CNAME .
 reechokelvin.casa CNAME .
+reedthatm.biz CNAME .
 reembrasserait.website CNAME .
 reenrageasse.xyz CNAME .
 refaucherais.site CNAME .
@@ -11582,6 +11599,7 @@ rosqb6vb1cqp.com CNAME .
 rosyteapotgabble.com CNAME .
 rotabol.com CNAME .
 rotdubboy.com CNAME .
+rotfrigilityfrigility.com CNAME .
 rothoglyro.pro CNAME .
 rottilderum.cam CNAME .
 roughthos.top CNAME .
@@ -12264,6 +12282,7 @@ staglance.club CNAME .
 staimpor.net CNAME .
 stainspun.com CNAME .
 staitchu.com CNAME .
+staixemo.com CNAME .
 stakenallisin.club CNAME .
 stampseizeidly.com CNAME .
 standnizati.fun CNAME .
@@ -12480,6 +12499,7 @@ tagbom.com CNAME .
 taghaugh.com CNAME .
 taifouwo.com CNAME .
 taijiwhi.com CNAME .
+taisowhu.com CNAME .
 takeslobsgel.com CNAME .
 talentropes.com CNAME .
 talhundrewr.club CNAME .
@@ -13206,6 +13226,7 @@ vcmrlwcafliaa.com CNAME .
 vcommission.com CNAME .
 vcpcvmfnocsfay.com CNAME .
 vdkejkyztas.com CNAME .
+veanumb.biz CNAME .
 vebadu.com CNAME .
 vedcouragin.info CNAME .
 vedefendin.club CNAME .
@@ -13914,6 +13935,7 @@ yieldtraffic.com CNAME .
 yieldx.com CNAME .
 yim3eyv5.top CNAME .
 yincreate.top CNAME .
+yiopse.com CNAME .
 yirishedspe.info CNAME .
 yiuilserianaus.club CNAME .
 yjaobumyovp.com CNAME .
@@ -17247,6 +17269,7 @@ d38itq6vdv6gr9.cloudfront.net CNAME .
 d3a42c7xs4vn3.cloudfront.net CNAME .
 d3ahinqqx1dy5v.cloudfront.net CNAME .
 d3aiy6aqoa3ykz.cloudfront.net CNAME .
+d3al52d8cojds7.cloudfront.net CNAME .
 d3dytsf4vrjn5x.cloudfront.net CNAME .
 d3em0905j9y6sm.cloudfront.net CNAME .
 d3hitamb7drqut.cloudfront.net CNAME .
@@ -17390,15 +17413,8 @@ priceinfo.comuv.com CNAME .
 promos.fling.com CNAME .
 promote.pair.com CNAME .
 promotions.iasbet.com CNAME .
-pub.admedia.io CNAME .
-pub.dreamboxcart.com CNAME .
 public.porn.fr CNAME .
-pubs.hiddennetwork.com CNAME .
-rack.bauermedia.co.uk CNAME .
-refer.wordpress.com CNAME .
 res3.feedsportal.com CNAME .
-ribbon.india.com CNAME .
-roia.hutchmedia.com CNAME .
 rotabanner.kulichki.net CNAME .
 rotator.tradetracker.net CNAME .
 saambaa.com CNAME .
@@ -18316,6 +18332,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+services.bionika-digital.ru CNAME .
 perk0mean.com CNAME .
 tm.jsuol.com.br CNAME .
 cptrack.de CNAME .
@@ -22410,6 +22427,8 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+smetrics.sbs.com.au CNAME .
+t.wizards.com CNAME .
 ipada.cafe.naver.com CNAME .
 boomerang.dell.com CNAME .
 fp.kakaku.com CNAME .
@@ -24089,6 +24108,9 @@ stat.y.qq.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+liveme-sensors-collect2-*.amazonaws.com CNAME .
+online-metrix.imars.cloud CNAME .
+snowplow-collector.apartmentlist.io CNAME .
 qa-events-schema.viacom.tech CNAME .
 dns-clientinfo.cbsivideo.com CNAME .
 trace.qq.com CNAME .
@@ -26070,6 +26092,7 @@ qubitanalytics.appspot.com CNAME .
 r.msn.com CNAME .
 realm.hearst3pcc.com CNAME .
 refer.ccbill.com CNAME .
+refer.wordpress.com CNAME .
 reporting.cdndex.io CNAME .
 reporting.handll.net CNAME .
 reports-api.sqreen.io CNAME .
@@ -27537,7 +27560,6 @@ epaaab.com CNAME .
 7jzic2hylf.ru CNAME .
 vfunls.com CNAME .
 theroswaf.com CNAME .
-d-ughwashes.ru CNAME .
 ckgnoy.com CNAME .
 bp5hq5jivj.ru CNAME .
 22ei7q8l12.com CNAME .
@@ -31923,6 +31945,7 @@ adntokyo.gunosy.com CNAME .
 creatives.gunosy.com CNAME .
 ;
 ; Fc2.com
+aimg.fc2.com CNAME .
 media5.fc2.com CNAME .
 ;
 ; Excite.co.jp
@@ -32983,9 +33006,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 10 Aug 2021 10:54 UTC+7
-; OriginalVersion: 2108101054
-; Blocked: 932 rules
+; Last modified: 10 Aug 2021 15:34 UTC+7
+; OriginalVersion: 2108101534
+; Blocked: 935 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33615,6 +33638,7 @@ zlog.zingmp3.vn CNAME .
 789club.biz CNAME .
 789club.org CNAME .
 79lucky.com CNAME .
+79sodo.com CNAME .
 888b.com CNAME .
 888b.in CNAME .
 88viet.com CNAME .
@@ -33644,6 +33668,7 @@ bwingmkt8.com CNAME .
 cacuoc247.com CNAME .
 cacuoc79.com CNAME .
 casino888vn.com CNAME .
+comebetvn9.com CNAME .
 datcuoc247.com CNAME .
 debet.com CNAME .
 dfchoingay.com CNAME .
@@ -33710,6 +33735,7 @@ loc89.fun CNAME .
 loc89.vip CNAME .
 lode555.com CNAME .
 lode88.vip CNAME .
+lt991.com CNAME .
 lucky88.com CNAME .
 lucky88.live CNAME .
 lucky88.net CNAME .
@@ -33877,6 +33903,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+ud831d4.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .

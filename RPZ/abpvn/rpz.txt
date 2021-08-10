@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 10 Aug 2021 10:54 UTC+7
+; Updated: 10 Aug 2021 15:34 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -14248,6 +14248,11 @@ st.yandexadexchange.net CNAME .
 yandexadexchange.net CNAME .
 advideo.dsp.yandexadexchange.net CNAME .
 bigo.dsp.yandexadexchange.net CNAME .
+;[jampp.com]
+cdn.jampp.com CNAME .
+imgx.jampp.com CNAME .
+jampp.com CNAME .
+tracking.jampp.com CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
 adtimaserver.vn CNAME .
@@ -18491,6 +18496,7 @@ lettucelimit.com CNAME .
 levelrate.de CNAME .
 lfstmedia.com CNAME .
 lib.vmweb.net CNAME .
+libedgolart.com CNAME .
 liftdna.com CNAME .
 ligatus.de CNAME .
 lightboxcdn.com CNAME .
@@ -19361,8 +19367,6 @@ sexlist.com CNAME .
 sextracker.com CNAME .
 sexystat.com CNAME .
 sezwho.com CNAME .
-sf3-fe-tos.pglstatp-toutiao.com CNAME .
-sf3-ttcdn-tos.pstatp.com CNAME .
 shakesea.com CNAME .
 shakesuggestion.com CNAME .
 shakytaste.com CNAME .
