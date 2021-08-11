@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 11 Aug 2021 10:18 UTC+7
+; Updated: 11 Aug 2021 16:49 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -5920,97 +5920,36 @@ rum-collector.wpm.neustar.biz CNAME .
 script.wpm.neustar.biz CNAME .
 static.wpm.neustar.biz CNAME .
 wpm.neustar.biz CNAME .
-;[adsrvr]
+;[adsrvr.org]
 a.adsrvr.org CNAME .
 ad.adsrvr.org CNAME .
-ads.adsrvr.org CNAME .
 adsrvr.org CNAME .
-apa.match.adsrvr.org CNAME .
-apa-sha.adsrvr.org CNAME .
 apa-sin.adsrvr.org CNAME .
-apa-tok.adsrvr.org CNAME .
-aps.insight.adsrvr.org CNAME .
-aps-insight.adsrvr.org CNAME .
-apt.insight.adsrvr.org CNAME .
-apt.match.adsrvr.org CNAME .
-apt-insight.adsrvr.org CNAME .
-cna.rtb.adsrvr.org CNAME .
+ca4-bid.adsrvr.org CNAME .
 data.adsrvr.org CNAME .
-datapipe.adsrvr.org CNAME .
+de1-bid.adsrvr.org CNAME .
 direct.adsrvr.org CNAME .
-docker.adsrvr.org CNAME .
-eua.insight.adsrvr.org CNAME .
 eur-ukp.adsrvr.org CNAME .
-euw.fb.adsrvr.org CNAME .
-euwdirect.adsrvr.org CNAME .
-euwfb.adsrvr.org CNAME .
-euwvideo.adsrvr.org CNAME .
 fb.adsrvr.org CNAME .
-foreman.adsrvr.org CNAME .
-foreman.use.adsrvr.org CNAME .
 html5.adsrvr.org CNAME .
-idp.adsrvr.org CNAME .
-import.adsrvr.org CNAME .
-innocean-insight.adsrvr.org CNAME .
 insight.adsrvr.org CNAME .
+jp1-bid-ga.adsrvr.org CNAME .
+jp1-bid.adsrvr.org CNAME .
 js.adsrvr.org CNAME .
-k8dev.adsrvr.org CNAME .
-k8int.adsrvr.org CNAME .
-k8prd.adsrvr.org CNAME .
-lax.rtb.adsrvr.org CNAME .
-lon.rtb.adsrvr.org CNAME .
 match.adsrvr.org CNAME .
-mogointeractive-insight.adsrvr.org CNAME .
-offlineattrib.adsrvr.org CNAME .
-opsplatform.adsrvr.org CNAME .
-ops-self-service.adsrvr.org CNAME .
-ox-data.adsrvr.org CNAME .
-pixel.adsrvr.org CNAME .
-post.update.adsrvr.org CNAME .
-pst.adsrvr.org CNAME .
-pull.docker.adsrvr.org CNAME .
-push.docker.adsrvr.org CNAME .
-r-data.adsrvr.org CNAME .
-rtb.adsrvr.org CNAME .
+ny1-bid.adsrvr.org CNAME .
 s.update.adsrvr.org CNAME .
-sin.fb.adsrvr.org CNAME .
+sg2-bid.adsrvr.org CNAME .
 sindirect.adsrvr.org CNAME .
-sinfb.adsrvr.org CNAME .
-sinvideo.adsrvr.org CNAME .
-snap.adsrvr.org CNAME .
 t.update.adsrvr.org CNAME .
-tdid.adsrvr.org CNAME .
-tokfb.adsrvr.org CNAME .
-tokvideo.adsrvr.org CNAME .
-tor.rtb.adsrvr.org CNAME .
-thales.adsrvr.org CNAME .
-trk-sha.adsrvr.org CNAME .
-ukp.rtb.adsrvr.org CNAME .
-upsight.adsrvr.org CNAME .
-use.adsrvr.org CNAME .
-use.fb.adsrvr.org CNAME .
-use-data.adsrvr.org CNAME .
-usedirect.adsrvr.org CNAME .
-usefb.adsrvr.org CNAME .
-use-foreman1.use.adsrvr.org CNAME .
-use-foreman2.use.adsrvr.org CNAME .
-use-foreman3.use.adsrvr.org CNAME .
-use-foreman4.use.adsrvr.org CNAME .
-use-foremanproxy1.use.adsrvr.org CNAME .
+update.adsrvr.org CNAME .
 use-tor.adsrvr.org CNAME .
-use-va1.adsrvr.org CNAME .
-usevideo.adsrvr.org CNAME .
-usw.fb.adsrvr.org CNAME .
-usw-ads.adsrvr.org CNAME .
-uswdirect.adsrvr.org CNAME .
-uswfb.adsrvr.org CNAME .
+usedirect.adsrvr.org CNAME .
+usw-ca2.adsrvr.org CNAME .
 usw-lax.adsrvr.org CNAME .
-usw-lax2.adsrvr.org CNAME .
-uswvideo.adsrvr.org CNAME .
+uswdirect.adsrvr.org CNAME .
 v.adsrvr.org CNAME .
-video.adsrvr.org CNAME .
-view.adsrvr.org CNAME .
-www.adsrvr.org CNAME .
+va6-bid.adsrvr.org CNAME .
 ;[cxense]
 adserver.cxad.cxense.com CNAME .
 adserver.sandbox.cxad.cxense.com CNAME .
@@ -14269,6 +14208,46 @@ www.truepush.com CNAME .
 ;[cachefly.net]
 ambientdsp.cachefly.net CNAME .
 flurry.cachefly.net CNAME .
+;[e-volution.ai]
+click-rtb2-eu.e-volution.ai CNAME .
+click-rtb2-useast.e-volution.ai CNAME .
+dsp.e-volution.ai CNAME .
+e-volution.ai CNAME .
+eu-edge.e-volution.ai CNAME .
+funnel.e-volution.ai CNAME .
+prebidcdn.e-volution.ai CNAME .
+rtb-useast.e-volution.ai CNAME .
+rtb2-eu.e-volution.ai CNAME .
+rtb2-useast.e-volution.ai CNAME .
+rtb2-uswest.e-volution.ai CNAME .
+service.e-volution.ai CNAME .
+ssp.e-volution.ai CNAME .
+static-rtb2.e-volution.ai CNAME .
+sync.e-volution.ai CNAME .
+us-east-edge-2.e-volution.ai CNAME .
+us-east-edge-3.e-volution.ai CNAME .
+us-east-edge.e-volution.ai CNAME .
+win-rtb2-eu.e-volution.ai CNAME .
+www.e-volution.ai CNAME .
+;[lentainform.com]
+c.lentainform.com CNAME .
+cdn.lentainform.com CNAME .
+clck.lentainform.com CNAME .
+cm.lentainform.com CNAME .
+jsc.lentainform.com CNAME .
+lentainform.com CNAME .
+s-img.lentainform.com CNAME .
+servicer.lentainform.com CNAME .
+www.lentainform.com CNAME .
+;[idealmedia.io]
+c.idealmedia.io CNAME .
+cdn.idealmedia.io CNAME .
+cm.idealmedia.io CNAME .
+idealmedia.io CNAME .
+jsc.idealmedia.io CNAME .
+s-img.idealmedia.io CNAME .
+servicer.idealmedia.io CNAME .
+www.idealmedia.io CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
 adtimaserver.vn CNAME .
@@ -18334,7 +18313,6 @@ icptrack.com CNAME .
 idcounter.com CNAME .
 iddiction.com CNAME .
 iddpop.com CNAME .
-idealmedia.io CNAME .
 ideliv.net CNAME .
 idelv.net CNAME .
 identads.com CNAME .
@@ -18521,7 +18499,6 @@ leaplunchroom.com CNAME .
 lecap-services.fr CNAME .
 legolas-media.com CNAME .
 leiki.com CNAME .
-lentainform.com CNAME .
 lettucelimit.com CNAME .
 levelrate.de CNAME .
 lfstmedia.com CNAME .
@@ -18569,6 +18546,7 @@ lop.com CNAME .
 lorybnfh.com CNAME .
 loudloss.com CNAME .
 loudlunch.com CNAME .
+lowseelan.com CNAME .
 lowtyroguer.com CNAME .
 lp3tdqle.com CNAME .
 lsdstgcv.com CNAME .
@@ -19991,6 +19969,7 @@ whisperofisaak.com CNAME .
 whoisonline.net CNAME .
 wholesaletraffic.info CNAME .
 whowhipi.net CNAME .
+whsepelmrnz.com CNAME .
 whugesto.net CNAME .
 whurulali.pro CNAME .
 widdit.com CNAME .
@@ -20156,6 +20135,7 @@ www.vidcpm.com CNAME .
 www.videosprofitnetwork.com CNAME .
 www.weborama.com CNAME .
 www.webtrendslive.com CNAME .
+www.whsepelmrnz.com CNAME .
 www.xadsmart.com CNAME .
 www.xpbbyiqbcawamy.com CNAME .
 www.ylicxdkgkvfc.com CNAME .
