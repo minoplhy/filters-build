@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-10T18:04:49.294Z
+; Last modified: 2021-08-11T06:04:22.486Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,11 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+mixandfun.com CNAME .
+bonertraffic12.mobi CNAME .
+member.javtvnow.xyz CNAME .
+driddleurease.com CNAME .
+cauntercanulae.com CNAME .
 chioneflake.com CNAME .
 d-ughwashes.ru CNAME .
 hunter-hub.com CNAME .
@@ -17423,10 +17428,6 @@ sbhc.portalhc.com CNAME .
 servedby.keygamesnetwork.com CNAME .
 servedby.yell.com CNAME .
 services.zam.com CNAME .
-shopilize.com CNAME .
-sitescout-video-cdn.edgesuite.net CNAME .
-slickdeals.meritline.com CNAME .
-slot.union.ucweb.com CNAME .
 smart.styria-digital.com CNAME .
 sndkorea.nowcdn.co.kr CNAME .
 sportsbetaffiliates.com.au CNAME .
@@ -17434,24 +17435,19 @@ squarespace.evyy.net CNAME .
 squirrels.getsquirrel.co CNAME .
 srv.dynamicyield.com CNAME .
 static.tradetracker.net CNAME .
-streaming.rtbiddingplatform.com CNAME .
 supply.upjers.com CNAME .
 syndicate.payloadz.com CNAME .
 tag.regieci.com CNAME .
 tags.sprizzy.com CNAME .
-tap.more-results.net CNAME .
 tcadserver.rain-digital.ca CNAME .
 ti.tradetracker.net CNAME .
 track.bcvcmedia.com CNAME .
 track.effiliation.com CNAME .
-travelmail.traveltek.net CNAME .
 twinplan.com CNAME .
 utility.rogersmedia.com CNAME .
 vast.spotim.market CNAME .
 vice-publishers-cdn.vice.com CNAME .
 video-ads.a2z.com CNAME .
-vodp-e-streamingmagentamusic360.tls1.yospace.com CNAME .
-vpnaffiliates.hidester.com CNAME .
 weby.aaas.org CNAME .
 widget.imshopping.com CNAME .
 widget.jobberman.com CNAME .
@@ -33006,9 +33002,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 10 Aug 2021 15:34 UTC+7
-; OriginalVersion: 2108101534
-; Blocked: 935 rules
+; Last modified: 11 Aug 2021 10:18 UTC+7
+; OriginalVersion: 2108111018
+; Blocked: 939 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33113,6 +33109,7 @@ mepuzz.com CNAME .
 metrics.coccoc.com CNAME .
 mobilead.vn CNAME .
 mobio.vn CNAME .
+myad.vn CNAME .
 nanda.vn CNAME .
 novanet.vn CNAME .
 novaon.asia CNAME .
@@ -33239,6 +33236,7 @@ ads.bkitsoftware.com CNAME .
 ads.businessstyle.vn CNAME .
 ads.careerbuilder.vn CNAME .
 ads.carmudi.vn CNAME .
+ads.chanhtuoi.com CNAME .
 ads.conlatatca.vn CNAME .
 ads.fptplay.net.vn CNAME .
 ads.gosu.vn CNAME .
@@ -33277,6 +33275,7 @@ ads1.careerbuilder.vn CNAME .
 adserver.lag.vn CNAME .
 adserver.luzu.vn CNAME .
 adserver.muaban.net CNAME .
+adserver.sudo.vn CNAME .
 adserver.trangphim.net CNAME .
 adsgo.nhipcaudautu.vn CNAME .
 adsnetonline.work CNAME .
@@ -33360,7 +33359,6 @@ media.dabong247.com CNAME .
 mega1.yeah1.com CNAME .
 microad.vn CNAME .
 mobileads.dieuviet.com CNAME .
-myad.vn CNAME .
 ng-vn-notice.gameitop.com CNAME .
 offerwall.headlines.pw CNAME .
 ox1.vietstock.vn CNAME .
@@ -33449,6 +33447,7 @@ cdn.tekoapis.com CNAME .
 clicker.chiaki.vn CNAME .
 clientinfo.phimmoizz.net CNAME .
 collect.ovp.vn CNAME .
+core.vchat.vn CNAME .
 counter.24h.com.vn CNAME .
 counter.ntdvn.com CNAME .
 crm.bizfly.vn CNAME .
@@ -33535,6 +33534,7 @@ newlog.daidoanket.vn CNAME .
 nstat.headlines.pw CNAME .
 pixel.chotot.com CNAME .
 production-tracking.riviu.co CNAME .
+proof.sudo.vn CNAME .
 report.vnay.vn CNAME .
 rsyslog.24h.com.vn CNAME .
 s.baomoi.xdn.vn CNAME .
@@ -33903,7 +33903,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-ud831d4.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -35268,6 +35267,7 @@ ubmcvideo.baidustatic.com CNAME .
 uc610.com CNAME .
 ucxgg.com CNAME .
 ud831d2.com CNAME .
+ud831d4.com CNAME .
 ue2bm3.cn CNAME .
 ugg66.com CNAME .
 umjsik.com CNAME .
@@ -36688,12 +36688,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-lv-xin.cn CNAME .
-leyxue.cn CNAME .
-h728.cn CNAME .
-zdryg.com CNAME .
-zwrj999.cn CNAME .
-jhwt.shop CNAME .
+greenadoption.cn CNAME .
+tryost.cn CNAME .
+ruiy.shop CNAME .
+kfweo2.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37401,6 +37399,7 @@ gzrljx.cn CNAME .
 gzts188.com CNAME .
 gzzena.com CNAME .
 h4kdxs.com CNAME .
+h728.cn CNAME .
 habyc.com CNAME .
 haichengdzsp.com CNAME .
 haishengwh123.cn CNAME .
@@ -37579,6 +37578,7 @@ jfgcxj.com CNAME .
 jgcq3003.com CNAME .
 jh3pin.com CNAME .
 jhgff23az.biqugetv.com CNAME .
+jhwt.shop CNAME .
 jia-huan.cn CNAME .
 jiachangwuliu.cn CNAME .
 jiahewine.cn CNAME .
@@ -37734,6 +37734,7 @@ lepaidaren.com CNAME .
 lerenzx.cn CNAME .
 lesanmo.top CNAME .
 lexph.com CNAME .
+leyxue.cn CNAME .
 lezengxin.com CNAME .
 lfsenmei.com CNAME .
 lfzxcp.com CNAME .
@@ -37791,6 +37792,7 @@ luojianrong.cn CNAME .
 lusrg.cn CNAME .
 luxoshopde.com CNAME .
 luyouxi.cn CNAME .
+lv-xin.cn CNAME .
 lvkuaizi.com CNAME .
 lvsechufang.com CNAME .
 lwlscy.com CNAME .
@@ -38658,6 +38660,7 @@ zbqmsc.com CNAME .
 zc710956.top CNAME .
 zcand.com CNAME .
 zdovrb.cn CNAME .
+zdryg.com CNAME .
 zenwq.com CNAME .
 zfood029.com CNAME .
 zgchaye123.com CNAME .
@@ -38732,6 +38735,7 @@ zutodu.cn CNAME .
 zvqbbj.cn CNAME .
 zwhkug.cn CNAME .
 zwkssb.com CNAME .
+zwrj999.cn CNAME .
 zwwl.shop CNAME .
 zwychain.cn CNAME .
 zxglpj.cn CNAME .

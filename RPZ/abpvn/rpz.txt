@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 10 Aug 2021 15:34 UTC+7
+; Updated: 11 Aug 2021 10:18 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -14253,6 +14253,22 @@ cdn.jampp.com CNAME .
 imgx.jampp.com CNAME .
 jampp.com CNAME .
 tracking.jampp.com CNAME .
+;[truepush.com]
+api.truepush.com CNAME .
+app.truepush.com CNAME .
+bid.truepush.com CNAME .
+cdn.truepush.com CNAME .
+cdni.truepush.com CNAME .
+img.truepush.com CNAME .
+s.truepush.com CNAME .
+sdk.truepush.com CNAME .
+sdki.truepush.com CNAME .
+stats.truepush.com CNAME .
+truepush.com CNAME .
+www.truepush.com CNAME .
+;[cachefly.net]
+ambientdsp.cachefly.net CNAME .
+flurry.cachefly.net CNAME .
 ; --- GroupVN block ---
 ;[adtimaserver]
 adtimaserver.vn CNAME .
@@ -15751,6 +15767,17 @@ static-addtoany-com.cdn.ampproject.org CNAME .
 ;[chin-adnetwork.com]
 chin-adnetwork.com CNAME .
 js.chin-adnetwork.com CNAME .
+;[myad.vn]
+academy.myad.vn CNAME .
+adscare.myad.vn CNAME .
+campaign.myad.vn CNAME .
+cdn.myad.vn CNAME .
+cucrevn.viralink.myad.vn CNAME .
+dmp.myad.vn CNAME .
+media.myad.vn CNAME .
+realtime.myad.vn CNAME .
+viralink.myad.vn CNAME .
+www.myad.vn CNAME .
 ; --- Block adsVN ---
 5734a4f2d.vws.vegacdn.vn CNAME .
 73531862.vws.vegacdn.vn CNAME .
@@ -15793,6 +15820,7 @@ ads.bkitsoftware.com CNAME .
 ads.businessstyle.vn CNAME .
 ads.careerbuilder.vn CNAME .
 ads.carmudi.vn CNAME .
+ads.chanhtuoi.com CNAME .
 ads.conlatatca.vn CNAME .
 ads.fptplay.net.vn CNAME .
 ads.gosu.vn CNAME .
@@ -15831,6 +15859,7 @@ ads1.careerbuilder.vn CNAME .
 adserver.lag.vn CNAME .
 adserver.luzu.vn CNAME .
 adserver.muaban.net CNAME .
+adserver.sudo.vn CNAME .
 adserver.trangphim.net CNAME .
 adsgo.nhipcaudautu.vn CNAME .
 adsnetonline.work CNAME .
@@ -15922,7 +15951,6 @@ media.dabong247.com CNAME .
 mega1.yeah1.com CNAME .
 microad.vn CNAME .
 mobileads.dieuviet.com CNAME .
-myad.vn CNAME .
 ng-vn-notice.gameitop.com CNAME .
 nspapi.aiservice.vn CNAME .
 offerwall.headlines.pw CNAME .
@@ -16034,6 +16062,7 @@ cdn.tekoapis.com CNAME .
 clicker.chiaki.vn CNAME .
 clientinfo.phimmoizz.net CNAME .
 collect.ovp.vn CNAME .
+core.vchat.vn CNAME .
 counter.24h.com.vn CNAME .
 counter.ntdvn.com CNAME .
 crm.bizfly.vn CNAME .
@@ -16121,6 +16150,7 @@ newlog.daidoanket.vn CNAME .
 nstat.headlines.pw CNAME .
 pixel.chotot.com CNAME .
 production-tracking.riviu.co CNAME .
+proof.sudo.vn CNAME .
 report.vnay.vn CNAME .
 rsyslog.24h.com.vn CNAME .
 s.baomoi.xdn.vn CNAME .
@@ -19265,6 +19295,7 @@ ritzysponge.com CNAME .
 riverhit.com CNAME .
 rjw4obbw.com CNAME .
 rle.ru CNAME .
+rmcxyfqbm.com CNAME .
 rmedia.boston.com CNAME .
 rmiesnorthur.pro CNAME .
 roar.com CNAME .
@@ -20100,6 +20131,7 @@ www.pro-ads.club CNAME .
 www.propu.sh CNAME .
 www.prownl.com CNAME .
 www.push-notifications.top CNAME .
+www.rmcxyfqbm.com CNAME .
 www.routeserve.info CNAME .
 www.rvedfxeljxo.com CNAME .
 www.servsave.com CNAME .
