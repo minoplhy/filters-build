@@ -12,20 +12,7 @@
 ;
 ; ===============================================================
 
-localhost CNAME .
-localhost.localdomain CNAME .
-local CNAME .
-255.255.255.255 broadcasthost CNAME .
-localhost CNAME .
-ip6-localhost CNAME .
-ip6-loopback CNAME .
-fe80::1%lo0 localhost CNAME .
-ff00::0 ip6-localnet CNAME .
-ff00::0 ip6-mcastprefix CNAME .
-ff02::1 ip6-allnodes CNAME .
-ff02::2 ip6-allrouters CNAME .
-ff02::3 ip6-allhosts CNAME .
-0.0.0.0 CNAME .
+
 
 ; Custom host records are listed here.
 
@@ -74584,9 +74571,6 @@ tracking.recommend.pro CNAME .
 ; your information back to a company.
 
 ;<localhost>
-fe CNAME . ;00::0 ip6-localnet
-ff CNAME . ;00::0 ip6-mcastprefix
-;fe80::1%lo0	localhost
 ;</localhost>
 
 ;<shock-sites>
@@ -94144,7 +94128,6 @@ zukxd6fkxqn.com CNAME .
 ; 'example.com':
 
 ; 0.0.0.0 example.com
-
 
 
 
