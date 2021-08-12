@@ -12,7 +12,20 @@
 ;
 ; ===============================================================
 
-0.0.0.0 CNAME .
+localhost CNAME .
+localhost.localdomain CNAME .
+local CNAME .
+255.255.255.255 broadcasthost CNAME .
+localhost CNAME .
+ip6-localhost CNAME .
+ip6-loopback CNAME .
+fe80::1%lo0 localhost CNAME .
+ff00::0 ip6-localnet CNAME .
+ff00::0 ip6-mcastprefix CNAME .
+ff02::1 ip6-allnodes CNAME .
+ff02::2 ip6-allrouters CNAME .
+ff02::3 ip6-allhosts CNAME .
+
 
 ; Custom host records are listed here.
 
@@ -1047,6 +1060,8 @@ cradver.livejasmin.com CNAME .
 crt.livejasmin.com CNAME .
 livetus.com CNAME .
 llink.site CNAME .
+manifest.localytics.com CNAME .
+profile.localytics.com CNAME .
 analytics.logsss.com CNAME .
 londontea.net CNAME .
 loneeaglerecords.com CNAME .
@@ -1548,6 +1563,7 @@ ns2.windowsdefende.com CNAME .
 dabmaster.wm01.to CNAME .
 postmediamontrealgazette2.files.wordpress.com CNAME .
 www.postmediamontrealgazette2.files.wordpress.com CNAME .
+nlocalhost.wordtheminer.com CNAME .
 wor.wordtheminer.com CNAME .
 hotstar.worldgravity.com CNAME .
 worldtus.com CNAME .
@@ -1825,6 +1841,7 @@ ssdkauth.hpplay.cn CNAME .
 urgente.eu CNAME .
 
 ; Added May 22, 2021
+localbestdating1.com CNAME .
 sylviagreen.club CNAME .
 xvtelink.com CNAME . ; ads with redirects
 invol.co CNAME . ; tracking
@@ -3887,6 +3904,8 @@ wildcard-ads-448740142.us-west-2.elb.amazonaws.com CNAME .
 ; [admarvel.s3.amazonaws.com]
 admarvel.s3.amazonaws.com CNAME .
 
+; [advancelocal-adapter-image-uploads.s3.amazonaws.com]
+advancelocal-adapter-image-uploads.s3.amazonaws.com CNAME .
 
 ; [btf-analytics.s3.amazonaws.com]
 btf-analytics.s3.amazonaws.com CNAME .
@@ -4822,6 +4841,7 @@ sync.graph.bluecava.com CNAME .
 
 ; [blueconic.net]
 blueconic.net CNAME .
+advancelocal.blueconic.net CNAME .
 americanmedia.blueconic.net CNAME .
 cdn.blueconic.net CNAME .
 digitalfirstmedia.blueconic.net CNAME .
@@ -6776,6 +6796,10 @@ e1.emxdgt.com CNAME .
 emxhb.emxdgt.com CNAME .
 hb.emxdgt.com CNAME .
 imp.emxdgt.com CNAME .
+local.emxdgt.com CNAME .
+pub.local.emxdgt.com CNAME .
+imp-east.pub.local.emxdgt.com CNAME .
+us-east-1.local.emxdgt.com CNAME .
 vast.emxdgt.com CNAME .
 
 ; [en25.com]
@@ -8804,8 +8828,31 @@ v.lkqd.net CNAME .
 appnext.hs.llnwd.net CNAME .
 tealium.hs.llnwd.net CNAME .
 
+; [locallogic.co]
+analytics.locallogic.co CNAME .
+api.locallogic.co CNAME .
+cdn.locallogic.co CNAME .
+static.locallogic.co CNAME .
 
+; [localstars.com]
+merciless.localstars.com CNAME .
+adserver.merciless.localstars.com CNAME .
 
+; [localytics.com]
+localytics.com CNAME .
+53.localytics.com CNAME .
+api.53.localytics.com CNAME .
+manifest.53.localytics.com CNAME .
+profile-api-prod-elb.53.localytics.com CNAME .
+queuer-prod-elb.53.localytics.com CNAME .
+profile-lookup.services.53.localytics.com CNAME .
+web.53.localytics.com CNAME .
+analytics.localytics.com CNAME .
+api.localytics.com CNAME .
+sdk-assets.localytics.com CNAME .
+web.localytics.com CNAME .
+webanalytics.localytics.com CNAME .
+www.localytics.com CNAME .
 
 ; [locately.com]
 api.locately.com CNAME .
@@ -10493,6 +10540,7 @@ mcclatchy-d.openx.net CNAME .
 mediadojo-d.openx.net CNAME .
 mediafire-d.openx.net CNAME .
 meredith-d.openx.net CNAME .
+meredithlocal-d.openx.net CNAME .
 merriamwebster-d.openx.net CNAME .
 microad-d.openx.net CNAME .
 mindtank-d.openx.net CNAME .
@@ -10850,6 +10898,12 @@ lbnyj2.bidder.owneriq.net CNAME .
 lbsjc.bidder.owneriq.net CNAME .
 px.owneriq.net CNAME .
 
+; [ownlocal.com]
+local.ownlocal.com CNAME .
+secure.ownlocal.com CNAME .
+origami.secure.ownlocal.com CNAME .
+widget.secure.ownlocal.com CNAME .
+snowplow.ownlocal.com CNAME .
 
 ; [p-n.io]
 cdn.p-n.io CNAME .
@@ -11033,6 +11087,12 @@ ads.placeiq.com CNAME .
 partner.ads.placeiq.com CNAME .
 secure.ads.placeiq.com CNAME .
 
+; [placelocal.com]
+3pt.placelocal.com CNAME .
+adacus-cdn.placelocal.com CNAME .
+ak-cdn.placelocal.com CNAME .
+collector.placelocal.com CNAME .
+tag.placelocal.com CNAME .
 
 ; [placer.io]
 api.placer.io CNAME .
@@ -13457,6 +13517,7 @@ serve.uberads.com CNAME .
 serve-prod1204.uberads.com CNAME .
 
 ; [uberinternal.com]
+local-analytics.uberinternal.com CNAME .
 
 ; [ubermedia.com]
 ubermedia.com CNAME .
@@ -16549,6 +16610,7 @@ live-cams-1.livejasmin.com CNAME .
 livecamgirls.streamray.com CNAME .
 livejasmin.com CNAME .
 livewell.net CNAME .
+localh0st.info CNAME .
 logos.x-traceur.com CNAME .
 lonelywifehookup.com CNAME .
 longtraffic.com CNAME .
@@ -17608,6 +17670,7 @@ www.liqwid.net CNAME .
 www.litec-fr.com CNAME .
 www.livejasmin.com CNAME .
 www.livewell.net CNAME .
+www.localh0st.info CNAME .
 www.lonelywifehookup.com CNAME .
 www.longtraffic.com CNAME .
 www.lostartofbeingadame.com CNAME .
@@ -21619,6 +21682,7 @@ mdws.hmecu.com CNAME .
 mdws.kindredcu.com CNAME .
 mdws.lahaverivercreditunion.ca CNAME .
 mdws.leroycu.ca CNAME .
+mdws.local183cu.ca CNAME .
 mdws.noventis.ca CNAME .
 mdws.quintefirst.ca CNAME .
 mdws.stridecu.ca CNAME .
@@ -26195,6 +26259,7 @@ louse.messengo.com CNAME .
 louse.seanconnolly.dev CNAME .
 louse.sigle.io CNAME .
 lungfish.datadividendproject.com CNAME .
+lynx.localticketing.de CNAME .
 lynx.sbstjn.com CNAME .
 macaw.ianmitchell.dev CNAME .
 mammal.haglund.dev CNAME .
@@ -26520,6 +26585,7 @@ accounting.ns2.cl.bellsouth.net.daraz.com CNAME .
 accountsmarketing.net.daraz.com CNAME .
 accr-ch-1.net.daraz.com CNAME .
 activeseason.net.daraz.com CNAME .
+adm-localhost.net.daraz.com CNAME .
 adm-wlan-switch.net.daraz.com CNAME .
 adm.r-ch-1.net.daraz.com CNAME .
 admin.ns3.cl.bellsouth.net.daraz.com CNAME .
@@ -26533,6 +26599,7 @@ administrators-lib-ln-2.net.daraz.com CNAME .
 administrators-yancancook.net.daraz.com CNAME .
 administrators.ns2.cl.bellsouth.net.daraz.com CNAME .
 administrators.print-mo.net.daraz.com CNAME .
+administratorslocalhost.net.daraz.com CNAME .
 adminmarketing.net.daraz.com CNAME .
 admins-d.ns.emailvision.net.daraz.com CNAME .
 admins.car10.net.daraz.com CNAME .
@@ -26626,6 +26693,7 @@ authallseason.net.daraz.com CNAME .
 authenticate-csr41.net.daraz.com CNAME .
 authenticate.car10.net.daraz.com CNAME .
 authenticate.d.ns.emailvision.net.daraz.com CNAME .
+authenticate.localhost.net.daraz.com CNAME .
 authmarketing.net.daraz.com CNAME .
 authorization.a.ns.emailvision.net.daraz.com CNAME .
 authorization.car40.net.daraz.com CNAME .
@@ -26720,6 +26788,7 @@ beta-interactionwebapp.net.daraz.com CNAME .
 beta-ns2.twtelecom.net.daraz.com CNAME .
 beta-print-mo.net.daraz.com CNAME .
 beta-v1.net.daraz.com CNAME .
+beta.localhost.net.daraz.com CNAME .
 betacar40.net.daraz.com CNAME .
 betalib-ln-2.net.daraz.com CNAME .
 betawww.partner.net.daraz.com CNAME .
@@ -26907,6 +26976,7 @@ controller-patner.net.daraz.com CNAME .
 controller.r-ln-1.net.daraz.com CNAME .
 controller.winter.net.daraz.com CNAME .
 controllerr-es-1.net.daraz.com CNAME .
+controllocalhost.net.daraz.com CNAME .
 coopordie.aftermoon.net.daraz.com CNAME .
 corp-cisco-capwap-controller.net.daraz.com CNAME .
 corp-w-htgb-a.net.daraz.com CNAME .
@@ -27023,6 +27093,7 @@ decimo.product.fidormarket.com CNAME .
 demo-r-ht-2.net.daraz.com CNAME .
 demo.lib-oa-2.net.daraz.com CNAME .
 demo.r-ln-1.net.daraz.com CNAME .
+demolocalhost.net.daraz.com CNAME .
 demor-es-1.net.daraz.com CNAME .
 designerlives.com.au.websitedesignroom.net.daraz.com CNAME .
 desiruleztv.net.daraz.com CNAME .
@@ -27058,6 +27129,7 @@ disabled-allseason.net.daraz.com CNAME .
 disabled-w-htgb-a.net.daraz.com CNAME .
 disabled.a.ns.emailvision.net.daraz.com CNAME .
 disabled.net.daraz.com CNAME .
+disabledlocalhost.net.daraz.com CNAME .
 dm.dmp.net.daraz.com CNAME .
 dns1.administrator-freshegg.net.daraz.com CNAME .
 dns1.alpha-freshegg.net.daraz.com CNAME .
@@ -27237,6 +27309,7 @@ loadbalancer.d.ns.emailvision.net.daraz.com CNAME .
 loadbalancer.lib-ht-1.net.daraz.com CNAME .
 loadbalancer.net.daraz.com CNAME .
 loadbalancerw-htgb-a.net.daraz.com CNAME .
+localhost.apps.net.daraz.com CNAME .
 login-marketing.net.daraz.com CNAME .
 login.car40.net.daraz.com CNAME .
 loginpartner.net.daraz.com CNAME .
@@ -31166,6 +31239,7 @@ go.lennar.com CNAME .
 go.lenoxsoft.com CNAME .
 go.levtech.jp CNAME .
 go.lne.st CNAME .
+go.local.fr CNAME .
 gonow.threatconnect.com CNAME .
 info.boppermusic.com CNAME .
 joinfoster.uw.edu CNAME .
@@ -31217,6 +31291,7 @@ gradprograms.cals.cornell.edu CNAME .
 info.cloud-ace.jp CNAME .
 info.collegelacite.ca CNAME .
 info.contently.com CNAME .
+info.welocalize.com CNAME .
 involved.bfit.edu CNAME .
 useful-info.iniks.jp CNAME .
 visit.humanware.com CNAME .
@@ -33684,6 +33759,8 @@ delivery-m.ambient-platform.com CNAME .
 imp.ambient-platform.com CNAME .
 imp.m.ambient-platform.com CNAME .
 imp-m.ambient-platform.com CNAME .
+local-media.ambient-platform.com CNAME .
+local-media.m.ambient-platform.com CNAME .
 metrics.ambient-platform.com CNAME .
 retg.ambient-platform.com CNAME .
 www.ambient-platform.com CNAME .
@@ -35230,7 +35307,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Title: KADhosts
 ; Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
 ; Last modified: Mon, 09 Aug 2021, 13:07 UTC+02
-; Version: 2021.8.9.0
+; Version: 2021.8.9.
 ; Expires: 2 days
 ; Website: https://kadantiscam.netlify.app/
 ; Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -38609,6 +38686,7 @@ legalsite.pl CNAME .
 lexlale.com.pl CNAME .
 liin.ml CNAME .
 limitedprizes.net CNAME .
+localcamsfinder.com CNAME .
 luckyducknet.com CNAME .
 masiodls.com CNAME .
 meetonlyhot.com CNAME .
@@ -38761,6 +38839,7 @@ www.legalsite.pl CNAME .
 www.lexlale.com.pl CNAME .
 www.liin.ml CNAME .
 www.limitedprizes.net CNAME .
+www.localcamsfinder.com CNAME .
 www.luckyducknet.com CNAME .
 www.masiodls.com CNAME .
 www.meetonlyhot.com CNAME .
@@ -39468,6 +39547,7 @@ aplsolutionsonline.com CNAME .
 append.pl CNAME .
 appie.com-id-my.com CNAME .
 appiq.mobi CNAME .
+appleid.com-local-id.com CNAME .
 applnpost.app CNAME .
 applnpost.me CNAME .
 applnpost.net CNAME .
@@ -40990,6 +41070,7 @@ darmowe-tankowanie.click CNAME .
 darmowyfilmrfm44.ek1.pl CNAME .
 darmowyfilmzlektoremoas10.ek1.pl CNAME .
 dasprojectpl.couldpl23.xyz CNAME .
+datelocalsupport.com CNAME .
 datgfqlxhv.cfolks.pl CNAME .
 davekurier.com CNAME .
 davekurier.org CNAME .
@@ -49518,6 +49599,7 @@ www.darmowetesty.com CNAME .
 www.darmowyfilmrfm44.ek1.pl CNAME .
 www.darmowyfilmzlektoremoas10.ek1.pl CNAME .
 www.dasprojectpl.couldpl23.xyz CNAME .
+www.datelocalsupport.com CNAME .
 www.datgfqlxhv.cfolks.pl CNAME .
 www.davekurier.com CNAME .
 www.davekurier.org CNAME .
@@ -53947,6 +54029,7 @@ www.antyspam-interia.live CNAME .
 www.antyspam-poczta.us CNAME .
 www.apex-rents.com CNAME .
 www.appie.com-id-my.com CNAME .
+www.appleid.com-local-id.com CNAME .
 www.app-messenger-lite.com CNAME .
 www.app.uniswap.info-tokens.com CNAME .
 www.aprove-confrim.000webhostapp.com CNAME .
@@ -58276,6 +58359,7 @@ at0pzdr.9dcm.net CNAME .
 ayan.money-for-you-21.ru CNAME .
 b9a92be975.e-kocyki.pl CNAME .
 b89803f0e9.kacwyb.pl CNAME .
+bahbfce.localcamsfinder.com CNAME .
 bedcity-lake.top CNAME .
 bee9f5ca73.natrasiekorzysci.pl CNAME .
 bee355b844.e-kocyki.pl CNAME .
@@ -59026,6 +59110,7 @@ lnpost.me CNAME .
 lnpost.org CNAME .
 lnpost.pl CNAME .
 loan.arrow-finance.pl CNAME .
+localdates19.com CNAME .
 longup.best-sales.top CNAME .
 lp.investingops.com CNAME .
 lp.moviesearchcenter.com CNAME .
@@ -59871,6 +59956,7 @@ www.aoc.teleaudio.pl CNAME .
 www.api.myeforsa.pl CNAME .
 www.app2.mackeeperaffiliates.com CNAME .
 www.b89803f0e9.kacwyb.pl CNAME .
+www.bahbfce.localcamsfinder.com CNAME .
 www.bee9f5ca73.natrasiekorzysci.pl CNAME .
 www.bestprizesday5.life CNAME .
 www.betheprime2.live CNAME .
@@ -60275,6 +60361,7 @@ www.lnpost.cc CNAME .
 www.lnpost.me CNAME .
 www.lnpost.org CNAME .
 www.lnpost.pl CNAME .
+www.localdates19.com CNAME .
 www.lp.investingops.com CNAME .
 www.lp.moviesearchcenter.com CNAME .
 www.lp.trade360.com CNAME .
@@ -62660,7 +62747,7 @@ curwe.fi CNAME .
 ; Start minecraft-hosts
 
 ; minecraft-hosts - Tracking Domains
-; License: CC0
+; License: CC
 
 auxilium.ftb.team CNAME .
 bstats.org CNAME .
@@ -62679,6 +62766,7 @@ openeye.openmods.info CNAME .
 ; Notes: The Operating System does not read the ";" symbol CNAME . ;
 ; or anything after the CNAME . ; symbol on the same line CNAME . ;
 ; CNAME . ;
+; This *must* be the first line: 127.0.0.1 localhost CNAME . ;
 ; CNAME . ;
 ;**********************************************************;
 ; -------------- Updated: March-06-2021 ------------------ CNAME . ;
@@ -63225,6 +63313,7 @@ pixels.livingsocial.com CNAME .
 stats.livingsocial.com CNAME .
 a.livesportmedia.eu CNAME .
 advert.livesportmedia.eu CNAME .
+omnituretrack.local.com CNAME .
 adserver.lonuncavisto.com CNAME .
 r.looksmart.com CNAME .
 banners.lottoelite.com CNAME .
@@ -64408,6 +64497,7 @@ load.scanscout.com CNAME .
 receive.inplay.scanscout.com CNAME .
 cm.shareaholic.com CNAME .
 s.thebrighttag.com CNAME .
+thelocalsearchnetwork.com CNAME .
 stage.traffiliate.com CNAME .
 ads.tunein.com CNAME .
 services.webspectator.com CNAME .
@@ -65430,6 +65520,7 @@ piwik.ientry.com CNAME .
 ads.smartolution.com CNAME .
 ; [Colo4dallas][AS30496][67.222.133.86 - 67.222.133.93]
 imgc.psychcentral.com CNAME .
+; [Colocall][AS15497][62.149.28.0 - 62.149.28.255]
 e2.molbuk.ua CNAME .
 ; [Colocation Clients][AS8262][85.14.6.0 - 85.14.6.255]
 eadsrv.com CNAME .
@@ -66352,6 +66443,7 @@ br.fling.com CNAME .
 track.fling.com CNAME .
 www.freecamdollars.com CNAME .
 kaizentraffic.com CNAME .
+br.meetlocals.com CNAME .
 clicks.nastydollars.com CNAME .
 graphics.nastydollars.com CNAME .
 webmasters.nastydollars.com CNAME .
@@ -66362,6 +66454,7 @@ br.rk.com CNAME .
 ; [Hosting Consulting / Global Personals][208.91.207.0 - 208.91.207.255]
 www.camsoda1.com CNAME .
 promos.fling.com CNAME .
+promos.meetlocals.com CNAME .
 gallysorig.nastydollars.com CNAME .
 grab.nastydollars.com CNAME .
 hostedads.realitykings.com CNAME .
@@ -67054,6 +67147,7 @@ www.adspeed.com CNAME .
 clickthru.net CNAME .
 ; [Liquid Web][AS32244][50.28.0.0 - 50.28.127.255]
 filter.eclickz.com CNAME .
+ads.localyokelmedia.com CNAME .
 tracki112.com CNAME .
 ; [Liquid Web][67.225.128.0 - 67.225.255.255]
 www.adimpact.com CNAME .
@@ -68300,6 +68394,7 @@ www.powerlinks.com CNAME .
 ; [Rackspace.com][AS19994][50.56.4.216 - 50.57.4.223]
 comcluster.cxense.com CNAME .
 lfscpttracking.com CNAME .
+ads.referlocal.com CNAME .
 interyield.td563.com CNAME .
 www.trkr1.com CNAME .
 ; [Rackspace][AS10532][64.49.192.0 - 64.49.255.255]
@@ -69563,6 +69658,7 @@ canmag.us.intellitxt.com CNAME .
 car-stuff.us.intellitxt.com CNAME .
 cavemancircus.us.intellitxt.com CNAME .
 cbstv.us.intellitxt.com CNAME .
+newyork.cbslocal.us.intellitxt.com CNAME .
 cdreviews.us.intellitxt.com CNAME .
 cdrinfo.us.intellitxt.com CNAME .
 cdrom-guide.us.intellitxt.com CNAME .
@@ -69912,6 +70008,7 @@ pcmag.us.intellitxt.com CNAME .
 pcper.us.intellitxt.com CNAME .
 penton.us.intellitxt.com CNAME .
 perezhilton.us.intellitxt.com CNAME .
+philadelphia_cbslocal.us.intellitxt.com CNAME .
 phonearena.us.intellitxt.com CNAME .
 pickmeupnews.us.intellitxt.com CNAME .
 pinkisthenewblog.us.intellitxt.com CNAME .
@@ -71516,7 +71613,7 @@ servetean.site CNAME .
 www.servetean.site CNAME .
 
 ; 2020-04-06 steamplay
-; - https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=50
+; - https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=5
 centent.steamplay.me CNAME .
 
 ; 2020-04-27
@@ -71879,6 +71976,10 @@ date-with-me1.com CNAME .
 www.date-with-me1.com CNAME .
 date2herenow.com CNAME .
 www.date2herenow.com CNAME .
+datefindlocal.com CNAME .
+www.datefindlocal.com CNAME .
+datefindlocal1.com CNAME .
+www.datefindlocal1.com CNAME .
 dates-new-here.com CNAME .
 www.dates-new-here.com CNAME .
 datesforever2.com CNAME .
@@ -72075,6 +72176,10 @@ free-sex-tonight2.com CNAME .
 www.free-sex-tonight2.com CNAME .
 free-sex-tonight3.com CNAME .
 www.free-sex-tonight3.com CNAME .
+free4localhookup.com CNAME .
+www.free4localhookup.com CNAME .
+free4localhookups.com CNAME .
+www.free4localhookups.com CNAME .
 freedatehookup5.com CNAME .
 www.freedatehookup5.com CNAME .
 freegirl.site CNAME .
@@ -72183,6 +72288,8 @@ great-cash-now.life CNAME .
 www.great-cash-now.life CNAME .
 great-hookuponline2.com CNAME .
 www.great-hookuponline2.com CNAME .
+great-local4hookup5.com CNAME .
+www.great-local4hookup5.com CNAME .
 great-prize-area1.life CNAME .
 www.great-prize-area1.life CNAME .
 great-prizenow2.life CNAME .
@@ -72259,12 +72366,20 @@ hot-sweetheart.com CNAME .
 www.hot-sweetheart.com CNAME .
 hot-viplady-here.com CNAME .
 www.hot-viplady-here.com CNAME .
+hotadultsdiscretsexdatinglocal.eu CNAME .
+www.hotadultsdiscretsexdatinglocal.eu CNAME .
+hotadultsexdatinglocalflirt.eu CNAME .
+www.hotadultsexdatinglocalflirt.eu CNAME .
 hotadultsexdatingscupid.eu CNAME .
 www.hotadultsexdatingscupid.eu CNAME .
+hotadultsexdatingslocalcouple.eu CNAME .
+www.hotadultsexdatingslocalcouple.eu CNAME .
 hotadultssexdatingcasual.eu CNAME .
 www.hotadultssexdatingcasual.eu CNAME .
 hotadultssexdatingcupid.eu CNAME .
 www.hotadultssexdatingcupid.eu CNAME .
+hotadultssexdatinglocalcouple.eu CNAME .
+www.hotadultssexdatinglocalcouple.eu CNAME .
 hotdatenight10.com CNAME .
 www.hotdatenight10.com CNAME .
 hotdating-panter.com CNAME .
@@ -72305,6 +72420,8 @@ insta-hookups.com CNAME .
 www.insta-hookups.com CNAME .
 instahookups-here1.com CNAME .
 www.instahookups-here1.com CNAME .
+instalocal-hookup.com CNAME .
+www.instalocal-hookup.com CNAME .
 instasexcontacts3.com CNAME .
 www.instasexcontacts3.com CNAME .
 instasexcontacts4.com CNAME .
@@ -72363,6 +72480,30 @@ liveincome-method.life CNAME .
 www.liveincome-method.life CNAME .
 liveincome-method1.life CNAME .
 www.liveincome-method1.life CNAME .
+local-city-chicks1.com CNAME .
+www.local-city-chicks1.com CNAME .
+local-datings-space.com CNAME .
+www.local-datings-space.com CNAME .
+local-datings-space1.com CNAME .
+www.local-datings-space1.com CNAME .
+local-secretlocators.com CNAME .
+www.local-secretlocators.com CNAME .
+localchicks-here.com CNAME .
+www.localchicks-here.com CNAME .
+localdating-space.com CNAME .
+www.localdating-space.com CNAME .
+localgirl-hookuper.com CNAME .
+www.localgirl-hookuper.com CNAME .
+localhookups4.com CNAME .
+www.localhookups4.com CNAME .
+locallchickshere2.com CNAME .
+www.locallchickshere2.com CNAME .
+localsex34.com CNAME .
+www.localsex34.com CNAME .
+localsex35.com CNAME .
+www.localsex35.com CNAME .
+localsexy11.top CNAME .
+www.localsexy11.top CNAME .
 lockdownhookups.com CNAME .
 www.lockdownhookups.com CNAME .
 lolkek.pw CNAME .
@@ -72649,6 +72790,8 @@ powers4-men1.com CNAME .
 www.powers4-men1.com CNAME .
 pppe.ddns.net CNAME .
 www.pppe.ddns.net CNAME .
+premium-localdate-now2.com CNAME .
+www.premium-localdate-now2.com CNAME .
 premium-sex-contact2.com CNAME .
 www.premium-sex-contact2.com CNAME .
 premium4sexcontact1.com CNAME .
@@ -72803,6 +72946,10 @@ sexydatingtonight1.com CNAME .
 www.sexydatingtonight1.com CNAME .
 sexygirlnew1.com CNAME .
 www.sexygirlnew1.com CNAME .
+sexylocalladies.com CNAME .
+www.sexylocalladies.com CNAME .
+sexylocalladies1.com CNAME .
+www.sexylocalladies1.com CNAME .
 sigfowgern.fun CNAME .
 www.sigfowgern.fun CNAME .
 sisterdating-club.com CNAME .
@@ -72827,6 +72974,8 @@ super-good.site CNAME .
 www.super-good.site CNAME .
 superdatehere-now1.com CNAME .
 www.superdatehere-now1.com CNAME .
+sweet-localhookup.com CNAME .
+www.sweet-localhookup.com CNAME .
 take-best-prize.life CNAME .
 www.take-best-prize.life CNAME .
 take-big-prize.life CNAME .
@@ -73824,10 +73973,10 @@ track4.surfthewave.xyz CNAME .
 ; - http://mta.vkrpep12.com/s/r?ridb=22&p=21b91oTbMTUbXnx8zMoKFjP1rZibofqpnfHphhnI9MKapSLfwSrYsOYSFkb2PatPodrUR2dRc7if3M9wL2GAZr938XWaZhfYQnl1gNrua2BnZQP5rZ
 ; - https://go.exrtbsrv.com/r.php?i=70354323&p=p16090245&s=s3&c=S3V3aU9kSnZETTZvQ2xHR2h0eG0rQT09
 ; - https://click.hooligapps.com/?pid=3&offer_id=2&land=156&sub1=pu_remnant
-; - http://click.expmediadirect.com/click?i=U3I9LFLMLk8_0
+; - http://click.expmediadirect.com/click?i=U3I9LFLMLk8_
 ; - http://r.mylot.com/go.ashx?w=cD1leHBsb3JhZHN3bCZrPXd3dy5ieW1lc3RldGljYS5jb20mYj0wLjAwMDUmcz0yMjEyOTM1
 ; - https://doubleadserve.com/Redirect.eng
-; - http://xml.fastdln.com/click?i=MPH0UvFyL6Q_0
+; - http://xml.fastdln.com/click?i=MPH0UvFyL6Q_
 ; - https://z3dmbpl6309s.com/kcj93ej3j?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=8025
 mta.vkrpep12.com CNAME .
 go.exrtbsrv.com CNAME .
@@ -74434,6 +74583,11 @@ tracking.recommend.pro CNAME .
 ; this will prevent your browser from downloading banner ads, or sending
 ; your information back to a company.
 
+;<localhost>
+fe CNAME . ;00::0 ip6-localnet
+ff CNAME . ;00::0 ip6-mcastprefix
+;fe80::1%lo0	localhost
+;</localhost>
 
 ;<shock-sites>
 ; For example, to block unpleasant pages, try:
@@ -78940,6 +79094,7 @@ ads-dev.youporn.com CNAME .
 ads-direct.prodigy.net CNAME .
 ads-game-187f4.firebaseapp.com CNAME .
 ads-hl.noktamedya.com.tr CNAME .
+ads-local.sixapart.com CNAME .
 ads-rm.looksmart.com CNAME .
 ads-rolandgarros.com CNAME .
 ads-rouge.haber7.com CNAME .
@@ -79305,6 +79460,7 @@ ads.live365.com CNAME .
 ads.ljworld.com CNAME .
 ads.lmmob.com CNAME .
 ads.lnkworld.com CNAME .
+ads.localnow.com CNAME .
 ads.lubbockonline.com CNAME .
 ads.lucidmedia.com.gslb.com CNAME .
 ads.lycos-europe.com CNAME .
@@ -82772,6 +82928,8 @@ load.focalex.com CNAME .
 loadesecoparc.co.uk CNAME .
 loading321.com CNAME .
 loboclick.com CNAME .
+local-download.com CNAME .
+local.promoisland.net CNAME .
 log.feedjit.com CNAME .
 log.pladform.ru CNAME .
 log.tagcade.com CNAME .
@@ -86198,6 +86356,7 @@ www.phoenixads.co.in CNAME .
 www.phorm.com CNAME .
 www.pick-savings.com CNAME .
 www.pitakchon.com CNAME .
+www.placelocal.com CNAME .
 www.planet.eon.net CNAME .
 www.plasmatv4free.com CNAME .
 www.plasmatvreward.com CNAME .
@@ -87195,6 +87354,7 @@ oasc06006.247realmedia.com CNAME .
 oasc08008.247realmedia.com CNAME .
 oasc09.247realmedia.com CNAME .
 oascentral.123greetings.com CNAME .
+oascentral.abclocal.go.com CNAME .
 oascentral.adage.com CNAME .
 oascentral.adageglobal.com CNAME .
 oascentral.aircanada.com CNAME .
@@ -91326,12 +91486,12 @@ zz.690tx.com CNAME .
 ; entries: 3625
 ; format: hosts (hosts -- in hosts file format)
 ; credits: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-; this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
+; this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=
 ; Patreon: https://patreon.com/blocklist
 ; other formats: https://pgl.yoyo.org/adservers/formats.php
 ; policy: https://pgl.yoyo.org/adservers/policy.php
 ;
-; start date: Tue, 14 Aug 2001 00:00:00
+; start date: Tue, 14 Aug 2001 00:00:0
 1-1ads.com CNAME .
 101com.com CNAME .
 101order.com CNAME .
@@ -92095,6 +92255,7 @@ banners.czi.cz CNAME .
 banners.dine.com CNAME .
 banners.golfasian.com CNAME .
 banners.iq.pl CNAME .
+banners.thomsonlocal.com CNAME .
 bannerserver.com CNAME .
 bannersng.yell.com CNAME .
 bannerspace.com CNAME .

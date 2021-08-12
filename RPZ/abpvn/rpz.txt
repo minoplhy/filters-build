@@ -101,7 +101,7 @@ imp.startappservice.com CNAME .
 rtb.adcel.co CNAME .
 www.googleadservices.com CNAME .
 static.adtimaserver.vn CNAME .
-bs.serving-sys.com0 CNAME .
+bs.serving-sys.com CNAME .
 www.startappexchange.com CNAME .
 ads.servebom.com CNAME .
 udm.scorecardresearch.com CNAME .
@@ -118,7 +118,7 @@ static.criteo.net CNAME .
 cat.jp.as.criteo.com CNAME .
 cat.hk.as.criteo.com CNAME .
 static.eu.criteo.net CNAME .
-; Edit to App Surge v3.0
+; Edit to App Surge v3.
 ; https://tinhte.vn/threads/01-01-17-surge-app-mod-v3-0-chan-quang-cao-nang-cap-fw-cap-nhat-nha-mang-iphone-ipad.2656374/page-7
 ; List Hosts Block
 epom.com CNAME .
@@ -1085,6 +1085,7 @@ inmobi.com CNAME .
 intely.cn CNAME .
 ipinyou.com CNAME .
 kejet.net CNAME .
+localytics.com CNAME .
 mediav.com CNAME .
 miaozhen.com CNAME .
 mobclix.com CNAME .
@@ -5514,6 +5515,22 @@ sdk-02.moengage.com CNAME .
 sdk-03.moengage.com CNAME .
 websdk.moengage.com CNAME .
 www.moengage.com CNAME .
+;[localytics]
+a.localytics.com CNAME .
+ads.localytics.com CNAME .
+amp.localytics.com CNAME .
+analytics.localytics.com CNAME .
+api.localytics.com CNAME .
+cdn.localytics.com CNAME .
+localytics.com CNAME .
+pushapi.localytics.com CNAME .
+rater.localytics.com CNAME .
+scavenger.localytics.com CNAME .
+sdk-assets.localytics.com CNAME .
+telenor-analytics.localytics.com CNAME .
+telenor-profile.localytics.com CNAME .
+truenorth.localytics.com CNAME .
+www.localytics.com CNAME .
 ;[clevertap]
 api.clevertap.com CNAME .
 campaigns.clevertap.com CNAME .
@@ -7258,6 +7275,7 @@ clog.go.com CNAME .
 dcapps.disney.go.com CNAME .
 log.go.com CNAME .
 ngads.go.com CNAME .
+oascentral.abclocal.go.com CNAME .
 seavideo-ak.espn.go.com CNAME .
 w88.go.com CNAME .
 ;[dm-event.net]
@@ -8656,6 +8674,7 @@ www.adsymptotic.com CNAME .
 ;[trazk.com]
 c.trazk.com CNAME .
 f.trazk.com CNAME .
+localapi.trazk.com CNAME .
 trazk.com CNAME .
 ;[brand-display.com]
 ae.brand-display.com CNAME .
@@ -14611,6 +14630,8 @@ delivery-m.ambient-platform.com CNAME .
 imp.ambient-platform.com CNAME .
 imp.m.ambient-platform.com CNAME .
 imp-m.ambient-platform.com CNAME .
+local-media.ambient-platform.com CNAME .
+local-media.m.ambient-platform.com CNAME .
 metrics.ambient-platform.com CNAME .
 retg.ambient-platform.com CNAME .
 static.ambient-platform.com CNAME .
@@ -17379,6 +17400,7 @@ banners.linkbuddies.com CNAME .
 banners.passion.com CNAME .
 banners.resultonline.com CNAME .
 banners.sys-con.com CNAME .
+banners.thomsonlocal.com CNAME .
 banners.videosz.com CNAME .
 banners.virtuagirlhd.com CNAME .
 banners.wunderground.com CNAME .
@@ -17442,6 +17464,7 @@ bigbangmedia.com CNAME .
 bigclicks.com CNAME .
 billboard.cz CNAME .
 billionpops.com CNAME .
+bimlocal.com CNAME .
 binary1.website CNAME .
 binarymoney.site CNAME .
 bioniccuddle.com CNAME .
@@ -18533,6 +18556,8 @@ liverail.com CNAME .
 lizardslaugh.com CNAME .
 loading321.com CNAME .
 loadsfalladz.casa CNAME .
+localmantra.com CNAME .
+localmediabuying.com CNAME .
 loftsbaacad.com CNAME .
 log.btopenworld.com CNAME .
 logger.snackly.co CNAME .
