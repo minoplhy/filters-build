@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-11T18:03:57.182Z
+; Last modified: 2021-08-12T06:04:22.652Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -36704,13 +36704,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-vbillplus.cn CNAME .
-youhuixia1210.cn CNAME .
-stormreader.cn CNAME .
-greenadoption.cn CNAME .
-tryost.cn CNAME .
-ruiy.shop CNAME .
-kfweo2.com CNAME .
+aiyun.club CNAME .
+baolanke.top CNAME .
+sunang37.cn CNAME .
+bjxfinance.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37377,6 +37374,7 @@ gralfusnzpo007.top CNAME .
 gralfusnzpo008.top CNAME .
 graypay1.cn CNAME .
 greeknaturalcyprus.com CNAME .
+greenadoption.cn CNAME .
 grjs02.com CNAME .
 grjs06.com CNAME .
 grjs08.com CNAME .
@@ -37711,6 +37709,7 @@ kenxr.com CNAME .
 keran.hl.cn CNAME .
 ketaoke.com CNAME .
 keyand.xyz CNAME .
+kfweo2.com CNAME .
 kgfnhf.cn CNAME .
 khuoy.com CNAME .
 kid9.info CNAME .
@@ -38117,6 +38116,7 @@ rqjhhg.cn CNAME .
 rqkgcd.xyz CNAME .
 rtkyvd.xyz CNAME .
 ruibokeji.cn CNAME .
+ruiy.shop CNAME .
 ruyidk.com CNAME .
 ruyiqufu.com CNAME .
 rvsosm.cn CNAME .
@@ -38207,6 +38207,7 @@ starlizard.com.cn CNAME .
 stdst.cn CNAME .
 stevenblue.cn CNAME .
 stm65i8.com CNAME .
+stormreader.cn CNAME .
 subshall.cn CNAME .
 sugarpuff.net CNAME .
 suhusushi.com CNAME .
@@ -38319,6 +38320,7 @@ travel-together.cn CNAME .
 trhccn.cn CNAME .
 trpsm.xyz CNAME .
 truecrimesss.com CNAME .
+tryost.cn CNAME .
 tsgyg.cn CNAME .
 tsrc8.com CNAME .
 ttbc33.com CNAME .
@@ -38368,6 +38370,7 @@ uyueread.com CNAME .
 v5levm1.com CNAME .
 vasb.cn CNAME .
 vbanm.com CNAME .
+vbillplus.cn CNAME .
 vchim.com CNAME .
 vgimer.cn CNAME .
 vinuxhome.com CNAME .
@@ -38623,6 +38626,7 @@ yongshengtongda.com CNAME .
 yoobest.cn CNAME .
 yosjob.cn CNAME .
 you6ka.cn CNAME .
+youhuixia1210.cn CNAME .
 youlejia.xyz CNAME .
 youngalsobeautiful.com CNAME .
 youpukeji.cn CNAME .
