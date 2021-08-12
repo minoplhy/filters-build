@@ -26,7 +26,7 @@ ff00::0 ip6-mcastprefix CNAME .
 ff02::1 ip6-allnodes CNAME .
 ff02::2 ip6-allrouters CNAME .
 ff02::3 ip6-allhosts CNAME .
-
+0.0.0.0 CNAME .
 
 ; Custom host records are listed here.
 
@@ -35308,7 +35308,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Title: KADhosts
 ; Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
 ; Last modified: Mon, 09 Aug 2021, 13:07 UTC+02
-; Version: 2021.8.9.
+; Version: 2021.8.9.0
 ; Expires: 2 days
 ; Website: https://kadantiscam.netlify.app/
 ; Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -62748,7 +62748,7 @@ curwe.fi CNAME .
 ; Start minecraft-hosts
 
 ; minecraft-hosts - Tracking Domains
-; License: CC
+; License: CC0
 
 auxilium.ftb.team CNAME .
 bstats.org CNAME .
@@ -71614,7 +71614,7 @@ servetean.site CNAME .
 www.servetean.site CNAME .
 
 ; 2020-04-06 steamplay
-; - https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=5
+; - https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=50
 centent.steamplay.me CNAME .
 
 ; 2020-04-27
@@ -73974,10 +73974,10 @@ track4.surfthewave.xyz CNAME .
 ; - http://mta.vkrpep12.com/s/r?ridb=22&p=21b91oTbMTUbXnx8zMoKFjP1rZibofqpnfHphhnI9MKapSLfwSrYsOYSFkb2PatPodrUR2dRc7if3M9wL2GAZr938XWaZhfYQnl1gNrua2BnZQP5rZ
 ; - https://go.exrtbsrv.com/r.php?i=70354323&p=p16090245&s=s3&c=S3V3aU9kSnZETTZvQ2xHR2h0eG0rQT09
 ; - https://click.hooligapps.com/?pid=3&offer_id=2&land=156&sub1=pu_remnant
-; - http://click.expmediadirect.com/click?i=U3I9LFLMLk8_
+; - http://click.expmediadirect.com/click?i=U3I9LFLMLk8_0
 ; - http://r.mylot.com/go.ashx?w=cD1leHBsb3JhZHN3bCZrPXd3dy5ieW1lc3RldGljYS5jb20mYj0wLjAwMDUmcz0yMjEyOTM1
 ; - https://doubleadserve.com/Redirect.eng
-; - http://xml.fastdln.com/click?i=MPH0UvFyL6Q_
+; - http://xml.fastdln.com/click?i=MPH0UvFyL6Q_0
 ; - https://z3dmbpl6309s.com/kcj93ej3j?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=8025
 mta.vkrpep12.com CNAME .
 go.exrtbsrv.com CNAME .
@@ -91487,12 +91487,12 @@ zz.690tx.com CNAME .
 ; entries: 3625
 ; format: hosts (hosts -- in hosts file format)
 ; credits: Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
-; this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=
+; this URL: https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
 ; Patreon: https://patreon.com/blocklist
 ; other formats: https://pgl.yoyo.org/adservers/formats.php
 ; policy: https://pgl.yoyo.org/adservers/policy.php
 ;
-; start date: Tue, 14 Aug 2001 00:00:0
+; start date: Tue, 14 Aug 2001 00:00:00
 1-1ads.com CNAME .
 101com.com CNAME .
 101order.com CNAME .
