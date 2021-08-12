@@ -335,10 +335,10 @@ cdn.fastclick.net CNAME . ; sites.
 ;127.0.0.1 track.hulu.com CNAME . ; Uncomment to block Hulu.
 ;127.0.0.1 webstat.channel4.com
 ;127.0.0.1 www.googletagservices.com CNAME . ;interferes with techrepublic
-06.free-counter.co.uk CNAME .
-06.freecounters.co.uk CNAME .
-6272002-dbase.hitcountz.net CNAME . ; Web bugs in spam
-stats.com CNAME .
+006.free-counter.co.uk CNAME .
+006.freecounters.co.uk CNAME .
+06272002-dbase.hitcountz.net CNAME . ; Web bugs in spam
+0stats.com CNAME .
 123counter.mycomputer.com CNAME .
 123counter.superstats.com CNAME .
 1ca.cqcounter.com CNAME .
@@ -2123,9 +2123,9 @@ zz.cqcounter.com CNAME .
 ;<malware-sites>
 
 ; sites with known trojans, phishing, or other malware
-.nextyourcontent.com CNAME .
-5tz2e9.com CNAME .
-9killspyware.com CNAME .
+0.nextyourcontent.com CNAME .
+05tz2e9.com CNAME .
+09killspyware.com CNAME .
 10tide.com CNAME .
 11398.onceedge.ru CNAME .
 20-yrs-1.info CNAME .
@@ -4485,11 +4485,11 @@ zfm.oewabox.at CNAME .
 ; ads
 ;127.0.0.1 aax-eu.amazon-adsystem.com CNAME . ; may interfere with Amazon ad preferences
 ;127.0.0.1 s.amazon-adsystem.com CNAME . ; may interfere with Amazon ad preferences
-101011.com CNAME .
-427d7.se CNAME .
-d79ed.r.axf8.net CNAME .
-pn.ru CNAME .
-qizz.super-promo.hoxo.info CNAME .
+0101011.com CNAME .
+0427d7.se CNAME .
+0d79ed.r.axf8.net CNAME .
+0pn.ru CNAME .
+0qizz.super-promo.hoxo.info CNAME .
 1.adbrite.com CNAME .
 1.allyes.com.cn CNAME .
 1.forgetstore.com CNAME .
