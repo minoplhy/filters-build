@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 11 Aug 2021 16:49 UTC+7
+; Updated: 14 Aug 2021 15:48 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -4801,7 +4801,6 @@ js-agent.newrelic.com CNAME .
 log-api.newrelic.com CNAME .
 metric-api.newrelic.com CNAME .
 mobile-collector.newrelic.com CNAME .
-mobile-crash-origin.newrelic.com CNAME .
 mobile-crash.newrelic.com CNAME .
 staging-insights-collector.newrelic.com CNAME .
 ;[nr-data.net]
@@ -11534,6 +11533,8 @@ adashx.m.taobao.com CNAME .
 apoll.m.taobao.com CNAME .
 c-adash.m.taobao.com CNAME .
 m-adash.m.taobao.com CNAME .
+umengacs.m.taobao.com CNAME .
+umengjmacs.m.taobao.com CNAME .
 ;[ut.taobao.com]
 adashbc.ut.taobao.com CNAME .
 adashx.ut.taobao.com CNAME .
@@ -15778,6 +15779,13 @@ media.myad.vn CNAME .
 realtime.myad.vn CNAME .
 viralink.myad.vn CNAME .
 www.myad.vn CNAME .
+;[fptad.com]
+fptad.com CNAME .
+partner.fptad.com CNAME .
+www.fptad.com CNAME .
+customers.fptad.com CNAME .
+img.customers.fptad.com CNAME .
+static.customers.fptad.com CNAME .
 ; --- Block adsVN ---
 5734a40f2d.vws.vegacdn.vn CNAME .
 703531862.vws.vegacdn.vn CNAME .
@@ -15934,7 +15942,6 @@ dt.vnecdn.com CNAME .
 duamilsyr.com CNAME .
 ff.imacdn.com CNAME .
 financial-agent.headlines.pw CNAME .
-fptad.com CNAME .
 genmonet.com CNAME .
 ghimc.vn CNAME .
 go.vnecdn.com CNAME .
@@ -18611,6 +18618,7 @@ marketing.nyi.net CNAME .
 marketing.osijek031.com CNAME .
 marketo.net CNAME .
 marketron.com CNAME .
+markofathenaluk.com CNAME .
 maroonspider.com CNAME .
 mas.sector.sk CNAME .
 massicrathem.info CNAME .
@@ -19861,6 +19869,7 @@ urechar.com CNAME .
 urlcash.net CNAME .
 uruswan.com CNAME .
 usapromotravel.com CNAME .
+uselnk.com CNAME .
 usemax.de CNAME .
 useriq.com CNAME .
 userreplay.com CNAME .
@@ -19927,6 +19936,7 @@ vogueoatgap.com CNAME .
 voicevegetable.com CNAME .
 voradu.com CNAME .
 voredi.com CNAME .
+vounaipu.net CNAME .
 vpon.com CNAME .
 vrs.cz CNAME .
 vs.tucows.com CNAME .
@@ -19984,6 +19994,7 @@ wethornsprecede.com CNAME .
 wetrack.it CNAME .
 whaiweel.com CNAME .
 whaleads.com CNAME .
+whazugho.com CNAME .
 whenu.com CNAME .
 whereapps.com CNAME .
 whirlwealth.com CNAME .

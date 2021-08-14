@@ -1,7 +1,7 @@
 ! Title: hostsVN CNAME .
-! Last modified: 11 Aug 2021 16:49 UTC+7 CNAME .
-! Version: 2108111649 CNAME .
-! Blocked: 6,667 domains CNAME .
+! Last modified: 14 Aug 2021 15:48 UTC+7 CNAME .
+! Version: 2108141548 CNAME .
+! Blocked: 6,678 domains CNAME .
 ! The section containing the list contains all ad networks and tracking CNAME .
 ! CNAME .
 24h-ad.24hstatic.com CNAME .
@@ -87,6 +87,7 @@ eclick.vn CNAME .
 eva-ad.24hstatic.com CNAME .
 ezimar.com CNAME .
 flygame.io CNAME .
+fptad.com CNAME .
 fuseplatform.net CNAME .
 gafin.vn CNAME .
 gammaplatform.com CNAME .
@@ -377,7 +378,6 @@ dt.vnecdn.com CNAME .
 duamilsyr.com CNAME .
 ff.imacdn.com CNAME .
 financial-agent.headlines.pw CNAME .
-fptad.com CNAME .
 genmonet.com CNAME .
 ghimc.vn CNAME .
 go.vnecdn.com CNAME .
@@ -993,7 +993,12 @@ adalyser.com CNAME .
 adap.tv CNAME .
 adash.m.taobao.com CNAME .
 adashbc.m.taobao.com CNAME .
+adashbc.ut.taobao.com CNAME .
 adashx.m.taobao.com CNAME .
+adashx.ut.taobao.com CNAME .
+adashx4ae.ut.taobao.com CNAME .
+adashx4sg.ut.taobao.com CNAME .
+adashxgc.ut.taobao.com CNAME .
 adblade.com CNAME .
 adblox.net CNAME .
 adbrix.io CNAME .
@@ -1622,6 +1627,9 @@ gsp1.baidu.com CNAME .
 gssprt.jp CNAME .
 gumgum.com CNAME .
 guomob.com CNAME .
+h-adashx.ut.taobao.com CNAME .
+h-adashx4ae.ut.taobao.com CNAME .
+h-adashx4sg.ut.taobao.com CNAME .
 hadarone.com CNAME .
 hads*s.com CNAME .
 hbb.afl.rakuten.co.jp CNAME .
@@ -1816,7 +1824,6 @@ mobclix.com CNAME .
 mobfox.com CNAME .
 mobile-10.com CNAME .
 mobile-collector.newrelic.com CNAME .
-mobile-crash-origin.newrelic.com CNAME .
 mobile-crash.newrelic.com CNAME .
 mobileads.msn.com CNAME .
 mobileanalytics.*.amazonaws.com CNAME .
@@ -1855,7 +1862,6 @@ neptuneadspush.com CNAME .
 netcoresmartech.com CNAME .
 netund.com CNAME .
 neustar.biz CNAME .
-newrelic.com CNAME .
 newsinc.com CNAME .
 newsmaxfeednetwork.com CNAME .
 nexage.com CNAME .
@@ -2185,7 +2191,9 @@ uedata.amazon.com CNAME .
 ugdturner.com CNAME .
 umeng.co CNAME .
 umeng.com CNAME .
+umengacs.m.taobao.com CNAME .
 umengcloud.com CNAME .
+umengjmacs.m.taobao.com CNAME .
 undertone.com CNAME .
 uniconsent.com CNAME .
 union.ucweb.com CNAME .
@@ -2200,7 +2208,6 @@ urekamedia.com CNAME .
 urlhausa.com CNAME .
 userreport.com CNAME .
 usp1.baidu.com CNAME .
-ut.taobao.com CNAME .
 uttclimber.com CNAME .
 valuecommerce.com CNAME .
 vasstycom.com CNAME .
@@ -4632,6 +4639,7 @@ marketing.nyi.net CNAME .
 marketing.osijek031.com CNAME .
 marketo.net CNAME .
 marketron.com CNAME .
+markofathenaluk.com CNAME .
 maroonspider.com CNAME .
 mas.sector.sk CNAME .
 massicrathem.info CNAME .
@@ -5884,6 +5892,7 @@ urechar.com CNAME .
 urlcash.net CNAME .
 uruswan.com CNAME .
 usapromotravel.com CNAME .
+uselnk.com CNAME .
 usemax.de CNAME .
 useriq.com CNAME .
 userreplay.com CNAME .
@@ -5950,6 +5959,7 @@ vogueoatgap.com CNAME .
 voicevegetable.com CNAME .
 voradu.com CNAME .
 voredi.com CNAME .
+vounaipu.net CNAME .
 vpon.com CNAME .
 vrs.cz CNAME .
 vs.tucows.com CNAME .
@@ -6007,6 +6017,7 @@ wethornsprecede.com CNAME .
 wetrack.it CNAME .
 whaiweel.com CNAME .
 whaleads.com CNAME .
+whazugho.com CNAME .
 whenu.com CNAME .
 whereapps.com CNAME .
 whirlwealth.com CNAME .
