@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-15T06:05:03.208Z
+; Last modified: 2021-08-15T18:03:54.576Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,13 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+alienateaboard.com CNAME .
+dandelionbypasstestimony.com CNAME .
+intentionscommunity.com CNAME .
+dualizefriskin.com CNAME .
+alasvow.com CNAME .
+excuseparen.com CNAME .
+usounoul.com CNAME .
 phiriaxi.com CNAME .
 regrcurie.com CNAME .
 foyvizvujsor.com CNAME .
@@ -173,7 +180,6 @@ fouptebu.net CNAME .
 revelationneighbourly.com CNAME .
 kinkledunendly.com CNAME .
 passwordscompound.com CNAME .
-dualizefriskin.com CNAME .
 dreadfulwomb.com CNAME .
 primis.tech CNAME .
 20193a.secure-cloud.pro CNAME .
@@ -504,7 +510,6 @@ bypathaivr.com CNAME .
 haradeiu.rocks CNAME .
 ledslevier.com CNAME .
 irkfunkyformer.com CNAME .
-alasvow.com CNAME .
 temporarilybrancheshideous.com CNAME .
 d1cykymlllue3h.cloudfront.net CNAME .
 st-n.pc5ads.com CNAME .
@@ -4247,6 +4252,7 @@ apexwantstar.com CNAME .
 aphicbouncil.club CNAME .
 aphidsclee.com CNAME .
 apiecelee.com CNAME .
+apkbundle.store CNAME .
 apologisehistoriancrackle.com CNAME .
 apologixopyr.site CNAME .
 apopgo.com CNAME .
@@ -5907,7 +5913,6 @@ daltondescendent.com CNAME .
 damsoloist.com CNAME .
 dana123.com CNAME .
 danamivi.com CNAME .
-dandelionbypasstestimony.com CNAME .
 dangerinsignificantinvent.com CNAME .
 dangerprickly.com CNAME .
 danmeneldur.com CNAME .
@@ -7341,6 +7346,7 @@ frevi.net CNAME .
 freychang.fun CNAME .
 frhbrkjgerikm2f8mjek09.com CNAME .
 friandsuddy.com CNAME .
+friendstringpose.top CNAME .
 friesel-mustin.com CNAME .
 frogrugby.com CNAME .
 frogwokshive.com CNAME .
@@ -9581,6 +9587,7 @@ mobizme.net CNAME .
 moborobot.com CNAME .
 mobpartner.mobi CNAME .
 mobreach.com CNAME .
+mobshark.net CNAME .
 mobstrks.com CNAME .
 mobtrks.com CNAME .
 mobtyb.com CNAME .
@@ -12793,6 +12800,7 @@ thoughtthricecompress.com CNAME .
 thoughuttered.com CNAME .
 thousandfixedlyyawn.com CNAME .
 thousandimplied.com CNAME .
+threewent-shore.top CNAME .
 thricemodestsuffix.com CNAME .
 throughhonouredhighest.com CNAME .
 thrustdeadconsiderably.com CNAME .
@@ -13260,7 +13268,6 @@ ushoofop.com CNAME .
 ushooque.net CNAME .
 usingirritatecordial.com CNAME .
 uslioert.com CNAME .
-usounoul.com CNAME .
 ustbitsoct.top CNAME .
 ustingpres.fun CNAME .
 ustxsntseyhwsx.com CNAME .
@@ -17850,7 +17857,6 @@ appgift.sinaapp.com CNAME .
 ad.mail.ru CNAME .
 servedby.o2.co.uk CNAME .
 amillionads.com CNAME .
-api.mobshark.net CNAME .
 mcoreads.com CNAME .
 onlineapi.youappi.com CNAME .
 networksdk.ssacdn.com CNAME .
@@ -24317,9 +24323,6 @@ gjapplog.ucweb.com CNAME .
 stat.meitudata.com CNAME .
 collect.media.jio.com CNAME .
 log.apk.v-mate.mobi CNAME .
-track.mobshark.net CNAME .
-dsp-adcreative.mobshark.net CNAME .
-dsptrack.mobshark.net CNAME .
 analytics.metrix.ir CNAME .
 hwstats.unity3d.com CNAME .
 tracking.prd.mz.internal.unity3d.com CNAME .
@@ -25760,6 +25763,7 @@ analytics.unilogcorp.com CNAME .
 analytics.urx.io CNAME .
 analytics.vanillaforums.com CNAME .
 analytics.vendemore.com CNAME .
+analytics.webpushr.com CNAME .
 analytics.websolute.it CNAME .
 analytics.wildtangent.com CNAME .
 analytics.witglobal.net CNAME .
@@ -27365,6 +27369,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+mobflow21.com CNAME .
 cobocritus.com CNAME .
 lxopfg.com CNAME .
 xketil.com CNAME .
@@ -36790,8 +36795,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+idevoa.cn CNAME .
 yhaizy.cn CNAME .
 ipxjps.cn CNAME .
+fjshxjs.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
