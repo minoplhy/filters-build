@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-17T06:04:02.896Z
+; Last modified: 2021-08-17T18:04:22.835Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,9 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+cutestpotting.com CNAME .
+juwymapy.xyz CNAME .
+kebarydi.xyz CNAME .
 multileaguebookstore.com CNAME .
 sffsdvc.com CNAME .
 violetdistasteful.com CNAME .
@@ -2858,6 +2861,8 @@ samsungtvads.com CNAME .
 ;
 ; Section contains the list of advertising networks, which are hosted on non advertising sites as subdomains
 ;
+aa.pornvideotop.com CNAME .
+dkre4lyk6a9bt.cloudfront.net CNAME .
 ads-partners.coupang.com CNAME .
 ads-dot-fbc-web-2018.uc.r.appspot.com CNAME .
 awrfds3.pornpapa.com CNAME .
@@ -5100,6 +5105,7 @@ c0c.xyz CNAME .
 c0metome.com CNAME .
 c0z.xyz CNAME .
 c10ed2b8b417880.com CNAME .
+c12bleue.com CNAME .
 c15fb199d1ea.com CNAME .
 c3t-system-err.club CNAME .
 c43a3cd8f99413891.com CNAME .
@@ -5447,6 +5453,7 @@ cizykytha.com CNAME .
 cjf25jklrwqt.com CNAME .
 cjlqwfpkwi.com CNAME .
 cjt1.net CNAME .
+ckjlmqgxy.com CNAME .
 cklecreditie.info CNAME .
 ckrf1.com CNAME .
 claimbit.tk CNAME .
@@ -5679,6 +5686,7 @@ confiscatecardboard.com CNAME .
 conflictslashact.com CNAME .
 conflictwhatcrew.com CNAME .
 confoundcoinghosts.com CNAME .
+confrontationdrunk.com CNAME .
 confrontationproximity.com CNAME .
 congestdiscreditwithdrew.com CNAME .
 congestit.com CNAME .
@@ -5891,6 +5899,7 @@ ctivesmuha.club CNAME .
 ctivesprepaired.club CNAME .
 ctjvkaqiekquag.com CNAME .
 ctm-media.com CNAME .
+ctoairtx.com CNAME .
 ctrlaltdel99.com CNAME .
 ctromgvroh.com CNAME .
 cttghjfhsw.com CNAME .
@@ -6365,6 +6374,7 @@ dnbizcdn.com CNAME .
 dnemkhkbsdbl.com CNAME .
 doboacki.net CNAME .
 dodgekeelpops.com CNAME .
+dodgiercuvy.cam CNAME .
 dogconcurrencesauce.com CNAME .
 doghoust.net CNAME .
 dogwrite.com CNAME .
@@ -6471,6 +6481,7 @@ dsfjhfhyry2hh8jo09.com CNAME .
 dsnextgen.com CNAME .
 dsnr-affiliates.com CNAME .
 dspmulti.com CNAME .
+dspultra.com CNAME .
 dsstrk.com CNAME .
 dstrentcon.club CNAME .
 dsufferent.top CNAME .
@@ -7426,6 +7437,7 @@ franecki.net CNAME .
 franeski.net CNAME .
 franklybundlecarver.com CNAME .
 franklyclapmaggot.com CNAME .
+franticallyfranklydecember.com CNAME .
 franticallyseptember.com CNAME .
 franticdivergemindless.com CNAME .
 frap.site CNAME .
@@ -8480,6 +8492,7 @@ intendalinetang.com CNAME .
 intendspatteremerald.com CNAME .
 intentanalysis.com CNAME .
 intentlyrecreate.com CNAME .
+intentsuntune.casa CNAME .
 inter1ads.com CNAME .
 interceptstephen.com CNAME .
 interclics.com CNAME .
@@ -9617,6 +9630,7 @@ millagesert.info CNAME .
 millennialmedia.com CNAME .
 milligraminstructionundesirable.com CNAME .
 millraffle.com CNAME .
+millustry.top CNAME .
 miltauru.net CNAME .
 mimicbeeralb.com CNAME .
 mimilcnf.pro CNAME .
@@ -9971,6 +9985,7 @@ nativeserv.com CNAME .
 nativewpsh.com CNAME .
 naucaish.net CNAME .
 naughtybuddyswoop.com CNAME .
+naughtypetrolsweat.com CNAME .
 naustoch.net CNAME .
 navalsuedehybrids.com CNAME .
 navaltophes.com CNAME .
@@ -10778,6 +10793,7 @@ pegablackjal.com CNAME .
 pegasuson.com CNAME .
 pegaumsi.com CNAME .
 pegristofi.com CNAME .
+peirs5tbakchios.com CNAME .
 pendingvillashells.com CNAME .
 pendscoul.space CNAME .
 penetrateinstalmentfacial.com CNAME .
@@ -11881,6 +11897,7 @@ rincegath.fun CNAME .
 rindicalapa.fun CNAME .
 ringassum.club CNAME .
 ringexpressbeach.com CNAME .
+ringingmor.biz CNAME .
 ringsnutdaze.com CNAME .
 rinterestinb.biz CNAME .
 riodovernprovi.club CNAME .
@@ -12610,6 +12627,7 @@ squawcubesfry.com CNAME .
 squeezedobscene.com CNAME .
 squeezedthoughtfully.com CNAME .
 squeezemicrowave.com CNAME .
+squineeyuck.com CNAME .
 squirrelhissedintake.com CNAME .
 sresumablye.club CNAME .
 srigbxxv.com CNAME .
@@ -13088,6 +13106,7 @@ tinkerta.com CNAME .
 tinkerwidth.com CNAME .
 tintregionalretire.com CNAME .
 tintslingpromote.com CNAME .
+tionedwhen.biz CNAME .
 tionmodat.club CNAME .
 tionmustai.fun CNAME .
 tistianmaga.top CNAME .
@@ -13913,6 +13932,7 @@ wellnesszap.com CNAME .
 welsworn.info CNAME .
 wengesog.net CNAME .
 wensoono.com CNAME .
+wepthandbook.com CNAME .
 weptpremisedefined.com CNAME .
 weredadmitt.club CNAME .
 wergad.com CNAME .
@@ -13932,6 +13952,7 @@ wgrjizeaimbxx.com CNAME .
 whackaggressive.com CNAME .
 whackmaturityclosure.com CNAME .
 whadaupo.net CNAME .
+whaidree.com CNAME .
 whaidruk.com CNAME .
 whaiksax.com CNAME .
 whaiweel.com CNAME .
@@ -17552,6 +17573,7 @@ d1fs2ef81chg3.cloudfront.net CNAME .
 d1il9t8pu4dsoj.cloudfront.net CNAME .
 d1ilwohzbe4ao6.cloudfront.net CNAME .
 d1jnvfp2m6fzvq.cloudfront.net CNAME .
+d1jow6p6g37b9u.cloudfront.net CNAME .
 d1ks8roequxbwa.cloudfront.net CNAME .
 d1mbgf0ge24riu.cloudfront.net CNAME .
 d1mbihpm2gncx7.cloudfront.net CNAME .
@@ -18507,6 +18529,8 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+log.gobankingrates.com CNAME .
+v*.sitecounter.site CNAME .
 fh-main.measure.agilemeasure.com CNAME .
 analytics.cdn.live CNAME .
 a.mt.ru CNAME .
@@ -22608,6 +22632,8 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+d2r1yp2w7bby2u.cloudfront.net CNAME .
+csm.cxpublic.com CNAME .
 evt.houzz.com CNAME .
 ttmetrics.jcpenney.com CNAME .
 api.iterative.ly CNAME .
@@ -22647,7 +22673,7 @@ logs.gaana.com CNAME .
 track.searchiq.co CNAME .
 broker.datazoom.io CNAME .
 dot.texastribune.org CNAME .
-ping.hashnode.com CNAME .
+analytics.hashnode.com CNAME .
 log.vava.com CNAME .
 beacon.samsclub.com CNAME .
 counter.theconversation.com CNAME .
@@ -26161,6 +26187,7 @@ jas.indeednps.com CNAME .
 javascriptcounter.appspot.com CNAME .
 jelly.mdhv.io CNAME .
 jill.fc.yahoo.com CNAME .
+jly24aw29n5m-a.akamaihd.net CNAME .
 k.streamrail.com CNAME .
 kalstats.kaltura.com CNAME .
 keyword.daumdn.com CNAME .
@@ -26190,6 +26217,7 @@ lt.tritondigital.com CNAME .
 lucid.mjhassoc.com CNAME .
 lunametrics.wpengine.netdna-cdn.com CNAME .
 magnify360-cdn.s3.amazonaws.com CNAME .
+martech.condenastdigital.com CNAME .
 mas.nth.ch CNAME .
 mcdp-*.outbrain.com CNAME .
 mcs.delvenetworks.com CNAME .
@@ -27465,6 +27493,10 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+sandelf.com CNAME .
+fooluminou.review CNAME .
+rzqdqw.com CNAME .
+refpakykgqyf.top CNAME .
 mobflow21.com CNAME .
 cobocritus.com CNAME .
 lxopfg.com CNAME .
@@ -32149,6 +32181,7 @@ adimpkwd.excite.co.jp CNAME .
 ; Eimg.jp
 adingo.jp.eimg.jp CNAME .
 ;
+pokoran.com CNAME .
 world-ad.jp CNAME .
 waqool.com CNAME .
 ad.nwi.jp CNAME .
@@ -32412,6 +32445,9 @@ chickensaladandads.com CNAME .
 ;
 ; Section contains list of advertising networks
 ;
+shoagooy.net CNAME .
+oaftaijo.net CNAME .
+sdofp9c.cddrhx.cn CNAME .
 e66gg.com CNAME .
 p.qlogo.cn CNAME .
 dlads.cn CNAME .
@@ -36884,6 +36920,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+gaojiedesign.cn CNAME .
+hswenwan.cn CNAME .
+g9o.cn CNAME .
+591huishou.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
