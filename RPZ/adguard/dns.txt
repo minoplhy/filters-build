@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-18T06:05:28.142Z
+; Last modified: 2021-08-18T18:04:17.239Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+scripts.static-od.com CNAME .
 thevtk.com CNAME .
 cutestpotting.com CNAME .
 juwymapy.xyz CNAME .
@@ -5029,6 +5030,7 @@ btemegxbnalq.com CNAME .
 btnldivewzzfso.com CNAME .
 btonzfjleinuax.com CNAME .
 bttvrqazwnjfl.com CNAME .
+btvmvqoxh.com CNAME .
 btzgadfn.com CNAME .
 bubblyalibiappear.com CNAME .
 bucogrzbgyysen.com CNAME .
@@ -5395,6 +5397,7 @@ choupsee.com CNAME .
 chpfgx.com CNAME .
 chpok.pw CNAME .
 christingera.site CNAME .
+christmasporn.top CNAME .
 chronicads.com CNAME .
 chronicleisoconfused.com CNAME .
 chspracteri.fun CNAME .
@@ -5746,6 +5749,7 @@ coperledsinhe.info CNAME .
 copinionytw.club CNAME .
 copyrightaccesscontrols.com CNAME .
 copyrightmournfulsalon.com CNAME .
+copysign.link CNAME .
 corateencountry.pro CNAME .
 corkysound.com CNAME .
 cornerbut.com CNAME .
@@ -5785,6 +5789,7 @@ coyseyirely.club CNAME .
 coysotown.com CNAME .
 cozvhotizbepi.com CNAME .
 cp2srvng.xyz CNAME .
+cpa-optimizer.online CNAME .
 cpabeyond.com CNAME .
 cpaclicks.com CNAME .
 cpaconvtrk.net CNAME .
@@ -6204,6 +6209,7 @@ dianomioffers.co.uk CNAME .
 diapersophisticated.com CNAME .
 dibsemey.com CNAME .
 dicalnatur.club CNAME .
+diclotrans.com CNAME .
 dicularstors.top CNAME .
 didchinosdub.cam CNAME .
 didpuprat.com CNAME .
@@ -7565,6 +7571,7 @@ generablel.fun CNAME .
 generablep.top CNAME .
 generalebad.xyz CNAME .
 generalizationentertain.com CNAME .
+generatecompassionphotocopy.com CNAME .
 generatedough.com CNAME .
 geneticdiminishblake.com CNAME .
 genishury.pro CNAME .
@@ -8452,6 +8459,7 @@ intervalssuggested.com CNAME .
 intimidatewearisomespecialist.com CNAME .
 intimidatingclinchwily.com CNAME .
 intimidatinggodlessketchup.com CNAME .
+intnotif.club CNAME .
 intrudeaccess.com CNAME .
 inventoryjeep.com CNAME .
 investigatesupernatural.com CNAME .
@@ -8719,6 +8727,7 @@ kaiphapt.net CNAME .
 kalauxet.com CNAME .
 kalespurhoes.com CNAME .
 kalmloda.com CNAME .
+kaminari.club CNAME .
 kamnebo.info CNAME .
 kappalinks.com CNAME .
 katecrochetvanity.com CNAME .
@@ -10177,6 +10186,7 @@ nseconoming.club CNAME .
 nsecretaflicti.info CNAME .
 nsfercuritydi.club CNAME .
 nsidereturn.club CNAME .
+nsideservie.space CNAME .
 nskoxgsb.com CNAME .
 nsparket.top CNAME .
 nsserviewssti.club CNAME .
@@ -10252,6 +10262,7 @@ oackoubs.com CNAME .
 oadaheba.net CNAME .
 oadsouzi.net CNAME .
 oaffolksy.cam CNAME .
+oaftaijo.net CNAME .
 oagnatch.com CNAME .
 oampitsa.com CNAME .
 oanimsen.net CNAME .
@@ -10289,6 +10300,7 @@ ochaugly.net CNAME .
 oclgbmykr.com CNAME .
 ocmhood.com CNAME .
 oconner.link CNAME .
+octopod.cc CNAME .
 oddertabrhino.com CNAME .
 oddsshitfixes.com CNAME .
 odichaly.space CNAME .
@@ -12156,6 +12168,7 @@ sevenrumblepunishment.com CNAME .
 severalrespondlucidly.com CNAME .
 sevwhetheles.club CNAME .
 sewedwebspot.casa CNAME .
+sextubeweb.com CNAME .
 sf9yvla26s5t.com CNAME .
 sfixretarum.com CNAME .
 sflywdvzyh.com CNAME .
@@ -12236,6 +12249,7 @@ shubad2u8ba09.com CNAME .
 shubadubadlskjfkf.com CNAME .
 shufflewithdrawplanets.com CNAME .
 shugohofo.pro CNAME .
+shukriya90.com CNAME .
 shunguts.com CNAME .
 shusacem.net CNAME .
 shweflix.com CNAME .
@@ -12433,6 +12447,7 @@ southvane.com CNAME .
 souvenirwatery.com CNAME .
 sovieashlig.club CNAME .
 sowhypepse.pro CNAME .
+soxg.xyz CNAME .
 soycrockarab.com CNAME .
 soza6rsz3ezi.com CNAME .
 spaderonium.com CNAME .
@@ -13088,6 +13103,7 @@ tqmibkqlwqdysi.com CNAME .
 tqxdhokpeigv.com CNAME .
 tr563.com CNAME .
 traceaccounc.club CNAME .
+tracepath.cc CNAME .
 track-victoriadates.com CNAME .
 trackad2.com CNAME .
 trackcapitalvane.com CNAME .
@@ -13757,6 +13773,9 @@ wayfarerspoutpraise.com CNAME .
 waynagmay.com CNAME .
 waypresentsstud.com CNAME .
 wbdds.com CNAME .
+wbidder.online CNAME .
+wbidr.com CNAME .
+wboptim.online CNAME .
 wcdny.com CNAME .
 wcmcs.net CNAME .
 wct.link CNAME .
@@ -14090,6 +14109,7 @@ xluizaewqswnfr.com CNAME .
 xm0siulufost.com CNAME .
 xmas-xmas-wow.com CNAME .
 xmaswrite.com CNAME .
+xml-api.online CNAME .
 xmlads.bid CNAME .
 xmlgrab.com CNAME .
 xmlppcbuzz.com CNAME .
@@ -14227,6 +14247,7 @@ ylx-4.com CNAME .
 ym-a.cc CNAME .
 ym8p.net CNAME .
 ymondardin.club CNAME .
+ymrseiueff.com CNAME .
 ymzrrizntbhde.com CNAME .
 yobr.net CNAME .
 yoc-adserver.com CNAME .
@@ -15556,7 +15577,6 @@ etology.com CNAME .
 evolvemediallc.com CNAME .
 evolvenation.com CNAME .
 exactdrive.com CNAME .
-exchange4media.com CNAME .
 exitexplosion.com CNAME .
 exmarketplace.com CNAME .
 exponential.com CNAME .
@@ -18392,6 +18412,11 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+facil-iti.com CNAME .
+api.all-internet.jp CNAME .
+p-analytics.life CNAME .
+snowplow-collector-*.amazonaws.com CNAME .
+analytics.getshogun.com CNAME .
 log.gobankingrates.com CNAME .
 v*.sitecounter.site CNAME .
 fh-main.measure.agilemeasure.com CNAME .
@@ -22495,6 +22520,10 @@ collection-endpoint-staging.herokuapp.com CNAME .
 ; https://github.com/AdguardTeam/AdGuardSDNSFilter/issues/344
 ; Disabled in DNS filter
 ;
+zion-telemetry.api.cnn.io CNAME .
+collector.cdp.cnn.com CNAME .
+collector-dev.cdp-dev.cnn.com CNAME .
+rps-uk.rockpapershotgun.com CNAME .
 d2r1yp2w7bby2u.cloudfront.net CNAME .
 csm.cxpublic.com CNAME .
 evt.houzz.com CNAME .
@@ -24183,6 +24212,7 @@ stat.y.qq.com CNAME .
 ;+ PLATFORM(ios, android)
 ;+ NOT_PLATFORM(ios, ext_safari, ext_android_cb)
 ;
+metrics.sp0n.io CNAME .
 liveme-sensors-collect2-*.amazonaws.com CNAME .
 online-metrix.imars.cloud CNAME .
 snowplow-collector.apartmentlist.io CNAME .
@@ -25029,7 +25059,6 @@ osdata.solutions CNAME .
 outbid.io CNAME .
 owlanalytics.io CNAME .
 ox-bio.com CNAME .
-p-analytics.life CNAME .
 p2r14.com CNAME .
 pagesense.io CNAME .
 parametre.online CNAME .
@@ -26084,6 +26113,7 @@ magnify360-cdn.s3.amazonaws.com CNAME .
 martech.condenastdigital.com CNAME .
 mas.nth.ch CNAME .
 mcdp-*.outbrain.com CNAME .
+mcs-va.tiktok.com CNAME .
 mcs.delvenetworks.com CNAME .
 measure.refinery89.com CNAME .
 mediametrics.mpsa.com CNAME .
@@ -26559,7 +26589,6 @@ do09.net CNAME .
 early-birds.fr CNAME .
 early-birds.io CNAME .
 ew3.io CNAME .
-facil-iti.com CNAME .
 galaxiemedia.fr CNAME .
 geovisite.ovh CNAME .
 getjad.io CNAME .
@@ -27357,6 +27386,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+ljknem.com CNAME .
 sandelf.com CNAME .
 fooluminou.review CNAME .
 rzqdqw.com CNAME .
@@ -32046,6 +32076,7 @@ adimpkwd.excite.co.jp CNAME .
 ; Eimg.jp
 adingo.jp.eimg.jp CNAME .
 ;
+adcent.jp CNAME .
 pokoran.com CNAME .
 world-ad.jp CNAME .
 waqool.com CNAME .
@@ -32311,7 +32342,6 @@ chickensaladandads.com CNAME .
 ; Section contains list of advertising networks
 ;
 shoagooy.net CNAME .
-oaftaijo.net CNAME .
 sdofp9c.cddrhx.cn CNAME .
 e66gg.com CNAME .
 p.qlogo.cn CNAME .
@@ -33097,9 +33127,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 17 Aug 2021 09:37 UTC+7
-; OriginalVersion: 2108170937
-; Blocked: 938 rules
+; Last modified: 18 Aug 2021 21:11 UTC+7
+; OriginalVersion: 2108182111
+; Blocked: 940 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33321,6 +33351,7 @@ ads-api.playfun.vn CNAME .
 ads-backend.nhadatmoi.net CNAME .
 ads-cdn.fptplay.net CNAME .
 ads.1thegioi.vn CNAME .
+ads.247phim.com CNAME .
 ads.568play.vn CNAME .
 ads.autonet.com.vn CNAME .
 ads.baoangiang.com.vn CNAME .
@@ -33868,6 +33899,7 @@ one88.us CNAME .
 one88.vip CNAME .
 one88.vn CNAME .
 oneday88.com CNAME .
+oppa888.com CNAME .
 oppa88888888.com CNAME .
 oxbet.club CNAME .
 oxbet.com CNAME .
@@ -36785,6 +36817,13 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+dgbaozhuang.cn CNAME .
+chuang-yi.com.cn CNAME .
+baidu2img.com CNAME .
+nmctm.cn CNAME .
+htvxjl.top CNAME .
+qhdymdc.com CNAME .
+tqlyjz.cn CNAME .
 ygtt.mobi CNAME .
 austinareahomeschoolers.com CNAME .
 taiquandao0.cn CNAME .
