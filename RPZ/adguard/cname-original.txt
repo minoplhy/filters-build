@@ -45,6 +45,10 @@ dnsdelegation.io CNAME .
 storetail.io CNAME .
 *.storetail.io CNAME .
 ;
+; Company: DataUnlocker
+dataunlocker.com CNAME .
+*.dataunlocker.com CNAME .
+;
 ; Company: Eulerian
 eulerian.net CNAME .
 *.eulerian.net CNAME .

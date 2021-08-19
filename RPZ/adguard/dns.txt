@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-19T06:04:56.069Z
+; Last modified: 2021-08-19T12:07:13.002Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,10 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+habeglee.net CNAME .
+besmeargleor.com CNAME .
+ouroborosx.com CNAME .
+sholke.com CNAME .
 scripts.static-od.com CNAME .
 thevtk.com CNAME .
 cutestpotting.com CNAME .
@@ -214,7 +218,6 @@ ausoafab.net CNAME .
 svacdnjutk.com CNAME .
 boustahe.com CNAME .
 wolverdonfilmes.ml CNAME .
-bonertraffic12.info CNAME .
 eighing.space CNAME .
 entsconsesi.top CNAME .
 babanmat.com CNAME .
@@ -4934,6 +4937,7 @@ bollroaches.com CNAME .
 bolrookr.com CNAME .
 bondfondif.com CNAME .
 bonertraffic.info CNAME .
+bonertraffic12.info CNAME .
 bonertraffic12.pro CNAME .
 bonertraffic13.info CNAME .
 bonertraffic13.mobi CNAME .
@@ -6438,6 +6442,7 @@ dpypzvjarj.com CNAME .
 dqbwqzkajkuif.com CNAME .
 dqjazjbqrmrnhb.com CNAME .
 dquanticw.top CNAME .
+dqulcczd.com CNAME .
 dragonsniffcashmere.com CNAME .
 drako2sha8de09.com CNAME .
 drapefabric.com CNAME .
@@ -6960,6 +6965,7 @@ ewedivotsfop.com CNAME .
 ewedpinp.fun CNAME .
 ewetwitter.com CNAME .
 ewithjam.club CNAME .
+ewomento.space CNAME .
 ewooe6df.com CNAME .
 ewrerew29w09.com CNAME .
 ewruuqe5p8ca.com CNAME .
@@ -7265,6 +7271,7 @@ fixproteinnotch.com CNAME .
 fizrnews.com CNAME .
 fizzythick.com CNAME .
 fjbatbqiwpxydg.com CNAME .
+fjfpeqgeyp.com CNAME .
 fjioh.com CNAME .
 fkbwtoopwg.com CNAME .
 fkreylsnefmepi.com CNAME .
@@ -7295,6 +7302,7 @@ floraltaperiez.xyz CNAME .
 flowerythug.com CNAME .
 flowln.com CNAME .
 flownabbot.com CNAME .
+flowndescendenttucked.com CNAME .
 flowwiththetide.xyz CNAME .
 flrdra.com CNAME .
 fluencymister.com CNAME .
@@ -7793,6 +7801,7 @@ greatimprudencecuriosity.com CNAME .
 greatkneadsuburb.com CNAME .
 greatmentef.club CNAME .
 grecmaru.com CNAME .
+greeandjou.biz CNAME .
 greedrum.net CNAME .
 greedysafely.com CNAME .
 greekomythpo.com CNAME .
@@ -11846,6 +11855,7 @@ rmcxyfqbm.com CNAME .
 rmedessents.club CNAME .
 rmlehtrdzfyonb.com CNAME .
 rmqygg2zv24y.com CNAME .
+rnalismmin.biz CNAME .
 rndmusharnar.com CNAME .
 rndrx0rqwkb8.com CNAME .
 rndskittytor.com CNAME .
@@ -18435,6 +18445,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+analytics.fatmedia.io CNAME .
 facil-iti.com CNAME .
 api.all-internet.jp CNAME .
 p-analytics.life CNAME .
@@ -18472,7 +18483,7 @@ pubexchange.com CNAME .
 analytics.core.retell.cc CNAME .
 powerbiz.co CNAME .
 tag.search.sensefuel.live CNAME .
-api.dataunlocker.com CNAME .
+dataunlocker.com CNAME .
 microanalytics.io CNAME .
 tracking.sexcash.com CNAME .
 fastly-insights.com CNAME .
@@ -34051,6 +34062,7 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+cjgcedu.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36840,6 +36852,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+hfqjs.cn CNAME .
+wechatweb.com.cn CNAME .
+mingcidianzi162.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
