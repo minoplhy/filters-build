@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-21T06:03:56.689Z
+; Last modified: 2021-08-21T18:03:58.031Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+beach-trk.com CNAME .
 benfly.net CNAME .
 habeglee.net CNAME .
 besmeargleor.com CNAME .
@@ -4733,6 +4734,7 @@ befortugal.club CNAME .
 befriendcarawaycarbon.com CNAME .
 beginadvisor.com CNAME .
 beginnertonemerit.com CNAME .
+begrudgecorrespondence.com CNAME .
 begunprescription.com CNAME .
 behalfplead.com CNAME .
 behavingsali.club CNAME .
@@ -4993,6 +4995,7 @@ breadstringscrashed.com CNAME .
 breadthchip.com CNAME .
 breakfastsinew.com CNAME .
 breakingdeductrates.com CNAME .
+breakingrubber.com CNAME .
 breastfeedingdelightedtease.com CNAME .
 breastfeedingfabricadorable.com CNAME .
 breated.club CNAME .
@@ -5463,6 +5466,7 @@ classicalservicewaistcoat.com CNAME .
 classicalwide.com CNAME .
 classionreactice.info CNAME .
 classisingew.club CNAME .
+clausephotographer.com CNAME .
 clawtoiltaupe.com CNAME .
 claxonmedia.com CNAME .
 clbjmp.com CNAME .
@@ -5881,6 +5885,7 @@ crowdgravity.com CNAME .
 crptentry.com CNAME .
 crtracklink.com CNAME .
 crudestoctdra.cam CNAME .
+crushingacevex.com CNAME .
 crutchsnobcat.com CNAME .
 cryartarm.online CNAME .
 crypto-news-world.club CNAME .
@@ -5888,6 +5893,7 @@ crystalproducerhurried.com CNAME .
 cshkgktv.com CNAME .
 csiasvapqrccq.com CNAME .
 ctasnet.com CNAME .
+ctationsfthe.biz CNAME .
 ctdhylltfighs.com CNAME .
 ctiontouritysh.club CNAME .
 ctivesmuha.club CNAME .
@@ -5937,6 +5943,7 @@ cybertronads.com CNAME .
 cydissalcucu.club CNAME .
 cygnus.com CNAME .
 cyih0e43aty7.com CNAME .
+cyjaruvndimgaa.com CNAME .
 cymichaire.club CNAME .
 cyneburg-yam.com CNAME .
 cytrkxfzkxrjv.com CNAME .
@@ -6756,6 +6763,7 @@ embraceforgivingfrenzy.com CNAME .
 emediate.dk CNAME .
 ememoricane.info CNAME .
 emergedsocietytheft.com CNAME .
+emerodsours.cam CNAME .
 emjjmnrvlldj.com CNAME .
 emkarto.fun CNAME .
 emlifok.info CNAME .
@@ -6889,6 +6897,7 @@ eschoolchil.biz CNAME .
 escorterosion.com CNAME .
 escowledge.club CNAME .
 escriminimini.club CNAME .
+escrowyez.com CNAME .
 escy55gxubl6.com CNAME .
 esdipherecoordi.info CNAME .
 eseecmoa.com CNAME .
@@ -8315,6 +8324,7 @@ igvxnenqgu.com CNAME .
 ihjtrncfoha.com CNAME .
 iicheewi.com CNAME .
 iiprpq1bsedg.com CNAME .
+iiueuenutuhaf.com CNAME .
 iixecczxqzy.com CNAME .
 ijpheyydhw1a.com CNAME .
 ijsprocode.com CNAME .
@@ -12036,6 +12046,7 @@ saishait.net CNAME .
 saiveewe.net CNAME .
 sakefahlore.cam CNAME .
 sal4m649fke3.com CNAME .
+saladmosssalvage.com CNAME .
 saliencege.top CNAME .
 salinasbhut.com CNAME .
 sallyfundamental.com CNAME .
@@ -12205,6 +12216,7 @@ sgftrrs.com CNAME .
 sgswuesocfr.com CNAME .
 shadeslonesome.com CNAME .
 shadowlegends.pro CNAME .
+shaftalong.com CNAME .
 shaidolt.com CNAME .
 shaimsoo.net CNAME .
 shakensuspendsaxophone.com CNAME .
@@ -12606,6 +12618,7 @@ stawhoph.com CNAME .
 stdirection.com CNAME .
 steadilyhooray.com CNAME .
 steakyesembarrass.com CNAME .
+steamlightslaxative.com CNAME .
 steepto.com CNAME .
 stenosent.xyz CNAME .
 stepfatherparamedicthem.com CNAME .
@@ -13159,6 +13172,7 @@ trafiq.stream CNAME .
 trafiq.win CNAME .
 trafogon.com CNAME .
 trafyield.com CNAME .
+tragedygrowledtricky.com CNAME .
 traglencium.com CNAME .
 trainedgranddad.com CNAME .
 trainspersuasiveknitting.com CNAME .
@@ -13185,6 +13199,7 @@ trblocked.com CNAME .
 trc85.com CNAME .
 trccmpnlnk.com CNAME .
 treaturesfg.club CNAME .
+treeintentlytravel.com CNAME .
 trejar.com CNAME .
 trellian.com CNAME .
 tremblingkeyboardassistant.com CNAME .
@@ -13368,6 +13383,7 @@ unableincludingrow.com CNAME .
 unacceptableclevercapable.com CNAME .
 unattractivefrigilityfrigility.com CNAME .
 unclemaidenprecise.com CNAME .
+uncooleserine.cam CNAME .
 undayblogg.club CNAME .
 undedfracted.club CNAME .
 undercoverbatch.com CNAME .
@@ -13710,6 +13726,7 @@ vstaner.com CNAME .
 vsteepo.com CNAME .
 vstet.com CNAME .
 vstop3.com CNAME .
+vstreev.com CNAME .
 vstrot.com CNAME .
 vstwow.com CNAME .
 vsu2jbpvgx3m.com CNAME .
@@ -14081,6 +14098,7 @@ wxyn0o3xmora.com CNAME .
 wybutary.xyz CNAME .
 wynather.com CNAME .
 wypovuwu.pro CNAME .
+wysitewhe.com CNAME .
 wysoloneau.com CNAME .
 wysyshypti.pro CNAME .
 wz5y80ab60p5.com CNAME .
@@ -33178,9 +33196,9 @@ ys3e965d.top CNAME .
 ;
 ; Title: hostsVN
 ; Description: The filter contains ad and tracking networks in Vietnam.
-; Last modified: 18 Aug 2021 21:11 UTC+7
-; OriginalVersion: 2108182111
-; Blocked: 940 rules
+; Last modified: 21 Aug 2021 17:25 UTC+7
+; OriginalVersion: 2108211725
+; Blocked: 941 rules
 ; Expires: 1 days (update frequency)
 ; Homepage: https://bigdargon.github.io/hostsVN/
 ;
@@ -33706,6 +33724,7 @@ monitor.teko.vn CNAME .
 mto.cgv.vn CNAME .
 myharavan.com CNAME .
 mysapo.net CNAME .
+nct1.logging.nextsmarty.com CNAME .
 newlog.daidoanket.vn CNAME .
 nstat.headlines.pw CNAME .
 pixel.chotot.com CNAME .
@@ -34079,6 +34098,8 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+alivelivevideos.com CNAME .
+henanzhulongjx.com CNAME .
 tumeite.cn CNAME .
 dushiken.cn CNAME .
 00-gov.cn CNAME .
@@ -36130,6 +36151,7 @@ newad.mail.wo.cn CNAME rpz-passthru.
 5551895.com CNAME .
 wofjhs.com CNAME .
 xayah.date CNAME .
+img.0279.net CNAME .
 003store.com CNAME .
 1.01fy.cn CNAME .
 1.07swz.com CNAME .
@@ -36874,6 +36896,11 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+tongwanjy.cn CNAME .
+v-vlog.cn CNAME .
+vb7ojn.cn CNAME .
+zncat.cn CNAME .
+jygtlqh.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .

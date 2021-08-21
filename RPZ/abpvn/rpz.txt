@@ -1,7 +1,7 @@
 ;Android host file - Adaway
 ;
 ; Title: ABPVN List
-; Updated: 18 Aug 2021 21:11 UTC+7
+; Updated: 21 Aug 2021 17:25 UTC+7
 ; License: ABPVN
 ; Please report any unblocked ads or problems by email or in our forums
 ; Email: support@abpvn.com
@@ -4764,13 +4764,6 @@ c.pub.network CNAME .
 d.pub.network CNAME .
 prebid.pub.network CNAME .
 pub.network CNAME .
-;[disqus]
-glitter.services.disqus.com CNAME .
-juggler.services.disqus.com CNAME .
-links.services.disqus.com CNAME .
-realtime.services.disqus.com CNAME .
-referrer.disqus.com CNAME .
-tempest.services.disqus.com CNAME .
 ;[adspruce.com]
 adspruce.com CNAME .
 ani.adspruce.com CNAME .
@@ -8537,22 +8530,6 @@ tessera.ad.daum.net CNAME .
 vads-api.ad.daum.net CNAME .
 wat.ad.daum.net CNAME .
 webid.ad.daum.net CNAME .
-;[nextsmarty.com]
-ci.nextsmarty.com CNAME .
-demo.nextsmarty.com CNAME .
-fin1.logging.nextsmarty.com CNAME .
-fin2.logging.nextsmarty.com CNAME .
-glamira.nextsmarty.com CNAME .
-git.nextsmarty.com CNAME .
-jira.nextsmarty.com CNAME .
-logs.nextsmarty.com CNAME .
-minty.nextsmarty.com CNAME .
-monitor.nextsmarty.com CNAME .
-monitor2.nextsmarty.com CNAME .
-nct1.logging.nextsmarty.com CNAME .
-nct2.logging.nextsmarty.com CNAME .
-nextsmarty.com CNAME .
-www.nextsmarty.com CNAME .
 ;[runative.com]
 admin.runative.com CNAME .
 api.runative.com CNAME .
@@ -16141,6 +16118,7 @@ monitor.teko.vn CNAME .
 mto.cgv.vn CNAME .
 myharavan.com CNAME .
 mysapo.net CNAME .
+nct1.logging.nextsmarty.com CNAME .
 newlog.daidoanket.vn CNAME .
 nstat.headlines.pw CNAME .
 pixel.chotot.com CNAME .
@@ -17500,6 +17478,7 @@ boersego-ads.de CNAME .
 boilingbeetle.com CNAME .
 boilingumbrella.com CNAME .
 boldchat.com CNAME .
+bookmtpo.com CNAME .
 boom.ro CNAME .
 boomads.com CNAME .
 boost-my-pr.de CNAME .
@@ -18133,6 +18112,7 @@ finkyepbows.com CNAME .
 firstlightera.com CNAME .
 fistofzeus.com CNAME .
 fixsirrod.site CNAME .
+fizrnews.com CNAME .
 flakyfeast.com CNAME .
 fleshlightcash.com CNAME .
 flexbanner.com CNAME .
@@ -18622,6 +18602,7 @@ lucidmedia.com CNAME .
 lucklayed.info CNAME .
 lumpyleaf.com CNAME .
 lunarads.com CNAME .
+lvyabgbohlv.com CNAME .
 lytics.io CNAME .
 lzjl.com CNAME .
 m.trb.com CNAME .
@@ -18654,6 +18635,7 @@ marketing.nyi.net CNAME .
 marketing.osijek031.com CNAME .
 marketo.net CNAME .
 marketron.com CNAME .
+markmansonbooklst.com CNAME .
 markofathenaluk.com CNAME .
 maroonspider.com CNAME .
 mas.sector.sk CNAME .
@@ -18881,6 +18863,7 @@ newnudecash.com CNAME .
 newonads.com CNAME .
 newopenx.detik.com CNAME .
 newsforyoy.com CNAME .
+newsocko.com CNAME .
 newstarads.com CNAME .
 newt1.adultadworld.com CNAME .
 newt1.adultworld.com CNAME .
@@ -18951,6 +18934,7 @@ on-mobi.com CNAME .
 oncerensky.cam CNAME .
 onclasrv.com CNAME .
 onclickads.net CNAME .
+onclickalgo.com CNAME .
 onclickmega.com CNAME .
 onclicksuper.com CNAME .
 oneandonlynetwork.com CNAME .
@@ -19049,6 +19033,7 @@ pc2ads.com CNAME .
 pcash.imlive.com CNAME .
 pcmclk.com CNAME .
 pcteast.com CNAME .
+pdxgfnnoan.com CNAME .
 peacepowder.com CNAME .
 pebadu.com CNAME .
 peep-auktion.de CNAME .
@@ -19160,6 +19145,7 @@ premiumvertising.com CNAME .
 presbanise.pw CNAME .
 preservemountain.com CNAME .
 presetrabbits.com CNAME .
+pressingmiscellaneoustry.com CNAME .
 previousplayground.com CNAME .
 previouspotato.com CNAME .
 prfwpclck.com CNAME .
@@ -19403,6 +19389,7 @@ s2d6.com CNAME .
 sageanalyst.net CNAME .
 saggrowledetc.com CNAME .
 sailif.com CNAME .
+saltinourhairtv.com CNAME .
 samsungacr.com CNAME .
 samsungads.com CNAME .
 sandsitedrhec.club CNAME .
@@ -19948,6 +19935,7 @@ valuedopinions.co.uk CNAME .
 valuesponsor.com CNAME .
 vanfireworks.com CNAME .
 variablefitness.com CNAME .
+varietyofdisplayformats.com CNAME .
 vasgenerete.site CNAME .
 vattingbalak.com CNAME .
 vebadu.com CNAME .
@@ -20131,6 +20119,7 @@ www.beharmalted.info CNAME .
 www.binary1.website CNAME .
 www.binarymoney.site CNAME .
 www.blockadsnot.com CNAME .
+www.bookmtpo.com CNAME .
 www.catchandfatch.bid CNAME .
 www.cd-ads.com CNAME .
 www.cdn4ads.com CNAME .
@@ -20155,6 +20144,7 @@ www.epi0tzwi.com CNAME .
 www.fbcdn2.com CNAME .
 www.fdbtvavxtfvpbx.com CNAME .
 www.find-my-great-life.com CNAME .
+www.fizrnews.com CNAME .
 www.fm6dz864.top CNAME .
 www.galaksion.com CNAME .
 www.geniusdexchange.com CNAME .
@@ -20182,6 +20172,8 @@ www.kiolim.com CNAME .
 www.kqzyfj.com CNAME .
 www.lecap-services.fr CNAME .
 www.lightboxcdn.com CNAME .
+www.lvyabgbohlv.com CNAME .
+www.markmansonbooklst.com CNAME .
 www.maxgid.com CNAME .
 www.maxonclick.com CNAME .
 www.mczahprdql.com CNAME .
@@ -20191,21 +20183,25 @@ www.mobzeg.com CNAME .
 www.money4exit.de CNAME .
 www.moneymakercdn.com CNAME .
 www.myadsystem.com CNAME .
+www.newsocko.com CNAME .
 www.ninkorant.online CNAME .
 www.noisysortcasualty.com CNAME .
 www.ntvsw.com CNAME .
 www.olkrzytv.com CNAME .
+www.onclickalgo.com CNAME .
 www.onclickmega.com CNAME .
 www.onclicksuper.com CNAME .
 www.oriori.com CNAME .
 www.ovlliiwtxgjlz.com CNAME .
 www.pcmclk.com CNAME .
 www.pcteast.com CNAME .
+www.pdxgfnnoan.com CNAME .
 www.performanceadexchange.com CNAME .
 www.phoossax.net CNAME .
 www.photo-ads.co.uk CNAME .
 www.powerad.ai CNAME .
 www.premiumvertising.com CNAME .
+www.pressingmiscellaneoustry.com CNAME .
 www.pro-ads.club CNAME .
 www.propu.sh CNAME .
 www.prownl.com CNAME .
@@ -20213,6 +20209,7 @@ www.push-notifications.top CNAME .
 www.rmcxyfqbm.com CNAME .
 www.routeserve.info CNAME .
 www.rvedfxeljxo.com CNAME .
+www.saltinourhairtv.com CNAME .
 www.servsave.com CNAME .
 www.shndrktrk.com CNAME .
 www.sqhneencmysrk.com CNAME .
@@ -20230,6 +20227,7 @@ www.umiyyusldc.com CNAME .
 www.unmortalloose.com CNAME .
 www.uyunad.com CNAME .
 www.uzxkuwalnjp.com CNAME .
+www.varietyofdisplayformats.com CNAME .
 www.velocitycdn.com CNAME .
 www.vidcpm.com CNAME .
 www.videosprofitnetwork.com CNAME .
@@ -20239,6 +20237,7 @@ www.whsepelmrnz.com CNAME .
 www.xadsmart.com CNAME .
 www.xpbbyiqbcawamy.com CNAME .
 www.ylicxdkgkvfc.com CNAME .
+www.yourbestheal.com CNAME .
 www.zap.buzz CNAME .
 www.zarpop.com CNAME .
 www.zdaptrksg.com CNAME .
@@ -20298,6 +20297,7 @@ yoggrt.com CNAME .
 yoptaejrj2kkf8nj09.com CNAME .
 yougotacheck.com CNAME .
 youradexchange.com CNAME .
+yourbestheal.com CNAME .
 ytimm.com CNAME .
 yuilop.com CNAME .
 yume.com CNAME .
@@ -20678,6 +20678,7 @@ reachmax.cn CNAME .
 redinvestor.com CNAME .
 redretarget.com CNAME .
 referer.pixplug.in CNAME .
+referrer.disqus.com CNAME .
 remyyadan.online.fr CNAME .
 reports.crashlytics.com CNAME .
 reports.ubimo.com CNAME .
@@ -20848,6 +20849,7 @@ www.vdtrack.com CNAME .
 www.w3counter.com CNAME .
 www.weigezhiyao.com CNAME .
 wzrkt.com CNAME .
+x.disq.us CNAME .
 xlog.hiido.com CNAME .
 ylog.hiido.com CNAME .
 ylog.huya.com CNAME .
