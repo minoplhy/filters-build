@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-23T06:05:32.207Z
+; Last modified: 2021-08-23T18:05:06.268Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+scrapebust.com CNAME .
 beach-trk.com CNAME .
 benfly.net CNAME .
 habeglee.net CNAME .
@@ -4111,6 +4112,7 @@ agpiysffnuld.com CNAME .
 agrarianeruption.com CNAME .
 agriculturaltherapist.com CNAME .
 agukalty.net CNAME .
+agurgeed.net CNAME .
 agzfxovg.com CNAME .
 ahadsply.com CNAME .
 ahaumplab.com CNAME .
@@ -4761,6 +4763,7 @@ bemusic.xyz CNAME .
 beneathdangerously.com CNAME .
 benignrescuemistletoe.com CNAME .
 benonblkd.xyz CNAME .
+benoopto.com CNAME .
 beonixom.com CNAME .
 berningbegi.club CNAME .
 berryborrowing.com CNAME .
@@ -5326,6 +5329,7 @@ chainwalladsy.com CNAME .
 chaireprove.club CNAME .
 chairwaydenew.site CNAME .
 chaiseviscountsturgeon.com CNAME .
+chaissoo.com CNAME .
 chalkedapplaudincident.com CNAME .
 challengedeprave.com CNAME .
 chameleon.ad CNAME .
@@ -5916,6 +5920,7 @@ cttghjfhsw.com CNAME .
 ctureperform.info CNAME .
 cubics.com CNAME .
 cuckooretire.com CNAME .
+cuculf.name CNAME .
 cucumbersdespitebristle.com CNAME .
 cueyetwee.site CNAME .
 cularbernatio.club CNAME .
@@ -7177,6 +7182,7 @@ fearlessmigrantstate.com CNAME .
 fearpeaceoversight.com CNAME .
 fearsomeclients.com CNAME .
 feastoffortuna.com CNAME .
+featwombknockout.com CNAME .
 febjroxjgzx.com CNAME .
 fedsit.com CNAME .
 fee515f1fa1f.com CNAME .
@@ -7766,6 +7772,7 @@ goo2anywhere.com CNAME .
 goo4anywhere.com CNAME .
 goofypismica.com CNAME .
 googlesierai.xyz CNAME .
+goostist.com CNAME .
 gopejk.com CNAME .
 gophykopta.com CNAME .
 goredi.com CNAME .
@@ -9379,6 +9386,7 @@ marateathe.cam CNAME .
 marbil24.co.za CNAME .
 marchedcredulity.com CNAME .
 marerajahcopied.com CNAME .
+marezzocorke.cam CNAME .
 margarinedifferencequick.com CNAME .
 margaritabusiness.com CNAME .
 marial.pro CNAME .
@@ -10013,6 +10021,7 @@ ncydissalc.club CNAME .
 ndecpynmkwqjz.com CNAME .
 ndenlende.club CNAME .
 ndha4sding6gf.com CNAME .
+ndiampartic.biz CNAME .
 ndihjiyeo.com CNAME .
 ndikvccwz.com CNAME .
 ndincreateds.club CNAME .
@@ -10303,6 +10312,7 @@ nvrblk.xyz CNAME .
 nvwqqlroj.com CNAME .
 nvysyzemuvac.com CNAME .
 nwliko.com CNAME .
+nwpctbgbyqu.com CNAME .
 nwqlxtlfi.com CNAME .
 nxcxithvcoeh.com CNAME .
 nxpectsecti.fun CNAME .
@@ -13407,6 +13417,7 @@ ukfpgaeihxamg.com CNAME .
 ukgkugxpzqvqk.com CNAME .
 ukslphcgs.com CNAME .
 ul8seok7w5al.com CNAME .
+ularlyinteres.biz CNAME .
 ulcerselfservice.com CNAME .
 ulngtppm.com CNAME .
 uluswozzel.info CNAME .
@@ -14331,6 +14342,7 @@ yirishedspe.info CNAME .
 yiuilserianaus.club CNAME .
 yjaobumyovp.com CNAME .
 yjyjnolllezo.com CNAME .
+ykcoijcfpzda.com CNAME .
 ykrssqaufg.com CNAME .
 yldbt.com CNAME .
 yldmgrimg.net CNAME .
@@ -18512,6 +18524,9 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+counter.kikibobo.top CNAME .
+c1.politexpert.ru CNAME .
+logrocket.com CNAME .
 ipmeta.io CNAME .
 datasign.co CNAME .
 analytics.daasrv.net CNAME .
@@ -18537,7 +18552,6 @@ tm.jsuol.com.br CNAME .
 cptrack.de CNAME .
 simility.com CNAME .
 recs.richrelevance.com CNAME .
-analytics.sqreem.com CNAME .
 iper2.com CNAME .
 dc.banggood.com CNAME .
 p.kolplay.com CNAME .
@@ -19055,6 +19069,7 @@ monetate.net CNAME .
 sitelabweb.com CNAME .
 betohomeall.com CNAME .
 mc.yandex.ru CNAME .
+mc.yandex.com CNAME .
 track.segmentstream.com CNAME .
 vboro.de CNAME .
 barddfvgkhctch11.ru CNAME .
@@ -23071,6 +23086,7 @@ p.gazeta.pl CNAME .
 st.dynamicyield.com CNAME .
 log.outbrainimg.com CNAME .
 analytics-udg.netdna-ssl.com CNAME .
+collecte.audience.acpm.fr CNAME .
 stats.otempo.com.br CNAME .
 banstat.nadavi.net CNAME .
 pixel.4players.de$important CNAME .
@@ -25081,7 +25097,6 @@ livetrafficfeed.com CNAME .
 locotrack.net CNAME .
 loginhood.io CNAME .
 logmatic.io CNAME .
-logrocket.com CNAME .
 logrocket.io CNAME .
 loopa.net.au CNAME .
 lr-ingest.io CNAME .
@@ -27083,7 +27098,6 @@ affiliation.planethoster.info CNAME .
 analytics.freespee.com CNAME .
 analytics.ladmedia.fr CNAME .
 analytics.valiuz.com CNAME .
-audience.acpm.fr CNAME .
 bbtrack.net CNAME .
 btstats.devtribu.fr CNAME .
 calotag.com CNAME .
@@ -27231,7 +27245,6 @@ tracking.trovaprezzi.it CNAME .
 tracks.arubamediamarketing.it CNAME .
 vppst.iltrovatore.it CNAME .
 ad-beacon-v01.uliza.jp CNAME .
-analysis.shinobi.jp CNAME .
 analytics.liveact.cri-mw.jp CNAME .
 analyzer51.fc2.com CNAME .
 bvr.ast.snva.jp CNAME .
@@ -27498,6 +27511,7 @@ yestorrents.org CNAME .
 ;
 ; Содержит доменные имена, использующиеся рекламными сетями.
 ;
+poptyto.ru CNAME .
 xhzspi.com CNAME .
 qq86tbqodk.ru CNAME .
 ljknem.com CNAME .
@@ -31842,6 +31856,7 @@ toprustory.ru CNAME .
 ; Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/TurkishFilter/sections/adservers.txt
 ;
 ;
+aj2373.online CNAME .
 kuzeyinyeri.site CNAME .
 supertotobet736.com CNAME .
 youtubex.top CNAME .
@@ -34146,6 +34161,9 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
+hylmxing.com CNAME .
+govkunming.cn CNAME .
+3338651.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -36950,6 +36968,9 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
+lecuiwangluo.com CNAME .
+panruo.net.cn CNAME .
+lygryd.cn CNAME .
 yanglangkk.cn CNAME .
 woaiseo.com.cn CNAME .
 fxtckg.cn CNAME .
