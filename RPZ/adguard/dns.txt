@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-23T18:05:06.268Z
+; Last modified: 2021-08-24T00:16:28.435Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -19,6 +19,7 @@
 ;
 ;; https://a.bestcontentitem.top/warp/*?r=
 ;
+xmorex.com CNAME .
 scrapebust.com CNAME .
 beach-trk.com CNAME .
 benfly.net CNAME .
@@ -18524,6 +18525,7 @@ log.snssdk.com CNAME .
 ;i.snssdk.com/log/*
 ;i.snssdk.com/slardar/sdk.js
 ;
+sanity-dataplane.rudderstack.com CNAME .
 counter.kikibobo.top CNAME .
 c1.politexpert.ru CNAME .
 logrocket.com CNAME .
@@ -32207,6 +32209,7 @@ adimpkwd.excite.co.jp CNAME .
 ; Eimg.jp
 adingo.jp.eimg.jp CNAME .
 ;
+zastag.com CNAME .
 adcent.jp CNAME .
 pokoran.com CNAME .
 world-ad.jp CNAME .
@@ -34161,9 +34164,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-hylmxing.com CNAME .
-govkunming.cn CNAME .
-3338651.com CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34256,6 +34256,7 @@ govkunming.cn CNAME .
 3337739.com CNAME .
 3337765.com CNAME .
 3337781.com CNAME .
+3338651.com CNAME .
 3338676.com CNAME .
 3338863.com CNAME .
 3338877.com CNAME .
@@ -34798,6 +34799,7 @@ govgift.com CNAME .
 govguilin.cn CNAME .
 govhunan.cn CNAME .
 govjiangsu.cn CNAME .
+govkunming.cn CNAME .
 govshenzhen.cn CNAME .
 govxian.cn CNAME .
 gowin01.com CNAME .
@@ -34922,6 +34924,7 @@ hxssj.cn CNAME .
 hxtwl.cn CNAME .
 hxyifu.com CNAME .
 hxyx360.com CNAME .
+hylmxing.com CNAME .
 hylyl.club CNAME .
 hysjm.cn CNAME .
 hytgj.com CNAME .
@@ -36968,12 +36971,8 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-lecuiwangluo.com CNAME .
-panruo.net.cn CNAME .
-lygryd.cn CNAME .
-yanglangkk.cn CNAME .
-woaiseo.com.cn CNAME .
-fxtckg.cn CNAME .
+hualongyichuangkj.com CNAME .
+guanxingyule.com CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37615,6 +37614,7 @@ fw.zhuaji.org CNAME .
 fwnetrb.cn CNAME .
 fwyang.com CNAME .
 fxfhjs.com CNAME .
+fxtckg.cn CNAME .
 fy4zb.cn CNAME .
 fyjyhm.com CNAME .
 fyvvm.com CNAME .
@@ -38057,6 +38057,7 @@ lanzuankeji.cn CNAME .
 lawumi.cn CNAME .
 lcrmm.top CNAME .
 le258.cn CNAME .
+lecuiwangluo.com CNAME .
 ledaren.cn CNAME .
 legozu.com CNAME .
 leixigroup.com CNAME .
@@ -38134,6 +38135,7 @@ lxhjaq.cn CNAME .
 ly2si17.cn CNAME .
 ly5200.cn CNAME .
 lyczhb.com CNAME .
+lygryd.cn CNAME .
 lyjz001.com CNAME .
 lylifa.com CNAME .
 lynmo.cn CNAME .
@@ -38303,6 +38305,7 @@ oycslia.xyz CNAME .
 oycslib.xyz CNAME .
 oycslic.xyz CNAME .
 oyknmi.cn CNAME .
+panruo.net.cn CNAME .
 panwenjun.top CNAME .
 pbbgfsm.cn CNAME .
 pbtxt.win CNAME .
@@ -38785,6 +38788,7 @@ wmbuilr.cn CNAME .
 wmk0099.xyz CNAME .
 wnsoth.cn CNAME .
 wo1990.com CNAME .
+woaiseo.com.cn CNAME .
 wokekk.com CNAME .
 workbizs.com CNAME .
 woshiyunying.com CNAME .
@@ -38904,6 +38908,7 @@ yajiuwz.xyz CNAME .
 yakuya.cn CNAME .
 yamahahb.com CNAME .
 yanbenji.cn CNAME .
+yanglangkk.cn CNAME .
 yangtingchina.com CNAME .
 yangtzeev.com CNAME .
 yangzhenpeng.top CNAME .
