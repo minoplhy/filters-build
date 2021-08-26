@@ -4,7 +4,7 @@
 ; Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ; Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
 ; License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
-; Last modified: 2021-08-25T18:04:16.380Z
+; Last modified: 2021-08-26T00:15:24.372Z
 ;
 ; Compiled by @adguard/hostlist-compiler v1.0.12
 ;
@@ -34251,12 +34251,6 @@ wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me CNAME .
 ; Source name: EasyList China ad servers
 ; Source: https://easylist-downloads.adblockplus.org/easylistchina.txt
 ;
-netcoretech.net CNAME .
-coinever.net CNAME .
-hbuweb.net CNAME .
-pagetest.top CNAME .
-lctcw.top CNAME .
-sportsdream.top CNAME .
 00-gov.cn CNAME .
 0024aaaa.com CNAME .
 008844.cc CNAME .
@@ -34683,6 +34677,7 @@ cnxad.net CNAME .
 cnzz.com.so CNAME .
 code222.com CNAME .
 code668.com CNAME .
+coinever.net CNAME .
 coolbook.cc CNAME .
 coolfenxi.com CNAME .
 cpro.baidustatic.com CNAME .
@@ -34948,6 +34943,7 @@ hbhnwy.com CNAME .
 hbhtbn.com CNAME .
 hblinwei.com CNAME .
 hbssjd.cn CNAME .
+hbuweb.net CNAME .
 hbyingchang.cn CNAME .
 hbzhenquan.cn CNAME .
 hcwljy.com CNAME .
@@ -35194,6 +35190,7 @@ laobei.top CNAME .
 laolinow.com CNAME .
 laoliulaoliu.com CNAME .
 lc442.com CNAME .
+lctcw.top CNAME .
 le4le.com CNAME .
 leeleo.top CNAME .
 lehutv6.com CNAME .
@@ -35311,6 +35308,7 @@ nbhxgjz.com CNAME .
 nbzq.net CNAME .
 nchte.com CNAME .
 ndtzx.com CNAME .
+netcoretech.net CNAME .
 newyiba.top CNAME .
 ni87.com CNAME .
 niubiba.com CNAME .
@@ -35360,6 +35358,7 @@ ot.jizy.cn CNAME .
 oumazg.com CNAME .
 overlordtea.cn CNAME .
 p3tt.com CNAME .
+pagetest.top CNAME .
 panel-cn.com CNAME .
 papa999.xyz CNAME .
 parisianmacao.bet CNAME .
@@ -35376,6 +35375,7 @@ pingping888.com CNAME .
 pinwu123.com CNAME .
 pinyierp.com CNAME .
 pinyoux.com CNAME .
+pitudashen.top CNAME .
 pjtymy.cn CNAME .
 pk965.com CNAME .
 pl8la42.cn CNAME .
@@ -35534,6 +35534,7 @@ soulplp.com CNAME .
 sparkyinchun.com CNAME .
 spcode.baidu.com CNAME .
 spectram.pro CNAME .
+sportsdream.top CNAME .
 spxnet.com CNAME .
 sq85.press CNAME .
 sqext.com CNAME .
@@ -37070,10 +37071,10 @@ ggtg8.com CNAME .
 runkao.net CNAME .
 stunninglover.com CNAME .
 watakaw133.xyz CNAME .
-zd2020.top CNAME .
-furenyanfa.cn CNAME .
-lygrydwz.cn CNAME .
-leslieyu.com.cn CNAME .
+bxmuvw.cn CNAME .
+lygrydwz.net.cn CNAME .
+hdxxaq.cn CNAME .
+tutese.com.cn CNAME .
 01tn.cn CNAME .
 027whht.com CNAME .
 0511qsfhknvz.xyz CNAME .
@@ -37715,6 +37716,7 @@ fuhaimuye.cn CNAME .
 fuligrs.cn CNAME .
 funnyweb.fun CNAME .
 fuqifyb.xyz CNAME .
+furenyanfa.cn CNAME .
 futengbao.com.cn CNAME .
 fuxin-tech.com CNAME .
 fw.zhuaji.org CNAME .
@@ -38174,6 +38176,7 @@ lejuyoujia2019.com CNAME .
 lepaidaren.com CNAME .
 lerenzx.cn CNAME .
 lesanmo.top CNAME .
+leslieyu.com.cn CNAME .
 lexph.com CNAME .
 leyxue.cn CNAME .
 lezengxin.com CNAME .
@@ -38247,6 +38250,7 @@ ly2si17.cn CNAME .
 ly5200.cn CNAME .
 lyczhb.com CNAME .
 lygryd.cn CNAME .
+lygrydwz.cn CNAME .
 lyjz001.com CNAME .
 lylifa.com CNAME .
 lynmo.cn CNAME .
@@ -39146,6 +39150,7 @@ zbqmsc.com CNAME .
 zc710956.top CNAME .
 zcand.com CNAME .
 zchange.xyz CNAME .
+zd2020.top CNAME .
 zdovrb.cn CNAME .
 zdryg.com CNAME .
 zenwq.com CNAME .
