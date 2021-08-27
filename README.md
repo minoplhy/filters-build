@@ -1,3 +1,5 @@
+# Deprecated Please Point to minoplhy/filters Instead
+
 # filters-build
 This Github Repository is for Filters building from all my adblock project
 
